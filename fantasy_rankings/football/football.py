@@ -1,4 +1,10 @@
 from enum import Enum
+from datetime import datetime
+import pandas as pd
+from os.path import abspath, dirname, join
+from jinja2 import Template, Environment
+from ..templates.markdown import hyperlink
+from collections import defaultdict
 
 
 class Division(Enum):
@@ -15,6 +21,15 @@ class Division(Enum):
     '''String name for the division'''
     __str__ = lambda x: " ".join(x.name.split("_"))
 
+
+class FantasyLeagueScoring(Enum):
+    '''Type of scoring used for Fantasy Football League
+    
+    Custom scoring types are unsupported
+    '''
+    STD = 1
+    HALF_PPR = 2
+    PPR = 3
 
 
 class NFLTeam:
@@ -75,42 +90,65 @@ class FFPlayer:
     class that will contain the basics such as team, rank,
     and position. 
     '''
-    
-    def __init__(self, htmlStr):
-        self.rank: int = -1
-        self.position: str = None
-        self.name: str = None
-        self.teamCode: str = None
-
-        self.parse(htmlStr)
-        
-    def parse(self, htmlStr):
-        '''Parse the data from the original HTML stream 
-        obtained from the pulled source. For more information about
-        the source see `webpage` below.
-        '''
-        splitHTML = [x for x in htmlStr.split(" ") if x]
-        self.rank = int(float(splitHTML[0]))
-        self.name = " ".join(splitHTML[1:len(splitHTML)-1])
-
-        splitTeamAndPos = splitHTML[len(splitHTML)-1].split("-")
-        self.position = splitTeamAndPos[0]
-        if len(splitTeamAndPos) > 1:
-            self.teamCode = splitTeamAndPos[1]
+    def __init__(self, name, rank, position, teamCode=None):
+        self.rank: int = rank
+        self.position: str = position
+        self.name: str = name
+        self.teamCode: str = teamCode
+        self.link: str = None
+        self.positionRank: int = None
 
     def to_json(self):
-        return {"Overall Rank": self.rank, "Player": self.name, "Position": self.position, "Team": self.teamCode}
+        data = {"Overall Rank": self.rank, "Player": self.name, "Position": self.position}
+        if self.teamCode:
+            data["Team"] = self.teamCode 
             
+        return data
+    
     def __str__(self):
         '''String representation of the instance'''
-        return f"{self.rank}. {self.name} {self.position}-{self.teamCode}"
+        if self.teamCode:
+            return f"{self.rank}. {self.name} {self.position}-{self.teamCode}"
+        return f"{self.rank}. {self.name} {self.position}"
+
+
+def FFPlayerAsMarkdown(player):
+    '''Convert player information to Markdown text
+    '''
+    if player.link is not None:
+        if player.teamCode:
+            return f"{player.rank}. {hyperlink(player.name, player.link)} {player.position}-{player.teamCode}"
+        return f"{player.rank}. {hyperlink(player.name, player.link)} {player.position}"
+    return str(player)
+
+
+def FFPlayerAsMarkdownTable(player):
+    '''Conver player information into a table entry'''
+    
+    
 
 
 class FFRankings:
     '''Base class for Fantasy Football Rankings'''
 
-    def __init__(self, outputFile):
-        self.rankedPlayers = []
+    def __init__(self, source, outputFile):
+        self.title = f"## {source} Fantasy Football Draft Rankings"
+        self.description = f'''
+The data contained in this file is the result of scraping fantasy football draft ranking information
+from {source} on {datetime.now().month}/{datetime.now().day}/{datetime.now().year}. 
+        
+All information contained in this file should be utilized with caution as the rankings may change
+at the discretion of Fantasy Pros. Information is only considered valid at the time that the 
+information is scraped. 
+        '''
+        self.rankedPlayers = defaultdict(list)
+        self._outputFilePrefix = outputFile
+        
+        self.rankingEndpoints = {
+            FantasyLeagueScoring.STD: None,
+            FantasyLeagueScoring.HALF_PPR: None,
+            FantasyLeagueScoring.PPR: None
+        }
         
         self.xlsxFilename = f"{outputFile}.xlsx"
         self.mdFilename   = f"{outputFile}.md"
@@ -126,24 +164,36 @@ class FFRankings:
         
     def saveAsXlsx(self):
         '''Save the curent data to an xlsx file'''
-        jsonData = []
-        for playerData in playerDataList:
-            jsonData.append(playerData.to_json())
+        
+        for scoringType, players in self.rankedPlayers.items():
+            
+            filename = self._outputFilePrefix + "_" + scoringType.name + ".xlsx"
+                    
+            jsonData = []
+            for playerData in players:
+                jsonData.append(playerData.to_json())
 
-        df = pd.DataFrame(jsonData)
-        sheetName = "FantasyRankings"
+            df = pd.DataFrame(jsonData)
+            sheetName = "FantasyRankings"
 
-        writer = pd.ExcelWriter(self.xlsxFilename, engine='xlsxwriter')
-        df.to_excel(writer, sheet_name=sheetName, index=False)
+            writer = pd.ExcelWriter(filename, engine='xlsxwriter')
+            df.to_excel(writer, sheet_name=sheetName, index=False)
+            
+            workbook  = writer.book
+            worksheet = writer.sheets[sheetName]
 
-	workbook  = writer.book
-        worksheet = writer.sheets[sheetName]
+            (max_row, max_col) = df.shape
+            worksheet.set_column(0,  max_col - 1, 12)
+            worksheet.autofilter(0, 0, max_row, max_col - 1)
 
-        (max_row, max_col) = df.shape
-        worksheet.set_column(0,  max_col - 1, 12)
-        worksheet.autofilter(0, 0, max_row, max_col - 1)
+            writer.save()
 
-        writer.save()
+    def mdBody(self):
+        raise NotImplementedError("FFRankings does not implement mdBody")
 
     def saveAsMarkdown(self):
         '''Save the current data to a markdown file'''
+        output = self.title + "\n\n" + self.description + "\n\n" + self.mdBody()
+        
+        with open(self.mdFilename, "w") as mdFile:
+            mdFile.write(output)
