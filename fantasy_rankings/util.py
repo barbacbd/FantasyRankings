@@ -1,5 +1,4 @@
 
-
 def hyperlink(name, link=None) -> str:
     '''Generate a markdown external link based on the information provided.
     If the link is None, then the name is provided as plain text.

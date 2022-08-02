@@ -1,1 +1,1 @@
-include *.j2
+include fantasy_rankings/templates/*.template
