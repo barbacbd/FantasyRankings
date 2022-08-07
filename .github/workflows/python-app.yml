@@ -3,8 +3,6 @@ name: "Fantasy Football"
 on:
   push:
     branches: [ "ci-test" ]
-  pull_request:
-    branches: [ "main" ]
   schedule:
   - cron: "0 12 * * *"
 
@@ -19,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        ref: ${{ github.head_ref }}
+        # ref: ${{ github.head_ref }}
         token: ${{ secrets.CI_TOKEN }}
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
