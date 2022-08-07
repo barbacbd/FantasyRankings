@@ -155,7 +155,7 @@ class FantasyProsFootball(FFRankings):
             for link in mdFileLinks:
                 _file.write(f"{link}\n")
             _file.write("\n### Spreadsheet\n\n")
-            _file.write(f"- [{self.name}]({self.outputFilePrefix}.xlsx)")
+            _file.write(f"- [{self.source}]({self.outputFilePrefix}.xlsx)")
         
         return {
             "base": self.outputFilePrefix+ ".md",
