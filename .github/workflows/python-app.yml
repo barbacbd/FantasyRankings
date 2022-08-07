@@ -35,7 +35,7 @@ jobs:
         mkdir /home/runner/.ssh
 
         # add the private key for use
-        echo ${{ secrets.SSH_PRIVATE_KEY }} >> /home/runner/.ssh/id_rsa
+        echo ${{ secrets.SSH_PRIVATE_KEY }} > /home/runner/.ssh/id_rsa
 
         # Add github to the known hosts
         ssh-keyscan -t rsa github.com >> /home/runner/.ssh/known_hosts
