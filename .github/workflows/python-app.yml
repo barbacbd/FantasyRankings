@@ -2,14 +2,12 @@ name: "Fantasy Football"
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches: [ "ci-test" ]
   schedule:
   - cron: "0 12 * * *"
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
@@ -31,7 +29,15 @@ jobs:
     - name: Install Project and Applications
       run: |
         python -m pip install . --upgrade
+
+    - name: Setup Git
+      run: |
+        git config --global user.name "Brent Barbachem"
+        git config --global user.email "barbacbd@dukes.jmu.edu"
+
     - name: Execute the Applications
+      env:
+        token: ${{ secrets.CI_TOKEN }}
       run: |
         cd docs;
 
@@ -44,9 +50,12 @@ jobs:
         # Move the altered readme to the main page
         mv README.md ..
 
-    - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "[Automated Commit]: Updating fantasy football information."
-        commit_user_name: Brent Barbachem
-        commit_user_email: barbacbd@dukes.jmu.edu
-        commit_author: Brent Barbachem <barbacbd@dukes.jmu.edu>
+        cd ..;
+        git add README.md
+        git add docs
+
+        git commit -m "[Automated Commit]: Updating fantasy football information."
+
+        git remote set-url --push origin https://barbacbd:$token@github.com/barbacbd/FantasyRankings
+
+        git push --force

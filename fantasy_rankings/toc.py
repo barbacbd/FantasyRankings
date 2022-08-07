@@ -18,7 +18,7 @@ def readJsonAddToReadme():
         sportsData += f"## {sport}\n\n"
         
         for source, sourceData in sportData.items():
-            sportsData += f'- [{source}]({sourceData["markdown"]["base"]})'
+            sportsData += f'- [{source}](./docs/{sourceData["markdown"]["base"]})'
 
         # Add extra space for each sport 
         sportsData += "\n\n"
