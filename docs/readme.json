@@ -1,0 +1,15 @@
+{
+    "football": {
+        "Fantasy Pros": {
+            "spreadsheets": "FantasyProsFootballDraft.xlsx",
+            "markdown": {
+                "base": "FantasyProsFootballDraft.md",
+                "children": [
+                    "FantasyProsFootballDraftSTD.md",
+                    "FantasyProsFootballDraftHALF_PPR.md",
+                    "FantasyProsFootballDraftPPR.md"
+                ]
+            }
+        }
+    }
+}
