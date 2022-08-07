@@ -12,5 +12,5 @@ provide any information that should be taken any further than a simple list of d
 
 ## football
 
-- [Fantasy Pros](FantasyProsFootballDraft.md)
+- [Fantasy Pros](./docs/FantasyProsFootballDraft.md)
 
