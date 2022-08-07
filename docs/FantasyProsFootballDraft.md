@@ -9,3 +9,7 @@ All information contained in this file should be utilized with caution as the ra
 - [STD](FantasyProsFootballDraftSTD.md)
 - [HALF_PPR](FantasyProsFootballDraftHALF_PPR.md)
 - [PPR](FantasyProsFootballDraftPPR.md)
+
+### Spreadsheet
+
+- [Fantasy Pros](FantasyProsFootballDraft.xlsx)
