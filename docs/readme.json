@@ -19,5 +19,21 @@
                 "base": "FantasyProsBaseballDraft.md"
             }
         }
+    },
+    "basketball": {
+        "Fantasy Pros": {
+            "spreadsheets": "FantasyProsBasketballDraft.xlsx",
+            "markdown": {
+                "base": "FantasyProsBasketballDraft.md"
+            }
+        }
+    },
+    "hockey": {
+        "Fantasy Pros": {
+            "spreadsheets": "FantasyProsHockeyDraft.xlsx",
+            "markdown": {
+                "base": "FantasyProsHockeyDraft.md"
+            }
+        }
     }
 }
