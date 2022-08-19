@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from .hockey import FHRankings
-from ..player import Player, SetPositionRanks, CreatePositionTable, AdjustTableToMarkdown
+from ..player import Player, CreatePositionTable, AdjustTableToMarkdown
 from collections import defaultdict
 from json import dump, load
 from os.path import exists
@@ -109,19 +109,6 @@ class FantasyProsHockey(FHRankings):
         return p   
     
     def saveAsMarkdown(self):
-        '''
-        Page 1 = Base page with information and links to other pages
-        Page 2 = PPR Rankings 
-            - Table of position ranks
-            - All Rankings 
-        Page 3 = STD Rankings 
-            - Table of position ranks
-            - All Rankings 
-        Page 4 = HALF Rankings 
-            - Table of position ranks
-            - All Rankings 
-        '''
-
         filename = self.outputFilePrefix + ".md"
       
         # Create the positional ranking table
