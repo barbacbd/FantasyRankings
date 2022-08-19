@@ -1,6 +1,7 @@
 # FantasyRankings
 
 [![Fantasy Football](https://github.com/barbacbd/FantasyRankings/actions/workflows/python-app.yml/badge.svg)](https://github.com/barbacbd/FantasyRankings/actions/workflows/python-app.yml)
+[![Fantasy Baseball](https://github.com/barbacbd/FantasyRankings/actions/workflows/python-app-baseball.yml/badge.svg)](https://github.com/barbacbd/FantasyRankings/actions/workflows/python-app-baseball.yml)
 [![Fantasy Basketball](https://github.com/barbacbd/FantasyRankings/actions/workflows/python-app-basketball.yml/badge.svg)](https://github.com/barbacbd/FantasyRankings/actions/workflows/python-app-basketball.yml)
 [![Fantasy Hockey](https://github.com/barbacbd/FantasyRankings/actions/workflows/python-app-hockey.yml/badge.svg)](https://github.com/barbacbd/FantasyRankings/actions/workflows/python-app-hockey.yml)
 
