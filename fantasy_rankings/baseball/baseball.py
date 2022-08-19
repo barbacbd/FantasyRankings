@@ -4,14 +4,14 @@ from ..rank import BaseRankings
 
 
 class FBRankings(BaseRankings):
-    '''Base class for Fantasy Basketball Rankings'''
+    '''Base class for Fantasy Baseball Rankings'''
 
     def __init__(self, source, outputFile):
         self.source = source
-        title = f"## {source} Fantasy Basketball Draft Rankings"
+        title = f"## {source} Fantasy Baseball Draft Rankings"
         description = (
             "The data contained in this file is the result of scraping fantasy"
-            f" basketball draft ranking information from {source} on "
+            f" baseball draft ranking information from {source} on "
             f"{datetime.now().month}/{datetime.now().day}/{datetime.now().year}.\n\n"
             "All information contained in this file should be utilized with caution as "
             f"the rankings may change at the discretion of {source}. Information is only "
