@@ -107,6 +107,9 @@ class FantasyProsBasketball(FBRankings):
         with open(filename, "w+") as _file:
             _file.write(f"{self.title}\n\n{self.description}\n\n")
             
+            _file.write("## Spreadsheet\n\n")
+            _file.write(f"- [{self.source}]({self.outputFilePrefix}.xlsx)\n\n")
+            
             _file.write("## Overall Rankings\n\n")
             for player in self.rankedPlayers.values():
                 _file.write(f"{player.markdown}\n")
