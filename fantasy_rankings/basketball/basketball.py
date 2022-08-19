@@ -3,22 +3,22 @@ import pandas as pd
 from ..rank import BaseRankings
 
 
-class FHRankings(BaseRankings):
-    '''Base class for Fantasy Hockey Rankings'''
+class FBRankings(BaseRankings):
+    '''Base class for Fantasy Basketball Rankings'''
 
     def __init__(self, source, outputFile):
         self.source = source
-        title = f"## {source} Fantasy Hockey Draft Rankings"
+        title = f"## {source} Fantasy Basketball Draft Rankings"
         description = (
             "The data contained in this file is the result of scraping fantasy"
-            f" hockey draft ranking information from {source} on "
+            f" Basketball draft ranking information from {source} on "
             f"{datetime.now().month}/{datetime.now().day}/{datetime.now().year}.\n\n"
             "All information contained in this file should be utilized with caution as "
             f"the rankings may change at the discretion of {source}. Information is only "
             "considered valid at the time that the information is scraped."
         )
         
-        super(FHRankings, self).__init__(title, description)
+        super(FBRankings, self).__init__(title, description)
         
 
         self.outputFilePrefix = outputFile
@@ -40,7 +40,7 @@ class FHRankings(BaseRankings):
         
     def scrape(self):
         ''' Base class does not implement this function, child Must'''
-        raise NotImplementedError(f"FHRankings does not implement scrape")
+        raise NotImplementedError(f"FBRankings does not implement scrape")
         
     def saveAsXlsx(self):
         '''Save the curent data to an xlsx file'''
@@ -66,5 +66,5 @@ class FHRankings(BaseRankings):
         return self.xlsxFilename
 
     def saveAsMarkdown(self):
-        raise NotImplementedError("FHRankings does not implement saveAsMarkdown")
+        raise NotImplementedError("FBRankings does not implement saveAsMarkdown")
 
