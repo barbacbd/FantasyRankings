@@ -1,4 +1,4 @@
-name: "Fantasy Football"
+name: "Fantasy Rankings"
 
 on:
   push:
@@ -43,6 +43,9 @@ jobs:
 
         # this should create several files including Markdown and XLSX files
         FantasyProsFF
+        FantasyProsFB
+        FantasyProsFBB
+        FantasyProsFH
 
         # Excute the program to combine all data into the readme file
         FFReadme
@@ -54,7 +57,7 @@ jobs:
         git add README.md
         git add docs
 
-        git commit -m "[Automated Commit]: Updating fantasy football information."
+        git commit -m "[Automated Commit]: Updating fantasy rankings information."
 
         git remote set-url --push origin https://barbacbd:$token@github.com/barbacbd/FantasyRankings
 
