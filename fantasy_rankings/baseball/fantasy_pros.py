@@ -1,32 +1,34 @@
 import requests
 from bs4 import BeautifulSoup
-from .basketball import FBRankings
-from ..player import Player, CreatePositionTable, AdjustTableToMarkdown
+from .baseball import FBRankings
+from ..player import Player
 from collections import defaultdict
 from json import dump, load
 from os.path import exists
 import re
 
 
-class FantasyProsBasketball(FBRankings):
+class FantasyProsBaseball(FBRankings):
 
-    '''Class to scrape all fantasy basketball draft information from Fantasy Pros'''
+    '''Class to scrape all fantasy baseball draft information from Fantasy Pros'''
     
     TableFields = [
         'Rank',
         'Player/Team',
         'Best',
         'Worst',
-        'Avgerage',
-        'STDDev'
+        'Average',
+        'STDDev',
+        'ADP',
+        'vs. ADP'
     ]
     
     def __init__(self):
-        super(FantasyProsBasketball, self).__init__("Fantasy Pros", "FantasyProsBasketballDraft")
-        self.outputFile = "FantasyProsBasketballDraft"
+        super(FantasyProsBaseball, self).__init__("Fantasy Pros", "FantasyProsBaseballDraft")
+        self.outputFile = "FantasyProsBaseballDraft"
         self.baseWebpage = "https://www.fantasypros.com"
         
-        self.rankingsPage = "/nba/rankings/overall.php"
+        self.rankingsPage = "/mlb/rankings/overall.php"
         
         self.playerEndpoints = defaultdict(list)
 
@@ -53,9 +55,14 @@ class FantasyProsBasketball(FBRankings):
             tds = tr.find_all('td')
             _tds = [td.text for td in tds]
             
-            if len(_tds) != len(FantasyProsBasketball.TableFields):
+            if len(_tds) < len(FantasyProsBaseball.TableFields):
+                print(_tds)
                 print("Number of player elements does not match the known fields")
                 continue
+            else:
+                # Baseball threw in a few extra data points that show up
+                # but are not displayed on the web page
+                _tds = _tds[:len(FantasyProsBaseball.TableFields)]
             
             for td in tds:
                 a = td.find('a')
@@ -122,7 +129,7 @@ class FantasyProsBasketball(FBRankings):
 def run():
     ''' Run the web scraping for fantasy pros.
     '''
-    fph = FantasyProsBasketball()
+    fph = FantasyProsBaseball()
     outputData = fph.run()
     
     jsonData = {}
@@ -131,13 +138,13 @@ def run():
         with open("readme.json", "rb") as jsonFile:
             jsonData = load(jsonFile)
 
-    if "basketball" not in jsonData:
-        jsonData["basketball"] = {}
+    if "baseball" not in jsonData:
+        jsonData["baseball"] = {}
         
-        if fph.title not in jsonData["basketball"]:
-            jsonData["basketball"][fph.source] = {}
+        if fph.title not in jsonData["baseball"]:
+            jsonData["baseball"][fph.source] = {}
             
-    jsonData["basketball"][fph.source] = outputData
+    jsonData["baseball"][fph.source] = outputData
     
     with open("readme.json", "w") as jsonFile:
         dump(jsonData, jsonFile, indent=4)
