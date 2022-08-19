@@ -4,6 +4,10 @@ The data contained in this file is the result of scraping fantasy hockey draft r
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
+## Spreadsheet
+
+- [Fantasy Pros](FantasyProsHockeyDraft.xlsx)
+
 ## Overall Rankings
 
 1. [Connor McDavid](https://www.fantasypros.com/nhl/adp/connor-mcdavid.php) C-EDM

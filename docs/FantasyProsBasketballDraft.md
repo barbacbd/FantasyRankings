@@ -4,6 +4,10 @@ The data contained in this file is the result of scraping fantasy basketball dra
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
+## Spreadsheet
+
+- [Fantasy Pros](FantasyProsBasketballDraft.xlsx)
+
 ## Overall Rankings
 
 1. [Nikola Jokic](https://www.fantasypros.com/nba/players/nikola-jokic.php?week=draft) PF,C-DEN
