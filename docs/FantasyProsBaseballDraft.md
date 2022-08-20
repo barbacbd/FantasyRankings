@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 8/19/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 8/20/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -587,7 +587,7 @@ All information contained in this file should be utilized with caution as the ra
 575. [Dustin May](https://www.fantasypros.com/mlb/players/dustin-may.php?week=draft) SP-LAD
 576. [Glenn Otto](https://www.fantasypros.com/mlb/players/glenn-otto.php?week=draft) SP-TEX
 577. [Mike Soroka](https://www.fantasypros.com/mlb/players/mike-soroka.php?week=draft) SP-ATL
-578. [Elvis](https://www.fantasypros.com/mlb/players/elvis-andrus.php?week=draft) SS-Andrus
+578. [Elvis Andrus](https://www.fantasypros.com/mlb/players/elvis-andrus.php?week=draft) SS-CWS
 579. [Manny Pina](https://www.fantasypros.com/mlb/players/manny-pina.php?week=draft) C-ATL
 580. [Nick](https://www.fantasypros.com/mlb/players/nick-wittgren.php?week=draft) RP-Wittgren
 581. [Josh Taylor](https://www.fantasypros.com/mlb/players/josh-taylor.php?week=draft) RP-BOS
@@ -1015,7 +1015,7 @@ All information contained in this file should be utilized with caution as the ra
 1003. [Payton Henry](https://www.fantasypros.com/mlb/players/payton-henry.php?week=draft) C-MIA
 1004. [Danny Santana](https://www.fantasypros.com/mlb/players/danny-santana.php?week=draft) 1B,CF-BOS
 1005. [Felix](https://www.fantasypros.com/mlb/players/felix-pena.php?week=draft) RP-Pena
-1006. [Tony Wolters](https://www.fantasypros.com/mlb/players/tony-wolters.php?week=draft) C-LAD
+1006. [Tony](https://www.fantasypros.com/mlb/players/tony-wolters.php?week=draft) C-Wolters
 1007. [Jamie Ritchie](https://www.fantasypros.com/mlb/players/jamie-ritchie.php?week=draft) C-PIT
 1008. [P.J. Higgins](https://www.fantasypros.com/mlb/players/patrick-higgins.php?week=draft) 1B,C-CHC
 1009. [Chad Kuhl](https://www.fantasypros.com/mlb/players/chad-kuhl.php?week=draft) SP,RP-COL
