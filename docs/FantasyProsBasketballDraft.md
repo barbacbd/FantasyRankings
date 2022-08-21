@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 8/20/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 8/21/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -78,8 +78,8 @@ All information contained in this file should be utilized with caution as the ra
 66. [RJ Barrett](https://www.fantasypros.com/nba/players/rj-barrett.php?week=draft) SG,SF-NYK
 67. [Tyrese Maxey](https://www.fantasypros.com/nba/players/tyrese-maxey.php?week=draft) PG,SG-PHI
 68. [Draymond Green](https://www.fantasypros.com/nba/players/draymond-green.php?week=draft) PF,C-GSW
-69. [Ben Simmons](https://www.fantasypros.com/nba/players/ben-simmons.php?week=draft) PG-BKN
-70. [Clint Capela](https://www.fantasypros.com/nba/players/clint-capela.php?week=draft) C-ATL
+69. [Clint Capela](https://www.fantasypros.com/nba/players/clint-capela.php?week=draft) C-ATL
+70. [Ben Simmons](https://www.fantasypros.com/nba/players/ben-simmons.php?week=draft) PG-BKN
 71. [Marcus Smart](https://www.fantasypros.com/nba/players/marcus-smart.php?week=draft) PG,SG-BOS
 72. [Tyler Herro](https://www.fantasypros.com/nba/players/tyler-herro.php?week=draft) PG,SG-MIA
 73. [Malcolm Brogdon](https://www.fantasypros.com/nba/players/malcolm-brogdon.php?week=draft) PG,SG-BOS
@@ -95,9 +95,9 @@ All information contained in this file should be utilized with caution as the ra
 83. [Gordon Hayward](https://www.fantasypros.com/nba/players/gordon-hayward.php?week=draft) SG,SF-CHA
 84. [Russell Westbrook III](https://www.fantasypros.com/nba/players/russell-westbrook.php?week=draft) PG-LAL
 85. [Klay Thompson](https://www.fantasypros.com/nba/players/klay-thompson.php?week=draft) SG,SF-GSW
-86. [Buddy Hield](https://www.fantasypros.com/nba/players/buddy-hield.php?week=draft) SG,SF-IND
-87. [Jalen Green](https://www.fantasypros.com/nba/players/jalen-green.php?week=draft) SG-HOU
-88. [Kyle Kuzma](https://www.fantasypros.com/nba/players/kyle-kuzma.php?week=draft) SF,PF-WAS
+86. [Kyle Kuzma](https://www.fantasypros.com/nba/players/kyle-kuzma.php?week=draft) SF,PF-WAS
+87. [Buddy Hield](https://www.fantasypros.com/nba/players/buddy-hield.php?week=draft) SG,SF-IND
+88. [Jalen Green](https://www.fantasypros.com/nba/players/jalen-green.php?week=draft) SG-HOU
 89. [Al Horford](https://www.fantasypros.com/nba/players/al-horford.php?week=draft) PF,C-BOS
 90. [Jamal Murray](https://www.fantasypros.com/nba/players/jamal-murray.php?week=draft) PG,SG-DEN
 91. [Keldon Johnson](https://www.fantasypros.com/nba/players/keldon-johnson.php?week=draft) SF,PF-SAS
