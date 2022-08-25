@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 8/24/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 8/25/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -84,7 +84,7 @@ All information contained in this file should be utilized with caution as the ra
 72. [Carlos Correa](https://www.fantasypros.com/mlb/players/carlos-correa.php?week=draft) SS-MIN
 73. [Bryan Reynolds](https://www.fantasypros.com/mlb/players/bryan-reynolds.php?week=draft) CF,DH,LF-PIT
 74. [Raisel Iglesias](https://www.fantasypros.com/mlb/players/raisel-iglesias.php?week=draft) RP-ATL
-75. [Jorge Polanco](https://www.fantasypros.com/mlb/players/jorge-polanco.php?week=draft) 2B,SS-MIN
+75. [Jorge Polanco](https://www.fantasypros.com/mlb/players/jorge-polanco.php?week=draft) 2B,DH,SS-MIN
 76. [Frankie Montas](https://www.fantasypros.com/mlb/players/frankie-montas.php?week=draft) SP-NYY
 77. [Alex Bregman](https://www.fantasypros.com/mlb/players/alex-bregman.php?week=draft) 3B-HOU
 78. [J.T. Realmuto](https://www.fantasypros.com/mlb/players/jt-realmuto.php?week=draft) C,1B-PHI
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Albert Pujols](https://www.fantasypros.com/mlb/players/albert-pujols.php?week=draft) 1B,DH-STL
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -932,7 +932,7 @@ All information contained in this file should be utilized with caution as the ra
 920. [Trevor](https://www.fantasypros.com/mlb/players/trevor-cahill.php?week=draft) SP-Cahill
 921. [Sandy Leon](https://www.fantasypros.com/mlb/players/sandy-leon.php?week=draft) C-MIN
 922. [Mike Brosseau](https://www.fantasypros.com/mlb/players/michael-brosseau.php?week=draft) 1B,2B,3B-MIL
-923. [Stephen Vogt](https://www.fantasypros.com/mlb/players/stephen-vogt.php?week=draft) C,DH-OAK
+923. [Stephen Vogt](https://www.fantasypros.com/mlb/players/stephen-vogt.php?week=draft) 1B,C,DH-OAK
 924. [Andres Machado](https://www.fantasypros.com/mlb/players/andres-machado.php?week=draft) RP-WSH
 925. [Nick Fortes](https://www.fantasypros.com/mlb/players/nick-fortes.php?week=draft) C-MIA
 926. [Johan Oviedo](https://www.fantasypros.com/mlb/players/johan-oviedo.php?week=draft) RP,SP-PIT
@@ -961,7 +961,7 @@ All information contained in this file should be utilized with caution as the ra
 949. [Tyler Gilbert](https://www.fantasypros.com/mlb/players/tyler-gilbert.php?week=draft) SP-ARI
 950. [Cody](https://www.fantasypros.com/mlb/players/cody-ponce-p.php?week=draft) RP-Ponce
 951. [Jake Rogers](https://www.fantasypros.com/mlb/players/jake-rogers.php?week=draft) C-DET
-952. [Nomar Mazara](https://www.fantasypros.com/mlb/players/nomar-mazara.php?week=draft) RF-SD
+952. [Nomar](https://www.fantasypros.com/mlb/players/nomar-mazara.php?week=draft) RF-Mazara
 953. [Ryan Rolison](https://www.fantasypros.com/mlb/players/ryan-rolison.php?week=draft) SP-COL
 954. [Mike](https://www.fantasypros.com/mlb/players/michael-fiers.php?week=draft) SP-Fiers
 955. [Steven Brault](https://www.fantasypros.com/mlb/players/steven-brault.php?week=draft) RP,SP-CHC
