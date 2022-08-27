@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 8/26/2022.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 8/27/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -213,7 +213,7 @@ All information contained in this file should be utilized with caution as the ra
 201. [Alexandar Georgiev](https://www.fantasypros.com/nhl/adp/alexandar-georgiev.php) G-COL
 202. [Tyler Myers](https://www.fantasypros.com/nhl/adp/tyler-myers.php) D-VAN
 203. [Zach Whitecloud](https://www.fantasypros.com/nhl/adp/zach-whitecloud.php) D-VGK
-204. [Phil Kessel](https://www.fantasypros.com/nhl/adp/phil-kessel.php) RW-ARI
+204. [Phil Kessel](https://www.fantasypros.com/nhl/adp/phil-kessel.php) RW-VGK
 205. [Robby Fabbri](https://www.fantasypros.com/nhl/adp/robby-fabbri.php) C-DET
 206. [Justin Faulk](https://www.fantasypros.com/nhl/adp/justin-faulk.php) D-STL
 207. [Craig Smith](https://www.fantasypros.com/nhl/adp/craig-smith.php) C-BOS
