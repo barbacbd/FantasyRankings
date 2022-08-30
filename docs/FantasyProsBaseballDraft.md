@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 8/29/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 8/30/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -437,7 +437,7 @@ All information contained in this file should be utilized with caution as the ra
 425. [Trevor May](https://www.fantasypros.com/mlb/players/trevor-may.php?week=draft) RP-NYM
 426. [Tony Kemp](https://www.fantasypros.com/mlb/players/anthony-kemp.php?week=draft) 2B,LF-OAK
 427. [Jake Diekman](https://www.fantasypros.com/mlb/players/jake-diekman.php?week=draft) RP-CWS
-428. [Bradley Zimmer](https://www.fantasypros.com/mlb/players/bradley-zimmer.php?week=draft) CF,RF-PHI
+428. [Bradley Zimmer](https://www.fantasypros.com/mlb/players/bradley-zimmer.php?week=draft) CF,RF-TOR
 429. [Brusdar Graterol](https://www.fantasypros.com/mlb/players/brusdar-graterol-p.php?week=draft) RP-LAD
 430. [Aaron Hicks](https://www.fantasypros.com/mlb/players/aaron-hicks.php?week=draft) CF,LF-NYY
 431. [Pete Fairbanks](https://www.fantasypros.com/mlb/players/pete-fairbanks.php?week=draft) RP-TB
@@ -688,7 +688,7 @@ All information contained in this file should be utilized with caution as the ra
 676. [Trevor Williams](https://www.fantasypros.com/mlb/players/trevor-williams.php?week=draft) SP,RP-NYM
 677. [Jed](https://www.fantasypros.com/mlb/players/jed-lowrie.php?week=draft) 2B,DH-Lowrie
 678. [Jose Leclerc](https://www.fantasypros.com/mlb/players/jose-leclerc.php?week=draft) RP-TEX
-679. [Jesse Chavez](https://www.fantasypros.com/mlb/players/jesse-chavez.php?week=draft) SP,RP-LAA
+679. [Jesse](https://www.fantasypros.com/mlb/players/jesse-chavez.php?week=draft) SP,RP-Chavez
 680. [Nick Gordon](https://www.fantasypros.com/mlb/players/nick-gordon.php?week=draft) 2B,SS,LF,CF-MIN
 681. [Maikel](https://www.fantasypros.com/mlb/players/maikel-franco.php?week=draft) 3B-Franco
 682. [Cody Stashak](https://www.fantasypros.com/mlb/players/cody-stashak.php?week=draft) RP-MIN
