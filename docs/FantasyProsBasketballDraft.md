@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 8/31/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 9/1/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -278,7 +278,7 @@ All information contained in this file should be utilized with caution as the ra
 266. [Tristan Thompson](https://www.fantasypros.com/nba/players/tristan-thompson.php?week=draft) PF,C-FA
 267. [Kentavious CaldwellPope](https://www.fantasypros.com/nba/players/kentavious-caldwell-pope.php?week=draft) PG,SG,SF-DEN
 268. [Gary Payton II](https://www.fantasypros.com/nba/players/gary-payton.php?week=draft) PG,SG-POR
-269. [Josh Jackson](https://www.fantasypros.com/nba/players/josh-jackson.php?week=draft) SG,SF-FA
+269. [Josh Jackson](https://www.fantasypros.com/nba/players/josh-jackson.php?week=draft) SG,SF-TOR
 270. [Lou Williams](https://www.fantasypros.com/nba/players/louis-williams.php?week=draft) PG,SG-FA
 271. [Shake Milton](https://www.fantasypros.com/nba/players/shake-milton.php?week=draft) PG,SG-PHI
 272. [Caleb Martin](https://www.fantasypros.com/nba/players/caleb-martin.php?week=draft) G-MIA
