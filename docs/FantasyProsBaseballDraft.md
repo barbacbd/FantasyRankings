@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/1/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/2/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Albert Pujols](https://www.fantasypros.com/mlb/players/albert-pujols.php?week=draft) 1B,DH-STL
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -1043,7 +1043,7 @@ All information contained in this file should be utilized with caution as the ra
 1031. [Ehire Adrianza](https://www.fantasypros.com/mlb/players/ehire-adrianza.php?week=draft) 2B,3B,LF,RF-ATL
 1032. [Derek Hill](https://www.fantasypros.com/mlb/players/derek-hill-of.php?week=draft) CF-SEA
 1033. [Johan Camargo](https://www.fantasypros.com/mlb/players/johan-camargo.php?week=draft) 1B,2B,3B,SS-PHI
-1034. [Jake](https://www.fantasypros.com/mlb/players/jake-marisnick.php?week=draft) LF,CF-Marisnick
+1034. [Jake Marisnick](https://www.fantasypros.com/mlb/players/jake-marisnick.php?week=draft) LF,CF-ATL
 1035. [Tim Locastro](https://www.fantasypros.com/mlb/players/tim-locastro.php?week=draft) CF,LF,RF-NYY
 1036. [Travis Swaggerty](https://www.fantasypros.com/mlb/players/travis-swaggerty.php?week=draft) CF-PIT
 1037. [Marwin Gonzalez](https://www.fantasypros.com/mlb/players/marwin-gonzalez.php?week=draft) 1B,2B,3B,LF,RF,SS-NYY
@@ -1054,7 +1054,7 @@ All information contained in this file should be utilized with caution as the ra
 1042. [Shed Long](https://www.fantasypros.com/mlb/players/shed-long.php?week=draft) 2B,LF-Jr.
 1043. [Heliot Ramos](https://www.fantasypros.com/mlb/players/heliot-ramos-of.php?week=draft) CF-SF
 1044. [Owen Miller](https://www.fantasypros.com/mlb/players/owen-miller.php?week=draft) 1B,2B,DH-CLE
-1045. [Lewis Brinson](https://www.fantasypros.com/mlb/players/lewis-brinson.php?week=draft) LF,CF-HOU
+1045. [Lewis Brinson](https://www.fantasypros.com/mlb/players/lewis-brinson.php?week=draft) LF,CF-SF
 1046. [Matt Carpenter](https://www.fantasypros.com/mlb/players/matt-carpenter.php?week=draft) 1B,2B,DH,RF-NYY
 1047. [Rob Refsnyder](https://www.fantasypros.com/mlb/players/rob-refsnyder.php?week=draft) CF,DH,LF,RF-BOS
 1048. [Monte Harrison](https://www.fantasypros.com/mlb/players/monte-harrison.php?week=draft) CF,LF-LAA

@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 9/1/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 9/2/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -30,7 +30,7 @@ All information contained in this file should be utilized with caution as the ra
 18. [Jimmy Butler](https://www.fantasypros.com/nba/players/jimmy-butler.php?week=draft) SF,PF,SG-MIA
 19. [Bradley Beal](https://www.fantasypros.com/nba/players/bradley-beal.php?week=draft) SG,SF-WAS
 20. [Bam Adebayo](https://www.fantasypros.com/nba/players/bam-adebayo.php?week=draft) PF,C-MIA
-21. [Donovan Mitchell](https://www.fantasypros.com/nba/players/donovan-mitchell.php?week=draft) PG,SG-UTH
+21. [Donovan Mitchell](https://www.fantasypros.com/nba/players/donovan-mitchell.php?week=draft) PG,SG-CLE
 22. [Shai GilgeousAlexander](https://www.fantasypros.com/nba/players/shai-gilgeous-alexander.php?week=draft) PG,SG-OKC
 23. [Rudy Gobert](https://www.fantasypros.com/nba/players/rudy-gobert.php?week=draft) C-MIN
 24. [Ja Morant](https://www.fantasypros.com/nba/players/ja-morant.php?week=draft) PG-MEM
@@ -111,11 +111,11 @@ All information contained in this file should be utilized with caution as the ra
 99. [Norman Powell](https://www.fantasypros.com/nba/players/norman-powell.php?week=draft) SG,SF-LAC
 100. [Kevin Porter Jr.](https://www.fantasypros.com/nba/players/kevin-porter-jr.php?week=draft) SG,SF,PG-HOU
 101. [Bobby Portis Jr.](https://www.fantasypros.com/nba/players/bobby-portis.php?week=draft) PF,C-MIL
-102. [Collin Sexton](https://www.fantasypros.com/nba/players/collin-sexton.php?week=draft) PG,SG-CLE
+102. [Collin Sexton](https://www.fantasypros.com/nba/players/collin-sexton.php?week=draft) PG,SG-UTH
 103. [Jamal Murray](https://www.fantasypros.com/nba/players/jamal-murray.php?week=draft) PG,SG-DEN
 104. [Spencer Dinwiddie](https://www.fantasypros.com/nba/players/spencer-dinwiddie.php?week=draft) PG,SG-DAL
 105. [Mo Bamba](https://www.fantasypros.com/nba/players/mohamed-bamba.php?week=draft) C-ORL
-106. [Lauri Markkanen](https://www.fantasypros.com/nba/players/lauri-markkanen.php?week=draft) PF,C-CLE
+106. [Lauri Markkanen](https://www.fantasypros.com/nba/players/lauri-markkanen.php?week=draft) PF,C-UTH
 107. [Caris LeVert](https://www.fantasypros.com/nba/players/caris-levert.php?week=draft) SG,SF-CLE
 108. [Brandon Clarke](https://www.fantasypros.com/nba/players/brandon-clarke.php?week=draft) SF,PF,C-MEM
 109. [Jalen Brunson](https://www.fantasypros.com/nba/players/jalen-brunson.php?week=draft) PG,SG-NYK
@@ -330,7 +330,7 @@ All information contained in this file should be utilized with caution as the ra
 318. [Tre Mann](https://www.fantasypros.com/nba/players/tre-mann.php?week=draft) SG,PG-OKC
 319. [Shaedon Sharpe](https://www.fantasypros.com/nba/players/shaedon-sharpe.php?week=draft) SG-POR
 320. [JaMychal Green](https://www.fantasypros.com/nba/players/jamychal-green.php?week=draft) PF,C-GSW
-321. [Ochai Agbaji](https://www.fantasypros.com/nba/players/ochai-agbaji.php?week=draft) G-CLE
+321. [Ochai Agbaji](https://www.fantasypros.com/nba/players/ochai-agbaji.php?week=draft) G-UTH
 322. [Oshae Brissett](https://www.fantasypros.com/nba/players/oshae-brissett.php?week=draft) SF,PF-IND
 323. [Jeff Green](https://www.fantasypros.com/nba/players/jeff-green.php?week=draft) SF,PF-DEN
 324. [Omer Yurtseven](https://www.fantasypros.com/nba/players/omer-yurtseven.php?week=draft) C-MIA
