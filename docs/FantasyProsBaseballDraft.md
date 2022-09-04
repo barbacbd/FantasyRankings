@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/3/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/4/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -734,7 +734,7 @@ All information contained in this file should be utilized with caution as the ra
 722. [Lewin Diaz](https://www.fantasypros.com/mlb/players/lewin-diaz-1b.php?week=draft) 1B-MIA
 723. [Eric](https://www.fantasypros.com/mlb/players/eric-thames.php?week=draft) 1B,RF-Thames
 724. [Ryan Weathers](https://www.fantasypros.com/mlb/players/ryan-weathers.php?week=draft) SP,RP-SD
-725. [Niko Goodrum](https://www.fantasypros.com/mlb/players/niko-goodrum.php?week=draft) 2B,SS,LF-HOU
+725. [Niko](https://www.fantasypros.com/mlb/players/niko-goodrum.php?week=draft) 2B,SS,LF-Goodrum
 726. [Jacob Barnes](https://www.fantasypros.com/mlb/players/jacob-barnes.php?week=draft) RP-NYY
 727. [Nick Anderson](https://www.fantasypros.com/mlb/players/nick-anderson.php?week=draft) RP-TB
 728. [Konnor Pilkington](https://www.fantasypros.com/mlb/players/konnor-pilkington.php?week=draft) SP-CLE
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Albert Pujols](https://www.fantasypros.com/mlb/players/albert-pujols.php?week=draft) 1B,DH-STL
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -1031,7 +1031,7 @@ All information contained in this file should be utilized with caution as the ra
 1019. [Travis](https://www.fantasypros.com/mlb/players/travis-shaw.php?week=draft) 1B,3B-Shaw
 1020. [Yu Chang](https://www.fantasypros.com/mlb/players/yu-cheng-chang.php?week=draft) 1B,2B,3B,SS-TB
 1021. [Chi Chi Gonzalez](https://www.fantasypros.com/mlb/players/chi-chi-gonzalez.php?week=draft) SP,RP-NYY
-1022. [Phil Gosselin](https://www.fantasypros.com/mlb/players/philip-gosselin.php?week=draft) 1B,2B,3B,LF-LAA
+1022. [Phil](https://www.fantasypros.com/mlb/players/philip-gosselin.php?week=draft) 1B,2B,3B,LF-Gosselin
 1023. [Jarrod](https://www.fantasypros.com/mlb/players/jarrod-dyson.php?week=draft) LF,CF,RF-Dyson
 1024. [Brian](https://www.fantasypros.com/mlb/players/brian-goodwin.php?week=draft) CF,RF-Goodwin
 1025. [Juan](https://www.fantasypros.com/mlb/players/juan-lagares.php?week=draft) LF,CF,RF-Lagares
