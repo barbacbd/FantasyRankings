@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/5/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/6/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -699,7 +699,7 @@ All information contained in this file should be utilized with caution as the ra
 687. [Kwang Hyun](https://www.fantasypros.com/mlb/players/kwang-hyun-kim.php?week=draft) SP,RP-Kim
 688. [Kolby Allard](https://www.fantasypros.com/mlb/players/kolby-allard.php?week=draft) SP,RP-TEX
 689. [Logan Allen](https://www.fantasypros.com/mlb/players/logan-allen.php?week=draft) RP,SP-COL
-690. [Dallas Keuchel](https://www.fantasypros.com/mlb/players/dallas-keuchel.php?week=draft) SP-TEX
+690. [Dallas](https://www.fantasypros.com/mlb/players/dallas-keuchel.php?week=draft) SP-Keuchel
 691. [Jay Jackson](https://www.fantasypros.com/mlb/players/jay-jackson.php?week=draft) RP-ATL
 692. [Jackie Bradley Jr.](https://www.fantasypros.com/mlb/players/jackie-bradley.php?week=draft) LF,CF,RF-TOR
 693. [Danny Coulombe](https://www.fantasypros.com/mlb/players/dan-coulombe.php?week=draft) RP-MIN
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Albert Pujols](https://www.fantasypros.com/mlb/players/albert-pujols.php?week=draft) 1B,DH-STL
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -862,7 +862,7 @@ All information contained in this file should be utilized with caution as the ra
 850. [Kurt Suzuki](https://www.fantasypros.com/mlb/players/kurt-suzuki.php?week=draft) C-LAA
 851. [Zach Pop](https://www.fantasypros.com/mlb/players/zach-pop.php?week=draft) RP-TOR
 852. [Pedro](https://www.fantasypros.com/mlb/players/pedro-baez.php?week=draft) RP-Baez
-853. [Juan Minaya](https://www.fantasypros.com/mlb/players/juan-minaya.php?week=draft) RP-MIN
+853. [Juan](https://www.fantasypros.com/mlb/players/juan-minaya.php?week=draft) RP-Minaya
 854. [Jandel Gustave](https://www.fantasypros.com/mlb/players/jandel-francisco-gustave.php?week=draft) RP-MIL
 855. [Hunter Strickland](https://www.fantasypros.com/mlb/players/hunter-strickland.php?week=draft) RP-CIN
 856. [Jharel Cotton](https://www.fantasypros.com/mlb/players/jharel-cotton.php?week=draft) RP-MIN
@@ -934,7 +934,7 @@ All information contained in this file should be utilized with caution as the ra
 922. [Mike Brosseau](https://www.fantasypros.com/mlb/players/michael-brosseau.php?week=draft) 1B,2B,3B-MIL
 923. [Stephen Vogt](https://www.fantasypros.com/mlb/players/stephen-vogt.php?week=draft) 1B,C,DH-OAK
 924. [Andres Machado](https://www.fantasypros.com/mlb/players/andres-machado.php?week=draft) RP-WSH
-925. [Nick Fortes](https://www.fantasypros.com/mlb/players/nick-fortes.php?week=draft) C-MIA
+925. [Nick Fortes](https://www.fantasypros.com/mlb/players/nick-fortes.php?week=draft) C,DH-MIA
 926. [Johan Oviedo](https://www.fantasypros.com/mlb/players/johan-oviedo.php?week=draft) RP,SP-PIT
 927. [Ervin](https://www.fantasypros.com/mlb/players/ervin-santana.php?week=draft) RP-Santana
 928. [Hans Crouse](https://www.fantasypros.com/mlb/players/hans-crouse.php?week=draft) SP-PHI
