@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 9/6/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 9/7/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -196,7 +196,7 @@ All information contained in this file should be utilized with caution as the ra
 184. [Rui Hachimura](https://www.fantasypros.com/nba/players/rui-hachimura.php?week=draft) SF,PF-WAS
 185. [Bruce Brown Jr.](https://www.fantasypros.com/nba/players/bruce-brown-jr.php?week=draft) SG,SF-BKN
 186. [Maxi Kleber](https://www.fantasypros.com/nba/players/maxi-kleber.php?week=draft) PF,C-DAL
-187. [Montrezl Harrell](https://www.fantasypros.com/nba/players/montrezl-harrell.php?week=draft) PF,C-FA
+187. [Montrezl Harrell](https://www.fantasypros.com/nba/players/montrezl-harrell.php?week=draft) PF,C-PHI
 188. [Isaac Okoro](https://www.fantasypros.com/nba/players/isaac-okoro.php?week=draft) SG,SF-CLE
 189. [Jabari Smith Jr.](https://www.fantasypros.com/nba/players/jabari-smith.php?week=draft) PF-HOU
 190. [Jalen Duren](https://www.fantasypros.com/nba/players/jalen-duren.php?week=draft) C-DET
