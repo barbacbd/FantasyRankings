@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/9/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/10/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -143,7 +143,7 @@ All information contained in this file should be utilized with caution as the ra
 131. [Joey Gallo](https://www.fantasypros.com/mlb/players/joey-gallo.php?week=draft) DH,LF,RF-LAD
 132. [Giovanny Gallegos](https://www.fantasypros.com/mlb/players/giovanny-gallegos.php?week=draft) RP-STL
 133. [Lourdes Gurriel Jr.](https://www.fantasypros.com/mlb/players/lourdes-gurriel-jr.php?week=draft) 1B,DH,LF-TOR
-134. [Avisail Garcia](https://www.fantasypros.com/mlb/players/avisail-garcia.php?week=draft) RF-MIA
+134. [Avisail Garcia](https://www.fantasypros.com/mlb/players/avisail-garcia.php?week=draft) DH,RF-MIA
 135. [Yoan Moncada](https://www.fantasypros.com/mlb/players/yoan-moncada.php?week=draft) 3B-CWS
 136. [Hunter Renfroe](https://www.fantasypros.com/mlb/players/hunter-renfroe.php?week=draft) CF,RF-MIL
 137. [Chris Taylor](https://www.fantasypros.com/mlb/players/chris-taylor.php?week=draft) 2B,3B,SS,LF,CF,RF-LAD
@@ -551,7 +551,7 @@ All information contained in this file should be utilized with caution as the ra
 539. [Greg](https://www.fantasypros.com/mlb/players/greg-holland.php?week=draft) RP-Holland
 540. [Kyle Muller](https://www.fantasypros.com/mlb/players/kyle-muller.php?week=draft) SP-ATL
 541. [Tommy La Stella](https://www.fantasypros.com/mlb/players/tommy-la-stella.php?week=draft) 2B,3B,DH-SF
-542. [Bryan De La Cruz](https://www.fantasypros.com/mlb/players/bryan-de-la-cruz.php?week=draft) LF,CF,RF-MIA
+542. [Bryan De La Cruz](https://www.fantasypros.com/mlb/players/bryan-de-la-cruz.php?week=draft) CF,DH,LF,RF-MIA
 543. [Sean Doolittle](https://www.fantasypros.com/mlb/players/sean-doolittle.php?week=draft) RP-WSH
 544. [Trevor Rosenthal](https://www.fantasypros.com/mlb/players/trevor-rosenthal.php?week=draft) RP-MIL
 545. [Chris Martin](https://www.fantasypros.com/mlb/players/chris-martin.php?week=draft) RP-LAD
@@ -1221,7 +1221,7 @@ All information contained in this file should be utilized with caution as the ra
 1209. [Mike Ford](https://www.fantasypros.com/mlb/players/mike-ford.php?week=draft) 1B,DH-LAA
 1210. [Yolbert](https://www.fantasypros.com/mlb/players/yolbert-sanchez.php?week=draft) 2B,SS-Sanchez
 1211. [Domingo Leyba](https://www.fantasypros.com/mlb/players/domingo-leyba.php?week=draft) 2B,3B-SD
-1212. [Ryan Kreidler](https://www.fantasypros.com/mlb/players/ryan-kreidler.php?week=draft) SS-DET
+1212. [Ryan Kreidler](https://www.fantasypros.com/mlb/players/ryan-kreidler.php?week=draft) 3B,SS-DET
 1213. [JT Riddle](https://www.fantasypros.com/mlb/players/jt-riddle.php?week=draft) SS-NYM
 1214. [Andrew Young](https://www.fantasypros.com/mlb/players/andrew-young.php?week=draft) 2B-WSH
 1215. [Trent Giambrone](https://www.fantasypros.com/mlb/players/trent-giambrone.php?week=draft) 2B-CHC
