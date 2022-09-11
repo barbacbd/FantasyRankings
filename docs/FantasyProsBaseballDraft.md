@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/10/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/11/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -613,7 +613,7 @@ All information contained in this file should be utilized with caution as the ra
 601. [Daniel Lynch](https://www.fantasypros.com/mlb/players/daniel-lynch.php?week=draft) SP-KC
 602. [David Peterson](https://www.fantasypros.com/mlb/players/david-peterson.php?week=draft) SP-NYM
 603. [Rafael Montero](https://www.fantasypros.com/mlb/players/rafael-montero.php?week=draft) RP-HOU
-604. [Dominic Leone](https://www.fantasypros.com/mlb/players/dominic-leone.php?week=draft) SP,RP-SF
+604. [Dominic](https://www.fantasypros.com/mlb/players/dominic-leone.php?week=draft) SP,RP-Leone
 605. [Caleb Ferguson](https://www.fantasypros.com/mlb/players/caleb-ferguson.php?week=draft) RP-LAD
 606. [Jose Urena](https://www.fantasypros.com/mlb/players/jose-urena.php?week=draft) SP,RP-COL
 607. [Carter Kieboom](https://www.fantasypros.com/mlb/players/carter-kieboom.php?week=draft) 3B-WSH
@@ -862,7 +862,7 @@ All information contained in this file should be utilized with caution as the ra
 850. [Kurt Suzuki](https://www.fantasypros.com/mlb/players/kurt-suzuki.php?week=draft) C-LAA
 851. [Zach Pop](https://www.fantasypros.com/mlb/players/zach-pop.php?week=draft) RP-TOR
 852. [Pedro](https://www.fantasypros.com/mlb/players/pedro-baez.php?week=draft) RP-Baez
-853. [Juan Minaya](https://www.fantasypros.com/mlb/players/juan-minaya.php?week=draft) RP-WSH
+853. [Juan Minaya](https://www.fantasypros.com/mlb/players/juan-minaya.php?week=draft) RP-MIN
 854. [Jandel Gustave](https://www.fantasypros.com/mlb/players/jandel-francisco-gustave.php?week=draft) RP-MIL
 855. [Hunter Strickland](https://www.fantasypros.com/mlb/players/hunter-strickland.php?week=draft) RP-CIN
 856. [Jharel Cotton](https://www.fantasypros.com/mlb/players/jharel-cotton.php?week=draft) RP-MIN
@@ -870,7 +870,7 @@ All information contained in this file should be utilized with caution as the ra
 858. [Ryan Sherriff](https://www.fantasypros.com/mlb/players/ryan-sherriff.php?week=draft) RP-PHI
 859. [Andrew](https://www.fantasypros.com/mlb/players/andrew-miller.php?week=draft) RP-Miller
 860. [Yusmeiro](https://www.fantasypros.com/mlb/players/yusmeiro-petit.php?week=draft) RP-Petit
-861. [Rafael Dolis](https://www.fantasypros.com/mlb/players/rafael-dolis.php?week=draft) RP-CWS
+861. [Rafael](https://www.fantasypros.com/mlb/players/rafael-dolis.php?week=draft) RP-Dolis
 862. [Jimmy Herget](https://www.fantasypros.com/mlb/players/jimmy-herget.php?week=draft) RP-LAA
 863. [Brent Honeywell Jr.](https://www.fantasypros.com/mlb/players/brent-honeywell.php?week=draft) P,SP-OAK
 864. [Robinson Chirinos](https://www.fantasypros.com/mlb/players/robinson-chirinos.php?week=draft) C-BAL
@@ -1130,7 +1130,7 @@ All information contained in this file should be utilized with caution as the ra
 1118. [Nelson Velazquez](https://www.fantasypros.com/mlb/players/nelson-velazquez.php?week=draft) CF,LF,RF-CHC
 1119. [Jonathan Arauz](https://www.fantasypros.com/mlb/players/jonathan-arauz.php?week=draft) 2B,3B,SS-BAL
 1120. [Magneuris Sierra](https://www.fantasypros.com/mlb/players/magneuris-sierra.php?week=draft) LF,CF-LAA
-1121. [DJ](https://www.fantasypros.com/mlb/players/dj-peters.php?week=draft) LF,CF,RF-Peters
+1121. [DJ Peters](https://www.fantasypros.com/mlb/players/dj-peters.php?week=draft) LF,CF,RF-WSH
 1122. [Josh Palacios](https://www.fantasypros.com/mlb/players/josh-palacios.php?week=draft) RF-WSH
 1123. [Tucupita Marcano](https://www.fantasypros.com/mlb/players/tucupita-marcano.php?week=draft) 2B,LF-PIT
 1124. [Ronald Guzman](https://www.fantasypros.com/mlb/players/ronald-guzman.php?week=draft) 1B-NYY
