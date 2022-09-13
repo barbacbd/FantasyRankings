@@ -147,7 +147,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 143. [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) WR-WAS
 144. [Julio Jones](https://www.fantasypros.com/nfl/players/julio-jones.php) WR-TB
 145. [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php) QB-JAC
-146. [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-DET
+146. [D.J. Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-DET
 147. [Tyler Allgeier](https://www.fantasypros.com/nfl/players/tyler-allgeier.php) RB-ATL
 148. [Nico Collins](https://www.fantasypros.com/nfl/players/nico-collins.php) WR-HOU
 149. [Gerald Everett](https://www.fantasypros.com/nfl/players/gerald-everett.php) TE-LAC
@@ -418,7 +418,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
  | [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) | [Jarvis Landry](https://www.fantasypros.com/nfl/players/jarvis-landry.php) | - | - | - | -
  | [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) | [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) | - | - | - | -
  | [Boston Scott](https://www.fantasypros.com/nfl/players/boston-scott.php) | [Julio Jones](https://www.fantasypros.com/nfl/players/julio-jones.php) | - | - | - | -
- | [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) | [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) | - | - | - | -
+ | [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) | [D.J. Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) | - | - | - | -
  | [Rex Burkhead](https://www.fantasypros.com/nfl/players/rex-burkhead.php) | [Nico Collins](https://www.fantasypros.com/nfl/players/nico-collins.php) | - | - | - | -
  | [Samaje Perine](https://www.fantasypros.com/nfl/players/samaje-perine.php) | [Joshua Palmer](https://www.fantasypros.com/nfl/players/josh-palmer.php) | - | - | - | -
  | [Sony Michel](https://www.fantasypros.com/nfl/players/sony-michel.php) | [Kenny Golladay](https://www.fantasypros.com/nfl/players/kenny-golladay.php) | - | - | - | -

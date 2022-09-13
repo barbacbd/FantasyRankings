@@ -142,7 +142,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 138. [Mike Gesicki](https://www.fantasypros.com/nfl/players/mike-gesicki.php) TE-MIA
 139. [Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php) WR-NE
 140. [Matt Ryan](https://www.fantasypros.com/nfl/players/matt-ryan.php) QB-IND
-141. [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-DET
+141. [D.J. Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-DET
 142. [Julio Jones](https://www.fantasypros.com/nfl/players/julio-jones.php) WR-TB
 143. [DeVante Parker](https://www.fantasypros.com/nfl/players/devante-parker.php) WR-NE
 144. [Tyler Allgeier](https://www.fantasypros.com/nfl/players/tyler-allgeier.php) RB-ATL
@@ -413,7 +413,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
  | [Mark Ingram II](https://www.fantasypros.com/nfl/players/mark-ingram.php) | [George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php) | - | - | - | -
  | [Brian Robinson Jr.](https://www.fantasypros.com/nfl/players/brian-robinson-jr.php) | [Russell Gage](https://www.fantasypros.com/nfl/players/russell-gage.php) | - | - | - | -
  | [Isaiah Spiller](https://www.fantasypros.com/nfl/players/isaiah-spiller.php) | [Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php) | - | - | - | -
- | [Isiah Pacheco](https://www.fantasypros.com/nfl/players/isaih-pacheco.php) | [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) | - | - | - | -
+ | [Isiah Pacheco](https://www.fantasypros.com/nfl/players/isaih-pacheco.php) | [D.J. Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) | - | - | - | -
  | [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) | [Julio Jones](https://www.fantasypros.com/nfl/players/julio-jones.php) | - | - | - | -
  | [Boston Scott](https://www.fantasypros.com/nfl/players/boston-scott.php) | [DeVante Parker](https://www.fantasypros.com/nfl/players/devante-parker.php) | - | - | - | -
  | [Gus Edwards](https://www.fantasypros.com/nfl/players/gus-edwards.php) | [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) | - | - | - | -
