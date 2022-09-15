@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 9/14/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 9/15/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -79,13 +79,13 @@ All information contained in this file should be utilized with caution as the ra
 67. [Desmond Bane](https://www.fantasypros.com/nba/players/desmond-bane.php?week=draft) PG,SG,SF-MEM
 68. [Tyrese Maxey](https://www.fantasypros.com/nba/players/tyrese-maxey.php?week=draft) PG,SG-PHI
 69. [Jordan Poole](https://www.fantasypros.com/nba/players/jordan-poole.php?week=draft) PG,SG-GSW
-70. [Wendell Carter Jr.](https://www.fantasypros.com/nba/players/wendell-carter.php?week=draft) C-ORL
-71. [Scottie Barnes](https://www.fantasypros.com/nba/players/scottie-barnes.php?week=draft) SF,PF-TOR
+70. [Scottie Barnes](https://www.fantasypros.com/nba/players/scottie-barnes.php?week=draft) SF,PF-TOR
+71. [Wendell Carter Jr.](https://www.fantasypros.com/nba/players/wendell-carter.php?week=draft) C-ORL
 72. [Marcus Smart](https://www.fantasypros.com/nba/players/marcus-smart.php?week=draft) PG,SG-BOS
 73. [Keldon Johnson](https://www.fantasypros.com/nba/players/keldon-johnson.php?week=draft) SF,PF-SAS
-74. [Buddy Hield](https://www.fantasypros.com/nba/players/buddy-hield.php?week=draft) SG,SF-IND
-75. [Saddiq Bey](https://www.fantasypros.com/nba/players/saddiq-bey.php?week=draft) SF-DET
-76. [Kyle Lowry](https://www.fantasypros.com/nba/players/kyle-lowry.php?week=draft) PG-MIA
+74. [Kyle Lowry](https://www.fantasypros.com/nba/players/kyle-lowry.php?week=draft) PG-MIA
+75. [Buddy Hield](https://www.fantasypros.com/nba/players/buddy-hield.php?week=draft) SG,SF-IND
+76. [Saddiq Bey](https://www.fantasypros.com/nba/players/saddiq-bey.php?week=draft) SF-DET
 77. [Jalen Green](https://www.fantasypros.com/nba/players/jalen-green.php?week=draft) SG-HOU
 78. [Tyler Herro](https://www.fantasypros.com/nba/players/tyler-herro.php?week=draft) PG,SG-MIA
 79. [Mitchell Robinson](https://www.fantasypros.com/nba/players/mitchell-robinson.php?week=draft) C-NYK
@@ -125,8 +125,8 @@ All information contained in this file should be utilized with caution as the ra
 113. [Bojan Bogdanovic](https://www.fantasypros.com/nba/players/bojan-bogdanovic.php?week=draft) SF,PF-UTH
 114. [Reggie Jackson](https://www.fantasypros.com/nba/players/reggie-jackson.php?week=draft) PG,SG-LAC
 115. [Jordan Clarkson](https://www.fantasypros.com/nba/players/jordan-clarkson.php?week=draft) PG,SG-UTH
-116. [De'Anthony Melton](https://www.fantasypros.com/nba/players/deanthony-melton.php?week=draft) PG,SG-PHI
-117. [De'Andre Hunter](https://www.fantasypros.com/nba/players/deandre-hunter.php?week=draft) SF,PF-ATL
+116. [De'Andre Hunter](https://www.fantasypros.com/nba/players/deandre-hunter.php?week=draft) SF,PF-ATL
+117. [De'Anthony Melton](https://www.fantasypros.com/nba/players/deanthony-melton.php?week=draft) PG,SG-PHI
 118. [Dorian FinneySmith](https://www.fantasypros.com/nba/players/dorian-finney-smith.php?week=draft) SF,PF-DAL
 119. [Jaden McDaniels](https://www.fantasypros.com/nba/players/jaden-mcdaniels.php?week=draft) PF,SF-MIN
 120. [Kyle Anderson](https://www.fantasypros.com/nba/players/kyle-anderson.php?week=draft) SF,PF-MIN
