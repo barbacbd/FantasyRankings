@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/17/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/18/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -274,7 +274,7 @@ All information contained in this file should be utilized with caution as the ra
 262. [Christian Vazquez](https://www.fantasypros.com/mlb/players/christian-vazquez.php?week=draft) 1B,C-HOU
 263. [Kyle Hendricks](https://www.fantasypros.com/mlb/players/kyle-hendricks.php?week=draft) SP-CHC
 264. [Devin Williams](https://www.fantasypros.com/mlb/players/devin-williams-p.php?week=draft) RP-MIL
-265. [Jeff McNeil](https://www.fantasypros.com/mlb/players/jeff-mcneil.php?week=draft) 2B,LF-NYM
+265. [Jeff McNeil](https://www.fantasypros.com/mlb/players/jeff-mcneil.php?week=draft) 2B,LF,RF-NYM
 266. [Zack Greinke](https://www.fantasypros.com/mlb/players/zack-greinke.php?week=draft) SP-KC
 267. [Rowdy Tellez](https://www.fantasypros.com/mlb/players/rowdy-tellez.php?week=draft) 1B,DH-MIL
 268. [Nicky Lopez](https://www.fantasypros.com/mlb/players/nicky-lopez.php?week=draft) 2B,3B,SS-KC
@@ -515,7 +515,7 @@ All information contained in this file should be utilized with caution as the ra
 503. [A.J. Minter](https://www.fantasypros.com/mlb/players/aj-minter.php?week=draft) RP-ATL
 504. [Jorge Lopez](https://www.fantasypros.com/mlb/players/jorge-lopez.php?week=draft) SP,RP-MIN
 505. [Dakota Hudson](https://www.fantasypros.com/mlb/players/dakota-hudson.php?week=draft) SP-STL
-506. [Trevor Richards](https://www.fantasypros.com/mlb/players/trevor-richards.php?week=draft) RP-TOR
+506. [Trevor Richards](https://www.fantasypros.com/mlb/players/trevor-richards.php?week=draft) RP,SP-TOR
 507. [Andres Munoz](https://www.fantasypros.com/mlb/players/andres-munoz-p.php?week=draft) RP-SEA
 508. [Richard Bleier](https://www.fantasypros.com/mlb/players/richard-bleier.php?week=draft) RP-MIA
 509. [Reynaldo Lopez](https://www.fantasypros.com/mlb/players/reynaldo-lopez.php?week=draft) SP,RP-CWS
@@ -600,7 +600,7 @@ All information contained in this file should be utilized with caution as the ra
 588. [Kyle Wright](https://www.fantasypros.com/mlb/players/kyle-wright.php?week=draft) SP-ATL
 589. [Alex Wells](https://www.fantasypros.com/mlb/players/alex-wells.php?week=draft) SP-BAL
 590. [Robert Stephenson](https://www.fantasypros.com/mlb/players/robert-stephenson.php?week=draft) RP-PIT
-591. [Heath Hembree](https://www.fantasypros.com/mlb/players/heath-hembree.php?week=draft) RP-LAD
+591. [Heath](https://www.fantasypros.com/mlb/players/heath-hembree.php?week=draft) RP-Hembree
 592. [Josh Sborz](https://www.fantasypros.com/mlb/players/josh-sborz.php?week=draft) RP-TEX
 593. [Julian Merryweather](https://www.fantasypros.com/mlb/players/julian-merryweather.php?week=draft) RP-TOR
 594. [Griffin Canning](https://www.fantasypros.com/mlb/players/griffin-canning.php?week=draft) SP-LAA
