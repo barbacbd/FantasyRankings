@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/20/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/21/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -522,7 +522,7 @@ All information contained in this file should be utilized with caution as the ra
 510. [Triston Casas](https://www.fantasypros.com/mlb/players/triston-casas.php?week=draft) 1B,3B-BOS
 511. [Jeffrey Springs](https://www.fantasypros.com/mlb/players/jeffrey-springs.php?week=draft) RP,SP-TB
 512. [Rougned Odor](https://www.fantasypros.com/mlb/players/rougned-odor.php?week=draft) 2B,3B-BAL
-513. [Matthew Boyd](https://www.fantasypros.com/mlb/players/matt-boyd.php?week=draft) SP-SEA
+513. [Matthew Boyd](https://www.fantasypros.com/mlb/players/matt-boyd.php?week=draft) RP,SP-SEA
 514. [Joely Rodriguez](https://www.fantasypros.com/mlb/players/joely-rodriguez.php?week=draft) RP-NYM
 515. [Dylan Moore](https://www.fantasypros.com/mlb/players/dylan-moore.php?week=draft) 2B,3B,CF,LF,RF,SS-SEA
 516. [Ryan Tepera](https://www.fantasypros.com/mlb/players/ryan-tepera.php?week=draft) RP-LAA
@@ -1114,7 +1114,7 @@ All information contained in this file should be utilized with caution as the ra
 1102. [Pat Valaika](https://www.fantasypros.com/mlb/players/pat-valaika.php?week=draft) 2B,SS-ATL
 1103. [Delino DeShields](https://www.fantasypros.com/mlb/players/delino-deshields.php?week=draft) CF-ATL
 1104. [Tyler Nevin](https://www.fantasypros.com/mlb/players/tyler-nevin.php?week=draft) 1B,3B,LF-BAL
-1105. [Ernie Clement](https://www.fantasypros.com/mlb/players/ernie-clement.php?week=draft) 2B,3B,DH,LF-CLE
+1105. [Ernie Clement](https://www.fantasypros.com/mlb/players/ernie-clement.php?week=draft) 1B,2B,3B,DH,LF-CLE
 1106. [John Nogowski](https://www.fantasypros.com/mlb/players/john-nogowski.php?week=draft) 1B-WSH
 1107. [Matt Thaiss](https://www.fantasypros.com/mlb/players/matt-thaiss.php?week=draft) 1B,C-LAA
 1108. [Otto Lopez](https://www.fantasypros.com/mlb/players/otto-lopez.php?week=draft) 2B,SS-TOR
