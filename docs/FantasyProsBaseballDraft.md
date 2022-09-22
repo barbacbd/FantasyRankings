@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/21/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/22/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -780,7 +780,7 @@ All information contained in this file should be utilized with caution as the ra
 768. [Reese McGuire](https://www.fantasypros.com/mlb/players/reese-mcguire.php?week=draft) C-BOS
 769. [Alek Thomas](https://www.fantasypros.com/mlb/players/alek-thomas.php?week=draft) CF-ARI
 770. [Darwinzon Hernandez](https://www.fantasypros.com/mlb/players/darwinzon-hernandez.php?week=draft) RP-BOS
-771. [Kevin](https://www.fantasypros.com/mlb/players/kevin-plawecki.php?week=draft) C-Plawecki
+771. [Kevin Plawecki](https://www.fantasypros.com/mlb/players/kevin-plawecki.php?week=draft) C-TEX
 772. [Jace Peterson](https://www.fantasypros.com/mlb/players/jace-peterson.php?week=draft) 1B,2B,3B,LF,RF-MIL
 773. [Jason Heyward](https://www.fantasypros.com/mlb/players/jason-heyward.php?week=draft) CF,RF-CHC
 774. [Cal Raleigh](https://www.fantasypros.com/mlb/players/caleb-raleigh.php?week=draft) C-SEA
