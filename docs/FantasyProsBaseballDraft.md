@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/27/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/28/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -1178,7 +1178,7 @@ All information contained in this file should be utilized with caution as the ra
 1166. [Dustin](https://www.fantasypros.com/mlb/players/dustin-fowler.php?week=draft) CF-Fowler
 1167. [Peyton Burdick](https://www.fantasypros.com/mlb/players/peyton-burdick.php?week=draft) LF,CF-MIA
 1168. [Simon Muzziotti](https://www.fantasypros.com/mlb/players/simon-muzziotti.php?week=draft) CF-PHI
-1169. [Oswaldo Cabrera](https://www.fantasypros.com/mlb/players/oswaldo-cabrera.php?week=draft) 2B,RF,SS-NYY
+1169. [Oswaldo Cabrera](https://www.fantasypros.com/mlb/players/oswaldo-cabrera.php?week=draft) 2B,LF,RF,SS-NYY
 1170. [Jordan Groshans](https://www.fantasypros.com/mlb/players/jordan-groshans.php?week=draft) 3B,SS-MIA
 1171. [Jorge Ona](https://www.fantasypros.com/mlb/players/jorge-ona-of.php?week=draft) LF,RF-SD
 1172. [Kyle Stowers](https://www.fantasypros.com/mlb/players/kyle-stowers.php?week=draft) LF,RF-BAL
