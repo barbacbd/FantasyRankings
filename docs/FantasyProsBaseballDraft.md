@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/28/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 9/29/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -842,7 +842,7 @@ All information contained in this file should be utilized with caution as the ra
 830. [Jovani Moran](https://www.fantasypros.com/mlb/players/jovani-moran.php?week=draft) RP-MIN
 831. [Jakob Junis](https://www.fantasypros.com/mlb/players/jake-junis.php?week=draft) SP,RP-SF
 832. [Keegan Akin](https://www.fantasypros.com/mlb/players/keegan-akin-p.php?week=draft) SP,RP-BAL
-833. [Wilson Ramos](https://www.fantasypros.com/mlb/players/wilson-ramos.php?week=draft) C-TEX
+833. [Wilson](https://www.fantasypros.com/mlb/players/wilson-ramos.php?week=draft) C-Ramos
 834. [Jake Burger](https://www.fantasypros.com/mlb/players/jake-burger-3b.php?week=draft) 3B-CWS
 835. [Jeter Downs](https://www.fantasypros.com/mlb/players/jeter-downs.php?week=draft) 2B,3B,SS-BOS
 836. [Josh VanMeter](https://www.fantasypros.com/mlb/players/josh-vanmeter.php?week=draft) 1B,2B,3B-PIT
