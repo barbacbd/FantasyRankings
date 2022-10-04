@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/3/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/4/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -364,7 +364,7 @@ All information contained in this file should be utilized with caution as the ra
 352. [Diego Castillo](https://www.fantasypros.com/mlb/players/diego-castillo.php?week=draft) RP-SEA
 353. [Kyle Gibson](https://www.fantasypros.com/mlb/players/kyle-gibson.php?week=draft) SP-PHI
 354. [Lorenzo](https://www.fantasypros.com/mlb/players/lorenzo-cain.php?week=draft) CF-Cain
-355. [Miguel Rojas](https://www.fantasypros.com/mlb/players/miguel-rojas.php?week=draft) SS-MIA
+355. [Miguel Rojas](https://www.fantasypros.com/mlb/players/miguel-rojas.php?week=draft) 1B,SS-MIA
 356. [Max Stassi](https://www.fantasypros.com/mlb/players/max-stassi.php?week=draft) C-LAA
 357. [Patrick Corbin](https://www.fantasypros.com/mlb/players/patrick-corbin.php?week=draft) SP-WSH
 358. [Joey Wendle](https://www.fantasypros.com/mlb/players/joe-wendle.php?week=draft) 2B,3B,SS-MIA
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -1095,7 +1095,7 @@ All information contained in this file should be utilized with caution as the ra
 1083. [Roman Quinn](https://www.fantasypros.com/mlb/players/roman-quinn.php?week=draft) CF,LF,RF-TB
 1084. [Scott Kingery](https://www.fantasypros.com/mlb/players/scott-kingery.php?week=draft) RF-PHI
 1085. [Danny Mendick](https://www.fantasypros.com/mlb/players/daniel-mendick.php?week=draft) 2B,SS,RF-CWS
-1086. [Billy Hamilton](https://www.fantasypros.com/mlb/players/billy-hamilton.php?week=draft) LF,CF-MIN
+1086. [Billy Hamilton](https://www.fantasypros.com/mlb/players/billy-hamilton.php?week=draft) CF,DH,LF-MIN
 1087. [Ryan McKenna](https://www.fantasypros.com/mlb/players/ryan-mckenna.php?week=draft) CF,DH,LF,RF-BAL
 1088. [Khalil Lee](https://www.fantasypros.com/mlb/players/khalil-lee.php?week=draft) RF-NYM
 1089. [Isan Diaz](https://www.fantasypros.com/mlb/players/isan-diaz.php?week=draft) 2B,3B-SF
@@ -1233,7 +1233,7 @@ All information contained in this file should be utilized with caution as the ra
 1221. [Hernan Perez](https://www.fantasypros.com/mlb/players/hernan-perez.php?week=draft) 2B-ATL
 1222. [Logan Warmoth](https://www.fantasypros.com/mlb/players/logan-warmoth.php?week=draft) 2B,SS-TOR
 1223. [Travis Blankenhorn](https://www.fantasypros.com/mlb/players/travis-blankenhorn-3b.php?week=draft) 2B-NYM
-1224. [Kody Clemens](https://www.fantasypros.com/mlb/players/kody-clemens.php?week=draft) 1B,2B,3B,LF,RP-DET
+1224. [Kody Clemens](https://www.fantasypros.com/mlb/players/kody-clemens.php?week=draft) 1B,2B,3B,DH,LF,RP-DET
 1225. [Tim Lopes](https://www.fantasypros.com/mlb/players/tim-lopes.php?week=draft) 2B-COL
 1226. [Alex De Goti](https://www.fantasypros.com/mlb/players/alexander-de-goti.php?week=draft) 2B-HOU
 
