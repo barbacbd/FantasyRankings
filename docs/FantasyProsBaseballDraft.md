@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/4/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/5/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -264,7 +264,7 @@ All information contained in this file should be utilized with caution as the ra
 252. [Lou Trivino](https://www.fantasypros.com/mlb/players/lou-trivino.php?week=draft) RP-NYY
 253. [Jake](https://www.fantasypros.com/mlb/players/jake-mcgee.php?week=draft) RP-McGee
 254. [Brandon Nimmo](https://www.fantasypros.com/mlb/players/brandon-nimmo.php?week=draft) LF,CF-NYM
-255. [Steven Matz](https://www.fantasypros.com/mlb/players/steven-matz.php?week=draft) SP-STL
+255. [Steven Matz](https://www.fantasypros.com/mlb/players/steven-matz.php?week=draft) RP,SP-STL
 256. [Casey Mize](https://www.fantasypros.com/mlb/players/casey-mize.php?week=draft) SP-DET
 257. [Bailey Ober](https://www.fantasypros.com/mlb/players/bailey-ober.php?week=draft) SP-MIN
 258. [Isiah KinerFalefa](https://www.fantasypros.com/mlb/players/isiah-kiner-falefa.php?week=draft) SS-NYY
