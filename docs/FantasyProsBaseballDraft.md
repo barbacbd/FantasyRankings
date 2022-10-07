@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/6/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/7/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -859,7 +859,7 @@ All information contained in this file should be utilized with caution as the ra
 847. [Blake Taylor](https://www.fantasypros.com/mlb/players/blake-taylor-p.php?week=draft) RP-HOU
 848. [Ross](https://www.fantasypros.com/mlb/players/ross-detwiler.php?week=draft) SP,RP-Detwiler
 849. [Kyle Bradish](https://www.fantasypros.com/mlb/players/kyle-bradish.php?week=draft) SP-BAL
-850. [Kurt Suzuki](https://www.fantasypros.com/mlb/players/kurt-suzuki.php?week=draft) C-LAA
+850. [Kurt](https://www.fantasypros.com/mlb/players/kurt-suzuki.php?week=draft) C-Suzuki
 851. [Zach Pop](https://www.fantasypros.com/mlb/players/zach-pop.php?week=draft) RP-TOR
 852. [Pedro](https://www.fantasypros.com/mlb/players/pedro-baez.php?week=draft) RP-Baez
 853. [Juan Minaya](https://www.fantasypros.com/mlb/players/juan-minaya.php?week=draft) RP-WSH
@@ -932,7 +932,7 @@ All information contained in this file should be utilized with caution as the ra
 920. [Trevor](https://www.fantasypros.com/mlb/players/trevor-cahill.php?week=draft) SP-Cahill
 921. [Sandy Leon](https://www.fantasypros.com/mlb/players/sandy-leon.php?week=draft) C-MIN
 922. [Mike Brosseau](https://www.fantasypros.com/mlb/players/michael-brosseau.php?week=draft) 1B,2B,3B-MIL
-923. [Stephen Vogt](https://www.fantasypros.com/mlb/players/stephen-vogt.php?week=draft) 1B,C,DH-OAK
+923. [Stephen](https://www.fantasypros.com/mlb/players/stephen-vogt.php?week=draft) 1B,C,DH-Vogt
 924. [Andres Machado](https://www.fantasypros.com/mlb/players/andres-machado.php?week=draft) RP-WSH
 925. [Nick Fortes](https://www.fantasypros.com/mlb/players/nick-fortes.php?week=draft) C,DH-MIA
 926. [Johan Oviedo](https://www.fantasypros.com/mlb/players/johan-oviedo.php?week=draft) RP,SP-PIT
@@ -979,7 +979,7 @@ All information contained in this file should be utilized with caution as the ra
 967. [Paolo Espino](https://www.fantasypros.com/mlb/players/paolo-espino.php?week=draft) SP,RP-WSH
 968. [Jose Herrera](https://www.fantasypros.com/mlb/players/jose-herrera.php?week=draft) C-ARI
 969. [Chance Sisco](https://www.fantasypros.com/mlb/players/chance-sisco.php?week=draft) C-MIN
-970. [David Bote](https://www.fantasypros.com/mlb/players/david-bote.php?week=draft) 2B,3B-CHC
+970. [David Bote](https://www.fantasypros.com/mlb/players/david-bote.php?week=draft) 1B,2B,3B-CHC
 971. [Dustin Garneau](https://www.fantasypros.com/mlb/players/dustin-garneau.php?week=draft) C-DET
 972. [Bryan Lavastida](https://www.fantasypros.com/mlb/players/bryan-lavastida.php?week=draft) C-CLE
 973. [Jose Godoy](https://www.fantasypros.com/mlb/players/jose-godoy.php?week=draft) C-PIT
