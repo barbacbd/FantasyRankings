@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 10/7/2022.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 10/8/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -29,9 +29,9 @@ All information contained in this file should be utilized with caution as the ra
 17. [Jonathan Huberdeau](https://www.fantasypros.com/nhl/adp/jonathan-huberdeau.php) LW-CGY
 18. [Adam Fox](https://www.fantasypros.com/nhl/adp/adam-fox.php) D-NYR
 19. [Steven Stamkos](https://www.fantasypros.com/nhl/adp/steven-stamkos.php) C-TB
-20. [Ilya Sorokin](https://www.fantasypros.com/nhl/adp/ilya-sorokin.php) G-NYI
-21. [Sidney Crosby](https://www.fantasypros.com/nhl/adp/sidney-crosby.php) C-PIT
-22. [Jacob Markstrom](https://www.fantasypros.com/nhl/adp/jacob-markstrom.php) G-CGY
+20. [Jacob Markstrom](https://www.fantasypros.com/nhl/adp/jacob-markstrom.php) G-CGY
+21. [Ilya Sorokin](https://www.fantasypros.com/nhl/adp/ilya-sorokin.php) G-NYI
+22. [Sidney Crosby](https://www.fantasypros.com/nhl/adp/sidney-crosby.php) C-PIT
 23. [Mika Zibanejad](https://www.fantasypros.com/nhl/adp/mika-zibanejad.php) C-NYR
 24. [J.T. Miller](https://www.fantasypros.com/nhl/adp/jt-miller.php) C-VAN
 25. [Kyle Connor](https://www.fantasypros.com/nhl/adp/kyle-connor.php) LW-WPG
@@ -39,8 +39,8 @@ All information contained in this file should be utilized with caution as the ra
 27. [Juuse Saros](https://www.fantasypros.com/nhl/adp/juuse-saros.php) G-NSH
 28. [Sebastian Aho](https://www.fantasypros.com/nhl/adp/sebastian-aho.php) C-CAR
 29. [Brady Tkachuk](https://www.fantasypros.com/nhl/adp/brady-tkachuk.php) LW-OTT
-30. [Johnny Gaudreau](https://www.fantasypros.com/nhl/adp/johnny-gaudreau.php) LW-CBJ
-31. [Jake Guentzel](https://www.fantasypros.com/nhl/adp/jake-guentzel.php) LW-PIT
+30. [Jake Guentzel](https://www.fantasypros.com/nhl/adp/jake-guentzel.php) LW-PIT
+31. [Johnny Gaudreau](https://www.fantasypros.com/nhl/adp/johnny-gaudreau.php) LW-CBJ
 32. [Artemi Panarin](https://www.fantasypros.com/nhl/adp/artemi-panarin.php) LW-NYR
 33. [Moritz Seider](https://www.fantasypros.com/nhl/adp/moritz-seider.php) D-DET
 34. [Alex DeBrincat](https://www.fantasypros.com/nhl/adp/alex-debrincat.php) LW-OTT
@@ -48,8 +48,8 @@ All information contained in this file should be utilized with caution as the ra
 36. [Chris Kreider](https://www.fantasypros.com/nhl/adp/chris-kreider.php) LW-NYR
 37. [Aaron Ekblad](https://www.fantasypros.com/nhl/adp/aaron-ekblad.php) D-FLA
 38. [Timo Meier](https://www.fantasypros.com/nhl/adp/timo-meier.php) RW-SJ
-39. [Gabriel Landeskog](https://www.fantasypros.com/nhl/adp/gabriel-landeskog.php) LW-COL
-40. [Jake Oettinger](https://www.fantasypros.com/nhl/adp/jake-oettinger.php) G-DAL
+39. [Jake Oettinger](https://www.fantasypros.com/nhl/adp/jake-oettinger.php) G-DAL
+40. [Gabriel Landeskog](https://www.fantasypros.com/nhl/adp/gabriel-landeskog.php) LW-COL
 41. [Elias Lindholm](https://www.fantasypros.com/nhl/adp/elias-lindholm.php) C-CGY
 42. [Jack Eichel](https://www.fantasypros.com/nhl/adp/jack-eichel.php) C-VGK
 43. [Andrei Svechnikov](https://www.fantasypros.com/nhl/adp/andrei-svechnikov.php) RW-CAR
@@ -58,61 +58,61 @@ All information contained in this file should be utilized with caution as the ra
 46. [Patrick Kane](https://www.fantasypros.com/nhl/adp/patrick-kane.php) RW-CHI
 47. [Tristan Jarry](https://www.fantasypros.com/nhl/adp/tristan-jarry.php) G-PIT
 48. [Evander Kane](https://www.fantasypros.com/nhl/adp/evander-kane.php) LW-EDM
-49. [Jack Hughes](https://www.fantasypros.com/nhl/adp/jack-hughes.php) C-NJ
+49. [Connor Hellebuyck](https://www.fantasypros.com/nhl/adp/connor-hellebuyck.php) G-WPG
 50. [Frederik Andersen](https://www.fantasypros.com/nhl/adp/frederik-andersen.php) G-CAR
-51. [Filip Forsberg](https://www.fantasypros.com/nhl/adp/filip-forsberg.php) LW-NSH
-52. [Connor Hellebuyck](https://www.fantasypros.com/nhl/adp/connor-hellebuyck.php) G-WPG
+51. [Jack Hughes](https://www.fantasypros.com/nhl/adp/jack-hughes.php) C-NJ
+52. [Filip Forsberg](https://www.fantasypros.com/nhl/adp/filip-forsberg.php) LW-NSH
 53. [Jason Robertson](https://www.fantasypros.com/nhl/adp/jason-robertson.php) LW-DAL
 54. [Jack Campbell](https://www.fantasypros.com/nhl/adp/jack-campbell.php) G-EDM
 55. [Darcy Kuemper](https://www.fantasypros.com/nhl/adp/darcy-kuemper.php) G-WSH
-56. [Kris Letang](https://www.fantasypros.com/nhl/adp/kris-letang.php) D-PIT
-57. [William Nylander](https://www.fantasypros.com/nhl/adp/william-nylander.php) RW-TOR
-58. [Patrik Laine](https://www.fantasypros.com/nhl/adp/patrik-laine.php) LW-CBJ
-59. [Morgan Rielly](https://www.fantasypros.com/nhl/adp/morgan-rielly.php) D-TOR
+56. [William Nylander](https://www.fantasypros.com/nhl/adp/william-nylander.php) RW-TOR
+57. [Kris Letang](https://www.fantasypros.com/nhl/adp/kris-letang.php) D-PIT
+58. [Morgan Rielly](https://www.fantasypros.com/nhl/adp/morgan-rielly.php) D-TOR
+59. [Patrik Laine](https://www.fantasypros.com/nhl/adp/patrik-laine.php) LW-CBJ
 60. [Sam Reinhart](https://www.fantasypros.com/nhl/adp/sam-reinhart.php) C-FLA
 61. [Quinn Hughes](https://www.fantasypros.com/nhl/adp/quinn-hughes.php) D-VAN
 62. [Thatcher Demko](https://www.fantasypros.com/nhl/adp/thatcher-demko.php) G-VAN
-63. [Brent Burns](https://www.fantasypros.com/nhl/adp/brent-burns.php) D-CAR
-64. [Mark Stone](https://www.fantasypros.com/nhl/adp/mark-stone.php) RW-VGK
+63. [Mark Stone](https://www.fantasypros.com/nhl/adp/mark-stone.php) RW-VGK
+64. [Brent Burns](https://www.fantasypros.com/nhl/adp/brent-burns.php) D-CAR
 65. [Kevin Fiala](https://www.fantasypros.com/nhl/adp/kevin-fiala.php) LW-LA
-66. [John Tavares](https://www.fantasypros.com/nhl/adp/john-tavares.php) C-TOR
-67. [Alex Pietrangelo](https://www.fantasypros.com/nhl/adp/alex-pietrangelo.php) D-VGK
+66. [Alex Pietrangelo](https://www.fantasypros.com/nhl/adp/alex-pietrangelo.php) D-VGK
+67. [John Tavares](https://www.fantasypros.com/nhl/adp/john-tavares.php) C-TOR
 68. [Noah Dobson](https://www.fantasypros.com/nhl/adp/noah-dobson.php) D-NYI
 69. [Marc-Andre Fleury](https://www.fantasypros.com/nhl/adp/marc-andre-fleury.php) G-MIN
-70. [Max Pacioretty](https://www.fantasypros.com/nhl/adp/max-pacioretty.php) LW-CAR
-71. [Rasmus Dahlin](https://www.fantasypros.com/nhl/adp/rasmus-dahlin.php) D-BUF
-72. [Josh Norris](https://www.fantasypros.com/nhl/adp/josh-norris.php) C-OTT
-73. [Claude Giroux](https://www.fantasypros.com/nhl/adp/claude-giroux.php) RW-OTT
-74. [Sergei Bobrovsky](https://www.fantasypros.com/nhl/adp/sergei-bobrovsky.php) G-FLA
-75. [Roope Hintz](https://www.fantasypros.com/nhl/adp/roope-hintz.php) C-DAL
+70. [Rasmus Dahlin](https://www.fantasypros.com/nhl/adp/rasmus-dahlin.php) D-BUF
+71. [Max Pacioretty](https://www.fantasypros.com/nhl/adp/max-pacioretty.php) LW-CAR
+72. [Claude Giroux](https://www.fantasypros.com/nhl/adp/claude-giroux.php) RW-OTT
+73. [Sergei Bobrovsky](https://www.fantasypros.com/nhl/adp/sergei-bobrovsky.php) G-FLA
+74. [Josh Norris](https://www.fantasypros.com/nhl/adp/josh-norris.php) C-OTT
+75. [Pavel Buchnevich](https://www.fantasypros.com/nhl/adp/pavel-buchnevich.php) LW-STL
 76. [Matt Duchene](https://www.fantasypros.com/nhl/adp/matt-duchene.php) C-NSH
-77. [Pavel Buchnevich](https://www.fantasypros.com/nhl/adp/pavel-buchnevich.php) LW-STL
-78. [MacKenzie Weegar](https://www.fantasypros.com/nhl/adp/mackenzie-weegar.php) D-CGY
+77. [MacKenzie Weegar](https://www.fantasypros.com/nhl/adp/mackenzie-weegar.php) D-CGY
+78. [Roope Hintz](https://www.fantasypros.com/nhl/adp/roope-hintz.php) C-DAL
 79. [Evgeni Malkin](https://www.fantasypros.com/nhl/adp/evgeni-malkin.php) C-PIT
 80. [Seth Jones](https://www.fantasypros.com/nhl/adp/seth-jones.php) D-CHI
 81. [Nikolaj Ehlers](https://www.fantasypros.com/nhl/adp/nikolaj-ehlers.php) LW-WPG
-82. [Jacob Trouba](https://www.fantasypros.com/nhl/adp/jacob-trouba.php) D-NYR
+82. [Dougie Hamilton](https://www.fantasypros.com/nhl/adp/dougie-hamilton.php) D-NJ
 83. [Darnell Nurse](https://www.fantasypros.com/nhl/adp/darnell-nurse.php) D-EDM
 84. [Nazem Kadri](https://www.fantasypros.com/nhl/adp/nazem-kadri.php) C-CGY
-85. [Dougie Hamilton](https://www.fantasypros.com/nhl/adp/dougie-hamilton.php) D-NJ
+85. [Jacob Trouba](https://www.fantasypros.com/nhl/adp/jacob-trouba.php) D-NYR
 86. [Devon Toews](https://www.fantasypros.com/nhl/adp/devon-toews.php) D-COL
 87. [Patrice Bergeron](https://www.fantasypros.com/nhl/adp/patrice-bergeron.php) C-BOS
-88. [Drew Doughty](https://www.fantasypros.com/nhl/adp/drew-doughty.php) D-LA
-89. [Evgeny Kuznetsov](https://www.fantasypros.com/nhl/adp/evgeny-kuznetsov.php) C-WSH
+88. [Evgeny Kuznetsov](https://www.fantasypros.com/nhl/adp/evgeny-kuznetsov.php) C-WSH
+89. [Drew Doughty](https://www.fantasypros.com/nhl/adp/drew-doughty.php) D-LA
 90. [Nick Suzuki](https://www.fantasypros.com/nhl/adp/nicholas-suzuki.php) C-MTL
-91. [Spencer Knight](https://www.fantasypros.com/nhl/adp/spencer-knight.php) G-FLA
-92. [Drake Batherson](https://www.fantasypros.com/nhl/adp/drake-batherson.php) RW-OTT
-93. [Dylan Larkin](https://www.fantasypros.com/nhl/adp/dylan-larkin-c.php) C-DET
-94. [Zach Werenski](https://www.fantasypros.com/nhl/adp/zachary-werenski.php) D-CBJ
-95. [Jeremy Swayman](https://www.fantasypros.com/nhl/adp/jeremy-swayman.php) G-BOS
-96. [Mark Scheifele](https://www.fantasypros.com/nhl/adp/mark-scheifele.php) C-WPG
+91. [Dylan Larkin](https://www.fantasypros.com/nhl/adp/dylan-larkin-c.php) C-DET
+92. [Spencer Knight](https://www.fantasypros.com/nhl/adp/spencer-knight.php) G-FLA
+93. [Drake Batherson](https://www.fantasypros.com/nhl/adp/drake-batherson.php) RW-OTT
+94. [Mark Scheifele](https://www.fantasypros.com/nhl/adp/mark-scheifele.php) C-WPG
+95. [Zach Werenski](https://www.fantasypros.com/nhl/adp/zachary-werenski.php) D-CBJ
+96. [Jeremy Swayman](https://www.fantasypros.com/nhl/adp/jeremy-swayman.php) G-BOS
 97. [Pierre-Luc Dubois](https://www.fantasypros.com/nhl/adp/pierre-luc-dubois.php) C-WPG
-98. [Joe Pavelski](https://www.fantasypros.com/nhl/adp/joe-pavelski.php) C-DAL
-99. [Tim Stutzle](https://www.fantasypros.com/nhl/adp/tim-stutzle.php) C-OTT
+98. [Tim Stutzle](https://www.fantasypros.com/nhl/adp/tim-stutzle.php) C-OTT
+99. [Joe Pavelski](https://www.fantasypros.com/nhl/adp/joe-pavelski.php) C-DAL
 100. [Tomas Hertl](https://www.fantasypros.com/nhl/adp/tomas-hertl.php) C-SJ
-101. [Teuvo Teravainen](https://www.fantasypros.com/nhl/adp/teuvo-teravainen.php) LW-CAR
-102. [Shea Theodore](https://www.fantasypros.com/nhl/adp/shea-theodore.php) D-VGK
-103. [Tage Thompson](https://www.fantasypros.com/nhl/adp/tage-thompson.php) RW-BUF
+101. [Tage Thompson](https://www.fantasypros.com/nhl/adp/tage-thompson.php) RW-BUF
+102. [Teuvo Teravainen](https://www.fantasypros.com/nhl/adp/teuvo-teravainen.php) LW-CAR
+103. [Shea Theodore](https://www.fantasypros.com/nhl/adp/shea-theodore.php) D-VGK
 104. [Rasmus Andersson](https://www.fantasypros.com/nhl/adp/rasmus-andersson.php) D-CGY
 105. [Anze Kopitar](https://www.fantasypros.com/nhl/adp/anze-kopitar.php) C-LA
 106. [Jonathan Quick](https://www.fantasypros.com/nhl/adp/jonathan-quick.php) G-LA
@@ -120,23 +120,23 @@ All information contained in this file should be utilized with caution as the ra
 108. [Jordan Kyrou](https://www.fantasypros.com/nhl/adp/jordan-kyrou.php) C-STL
 109. [Bryan Rust](https://www.fantasypros.com/nhl/adp/bryan-rust.php) RW-PIT
 110. [Miro Heiskanen](https://www.fantasypros.com/nhl/adp/miro-heiskanen.php) D-DAL
-111. [Mikhail Sergachev](https://www.fantasypros.com/nhl/adp/mikhail-sergachev.php) D-TB
-112. [Alexandar Georgiev](https://www.fantasypros.com/nhl/adp/alexandar-georgiev.php) G-COL
-113. [Tyler Toffoli](https://www.fantasypros.com/nhl/adp/tyler-toffoli.php) RW-CGY
+111. [Thomas Chabot](https://www.fantasypros.com/nhl/adp/thomas-chabot.php) D-OTT
+112. [Mikhail Sergachev](https://www.fantasypros.com/nhl/adp/mikhail-sergachev.php) D-TB
+113. [Alexandar Georgiev](https://www.fantasypros.com/nhl/adp/alexandar-georgiev.php) G-COL
 114. [Torey Krug](https://www.fantasypros.com/nhl/adp/torey-krug.php) D-STL
-115. [Michael Bunting](https://www.fantasypros.com/nhl/adp/michael-bunting.php) LW-TOR
+115. [Tyler Toffoli](https://www.fantasypros.com/nhl/adp/tyler-toffoli.php) RW-CGY
 116. [Evan Bouchard](https://www.fantasypros.com/nhl/adp/evan-bouchard.php) D-EDM
-117. [Mats Zuccarello](https://www.fantasypros.com/nhl/adp/mats-zuccarello.php) RW-MIN
-118. [Trevor Zegras](https://www.fantasypros.com/nhl/adp/trevor-zegras-f.php) C-ANA
+117. [Michael Bunting](https://www.fantasypros.com/nhl/adp/michael-bunting.php) LW-TOR
+118. [Mats Zuccarello](https://www.fantasypros.com/nhl/adp/mats-zuccarello.php) RW-MIN
 119. [Cam Talbot](https://www.fantasypros.com/nhl/adp/cameron-talbot.php) G-OTT
-120. [Thomas Chabot](https://www.fantasypros.com/nhl/adp/thomas-chabot.php) D-OTT
-121. [Jonathan Marchessault](https://www.fantasypros.com/nhl/adp/jonathan-marchessault.php) C-VGK
+120. [Jonathan Marchessault](https://www.fantasypros.com/nhl/adp/jonathan-marchessault.php) C-VGK
+121. [Trevor Zegras](https://www.fantasypros.com/nhl/adp/trevor-zegras-f.php) C-ANA
 122. [Adrian Kempe](https://www.fantasypros.com/nhl/adp/adrian-kempe.php) C-LA
 123. [Brayden Schenn](https://www.fantasypros.com/nhl/adp/brayden-schenn.php) C-STL
-124. [Jordan Binnington](https://www.fantasypros.com/nhl/adp/jordan-binnington.php) G-STL
-125. [Matt Boldy](https://www.fantasypros.com/nhl/adp/matthew-boldy.php) LW-MIN
-126. [Robert Thomas](https://www.fantasypros.com/nhl/adp/robert-thomas.php) C-STL
-127. [Owen Power](https://www.fantasypros.com/nhl/adp/owen-power.php) D-BUF
+124. [Matt Boldy](https://www.fantasypros.com/nhl/adp/matthew-boldy.php) LW-MIN
+125. [Jordan Binnington](https://www.fantasypros.com/nhl/adp/jordan-binnington.php) G-STL
+126. [Owen Power](https://www.fantasypros.com/nhl/adp/owen-power.php) D-BUF
+127. [Robert Thomas](https://www.fantasypros.com/nhl/adp/robert-thomas.php) C-STL
 128. [Cole Caufield](https://www.fantasypros.com/nhl/adp/cole-caufield.php) RW-MTL
 129. [Justin Faulk](https://www.fantasypros.com/nhl/adp/justin-faulk.php) D-STL
 130. [Ilya Samsonov](https://www.fantasypros.com/nhl/adp/ilya-samsonov.php) G-TOR
@@ -151,93 +151,93 @@ All information contained in this file should be utilized with caution as the ra
 139. [Tony DeAngelo](https://www.fantasypros.com/nhl/adp/anthony-deangelo.php) D-PHI
 140. [Josh Morrissey](https://www.fantasypros.com/nhl/adp/josh-morrissey.php) D-WPG
 141. [Zach Hyman](https://www.fantasypros.com/nhl/adp/zach-hyman.php) LW-EDM
-142. [Bo Horvat](https://www.fantasypros.com/nhl/adp/bo-horvat.php) C-VAN
-143. [Logan Couture](https://www.fantasypros.com/nhl/adp/logan-couture.php) C-SJ
-144. [Noah Hanifin](https://www.fantasypros.com/nhl/adp/noah-hanifin.php) D-CGY
-145. [Ville Husso](https://www.fantasypros.com/nhl/adp/ville-husso.php) G-DET
-146. [Jeff Petry](https://www.fantasypros.com/nhl/adp/jeff-petry.php) D-PIT
-147. [Anton Forsberg](https://www.fantasypros.com/nhl/adp/anton-forsberg.php) G-OTT
-148. [Shayne Gostisbehere](https://www.fantasypros.com/nhl/adp/shayne-gostisbehere.php) D-ARI
-149. [Matty Beniers](https://www.fantasypros.com/nhl/adp/matthew-beniers.php) C-SEA
+142. [Matty Beniers](https://www.fantasypros.com/nhl/adp/matthew-beniers.php) C-SEA
+143. [Jeff Petry](https://www.fantasypros.com/nhl/adp/jeff-petry.php) D-PIT
+144. [Bo Horvat](https://www.fantasypros.com/nhl/adp/bo-horvat.php) C-VAN
+145. [Noah Hanifin](https://www.fantasypros.com/nhl/adp/noah-hanifin.php) D-CGY
+146. [Ville Husso](https://www.fantasypros.com/nhl/adp/ville-husso.php) G-DET
+147. [Logan Couture](https://www.fantasypros.com/nhl/adp/logan-couture.php) C-SJ
+148. [Anton Forsberg](https://www.fantasypros.com/nhl/adp/anton-forsberg.php) G-OTT
+149. [Shayne Gostisbehere](https://www.fantasypros.com/nhl/adp/shayne-gostisbehere.php) D-ARI
 150. [Ryan O'Reilly](https://www.fantasypros.com/nhl/adp/ryan-oreilly.php) C-STL
 151. [Charlie McAvoy](https://www.fantasypros.com/nhl/adp/charlie-mcavoy.php) D-BOS
 152. [Jared Spurgeon](https://www.fantasypros.com/nhl/adp/jared-spurgeon.php) D-MIN
-153. [Oliver Bjorkstrand](https://www.fantasypros.com/nhl/adp/oliver-bjorkstrand.php) RW-SEA
-154. [Colton Parayko](https://www.fantasypros.com/nhl/adp/colton-parayko.php) D-STL
+153. [Colton Parayko](https://www.fantasypros.com/nhl/adp/colton-parayko.php) D-STL
+154. [Clayton Keller](https://www.fantasypros.com/nhl/adp/clayton-keller.php) RW-ARI
 155. [Radko Gudas](https://www.fantasypros.com/nhl/adp/radko-gudas.php) D-FLA
 156. [Boone Jenner](https://www.fantasypros.com/nhl/adp/boone-jenner.php) C-CBJ
 157. [Erik Karlsson](https://www.fantasypros.com/nhl/adp/erik-karlsson.php) D-SJ
-158. [Elvis Merzlikins](https://www.fantasypros.com/nhl/adp/elivs-merzlikins.php) G-CBJ
-159. [Alex Tuch](https://www.fantasypros.com/nhl/adp/alex-tuch.php) RW-BUF
-160. [Tyler Seguin](https://www.fantasypros.com/nhl/adp/tyler-seguin.php) C-DAL
-161. [Sam Bennett](https://www.fantasypros.com/nhl/adp/sam-bennett.php) C-FLA
-162. [Clayton Keller](https://www.fantasypros.com/nhl/adp/clayton-keller.php) RW-ARI
-163. [Ryan Nugent-Hopkins](https://www.fantasypros.com/nhl/adp/ryan-nugent-hopkins.php) C-EDM
+158. [Ryan Nugent-Hopkins](https://www.fantasypros.com/nhl/adp/ryan-nugent-hopkins.php) C-EDM
+159. [Elvis Merzlikins](https://www.fantasypros.com/nhl/adp/elivs-merzlikins.php) G-CBJ
+160. [Sam Bennett](https://www.fantasypros.com/nhl/adp/sam-bennett.php) C-FLA
+161. [Oliver Bjorkstrand](https://www.fantasypros.com/nhl/adp/oliver-bjorkstrand.php) RW-SEA
+162. [Alex Tuch](https://www.fantasypros.com/nhl/adp/alex-tuch.php) RW-BUF
+163. [Tyler Seguin](https://www.fantasypros.com/nhl/adp/tyler-seguin.php) C-DAL
 164. [Jake Sanderson](https://www.fantasypros.com/nhl/adp/jake-sanderson.php) D-OTT
 165. [Vincent Trocheck](https://www.fantasypros.com/nhl/adp/vincent-trocheck.php) C-NYR
 166. [Troy Terry](https://www.fantasypros.com/nhl/adp/troy-terry.php) C-ANA
 167. [Hampus Lindholm](https://www.fantasypros.com/nhl/adp/hampus-lindholm.php) D-BOS
 168. [John Gibson](https://www.fantasypros.com/nhl/adp/john-gibson.php) G-ANA
-169. [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) LW-NSH
-170. [Lucas Raymond](https://www.fantasypros.com/nhl/adp/lucas-raymond.php) LW-DET
-171. [Tyler Bertuzzi](https://www.fantasypros.com/nhl/adp/tyler-bertuzzi.php) LW-DET
-172. [Linus Ullmark](https://www.fantasypros.com/nhl/adp/linus-ullmark.php) G-BOS
+169. [Lucas Raymond](https://www.fantasypros.com/nhl/adp/lucas-raymond.php) LW-DET
+170. [Taylor Hall](https://www.fantasypros.com/nhl/adp/taylor-hall.php) LW-BOS
+171. [Linus Ullmark](https://www.fantasypros.com/nhl/adp/linus-ullmark.php) G-BOS
+172. [Tyler Bertuzzi](https://www.fantasypros.com/nhl/adp/tyler-bertuzzi.php) LW-DET
 173. [Brock Boeser](https://www.fantasypros.com/nhl/adp/brock-boeser.php) RW-VAN
-174. [Jaccob Slavin](https://www.fantasypros.com/nhl/adp/jaccob-slavin.php) D-CAR
-175. [Valeri Nichushkin](https://www.fantasypros.com/nhl/adp/valeri-nichushkin.php) RW-COL
-176. [Blake Wheeler](https://www.fantasypros.com/nhl/adp/blake-wheeler.php) RW-WPG
+174. [Valeri Nichushkin](https://www.fantasypros.com/nhl/adp/valeri-nichushkin.php) RW-COL
+175. [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) LW-NSH
+176. [Jaccob Slavin](https://www.fantasypros.com/nhl/adp/jaccob-slavin.php) D-CAR
 177. [David Perron](https://www.fantasypros.com/nhl/adp/david-perron.php) LW-DET
-178. [Phil Kessel](https://www.fantasypros.com/nhl/adp/phil-kessel.php) RW-VGK
-179. [Marco Rossi](https://www.fantasypros.com/nhl/adp/marco-rossi.php) C-MIN
-180. [Matt Murray](https://www.fantasypros.com/nhl/adp/matt-murray.php) G-TOR
+178. [Nico Hischier](https://www.fantasypros.com/nhl/adp/nico-hischier.php) C-NJ
+179. [Matt Murray](https://www.fantasypros.com/nhl/adp/matt-murray.php) G-TOR
+180. [Phil Kessel](https://www.fantasypros.com/nhl/adp/phil-kessel.php) RW-VGK
 181. [Neal Pionk](https://www.fantasypros.com/nhl/adp/neal-pionk.php) D-WPG
 182. [Ryan Hartman](https://www.fantasypros.com/nhl/adp/ryan-hartman.php) RW-MIN
-183. [Nico Hischier](https://www.fantasypros.com/nhl/adp/nico-hischier.php) C-NJ
-184. [Pavel Francouz](https://www.fantasypros.com/nhl/adp/pavel-francouz.php) G-COL
-185. [Taylor Hall](https://www.fantasypros.com/nhl/adp/taylor-hall.php) LW-BOS
-186. [Tyson Barrie](https://www.fantasypros.com/nhl/adp/tyson-barrie.php) D-EDM
-187. [Mathew Barzal](https://www.fantasypros.com/nhl/adp/mathew-barzal.php) C-NYI
+183. [Pavel Francouz](https://www.fantasypros.com/nhl/adp/pavel-francouz.php) G-COL
+184. [Marco Rossi](https://www.fantasypros.com/nhl/adp/marco-rossi.php) C-MIN
+185. [Tyson Barrie](https://www.fantasypros.com/nhl/adp/tyson-barrie.php) D-EDM
+186. [Mathew Barzal](https://www.fantasypros.com/nhl/adp/mathew-barzal.php) C-NYI
+187. [Blake Wheeler](https://www.fantasypros.com/nhl/adp/blake-wheeler.php) RW-WPG
 188. [David Krejci](https://www.fantasypros.com/nhl/adp/david-krejci.php) C-BOS
-189. [Ryan Pulock](https://www.fantasypros.com/nhl/adp/ryan-pulock.php) D-NYI
-190. [Cam Atkinson](https://www.fantasypros.com/nhl/adp/cam-atkinson.php) RW-PHI
+189. [Cam Atkinson](https://www.fantasypros.com/nhl/adp/cam-atkinson.php) RW-PHI
+190. [Ryan Pulock](https://www.fantasypros.com/nhl/adp/ryan-pulock.php) D-NYI
 191. [Damon Severson](https://www.fantasypros.com/nhl/adp/damon-severson.php) D-NJ
-192. [Travis Konecny](https://www.fantasypros.com/nhl/adp/travis-konecny.php) RW-PHI
-193. [Vince Dunn](https://www.fantasypros.com/nhl/adp/vince-dunn.php) D-SEA
-194. [Shane Wright](https://www.fantasypros.com/nhl/adp/shane-wright.php) C-SEA
-195. [Andrew Mangiapane](https://www.fantasypros.com/nhl/adp/andrew-mangiapane.php) LW-CGY
+192. [Andrew Mangiapane](https://www.fantasypros.com/nhl/adp/andrew-mangiapane.php) LW-CGY
+193. [Brock Nelson](https://www.fantasypros.com/nhl/adp/brock-nelson.php) C-NYI
+194. [Vince Dunn](https://www.fantasypros.com/nhl/adp/vince-dunn.php) D-SEA
+195. [Jeff Skinner](https://www.fantasypros.com/nhl/adp/jeff-skinner.php) LW-BUF
 196. [Filip Hronek](https://www.fantasypros.com/nhl/adp/filip-hronek.php) D-DET
-197. [Brock Nelson](https://www.fantasypros.com/nhl/adp/brock-nelson.php) C-NYI
-198. [Jeff Skinner](https://www.fantasypros.com/nhl/adp/jeff-skinner.php) LW-BUF
-199. [Victor Olofsson](https://www.fantasypros.com/nhl/adp/victor-olofsson.php) LW-BUF
+197. [Travis Konecny](https://www.fantasypros.com/nhl/adp/travis-konecny.php) RW-PHI
+198. [Victor Olofsson](https://www.fantasypros.com/nhl/adp/victor-olofsson.php) LW-BUF
+199. [Semyon Varlamov](https://www.fantasypros.com/nhl/adp/semyon-varlamov.php) G-NYI
 200. [Joel Eriksson Ek](https://www.fantasypros.com/nhl/adp/joel-eriksson-ek.php) C-MIN
-201. [Semyon Varlamov](https://www.fantasypros.com/nhl/adp/semyon-varlamov.php) G-NYI
-202. [Anton Lundell](https://www.fantasypros.com/nhl/adp/anton-lundell.php) C-FLA
-203. [Adam Larsson](https://www.fantasypros.com/nhl/adp/adam-larsson.php) D-SEA
-204. [Ryan Johansen](https://www.fantasypros.com/nhl/adp/ryan-johansen.php) C-NSH
-205. [Kevin Shattenkirk](https://www.fantasypros.com/nhl/adp/kevin-shattenkirk.php) D-ANA
-206. [Peyton Krebs](https://www.fantasypros.com/nhl/adp/peyton-krebs.php) LW-BUF
-207. [Filip Chytil](https://www.fantasypros.com/nhl/adp/filip-chytil.php) C-NYR
-208. [Vladislav Gavrikov](https://www.fantasypros.com/nhl/adp/vladislav-gavrikov.php) D-CBJ
-209. [Philipp Grubauer](https://www.fantasypros.com/nhl/adp/philipp-grubauer.php) G-SEA
-210. [Jack Roslovic](https://www.fantasypros.com/nhl/adp/jack-roslovic.php) C-CBJ
-211. [Sean Couturier](https://www.fantasypros.com/nhl/adp/sean-couturier.php) C-PHI
-212. [T.J. Oshie](https://www.fantasypros.com/nhl/adp/tj-oshie.php) C-WSH
-213. [Andre Burakovsky](https://www.fantasypros.com/nhl/adp/andre-burakovsky.php) LW-SEA
+201. [Anton Lundell](https://www.fantasypros.com/nhl/adp/anton-lundell.php) C-FLA
+202. [Adam Larsson](https://www.fantasypros.com/nhl/adp/adam-larsson.php) D-SEA
+203. [Shane Wright](https://www.fantasypros.com/nhl/adp/shane-wright.php) C-SEA
+204. [Peyton Krebs](https://www.fantasypros.com/nhl/adp/peyton-krebs.php) LW-BUF
+205. [Ryan Johansen](https://www.fantasypros.com/nhl/adp/ryan-johansen.php) C-NSH
+206. [Filip Chytil](https://www.fantasypros.com/nhl/adp/filip-chytil.php) C-NYR
+207. [Philipp Grubauer](https://www.fantasypros.com/nhl/adp/philipp-grubauer.php) G-SEA
+208. [Kevin Shattenkirk](https://www.fantasypros.com/nhl/adp/kevin-shattenkirk.php) D-ANA
+209. [Jack Roslovic](https://www.fantasypros.com/nhl/adp/jack-roslovic.php) C-CBJ
+210. [Sean Couturier](https://www.fantasypros.com/nhl/adp/sean-couturier.php) C-PHI
+211. [T.J. Oshie](https://www.fantasypros.com/nhl/adp/tj-oshie.php) C-WSH
+212. [Andre Burakovsky](https://www.fantasypros.com/nhl/adp/andre-burakovsky.php) LW-SEA
+213. [Vladislav Gavrikov](https://www.fantasypros.com/nhl/adp/vladislav-gavrikov.php) D-CBJ
 214. [Vasily Podkolzin](https://www.fantasypros.com/nhl/adp/vasily-podkolzin.php) RW-VAN
 215. [Jakub Vrana](https://www.fantasypros.com/nhl/adp/jakub-vrana.php) LW-DET
 216. [Gustav Forsling](https://www.fantasypros.com/nhl/adp/forsling-gustav.php) D-FLA
 217. [Matt Dumba](https://www.fantasypros.com/nhl/adp/mathew-dumba.php) D-MIN
-218. [Esa Lindell](https://www.fantasypros.com/nhl/adp/esa-lindell.php) D-DAL
+218. [Ondrej Palat](https://www.fantasypros.com/nhl/adp/ondrej-palat.php) LW-NJ
 219. [Mark Giordano](https://www.fantasypros.com/nhl/adp/mark-giordano.php) D-TOR
-220. [Alexis Lafreniere](https://www.fantasypros.com/nhl/adp/alexis-lafreniere.php) LW-NYR
-221. [Rickard Rakell](https://www.fantasypros.com/nhl/adp/rickard-rakell.php) RW-PIT
+220. [Esa Lindell](https://www.fantasypros.com/nhl/adp/esa-lindell.php) D-DAL
+221. [Alexis Lafreniere](https://www.fantasypros.com/nhl/adp/alexis-lafreniere.php) LW-NYR
 222. [Yegor Sharangovich](https://www.fantasypros.com/nhl/adp/yegor-sharangovich.php) C-NJ
 223. [Jamie Benn](https://www.fantasypros.com/nhl/adp/jamie-benn.php) LW-DAL
-224. [Anders Lee](https://www.fantasypros.com/nhl/adp/anders-lee.php) LW-NYI
-225. [Ondrej Palat](https://www.fantasypros.com/nhl/adp/ondrej-palat.php) LW-NJ
-226. [Petr Mrazek](https://www.fantasypros.com/nhl/adp/petr-mrazek.php) G-CHI
-227. [Vitek Vanecek](https://www.fantasypros.com/nhl/adp/vitek-vanecek.php) G-NJ
-228. [Mason McTavish](https://www.fantasypros.com/nhl/adp/mason-mctavish.php) C-ANA
+224. [Rickard Rakell](https://www.fantasypros.com/nhl/adp/rickard-rakell.php) RW-PIT
+225. [Anders Lee](https://www.fantasypros.com/nhl/adp/anders-lee.php) LW-NYI
+226. [Vitek Vanecek](https://www.fantasypros.com/nhl/adp/vitek-vanecek.php) G-NJ
+227. [Mason McTavish](https://www.fantasypros.com/nhl/adp/mason-mctavish.php) C-ANA
+228. [Petr Mrazek](https://www.fantasypros.com/nhl/adp/petr-mrazek.php) G-CHI
 229. [Jakub Voracek](https://www.fantasypros.com/nhl/adp/jakub-voracek.php) RW-CBJ
 
 
@@ -247,13 +247,13 @@ All information contained in this file should be utilized with caution as the ra
 | :--- | :--- | :--- | :--- | :--- |
  | [Connor McDavid](https://www.fantasypros.com/nhl/adp/connor-mcdavid.php) | [Kirill Kaprizov](https://www.fantasypros.com/nhl/adp/kirill-kaprizov.php) | [Igor Shesterkin](https://www.fantasypros.com/nhl/adp/igor-shesterkin.php) | [Cale Makar](https://www.fantasypros.com/nhl/adp/cale-makar.php) | [Nikita Kucherov](https://www.fantasypros.com/nhl/adp/nikita-kucherov.php)
  | [Leon Draisaitl](https://www.fantasypros.com/nhl/adp/leon-draisaitl.php) | [Alex Ovechkin](https://www.fantasypros.com/nhl/adp/alex-ovechkin.php) | [Andrei Vasilevskiy](https://www.fantasypros.com/nhl/adp/andrei-vasilevskiy.php) | [Victor Hedman](https://www.fantasypros.com/nhl/adp/victor-hedman.php) | [Mikko Rantanen](https://www.fantasypros.com/nhl/adp/mikko-rantanen.php)
- | [Auston Matthews](https://www.fantasypros.com/nhl/adp/auston-matthews.php) | [Matthew Tkachuk](https://www.fantasypros.com/nhl/adp/matthew-tkachuk.php) | [Ilya Sorokin](https://www.fantasypros.com/nhl/adp/ilya-sorokin.php) | [Roman Josi](https://www.fantasypros.com/nhl/adp/roman-josi.php) | [Mitch Marner](https://www.fantasypros.com/nhl/adp/mitchell-marner.php)
- | [Nathan MacKinnon](https://www.fantasypros.com/nhl/adp/nathan-mackinnon.php) | [Jonathan Huberdeau](https://www.fantasypros.com/nhl/adp/jonathan-huberdeau.php) | [Jacob Markstrom](https://www.fantasypros.com/nhl/adp/jacob-markstrom.php) | [Adam Fox](https://www.fantasypros.com/nhl/adp/adam-fox.php) | [David Pastrnak](https://www.fantasypros.com/nhl/adp/david-pastrnak.php)
+ | [Auston Matthews](https://www.fantasypros.com/nhl/adp/auston-matthews.php) | [Matthew Tkachuk](https://www.fantasypros.com/nhl/adp/matthew-tkachuk.php) | [Jacob Markstrom](https://www.fantasypros.com/nhl/adp/jacob-markstrom.php) | [Roman Josi](https://www.fantasypros.com/nhl/adp/roman-josi.php) | [Mitch Marner](https://www.fantasypros.com/nhl/adp/mitchell-marner.php)
+ | [Nathan MacKinnon](https://www.fantasypros.com/nhl/adp/nathan-mackinnon.php) | [Jonathan Huberdeau](https://www.fantasypros.com/nhl/adp/jonathan-huberdeau.php) | [Ilya Sorokin](https://www.fantasypros.com/nhl/adp/ilya-sorokin.php) | [Adam Fox](https://www.fantasypros.com/nhl/adp/adam-fox.php) | [David Pastrnak](https://www.fantasypros.com/nhl/adp/david-pastrnak.php)
  | [Aleksander Barkov Jr.](https://www.fantasypros.com/nhl/adp/aleksander-barkov.php) | [Kyle Connor](https://www.fantasypros.com/nhl/adp/kyle-connor.php) | [Juuse Saros](https://www.fantasypros.com/nhl/adp/juuse-saros.php) | [Moritz Seider](https://www.fantasypros.com/nhl/adp/moritz-seider.php) | [Timo Meier](https://www.fantasypros.com/nhl/adp/timo-meier.php)
  | [Steven Stamkos](https://www.fantasypros.com/nhl/adp/steven-stamkos.php) | [Brady Tkachuk](https://www.fantasypros.com/nhl/adp/brady-tkachuk.php) | [Jake Oettinger](https://www.fantasypros.com/nhl/adp/jake-oettinger.php) | [John Carlson](https://www.fantasypros.com/nhl/adp/john-carlson.php) | [Andrei Svechnikov](https://www.fantasypros.com/nhl/adp/andrei-svechnikov.php)
- | [Sidney Crosby](https://www.fantasypros.com/nhl/adp/sidney-crosby.php) | [Johnny Gaudreau](https://www.fantasypros.com/nhl/adp/johnny-gaudreau.php) | [Tristan Jarry](https://www.fantasypros.com/nhl/adp/tristan-jarry.php) | [Aaron Ekblad](https://www.fantasypros.com/nhl/adp/aaron-ekblad.php) | [Vladimir Tarasenko](https://www.fantasypros.com/nhl/adp/vladimir-tarasenko.php)
- | [Mika Zibanejad](https://www.fantasypros.com/nhl/adp/mika-zibanejad.php) | [Jake Guentzel](https://www.fantasypros.com/nhl/adp/jake-guentzel.php) | [Frederik Andersen](https://www.fantasypros.com/nhl/adp/frederik-andersen.php) | [Kris Letang](https://www.fantasypros.com/nhl/adp/kris-letang.php) | [Patrick Kane](https://www.fantasypros.com/nhl/adp/patrick-kane.php)
- | [J.T. Miller](https://www.fantasypros.com/nhl/adp/jt-miller.php) | [Artemi Panarin](https://www.fantasypros.com/nhl/adp/artemi-panarin.php) | [Connor Hellebuyck](https://www.fantasypros.com/nhl/adp/connor-hellebuyck.php) | [Morgan Rielly](https://www.fantasypros.com/nhl/adp/morgan-rielly.php) | [William Nylander](https://www.fantasypros.com/nhl/adp/william-nylander.php)
+ | [Sidney Crosby](https://www.fantasypros.com/nhl/adp/sidney-crosby.php) | [Jake Guentzel](https://www.fantasypros.com/nhl/adp/jake-guentzel.php) | [Tristan Jarry](https://www.fantasypros.com/nhl/adp/tristan-jarry.php) | [Aaron Ekblad](https://www.fantasypros.com/nhl/adp/aaron-ekblad.php) | [Vladimir Tarasenko](https://www.fantasypros.com/nhl/adp/vladimir-tarasenko.php)
+ | [Mika Zibanejad](https://www.fantasypros.com/nhl/adp/mika-zibanejad.php) | [Johnny Gaudreau](https://www.fantasypros.com/nhl/adp/johnny-gaudreau.php) | [Connor Hellebuyck](https://www.fantasypros.com/nhl/adp/connor-hellebuyck.php) | [Kris Letang](https://www.fantasypros.com/nhl/adp/kris-letang.php) | [Patrick Kane](https://www.fantasypros.com/nhl/adp/patrick-kane.php)
+ | [J.T. Miller](https://www.fantasypros.com/nhl/adp/jt-miller.php) | [Artemi Panarin](https://www.fantasypros.com/nhl/adp/artemi-panarin.php) | [Frederik Andersen](https://www.fantasypros.com/nhl/adp/frederik-andersen.php) | [Morgan Rielly](https://www.fantasypros.com/nhl/adp/morgan-rielly.php) | [William Nylander](https://www.fantasypros.com/nhl/adp/william-nylander.php)
  | [Sebastian Aho](https://www.fantasypros.com/nhl/adp/sebastian-aho.php) | [Alex DeBrincat](https://www.fantasypros.com/nhl/adp/alex-debrincat.php) | [Jack Campbell](https://www.fantasypros.com/nhl/adp/jack-campbell.php) | [Quinn Hughes](https://www.fantasypros.com/nhl/adp/quinn-hughes.php) | [Mark Stone](https://www.fantasypros.com/nhl/adp/mark-stone.php)
  | [Elias Lindholm](https://www.fantasypros.com/nhl/adp/elias-lindholm.php) | [Chris Kreider](https://www.fantasypros.com/nhl/adp/chris-kreider.php) | [Darcy Kuemper](https://www.fantasypros.com/nhl/adp/darcy-kuemper.php) | [Brent Burns](https://www.fantasypros.com/nhl/adp/brent-burns.php) | [Claude Giroux](https://www.fantasypros.com/nhl/adp/claude-giroux.php)
  | [Jack Eichel](https://www.fantasypros.com/nhl/adp/jack-eichel.php) | [Gabriel Landeskog](https://www.fantasypros.com/nhl/adp/gabriel-landeskog.php) | [Thatcher Demko](https://www.fantasypros.com/nhl/adp/thatcher-demko.php) | [Alex Pietrangelo](https://www.fantasypros.com/nhl/adp/alex-pietrangelo.php) | [Drake Batherson](https://www.fantasypros.com/nhl/adp/drake-batherson.php)
@@ -261,50 +261,50 @@ All information contained in this file should be utilized with caution as the ra
  | [Jack Hughes](https://www.fantasypros.com/nhl/adp/jack-hughes.php) | [Filip Forsberg](https://www.fantasypros.com/nhl/adp/filip-forsberg.php) | [Sergei Bobrovsky](https://www.fantasypros.com/nhl/adp/sergei-bobrovsky.php) | [Rasmus Dahlin](https://www.fantasypros.com/nhl/adp/rasmus-dahlin.php) | [Bryan Rust](https://www.fantasypros.com/nhl/adp/bryan-rust.php)
  | [Sam Reinhart](https://www.fantasypros.com/nhl/adp/sam-reinhart.php) | [Jason Robertson](https://www.fantasypros.com/nhl/adp/jason-robertson.php) | [Spencer Knight](https://www.fantasypros.com/nhl/adp/spencer-knight.php) | [MacKenzie Weegar](https://www.fantasypros.com/nhl/adp/mackenzie-weegar.php) | [Tyler Toffoli](https://www.fantasypros.com/nhl/adp/tyler-toffoli.php)
  | [John Tavares](https://www.fantasypros.com/nhl/adp/john-tavares.php) | [Patrik Laine](https://www.fantasypros.com/nhl/adp/patrik-laine.php) | [Jeremy Swayman](https://www.fantasypros.com/nhl/adp/jeremy-swayman.php) | [Seth Jones](https://www.fantasypros.com/nhl/adp/seth-jones.php) | [Mats Zuccarello](https://www.fantasypros.com/nhl/adp/mats-zuccarello.php)
- | [Josh Norris](https://www.fantasypros.com/nhl/adp/josh-norris.php) | [Kevin Fiala](https://www.fantasypros.com/nhl/adp/kevin-fiala.php) | [Jonathan Quick](https://www.fantasypros.com/nhl/adp/jonathan-quick.php) | [Jacob Trouba](https://www.fantasypros.com/nhl/adp/jacob-trouba.php) | [Cole Caufield](https://www.fantasypros.com/nhl/adp/cole-caufield.php)
- | [Roope Hintz](https://www.fantasypros.com/nhl/adp/roope-hintz.php) | [Max Pacioretty](https://www.fantasypros.com/nhl/adp/max-pacioretty.php) | [Alexandar Georgiev](https://www.fantasypros.com/nhl/adp/alexandar-georgiev.php) | [Darnell Nurse](https://www.fantasypros.com/nhl/adp/darnell-nurse.php) | [Oliver Bjorkstrand](https://www.fantasypros.com/nhl/adp/oliver-bjorkstrand.php)
- | [Matt Duchene](https://www.fantasypros.com/nhl/adp/matt-duchene.php) | [Pavel Buchnevich](https://www.fantasypros.com/nhl/adp/pavel-buchnevich.php) | [Cam Talbot](https://www.fantasypros.com/nhl/adp/cameron-talbot.php) | [Dougie Hamilton](https://www.fantasypros.com/nhl/adp/dougie-hamilton.php) | [Alex Tuch](https://www.fantasypros.com/nhl/adp/alex-tuch.php)
- | [Evgeni Malkin](https://www.fantasypros.com/nhl/adp/evgeni-malkin.php) | [Nikolaj Ehlers](https://www.fantasypros.com/nhl/adp/nikolaj-ehlers.php) | [Jordan Binnington](https://www.fantasypros.com/nhl/adp/jordan-binnington.php) | [Devon Toews](https://www.fantasypros.com/nhl/adp/devon-toews.php) | [Clayton Keller](https://www.fantasypros.com/nhl/adp/clayton-keller.php)
+ | [Josh Norris](https://www.fantasypros.com/nhl/adp/josh-norris.php) | [Kevin Fiala](https://www.fantasypros.com/nhl/adp/kevin-fiala.php) | [Jonathan Quick](https://www.fantasypros.com/nhl/adp/jonathan-quick.php) | [Dougie Hamilton](https://www.fantasypros.com/nhl/adp/dougie-hamilton.php) | [Cole Caufield](https://www.fantasypros.com/nhl/adp/cole-caufield.php)
+ | [Matt Duchene](https://www.fantasypros.com/nhl/adp/matt-duchene.php) | [Max Pacioretty](https://www.fantasypros.com/nhl/adp/max-pacioretty.php) | [Alexandar Georgiev](https://www.fantasypros.com/nhl/adp/alexandar-georgiev.php) | [Darnell Nurse](https://www.fantasypros.com/nhl/adp/darnell-nurse.php) | [Clayton Keller](https://www.fantasypros.com/nhl/adp/clayton-keller.php)
+ | [Roope Hintz](https://www.fantasypros.com/nhl/adp/roope-hintz.php) | [Pavel Buchnevich](https://www.fantasypros.com/nhl/adp/pavel-buchnevich.php) | [Cam Talbot](https://www.fantasypros.com/nhl/adp/cameron-talbot.php) | [Jacob Trouba](https://www.fantasypros.com/nhl/adp/jacob-trouba.php) | [Oliver Bjorkstrand](https://www.fantasypros.com/nhl/adp/oliver-bjorkstrand.php)
+ | [Evgeni Malkin](https://www.fantasypros.com/nhl/adp/evgeni-malkin.php) | [Nikolaj Ehlers](https://www.fantasypros.com/nhl/adp/nikolaj-ehlers.php) | [Jordan Binnington](https://www.fantasypros.com/nhl/adp/jordan-binnington.php) | [Devon Toews](https://www.fantasypros.com/nhl/adp/devon-toews.php) | [Alex Tuch](https://www.fantasypros.com/nhl/adp/alex-tuch.php)
  | [Nazem Kadri](https://www.fantasypros.com/nhl/adp/nazem-kadri.php) | [Teuvo Teravainen](https://www.fantasypros.com/nhl/adp/teuvo-teravainen.php) | [Ilya Samsonov](https://www.fantasypros.com/nhl/adp/ilya-samsonov.php) | [Drew Doughty](https://www.fantasypros.com/nhl/adp/drew-doughty.php) | [Brock Boeser](https://www.fantasypros.com/nhl/adp/brock-boeser.php)
  | [Patrice Bergeron](https://www.fantasypros.com/nhl/adp/patrice-bergeron.php) | [Michael Bunting](https://www.fantasypros.com/nhl/adp/michael-bunting.php) | [Logan Thompson](https://www.fantasypros.com/nhl/adp/logan-thompson.php) | [Zach Werenski](https://www.fantasypros.com/nhl/adp/zachary-werenski.php) | [Valeri Nichushkin](https://www.fantasypros.com/nhl/adp/valeri-nichushkin.php)
- | [Evgeny Kuznetsov](https://www.fantasypros.com/nhl/adp/evgeny-kuznetsov.php) | [Matt Boldy](https://www.fantasypros.com/nhl/adp/matthew-boldy.php) | [Ville Husso](https://www.fantasypros.com/nhl/adp/ville-husso.php) | [Shea Theodore](https://www.fantasypros.com/nhl/adp/shea-theodore.php) | [Blake Wheeler](https://www.fantasypros.com/nhl/adp/blake-wheeler.php)
- | [Nick Suzuki](https://www.fantasypros.com/nhl/adp/nicholas-suzuki.php) | [Jesper Bratt](https://www.fantasypros.com/nhl/adp/jesper-bratt.php) | [Anton Forsberg](https://www.fantasypros.com/nhl/adp/anton-forsberg.php) | [Rasmus Andersson](https://www.fantasypros.com/nhl/adp/rasmus-andersson.php) | [Phil Kessel](https://www.fantasypros.com/nhl/adp/phil-kessel.php)
- | [Dylan Larkin](https://www.fantasypros.com/nhl/adp/dylan-larkin-c.php) | [Brad Marchand](https://www.fantasypros.com/nhl/adp/brad-marchand.php) | [Elvis Merzlikins](https://www.fantasypros.com/nhl/adp/elivs-merzlikins.php) | [Ivan Provorov](https://www.fantasypros.com/nhl/adp/ivan-provorov.php) | [Ryan Hartman](https://www.fantasypros.com/nhl/adp/ryan-hartman.php)
+ | [Evgeny Kuznetsov](https://www.fantasypros.com/nhl/adp/evgeny-kuznetsov.php) | [Matt Boldy](https://www.fantasypros.com/nhl/adp/matthew-boldy.php) | [Ville Husso](https://www.fantasypros.com/nhl/adp/ville-husso.php) | [Shea Theodore](https://www.fantasypros.com/nhl/adp/shea-theodore.php) | [Phil Kessel](https://www.fantasypros.com/nhl/adp/phil-kessel.php)
+ | [Nick Suzuki](https://www.fantasypros.com/nhl/adp/nicholas-suzuki.php) | [Jesper Bratt](https://www.fantasypros.com/nhl/adp/jesper-bratt.php) | [Anton Forsberg](https://www.fantasypros.com/nhl/adp/anton-forsberg.php) | [Rasmus Andersson](https://www.fantasypros.com/nhl/adp/rasmus-andersson.php) | [Ryan Hartman](https://www.fantasypros.com/nhl/adp/ryan-hartman.php)
+ | [Dylan Larkin](https://www.fantasypros.com/nhl/adp/dylan-larkin-c.php) | [Brad Marchand](https://www.fantasypros.com/nhl/adp/brad-marchand.php) | [Elvis Merzlikins](https://www.fantasypros.com/nhl/adp/elivs-merzlikins.php) | [Ivan Provorov](https://www.fantasypros.com/nhl/adp/ivan-provorov.php) | [Blake Wheeler](https://www.fantasypros.com/nhl/adp/blake-wheeler.php)
  | [Mark Scheifele](https://www.fantasypros.com/nhl/adp/mark-scheifele.php) | [Zach Hyman](https://www.fantasypros.com/nhl/adp/zach-hyman.php) | [John Gibson](https://www.fantasypros.com/nhl/adp/john-gibson.php) | [Miro Heiskanen](https://www.fantasypros.com/nhl/adp/miro-heiskanen.php) | [Cam Atkinson](https://www.fantasypros.com/nhl/adp/cam-atkinson.php)
- | [Pierre-Luc Dubois](https://www.fantasypros.com/nhl/adp/pierre-luc-dubois.php) | [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) | [Linus Ullmark](https://www.fantasypros.com/nhl/adp/linus-ullmark.php) | [Mikhail Sergachev](https://www.fantasypros.com/nhl/adp/mikhail-sergachev.php) | [Travis Konecny](https://www.fantasypros.com/nhl/adp/travis-konecny.php)
- | [Joe Pavelski](https://www.fantasypros.com/nhl/adp/joe-pavelski.php) | [Lucas Raymond](https://www.fantasypros.com/nhl/adp/lucas-raymond.php) | [Matt Murray](https://www.fantasypros.com/nhl/adp/matt-murray.php) | [Torey Krug](https://www.fantasypros.com/nhl/adp/torey-krug.php) | [Vasily Podkolzin](https://www.fantasypros.com/nhl/adp/vasily-podkolzin.php)
- | [Tim Stutzle](https://www.fantasypros.com/nhl/adp/tim-stutzle.php) | [Tyler Bertuzzi](https://www.fantasypros.com/nhl/adp/tyler-bertuzzi.php) | [Pavel Francouz](https://www.fantasypros.com/nhl/adp/pavel-francouz.php) | [Evan Bouchard](https://www.fantasypros.com/nhl/adp/evan-bouchard.php) | [Rickard Rakell](https://www.fantasypros.com/nhl/adp/rickard-rakell.php)
- | [Tomas Hertl](https://www.fantasypros.com/nhl/adp/tomas-hertl.php) | [David Perron](https://www.fantasypros.com/nhl/adp/david-perron.php) | [Semyon Varlamov](https://www.fantasypros.com/nhl/adp/semyon-varlamov.php) | [Thomas Chabot](https://www.fantasypros.com/nhl/adp/thomas-chabot.php) | [Jakub Voracek](https://www.fantasypros.com/nhl/adp/jakub-voracek.php)
- | [Anze Kopitar](https://www.fantasypros.com/nhl/adp/anze-kopitar.php) | [Taylor Hall](https://www.fantasypros.com/nhl/adp/taylor-hall.php) | [Philipp Grubauer](https://www.fantasypros.com/nhl/adp/philipp-grubauer.php) | [Owen Power](https://www.fantasypros.com/nhl/adp/owen-power.php) | -
- | [Jordan Kyrou](https://www.fantasypros.com/nhl/adp/jordan-kyrou.php) | [Andrew Mangiapane](https://www.fantasypros.com/nhl/adp/andrew-mangiapane.php) | [Petr Mrazek](https://www.fantasypros.com/nhl/adp/petr-mrazek.php) | [Justin Faulk](https://www.fantasypros.com/nhl/adp/justin-faulk.php) | -
- | [Trevor Zegras](https://www.fantasypros.com/nhl/adp/trevor-zegras-f.php) | [Jeff Skinner](https://www.fantasypros.com/nhl/adp/jeff-skinner.php) | [Vitek Vanecek](https://www.fantasypros.com/nhl/adp/vitek-vanecek.php) | [Bowen Byram](https://www.fantasypros.com/nhl/adp/bowen-byram.php) | -
- | [Jonathan Marchessault](https://www.fantasypros.com/nhl/adp/jonathan-marchessault.php) | [Victor Olofsson](https://www.fantasypros.com/nhl/adp/victor-olofsson.php) | - | [Alec Martinez](https://www.fantasypros.com/nhl/adp/alec-martinez.php) | -
+ | [Pierre-Luc Dubois](https://www.fantasypros.com/nhl/adp/pierre-luc-dubois.php) | [Lucas Raymond](https://www.fantasypros.com/nhl/adp/lucas-raymond.php) | [Linus Ullmark](https://www.fantasypros.com/nhl/adp/linus-ullmark.php) | [Thomas Chabot](https://www.fantasypros.com/nhl/adp/thomas-chabot.php) | [Travis Konecny](https://www.fantasypros.com/nhl/adp/travis-konecny.php)
+ | [Tim Stutzle](https://www.fantasypros.com/nhl/adp/tim-stutzle.php) | [Taylor Hall](https://www.fantasypros.com/nhl/adp/taylor-hall.php) | [Matt Murray](https://www.fantasypros.com/nhl/adp/matt-murray.php) | [Mikhail Sergachev](https://www.fantasypros.com/nhl/adp/mikhail-sergachev.php) | [Vasily Podkolzin](https://www.fantasypros.com/nhl/adp/vasily-podkolzin.php)
+ | [Joe Pavelski](https://www.fantasypros.com/nhl/adp/joe-pavelski.php) | [Tyler Bertuzzi](https://www.fantasypros.com/nhl/adp/tyler-bertuzzi.php) | [Pavel Francouz](https://www.fantasypros.com/nhl/adp/pavel-francouz.php) | [Torey Krug](https://www.fantasypros.com/nhl/adp/torey-krug.php) | [Rickard Rakell](https://www.fantasypros.com/nhl/adp/rickard-rakell.php)
+ | [Tomas Hertl](https://www.fantasypros.com/nhl/adp/tomas-hertl.php) | [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) | [Semyon Varlamov](https://www.fantasypros.com/nhl/adp/semyon-varlamov.php) | [Evan Bouchard](https://www.fantasypros.com/nhl/adp/evan-bouchard.php) | [Jakub Voracek](https://www.fantasypros.com/nhl/adp/jakub-voracek.php)
+ | [Anze Kopitar](https://www.fantasypros.com/nhl/adp/anze-kopitar.php) | [David Perron](https://www.fantasypros.com/nhl/adp/david-perron.php) | [Philipp Grubauer](https://www.fantasypros.com/nhl/adp/philipp-grubauer.php) | [Owen Power](https://www.fantasypros.com/nhl/adp/owen-power.php) | -
+ | [Jordan Kyrou](https://www.fantasypros.com/nhl/adp/jordan-kyrou.php) | [Andrew Mangiapane](https://www.fantasypros.com/nhl/adp/andrew-mangiapane.php) | [Vitek Vanecek](https://www.fantasypros.com/nhl/adp/vitek-vanecek.php) | [Justin Faulk](https://www.fantasypros.com/nhl/adp/justin-faulk.php) | -
+ | [Jonathan Marchessault](https://www.fantasypros.com/nhl/adp/jonathan-marchessault.php) | [Jeff Skinner](https://www.fantasypros.com/nhl/adp/jeff-skinner.php) | [Petr Mrazek](https://www.fantasypros.com/nhl/adp/petr-mrazek.php) | [Bowen Byram](https://www.fantasypros.com/nhl/adp/bowen-byram.php) | -
+ | [Trevor Zegras](https://www.fantasypros.com/nhl/adp/trevor-zegras-f.php) | [Victor Olofsson](https://www.fantasypros.com/nhl/adp/victor-olofsson.php) | - | [Alec Martinez](https://www.fantasypros.com/nhl/adp/alec-martinez.php) | -
  | [Adrian Kempe](https://www.fantasypros.com/nhl/adp/adrian-kempe.php) | [Peyton Krebs](https://www.fantasypros.com/nhl/adp/peyton-krebs.php) | - | [Jakob Chychrun](https://www.fantasypros.com/nhl/adp/jakob-chychrun.php) | -
  | [Brayden Schenn](https://www.fantasypros.com/nhl/adp/brayden-schenn.php) | [Andre Burakovsky](https://www.fantasypros.com/nhl/adp/andre-burakovsky.php) | - | [John Klingberg](https://www.fantasypros.com/nhl/adp/john-klingberg.php) | -
  | [Robert Thomas](https://www.fantasypros.com/nhl/adp/robert-thomas.php) | [Jakub Vrana](https://www.fantasypros.com/nhl/adp/jakub-vrana.php) | - | [Tony DeAngelo](https://www.fantasypros.com/nhl/adp/anthony-deangelo.php) | -
- | [Brayden Point](https://www.fantasypros.com/nhl/adp/brayden-point.php) | [Alexis Lafreniere](https://www.fantasypros.com/nhl/adp/alexis-lafreniere.php) | - | [Josh Morrissey](https://www.fantasypros.com/nhl/adp/josh-morrissey.php) | -
+ | [Brayden Point](https://www.fantasypros.com/nhl/adp/brayden-point.php) | [Ondrej Palat](https://www.fantasypros.com/nhl/adp/ondrej-palat.php) | - | [Josh Morrissey](https://www.fantasypros.com/nhl/adp/josh-morrissey.php) | -
+ | [Matty Beniers](https://www.fantasypros.com/nhl/adp/matthew-beniers.php) | [Alexis Lafreniere](https://www.fantasypros.com/nhl/adp/alexis-lafreniere.php) | - | [Jeff Petry](https://www.fantasypros.com/nhl/adp/jeff-petry.php) | -
  | [Bo Horvat](https://www.fantasypros.com/nhl/adp/bo-horvat.php) | [Jamie Benn](https://www.fantasypros.com/nhl/adp/jamie-benn.php) | - | [Noah Hanifin](https://www.fantasypros.com/nhl/adp/noah-hanifin.php) | -
- | [Logan Couture](https://www.fantasypros.com/nhl/adp/logan-couture.php) | [Anders Lee](https://www.fantasypros.com/nhl/adp/anders-lee.php) | - | [Jeff Petry](https://www.fantasypros.com/nhl/adp/jeff-petry.php) | -
- | [Matty Beniers](https://www.fantasypros.com/nhl/adp/matthew-beniers.php) | [Ondrej Palat](https://www.fantasypros.com/nhl/adp/ondrej-palat.php) | - | [Shayne Gostisbehere](https://www.fantasypros.com/nhl/adp/shayne-gostisbehere.php) | -
+ | [Logan Couture](https://www.fantasypros.com/nhl/adp/logan-couture.php) | [Anders Lee](https://www.fantasypros.com/nhl/adp/anders-lee.php) | - | [Shayne Gostisbehere](https://www.fantasypros.com/nhl/adp/shayne-gostisbehere.php) | -
  | [Ryan O'Reilly](https://www.fantasypros.com/nhl/adp/ryan-oreilly.php) | - | - | [Charlie McAvoy](https://www.fantasypros.com/nhl/adp/charlie-mcavoy.php) | -
  | [Boone Jenner](https://www.fantasypros.com/nhl/adp/boone-jenner.php) | - | - | [Jared Spurgeon](https://www.fantasypros.com/nhl/adp/jared-spurgeon.php) | -
- | [Tyler Seguin](https://www.fantasypros.com/nhl/adp/tyler-seguin.php) | - | - | [Colton Parayko](https://www.fantasypros.com/nhl/adp/colton-parayko.php) | -
+ | [Ryan Nugent-Hopkins](https://www.fantasypros.com/nhl/adp/ryan-nugent-hopkins.php) | - | - | [Colton Parayko](https://www.fantasypros.com/nhl/adp/colton-parayko.php) | -
  | [Sam Bennett](https://www.fantasypros.com/nhl/adp/sam-bennett.php) | - | - | [Radko Gudas](https://www.fantasypros.com/nhl/adp/radko-gudas.php) | -
- | [Ryan Nugent-Hopkins](https://www.fantasypros.com/nhl/adp/ryan-nugent-hopkins.php) | - | - | [Erik Karlsson](https://www.fantasypros.com/nhl/adp/erik-karlsson.php) | -
+ | [Tyler Seguin](https://www.fantasypros.com/nhl/adp/tyler-seguin.php) | - | - | [Erik Karlsson](https://www.fantasypros.com/nhl/adp/erik-karlsson.php) | -
  | [Vincent Trocheck](https://www.fantasypros.com/nhl/adp/vincent-trocheck.php) | - | - | [Jake Sanderson](https://www.fantasypros.com/nhl/adp/jake-sanderson.php) | -
  | [Troy Terry](https://www.fantasypros.com/nhl/adp/troy-terry.php) | - | - | [Hampus Lindholm](https://www.fantasypros.com/nhl/adp/hampus-lindholm.php) | -
- | [Marco Rossi](https://www.fantasypros.com/nhl/adp/marco-rossi.php) | - | - | [Jaccob Slavin](https://www.fantasypros.com/nhl/adp/jaccob-slavin.php) | -
- | [Nico Hischier](https://www.fantasypros.com/nhl/adp/nico-hischier.php) | - | - | [Neal Pionk](https://www.fantasypros.com/nhl/adp/neal-pionk.php) | -
+ | [Nico Hischier](https://www.fantasypros.com/nhl/adp/nico-hischier.php) | - | - | [Jaccob Slavin](https://www.fantasypros.com/nhl/adp/jaccob-slavin.php) | -
+ | [Marco Rossi](https://www.fantasypros.com/nhl/adp/marco-rossi.php) | - | - | [Neal Pionk](https://www.fantasypros.com/nhl/adp/neal-pionk.php) | -
  | [Mathew Barzal](https://www.fantasypros.com/nhl/adp/mathew-barzal.php) | - | - | [Tyson Barrie](https://www.fantasypros.com/nhl/adp/tyson-barrie.php) | -
  | [David Krejci](https://www.fantasypros.com/nhl/adp/david-krejci.php) | - | - | [Ryan Pulock](https://www.fantasypros.com/nhl/adp/ryan-pulock.php) | -
- | [Shane Wright](https://www.fantasypros.com/nhl/adp/shane-wright.php) | - | - | [Damon Severson](https://www.fantasypros.com/nhl/adp/damon-severson.php) | -
- | [Brock Nelson](https://www.fantasypros.com/nhl/adp/brock-nelson.php) | - | - | [Vince Dunn](https://www.fantasypros.com/nhl/adp/vince-dunn.php) | -
- | [Joel Eriksson Ek](https://www.fantasypros.com/nhl/adp/joel-eriksson-ek.php) | - | - | [Filip Hronek](https://www.fantasypros.com/nhl/adp/filip-hronek.php) | -
- | [Anton Lundell](https://www.fantasypros.com/nhl/adp/anton-lundell.php) | - | - | [Adam Larsson](https://www.fantasypros.com/nhl/adp/adam-larsson.php) | -
+ | [Brock Nelson](https://www.fantasypros.com/nhl/adp/brock-nelson.php) | - | - | [Damon Severson](https://www.fantasypros.com/nhl/adp/damon-severson.php) | -
+ | [Joel Eriksson Ek](https://www.fantasypros.com/nhl/adp/joel-eriksson-ek.php) | - | - | [Vince Dunn](https://www.fantasypros.com/nhl/adp/vince-dunn.php) | -
+ | [Anton Lundell](https://www.fantasypros.com/nhl/adp/anton-lundell.php) | - | - | [Filip Hronek](https://www.fantasypros.com/nhl/adp/filip-hronek.php) | -
+ | [Shane Wright](https://www.fantasypros.com/nhl/adp/shane-wright.php) | - | - | [Adam Larsson](https://www.fantasypros.com/nhl/adp/adam-larsson.php) | -
  | [Ryan Johansen](https://www.fantasypros.com/nhl/adp/ryan-johansen.php) | - | - | [Kevin Shattenkirk](https://www.fantasypros.com/nhl/adp/kevin-shattenkirk.php) | -
  | [Filip Chytil](https://www.fantasypros.com/nhl/adp/filip-chytil.php) | - | - | [Vladislav Gavrikov](https://www.fantasypros.com/nhl/adp/vladislav-gavrikov.php) | -
  | [Jack Roslovic](https://www.fantasypros.com/nhl/adp/jack-roslovic.php) | - | - | [Gustav Forsling](https://www.fantasypros.com/nhl/adp/forsling-gustav.php) | -
  | [Sean Couturier](https://www.fantasypros.com/nhl/adp/sean-couturier.php) | - | - | [Matt Dumba](https://www.fantasypros.com/nhl/adp/mathew-dumba.php) | -
- | [T.J. Oshie](https://www.fantasypros.com/nhl/adp/tj-oshie.php) | - | - | [Esa Lindell](https://www.fantasypros.com/nhl/adp/esa-lindell.php) | -
- | [Yegor Sharangovich](https://www.fantasypros.com/nhl/adp/yegor-sharangovich.php) | - | - | [Mark Giordano](https://www.fantasypros.com/nhl/adp/mark-giordano.php) | -
+ | [T.J. Oshie](https://www.fantasypros.com/nhl/adp/tj-oshie.php) | - | - | [Mark Giordano](https://www.fantasypros.com/nhl/adp/mark-giordano.php) | -
+ | [Yegor Sharangovich](https://www.fantasypros.com/nhl/adp/yegor-sharangovich.php) | - | - | [Esa Lindell](https://www.fantasypros.com/nhl/adp/esa-lindell.php) | -
  | [Mason McTavish](https://www.fantasypros.com/nhl/adp/mason-mctavish.php) | - | - | - | -
