@@ -318,7 +318,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 314. [Ke'Shawn Vaughn](https://www.fantasypros.com/nfl/players/keshawn-vaughn.php) RB-TB
 315. [Jacksonville Jaguars](https://www.fantasypros.com/nfl/players/jacksonville-defense.php) DST-JAC
 316. [Darius Slayton](https://www.fantasypros.com/nfl/players/darius-slayton.php) WR-NYG
-317. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-SF
+317. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-FA
 318. [Kenny Pickett](https://www.fantasypros.com/nfl/players/kenny-pickett.php) QB-PIT
 319. [Geno Smith](https://www.fantasypros.com/nfl/players/geno-smith.php) QB-SEA
 320. [Ty Johnson](https://www.fantasypros.com/nfl/players/ty-johnson.php) RB-NYJ

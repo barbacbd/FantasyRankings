@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 10/11/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 10/12/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -18,8 +18,8 @@ All information contained in this file should be utilized with caution as the ra
 6. [Jayson Tatum](https://www.fantasypros.com/nba/players/jayson-tatum.php?week=draft) SF,PF-BOS
 7. [KarlAnthony Towns](https://www.fantasypros.com/nba/players/karl-anthony-towns.php?week=draft) C-MIN
 8. [James Harden](https://www.fantasypros.com/nba/players/james-harden.php?week=draft) PG,SG-PHI
-9. [Trae Young](https://www.fantasypros.com/nba/players/trae-young.php?week=draft) PG-ATL
-10. [Stephen Curry](https://www.fantasypros.com/nba/players/stephen-curry.php?week=draft) PG,SG-GSW
+9. [Stephen Curry](https://www.fantasypros.com/nba/players/stephen-curry.php?week=draft) PG,SG-GSW
+10. [Trae Young](https://www.fantasypros.com/nba/players/trae-young.php?week=draft) PG-ATL
 11. [LaMelo Ball](https://www.fantasypros.com/nba/players/lamelo-ball.php?week=draft) PG,SG-CHA
 12. [Tyrese Haliburton](https://www.fantasypros.com/nba/players/tyrese-haliburton.php?week=draft) PG,SG-IND
 13. [Damian Lillard](https://www.fantasypros.com/nba/players/damian-lillard.php?week=draft) PG-POR
