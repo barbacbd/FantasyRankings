@@ -326,7 +326,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 322. [William Fuller V](https://www.fantasypros.com/nfl/players/will-fuller.php) WR-FA
 323. [O.J. Howard](https://www.fantasypros.com/nfl/players/oj-howard.php) TE-HOU
 324. [Dyami Brown](https://www.fantasypros.com/nfl/players/dyami-brown.php) WR-WAS
-325. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-FA
+325. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-SF
 326. [Jimmy Garoppolo](https://www.fantasypros.com/nfl/players/jimmy-garoppolo.php) QB-SF
 327. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
 328. [Quintez Cephus](https://www.fantasypros.com/nfl/players/quintez-cephus.php) WR-DET

@@ -312,7 +312,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 308. [Tyler Conklin](https://www.fantasypros.com/nfl/players/tyler-conklin.php) TE-NYJ
 309. [Ka'imi Fairbairn](https://www.fantasypros.com/nfl/players/kaimi-fairbairn.php) K-HOU
 310. [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) WR-DET
-311. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-FA
+311. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-SF
 312. [Dontrell Hilliard](https://www.fantasypros.com/nfl/players/dontrell-hilliard.php) RB-TEN
 313. [Odell Beckham Jr.](https://www.fantasypros.com/nfl/players/odell-beckham.php) WR-FA
 314. [William Fuller V](https://www.fantasypros.com/nfl/players/will-fuller.php) WR-FA
