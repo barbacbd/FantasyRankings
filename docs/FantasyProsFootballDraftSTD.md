@@ -110,7 +110,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 106. [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) QB-MIN
 107. [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) RB-LAR
 108. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-LV
-109. [Ken Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
+109. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
 110. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
 111. [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) TE-CHI
 112. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
@@ -396,7 +396,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
  | [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) | [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) | [Daniel Bellinger](https://www.fantasypros.com/nfl/players/daniel-bellinger.php) | [Jimmy Garoppolo](https://www.fantasypros.com/nfl/players/jimmy-garoppolo.php) | - | -
  | [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) | [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) | [Tyler Conklin](https://www.fantasypros.com/nfl/players/tyler-conklin.php) | [Desmond Ridder](https://www.fantasypros.com/nfl/players/desmond-ridder.php) | - | -
  | [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) | [Christian Kirk](https://www.fantasypros.com/nfl/players/christian-kirk.php) | [O.J. Howard](https://www.fantasypros.com/nfl/players/oj-howard.php) | - | - | -
- | [Ken Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) | [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) | [Greg Dulcich](https://www.fantasypros.com/nfl/players/greg-dulcich.php) | - | - | -
+ | [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) | [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) | [Greg Dulcich](https://www.fantasypros.com/nfl/players/greg-dulcich.php) | - | - | -
  | [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) | [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) | [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) | - | - | -
  | [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) | [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) | [Harrison Bryant](https://www.fantasypros.com/nfl/players/harrison-bryant.php) | - | - | -
  | [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) | [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) | [Tommy Tremble](https://www.fantasypros.com/nfl/players/tommy-tremble.php) | - | - | -

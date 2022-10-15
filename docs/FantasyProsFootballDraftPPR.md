@@ -115,7 +115,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 111. [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) QB-MIN
 112. [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) WR-NO
 113. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-LV
-114. [Ken Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
+114. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
 115. [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) WR-CIN
 116. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-PIT
 117. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
@@ -399,7 +399,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
  | [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) | [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) | [O.J. Howard](https://www.fantasypros.com/nfl/players/oj-howard.php) | - | - | -
  | [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) | [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) | [Tommy Tremble](https://www.fantasypros.com/nfl/players/tommy-tremble.php) | - | - | -
  | [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) | [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) | [Harrison Bryant](https://www.fantasypros.com/nfl/players/harrison-bryant.php) | - | - | -
- | [Ken Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) | [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) | [Donald Parham Jr.](https://www.fantasypros.com/nfl/players/donald-parham.php) | - | - | -
+ | [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) | [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) | [Donald Parham Jr.](https://www.fantasypros.com/nfl/players/donald-parham.php) | - | - | -
  | [J.D. McKissic](https://www.fantasypros.com/nfl/players/jd-mckissic.php) | [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) | [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) | - | - | -
  | [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) | [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) | - | - | - | -
  | [Kenneth Gainwell](https://www.fantasypros.com/nfl/players/kenneth-gainwell.php) | [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) | - | - | - | -

@@ -114,7 +114,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 110. [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) QB-MIN
 111. [Pat Freiermuth](https://www.fantasypros.com/nfl/players/pat-freiermuth.php) TE-PIT
 112. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-LV
-113. [Ken Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
+113. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
 114. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
 115. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-JAC
 116. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-IND
@@ -398,7 +398,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
  | [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) | [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) | [O.J. Howard](https://www.fantasypros.com/nfl/players/oj-howard.php) | - | - | -
  | [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) | [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) | [Greg Dulcich](https://www.fantasypros.com/nfl/players/greg-dulcich.php) | - | - | -
  | [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) | [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) | [Harrison Bryant](https://www.fantasypros.com/nfl/players/harrison-bryant.php) | - | - | -
- | [Ken Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) | [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) | [Tommy Tremble](https://www.fantasypros.com/nfl/players/tommy-tremble.php) | - | - | -
+ | [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) | [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) | [Tommy Tremble](https://www.fantasypros.com/nfl/players/tommy-tremble.php) | - | - | -
  | [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) | [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) | [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) | - | - | -
  | [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) | [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) | [Donald Parham Jr.](https://www.fantasypros.com/nfl/players/donald-parham.php) | - | - | -
  | [Kenneth Gainwell](https://www.fantasypros.com/nfl/players/kenneth-gainwell.php) | [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) | - | - | - | -
