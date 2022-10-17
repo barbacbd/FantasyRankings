@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/16/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/17/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -1167,7 +1167,7 @@ All information contained in this file should be utilized with caution as the ra
 1155. [Johneshwy](https://www.fantasypros.com/mlb/players/johneshwy-fargas.php?week=draft) CF-Fargas
 1156. [Trey](https://www.fantasypros.com/mlb/players/tommy-amburgey.php?week=draft) RF-Amburgey
 1157. [Yusniel Diaz](https://www.fantasypros.com/mlb/players/yusniel-diaz.php?week=draft) CF,RF-BAL
-1158. [Dillon Thomas](https://www.fantasypros.com/mlb/players/dillon-thomas.php?week=draft) LF,RF-LAA
+1158. [Dillon](https://www.fantasypros.com/mlb/players/dillon-thomas.php?week=draft) LF,RF-Thomas
 1159. [Gregory](https://www.fantasypros.com/mlb/players/gregory-polanco.php?week=draft) RF-Polanco
 1160. [Zack Short](https://www.fantasypros.com/mlb/players/zachary-short.php?week=draft) SS-DET
 1161. [JJ Bleday](https://www.fantasypros.com/mlb/players/jj-bleday.php?week=draft) CF,LF,RF-MIA
@@ -1222,7 +1222,7 @@ All information contained in this file should be utilized with caution as the ra
 1210. [Yolbert](https://www.fantasypros.com/mlb/players/yolbert-sanchez.php?week=draft) 2B,SS-Sanchez
 1211. [Domingo Leyba](https://www.fantasypros.com/mlb/players/domingo-leyba.php?week=draft) 2B,3B-SD
 1212. [Ryan Kreidler](https://www.fantasypros.com/mlb/players/ryan-kreidler.php?week=draft) 3B,SS-DET
-1213. [JT Riddle](https://www.fantasypros.com/mlb/players/jt-riddle.php?week=draft) SS-NYM
+1213. [JT](https://www.fantasypros.com/mlb/players/jt-riddle.php?week=draft) SS-Riddle
 1214. [Andrew Young](https://www.fantasypros.com/mlb/players/andrew-young.php?week=draft) 2B-WSH
 1215. [Trent Giambrone](https://www.fantasypros.com/mlb/players/trent-giambrone.php?week=draft) 2B-CHC
 1216. [Jake Hager](https://www.fantasypros.com/mlb/players/jake-hager.php?week=draft) 2B,3B-ARI
