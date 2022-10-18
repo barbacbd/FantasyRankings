@@ -168,7 +168,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 164. [K.J. Osborn](https://www.fantasypros.com/nfl/players/kj-osborn.php) WR-MIN
 165. [Ryan Tannehill](https://www.fantasypros.com/nfl/players/ryan-tannehill.php) QB-TEN
 166. [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) DST-IND
-167. [Robbie Anderson](https://www.fantasypros.com/nfl/players/robby-anderson.php) WR-CAR
+167. [Robbie Anderson](https://www.fantasypros.com/nfl/players/robby-anderson.php) WR-ARI
 168. [Isaiah McKenzie](https://www.fantasypros.com/nfl/players/isaiah-mckenzie.php) WR-BUF
 169. [Wan'Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php) WR-NYG
 170. [Corey Davis](https://www.fantasypros.com/nfl/players/corey-davis.php) WR-NYJ

@@ -186,7 +186,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 182. [New England Patriots](https://www.fantasypros.com/nfl/players/new-england-defense.php) DST-NE
 183. [Davis Mills](https://www.fantasypros.com/nfl/players/davis-mills.php) QB-HOU
 184. [Tyler Bass](https://www.fantasypros.com/nfl/players/tyler-bass.php) K-BUF
-185. [Robbie Anderson](https://www.fantasypros.com/nfl/players/robby-anderson.php) WR-CAR
+185. [Robbie Anderson](https://www.fantasypros.com/nfl/players/robby-anderson.php) WR-ARI
 186. [Isiah Pacheco](https://www.fantasypros.com/nfl/players/isiah-pacheco.php) RB-KC
 187. [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) RB-CAR
 188. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-JAC

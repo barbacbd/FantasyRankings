@@ -167,7 +167,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 163. [Daniel Jones](https://www.fantasypros.com/nfl/players/daniel-jones.php) QB-NYG
 164. [Buffalo Bills](https://www.fantasypros.com/nfl/players/buffalo-defense.php) DST-BUF
 165. [Wan'Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php) WR-NYG
-166. [Robbie Anderson](https://www.fantasypros.com/nfl/players/robby-anderson.php) WR-CAR
+166. [Robbie Anderson](https://www.fantasypros.com/nfl/players/robby-anderson.php) WR-ARI
 167. [Tampa Bay Buccaneers](https://www.fantasypros.com/nfl/players/tampa-bay-defense.php) DST-TB
 168. [Mac Jones](https://www.fantasypros.com/nfl/players/mac-jones.php) QB-NE
 169. [San Francisco 49ers](https://www.fantasypros.com/nfl/players/san-francisco-defense.php) DST-SF
