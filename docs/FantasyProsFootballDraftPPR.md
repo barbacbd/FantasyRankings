@@ -238,7 +238,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 234. [A.J. Green](https://www.fantasypros.com/nfl/players/aj-green.php) WR-ARI
 235. [Davis Mills](https://www.fantasypros.com/nfl/players/davis-mills.php) QB-HOU
 236. [Kendrick Bourne](https://www.fantasypros.com/nfl/players/kendrick-bourne.php) WR-NE
-237. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-FA
+237. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-ARI
 238. [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php) RB-CAR
 239. [Eno Benjamin](https://www.fantasypros.com/nfl/players/eno-benjamin.php) RB-ARI
 240. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-DEN

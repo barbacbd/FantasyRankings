@@ -242,7 +242,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 238. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-SF
 239. [Kenyan Drake](https://www.fantasypros.com/nfl/players/kenyan-drake.php) RB-BAL
 240. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-DEN
-241. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-FA
+241. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-ARI
 242. [Jason Sanders](https://www.fantasypros.com/nfl/players/jason-sanders.php) K-MIA
 243. [Nick Folk](https://www.fantasypros.com/nfl/players/nick-folk.php) K-NE
 244. [Younghoe Koo](https://www.fantasypros.com/nfl/players/younghoe-koo.php) K-ATL

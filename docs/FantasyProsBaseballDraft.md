@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/18/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/19/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -835,7 +835,7 @@ All information contained in this file should be utilized with caution as the ra
 823. [Shane Greene](https://www.fantasypros.com/mlb/players/shane-greene.php?week=draft) RP-NYY
 824. [Wander](https://www.fantasypros.com/mlb/players/wander-suero.php?week=draft) RP-Suero
 825. [Evan White](https://www.fantasypros.com/mlb/players/evan-white.php?week=draft) 1B-SEA
-826. [Alex Dickerson](https://www.fantasypros.com/mlb/players/alex-dickerson.php?week=draft) DH,LF-ATL
+826. [Alex](https://www.fantasypros.com/mlb/players/alex-dickerson.php?week=draft) DH,LF-Dickerson
 827. [Kyle](https://www.fantasypros.com/mlb/players/kyle-mcgowin.php?week=draft) RP-McGowin
 828. [Ryan Borucki](https://www.fantasypros.com/mlb/players/ryan-borucki.php?week=draft) RP-SEA
 829. [Justus Sheffield](https://www.fantasypros.com/mlb/players/justus-sheffield.php?week=draft) SP,RP-SEA
@@ -988,7 +988,7 @@ All information contained in this file should be utilized with caution as the ra
 976. [Chad Wallach](https://www.fantasypros.com/mlb/players/chad-wallach.php?week=draft) C-LAA
 977. [Anthony Bemboom](https://www.fantasypros.com/mlb/players/anthony-bemboom.php?week=draft) C-BAL
 978. [Mark Kolozsvary](https://www.fantasypros.com/mlb/players/mark-kolozsvary.php?week=draft) C-BAL
-979. [Ali Sanchez](https://www.fantasypros.com/mlb/players/ali-sanchez.php?week=draft) C-DET
+979. [Ali Sanchez](https://www.fantasypros.com/mlb/players/ali-sanchez.php?week=draft) C-PIT
 980. [Jaime Barria](https://www.fantasypros.com/mlb/players/jaime-barria.php?week=draft) RP,SP-LAA
 981. [Aaron Sanchez](https://www.fantasypros.com/mlb/players/aaron-sanchez.php?week=draft) RP,SP-MIN
 982. [Drew](https://www.fantasypros.com/mlb/players/drew-butera.php?week=draft) C-Butera
@@ -1156,7 +1156,7 @@ All information contained in this file should be utilized with caution as the ra
 1144. [Scott](https://www.fantasypros.com/mlb/players/scott-schebler.php?week=draft) CF,RF-Schebler
 1145. [Jose](https://www.fantasypros.com/mlb/players/jose-rondon.php?week=draft) RF-Rondon
 1146. [Jonathan](https://www.fantasypros.com/mlb/players/jd-davis-of.php?week=draft) CF-Davis
-1147. [Travis Demeritte](https://www.fantasypros.com/mlb/players/travis-demeritte.php?week=draft) 2B,LF,RF,SS-ATL
+1147. [Travis](https://www.fantasypros.com/mlb/players/travis-demeritte.php?week=draft) 2B,LF,RF,SS-Demeritte
 1148. [Hunter Owen](https://www.fantasypros.com/mlb/players/hunter-owen.php?week=draft) RF-PIT
 1149. [Rodolfo Castro](https://www.fantasypros.com/mlb/players/rodolfo-castro.php?week=draft) 2B,3B,SS-PIT
 1150. [Phillip Evans](https://www.fantasypros.com/mlb/players/phillip-evans.php?week=draft) 1B,3B,LF,RF-NYY
