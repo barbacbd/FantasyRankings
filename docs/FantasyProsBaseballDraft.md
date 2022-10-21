@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/20/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/21/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -701,7 +701,7 @@ All information contained in this file should be utilized with caution as the ra
 689. [Kolby Allard](https://www.fantasypros.com/mlb/players/kolby-allard.php?week=draft) SP,RP-TEX
 690. [Logan Allen](https://www.fantasypros.com/mlb/players/logan-allen.php?week=draft) RP,SP-COL
 691. [Dallas](https://www.fantasypros.com/mlb/players/dallas-keuchel.php?week=draft) SP-Keuchel
-692. [Danny Coulombe](https://www.fantasypros.com/mlb/players/dan-coulombe.php?week=draft) RP-MIN
+692. [Danny](https://www.fantasypros.com/mlb/players/dan-coulombe.php?week=draft) RP-Coulombe
 693. [Matt Strahm](https://www.fantasypros.com/mlb/players/matthew-strahm.php?week=draft) RP-BOS
 694. [Austin Voth](https://www.fantasypros.com/mlb/players/austin-voth.php?week=draft) RP,SP-BAL
 695. [Jay Jackson](https://www.fantasypros.com/mlb/players/jay-jackson.php?week=draft) RP-ATL
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -865,7 +865,7 @@ All information contained in this file should be utilized with caution as the ra
 853. [Juan](https://www.fantasypros.com/mlb/players/juan-minaya.php?week=draft) RP-Minaya
 854. [Jandel Gustave](https://www.fantasypros.com/mlb/players/jandel-francisco-gustave.php?week=draft) RP-MIL
 855. [Hunter Strickland](https://www.fantasypros.com/mlb/players/hunter-strickland.php?week=draft) RP-CIN
-856. [Jharel Cotton](https://www.fantasypros.com/mlb/players/jharel-cotton.php?week=draft) RP-SF
+856. [Jharel](https://www.fantasypros.com/mlb/players/jharel-cotton.php?week=draft) RP-Cotton
 857. [Tyler Alexander](https://www.fantasypros.com/mlb/players/tyler-alexander.php?week=draft) SP,RP-DET
 858. [Ryan Sherriff](https://www.fantasypros.com/mlb/players/ryan-sherriff.php?week=draft) RP-PHI
 859. [Andrew](https://www.fantasypros.com/mlb/players/andrew-miller.php?week=draft) RP-Miller
@@ -886,7 +886,7 @@ All information contained in this file should be utilized with caution as the ra
 874. [Tomas Nido](https://www.fantasypros.com/mlb/players/tomas-nido.php?week=draft) C-NYM
 875. [Austin](https://www.fantasypros.com/mlb/players/austin-davis.php?week=draft) RP,SP-Davis
 876. [Touki Toussaint](https://www.fantasypros.com/mlb/players/touki-toussaint.php?week=draft) RP,SP-LAA
-877. [Ryan Hendrix](https://www.fantasypros.com/mlb/players/ryan-hendrix.php?week=draft) RP-CIN
+877. [Ryan](https://www.fantasypros.com/mlb/players/ryan-hendrix.php?week=draft) RP-Hendrix
 878. [Brandon Kintzler](https://www.fantasypros.com/mlb/players/brandon-kintzler.php?week=draft) RP-SD
 879. [Miguel Del](https://www.fantasypros.com/mlb/players/miguel-del-pozo.php?week=draft) RP-Pozo
 880. [Joe Mantiply](https://www.fantasypros.com/mlb/players/joe-mantiply.php?week=draft) RP-ARI
