@@ -116,7 +116,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 112. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-LV
 113. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
 114. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
-115. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-JAC
+115. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-NYJ
 116. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-IND
 117. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-PIT
 118. [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) WR-CIN
@@ -327,7 +327,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 323. [Jimmy Garoppolo](https://www.fantasypros.com/nfl/players/jimmy-garoppolo.php) QB-SF
 324. [Dyami Brown](https://www.fantasypros.com/nfl/players/dyami-brown.php) WR-WAS
 325. [O.J. Howard](https://www.fantasypros.com/nfl/players/oj-howard.php) TE-HOU
-326. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-SF
+326. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-DEN
 327. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
 328. [Ty Montgomery](https://www.fantasypros.com/nfl/players/ty-montgomery.php) RB-NE
 329. [Jerome Ford](https://www.fantasypros.com/nfl/players/jerome-ford.php) RB-CLE

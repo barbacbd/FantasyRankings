@@ -120,7 +120,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 116. [Hunter Henry](https://www.fantasypros.com/nfl/players/hunter-henry.php) TE-NE
 117. [Justin Fields](https://www.fantasypros.com/nfl/players/justin-fields.php) QB-CHI
 118. [Tua Tagovailoa](https://www.fantasypros.com/nfl/players/tua-tagovailoa.php) QB-MIA
-119. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-JAC
+119. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-NYJ
 120. [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) WR-CIN
 121. [Marquez Valdes-Scantling](https://www.fantasypros.com/nfl/players/marquez-valdesscantling.php) WR-KC
 122. [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php) QB-JAC
@@ -313,7 +313,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 309. [Ka'imi Fairbairn](https://www.fantasypros.com/nfl/players/kaimi-fairbairn.php) K-HOU
 310. [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) WR-DET
 311. [Dontrell Hilliard](https://www.fantasypros.com/nfl/players/dontrell-hilliard.php) RB-TEN
-312. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-SF
+312. [Marlon Mack](https://www.fantasypros.com/nfl/players/marlon-mack.php) RB-DEN
 313. [Odell Beckham Jr.](https://www.fantasypros.com/nfl/players/odell-beckham.php) WR-FA
 314. [William Fuller V](https://www.fantasypros.com/nfl/players/will-fuller.php) WR-FA
 315. [Kyle Philips](https://www.fantasypros.com/nfl/players/kyle-philips.php) WR-TEN
