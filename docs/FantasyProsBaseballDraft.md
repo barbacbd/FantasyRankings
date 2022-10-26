@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/25/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/26/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -715,7 +715,7 @@ All information contained in this file should be utilized with caution as the ra
 703. [Ryan Helsley](https://www.fantasypros.com/mlb/players/ryan-helsley.php?week=draft) RP-STL
 704. [Sergio](https://www.fantasypros.com/mlb/players/sergio-romo.php?week=draft) RP-Romo
 705. [Stephen Piscotty](https://www.fantasypros.com/mlb/players/stephen-piscotty.php?week=draft) DH,LF,RF-CIN
-706. [Anthony Banda](https://www.fantasypros.com/mlb/players/anthony-banda.php?week=draft) RP-NYY
+706. [Anthony](https://www.fantasypros.com/mlb/players/anthony-banda.php?week=draft) RP-Banda
 707. [Jose Barrero](https://www.fantasypros.com/mlb/players/jose-barrero.php?week=draft) SS,CF-CIN
 708. [Ben Rortvedt](https://www.fantasypros.com/mlb/players/benjamin-rortvedt.php?week=draft) C-NYY
 709. [Trevor Larnach](https://www.fantasypros.com/mlb/players/trevor-larnach.php?week=draft) LF,RF-MIN
@@ -735,7 +735,7 @@ All information contained in this file should be utilized with caution as the ra
 723. [Eric](https://www.fantasypros.com/mlb/players/eric-thames.php?week=draft) 1B,RF-Thames
 724. [Jonah Heim](https://www.fantasypros.com/mlb/players/jonah-heim.php?week=draft) C,DH-TEX
 725. [Ryan Weathers](https://www.fantasypros.com/mlb/players/ryan-weathers.php?week=draft) SP,RP-SD
-726. [Jacob Barnes](https://www.fantasypros.com/mlb/players/jacob-barnes.php?week=draft) RP-NYY
+726. [Jacob](https://www.fantasypros.com/mlb/players/jacob-barnes.php?week=draft) RP-Barnes
 727. [Nick Anderson](https://www.fantasypros.com/mlb/players/nick-anderson.php?week=draft) RP-TB
 728. [Nick Nelson](https://www.fantasypros.com/mlb/players/nick-nelson.php?week=draft) RP-PHI
 729. [Konnor Pilkington](https://www.fantasypros.com/mlb/players/konnor-pilkington.php?week=draft) SP-CLE
@@ -1133,7 +1133,7 @@ All information contained in this file should be utilized with caution as the ra
 1121. [DJ Peters](https://www.fantasypros.com/mlb/players/dj-peters.php?week=draft) LF,CF,RF-WSH
 1122. [Josh Palacios](https://www.fantasypros.com/mlb/players/josh-palacios.php?week=draft) LF,RF-WSH
 1123. [Tucupita Marcano](https://www.fantasypros.com/mlb/players/tucupita-marcano.php?week=draft) 2B,LF-PIT
-1124. [Ronald Guzman](https://www.fantasypros.com/mlb/players/ronald-guzman.php?week=draft) 1B-NYY
+1124. [Ronald](https://www.fantasypros.com/mlb/players/ronald-guzman.php?week=draft) 1B-Guzman
 1125. [Donovan Casey](https://www.fantasypros.com/mlb/players/donovan-casey.php?week=draft) CF-WSH
 1126. [Justin](https://www.fantasypros.com/mlb/players/justin-smoak.php?week=draft) 1B-Smoak
 1127. [Ryan](https://www.fantasypros.com/mlb/players/ryan-mcbroom-1b.php?week=draft) 1B,DH,RF-McBroom
