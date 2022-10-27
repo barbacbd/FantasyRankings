@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 10/26/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 10/27/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -303,7 +303,7 @@ All information contained in this file should be utilized with caution as the ra
 291. [Omer Yurtseven](https://www.fantasypros.com/nba/players/omer-yurtseven.php?week=draft) C-MIA
 292. [Cody Zeller](https://www.fantasypros.com/nba/players/cody-zeller.php?week=draft) C-FA
 293. [Mark Williams](https://www.fantasypros.com/nba/players/mark-williams.php?week=draft) C-CHA
-294. [Moses Brown](https://www.fantasypros.com/nba/players/moses-brown.php?week=draft) C-CLE
+294. [Moses Brown](https://www.fantasypros.com/nba/players/moses-brown.php?week=draft) C-LAC
 295. [Trendon Watford](https://www.fantasypros.com/nba/players/trendon-watford.php?week=draft) SF,PF-POR
 296. [JaMychal Green](https://www.fantasypros.com/nba/players/jamychal-green.php?week=draft) PF,C-GSW
 297. [Santi Aldama](https://www.fantasypros.com/nba/players/santi-aldama.php?week=draft) PF,C-MEM
