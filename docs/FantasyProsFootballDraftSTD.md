@@ -105,7 +105,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 101. [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) WR-ARI
 102. [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) QB-GB
 103. [Matthew Stafford](https://www.fantasypros.com/nfl/players/matthew-stafford.php) QB-LAR
-104. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-NYG
+104. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-KC
 105. [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) WR-NO
 106. [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) QB-MIN
 107. [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) RB-LAR

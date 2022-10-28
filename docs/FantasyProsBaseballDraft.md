@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/27/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/28/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -547,7 +547,7 @@ All information contained in this file should be utilized with caution as the ra
 535. [Nick Ahmed](https://www.fantasypros.com/mlb/players/nick-ahmed.php?week=draft) SS-ARI
 536. [Yadiel Hernandez](https://www.fantasypros.com/mlb/players/yadiel-hernandez-of.php?week=draft) DH,LF,RF-WSH
 537. [Luis Cessa](https://www.fantasypros.com/mlb/players/luis-cessa.php?week=draft) RP,SP-CIN
-538. [Luke Weaver](https://www.fantasypros.com/mlb/players/luke-weaver.php?week=draft) RP,SP-KC
+538. [Luke Weaver](https://www.fantasypros.com/mlb/players/luke-weaver.php?week=draft) RP,SP-SEA
 539. [Greg](https://www.fantasypros.com/mlb/players/greg-holland.php?week=draft) RP-Holland
 540. [Kyle Muller](https://www.fantasypros.com/mlb/players/kyle-muller.php?week=draft) SP-ATL
 541. [Tommy La Stella](https://www.fantasypros.com/mlb/players/tommy-la-stella.php?week=draft) 2B,3B,DH-SF

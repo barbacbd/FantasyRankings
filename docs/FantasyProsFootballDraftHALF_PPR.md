@@ -107,7 +107,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 103. [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) RB-LAR
 104. [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) RB-BUF
 105. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
-106. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-NYG
+106. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-KC
 107. [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) TE-CHI
 108. [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) WR-ARI
 109. [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) WR-NO

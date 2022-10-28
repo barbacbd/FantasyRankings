@@ -109,7 +109,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 105. [Dawson Knox](https://www.fantasypros.com/nfl/players/dawson-knox.php) TE-BUF
 106. [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) TE-CHI
 107. [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) WR-ARI
-108. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-NYG
+108. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-KC
 109. [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) RB-BUF
 110. [Pat Freiermuth](https://www.fantasypros.com/nfl/players/pat-freiermuth.php) TE-PIT
 111. [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) QB-MIN
