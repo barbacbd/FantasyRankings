@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 10/28/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 10/29/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -263,7 +263,7 @@ All information contained in this file should be utilized with caution as the ra
 251. [Jalen McDaniels](https://www.fantasypros.com/nba/players/jalen-mcdaniels.php?week=draft) PF,C-CHA
 252. [Dewayne Dedmon](https://www.fantasypros.com/nba/players/dewayne-dedmon.php?week=draft) C-MIA
 253. [Hassan Whiteside](https://www.fantasypros.com/nba/players/hassan-whiteside.php?week=draft) PF,C-FA
-254. [Joshua Primo](https://www.fantasypros.com/nba/players/joshua-primo.php?week=draft) SG-SAS
+254. [Joshua Primo](https://www.fantasypros.com/nba/players/joshua-primo.php?week=draft) SG-FA
 255. [Danilo Gallinari](https://www.fantasypros.com/nba/players/danilo-gallinari.php?week=draft) SF,PF-BOS
 256. [Goran Dragic](https://www.fantasypros.com/nba/players/goran-dragic.php?week=draft) PG,SG-CHI
 257. [Josh Christopher](https://www.fantasypros.com/nba/players/josh-christopher.php?week=draft) SG-HOU

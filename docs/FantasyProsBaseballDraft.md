@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/28/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 10/29/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -982,7 +982,7 @@ All information contained in this file should be utilized with caution as the ra
 970. [David Bote](https://www.fantasypros.com/mlb/players/david-bote.php?week=draft) 1B,2B,3B-CHC
 971. [Dustin](https://www.fantasypros.com/mlb/players/dustin-garneau.php?week=draft) C-Garneau
 972. [Bryan Lavastida](https://www.fantasypros.com/mlb/players/bryan-lavastida.php?week=draft) C-CLE
-973. [Jose Godoy](https://www.fantasypros.com/mlb/players/jose-godoy.php?week=draft) C-PIT
+973. [Jose](https://www.fantasypros.com/mlb/players/jose-godoy.php?week=draft) C-Godoy
 974. [Dexter](https://www.fantasypros.com/mlb/players/dexter-fowler.php?week=draft) RF-Fowler
 975. [Connor Wong](https://www.fantasypros.com/mlb/players/connor-wong.php?week=draft) C-BOS
 976. [Chad Wallach](https://www.fantasypros.com/mlb/players/chad-wallach.php?week=draft) C-LAA
