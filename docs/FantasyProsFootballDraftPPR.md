@@ -53,7 +53,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 49. [Cam Akers](https://www.fantasypros.com/nfl/players/cam-akers.php) RB-LAR
 50. [Elijah Mitchell](https://www.fantasypros.com/nfl/players/elijah-mitchell-rb.php) RB-SF
 51. [DK Metcalf](https://www.fantasypros.com/nfl/players/dk-metcalf.php) WR-SEA
-52. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-MIA
+52. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-DEN
 53. [George Kittle](https://www.fantasypros.com/nfl/players/george-kittle.php) TE-SF
 54. [Marquise Brown](https://www.fantasypros.com/nfl/players/marquise-brown.php) WR-ARI
 55. [Darren Waller](https://www.fantasypros.com/nfl/players/darren-waller.php) TE-LV
@@ -86,7 +86,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 82. [Damien Harris](https://www.fantasypros.com/nfl/players/damien-harris-rb.php) RB-NE
 83. [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) RB-ATL
 84. [Russell Wilson](https://www.fantasypros.com/nfl/players/russell-wilson.php) QB-DEN
-85. [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) TE-DET
+85. [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) TE-MIN
 86. [Tom Brady](https://www.fantasypros.com/nfl/players/tom-brady.php) QB-TB
 87. [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) RB-BUF
 88. [Brandon Aiyuk](https://www.fantasypros.com/nfl/players/brandon-aiyuk.php) WR-SF
@@ -102,7 +102,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 98. [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) WR-SEA
 99. [Matthew Stafford](https://www.fantasypros.com/nfl/players/matthew-stafford.php) QB-LAR
 100. [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) QB-GB
-101. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-IND
+101. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-BUF
 102. [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) WR-TEN
 103. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
 104. [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) RB-LAR
@@ -117,7 +117,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 113. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-LV
 114. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
 115. [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) WR-CIN
-116. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-PIT
+116. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-CHI
 117. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
 118. [J.D. McKissic](https://www.fantasypros.com/nfl/players/jd-mckissic.php) RB-WAS
 119. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-NYJ
@@ -194,7 +194,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 190. [Matt Gay](https://www.fantasypros.com/nfl/players/matt-gay.php) K-LAR
 191. [Christian Watson](https://www.fantasypros.com/nfl/players/christian-watson.php) WR-GB
 192. [Evan McPherson](https://www.fantasypros.com/nfl/players/evan-mcpherson.php) K-CIN
-193. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-SF
+193. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-MIA
 194. [Dallas Cowboys](https://www.fantasypros.com/nfl/players/dallas-defense.php) DST-DAL
 195. [K.J. Hamler](https://www.fantasypros.com/nfl/players/kj-hamler.php) WR-DEN
 196. [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) WR-DET
@@ -259,7 +259,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 255. [Randall Cobb](https://www.fantasypros.com/nfl/players/randall-cobb.php) WR-GB
 256. [Dustin Hopkins](https://www.fantasypros.com/nfl/players/dustin-hopkins.php) K-LAC
 257. [Byron Pringle](https://www.fantasypros.com/nfl/players/byron-pringle.php) WR-CHI
-258. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-BUF
+258. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-IND
 259. [Marcus Mariota](https://www.fantasypros.com/nfl/players/marcus-mariota.php) QB-ATL
 260. [Cameron Brate](https://www.fantasypros.com/nfl/players/cameron-brate.php) TE-TB
 261. [Terrace Marshall Jr.](https://www.fantasypros.com/nfl/players/terrace-marshall.php) WR-CAR

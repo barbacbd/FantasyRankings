@@ -57,7 +57,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 53. [Marquise Brown](https://www.fantasypros.com/nfl/players/marquise-brown.php) WR-ARI
 54. [Darren Waller](https://www.fantasypros.com/nfl/players/darren-waller.php) TE-LV
 55. [Josh Jacobs](https://www.fantasypros.com/nfl/players/josh-jacobs.php) RB-LV
-56. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-MIA
+56. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-DEN
 57. [Gabe Davis](https://www.fantasypros.com/nfl/players/gabriel-davis.php) WR-BUF
 58. [Darnell Mooney](https://www.fantasypros.com/nfl/players/darnell-mooney.php) WR-CHI
 59. [Dameon Pierce](https://www.fantasypros.com/nfl/players/dameon-pierce.php) RB-HOU
@@ -85,7 +85,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 81. [Adam Thielen](https://www.fantasypros.com/nfl/players/adam-thielen.php) WR-MIN
 82. [Miles Sanders](https://www.fantasypros.com/nfl/players/miles-sanders.php) RB-PHI
 83. [Russell Wilson](https://www.fantasypros.com/nfl/players/russell-wilson.php) QB-DEN
-84. [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) TE-DET
+84. [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) TE-MIN
 85. [Tom Brady](https://www.fantasypros.com/nfl/players/tom-brady.php) QB-TB
 86. [Brandon Aiyuk](https://www.fantasypros.com/nfl/players/brandon-aiyuk.php) WR-SF
 87. [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) RB-ATL
@@ -117,8 +117,8 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 113. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
 114. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
 115. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-NYJ
-116. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-IND
-117. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-PIT
+116. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-BUF
+117. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-CHI
 118. [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) WR-CIN
 119. [Kenneth Gainwell](https://www.fantasypros.com/nfl/players/kenneth-gainwell.php) RB-PHI
 120. [Alexander Mattison](https://www.fantasypros.com/nfl/players/alexander-mattison.php) RB-MIN
@@ -189,7 +189,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 185. [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) WR-LAR
 186. [Los Angeles Rams](https://www.fantasypros.com/nfl/players/los-angeles-defense.php) DST-LAR
 187. [Jalen Tolbert](https://www.fantasypros.com/nfl/players/jalen-tolbert.php) WR-DAL
-188. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-SF
+188. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-MIA
 189. [Isiah Pacheco](https://www.fantasypros.com/nfl/players/isiah-pacheco.php) RB-KC
 190. [K.J. Hamler](https://www.fantasypros.com/nfl/players/kj-hamler.php) WR-DEN
 191. [Tyler Bass](https://www.fantasypros.com/nfl/players/tyler-bass.php) K-BUF
@@ -264,7 +264,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 260. [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php) K-NO
 261. [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) DST-CAR
 262. [Randall Cobb](https://www.fantasypros.com/nfl/players/randall-cobb.php) WR-GB
-263. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-BUF
+263. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-IND
 264. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-ATL
 265. [Mason Crosby](https://www.fantasypros.com/nfl/players/mason-crosby.php) K-GB
 266. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT

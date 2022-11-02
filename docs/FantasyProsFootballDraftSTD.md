@@ -79,9 +79,9 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 75. [Adam Thielen](https://www.fantasypros.com/nfl/players/adam-thielen.php) WR-MIN
 76. [Joe Burrow](https://www.fantasypros.com/nfl/players/joe-burrow.php) QB-CIN
 77. [Clyde Edwards-Helaire](https://www.fantasypros.com/nfl/players/clyde-edwards-helaire.php) RB-KC
-78. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-MIA
+78. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-DEN
 79. [Brandon Aiyuk](https://www.fantasypros.com/nfl/players/brandon-aiyuk.php) WR-SF
-80. [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) TE-DET
+80. [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) TE-MIN
 81. [Miles Sanders](https://www.fantasypros.com/nfl/players/miles-sanders.php) RB-PHI
 82. [Russell Wilson](https://www.fantasypros.com/nfl/players/russell-wilson.php) QB-DEN
 83. [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) WR-PHI
@@ -114,7 +114,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 110. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
 111. [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) TE-CHI
 112. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
-113. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-PIT
+113. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-CHI
 114. [Pat Freiermuth](https://www.fantasypros.com/nfl/players/pat-freiermuth.php) TE-PIT
 115. [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) RB-BUF
 116. [Hunter Henry](https://www.fantasypros.com/nfl/players/hunter-henry.php) TE-NE
@@ -126,7 +126,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 122. [Marquez Valdes-Scantling](https://www.fantasypros.com/nfl/players/marquez-valdesscantling.php) WR-KC
 123. [Alexander Mattison](https://www.fantasypros.com/nfl/players/alexander-mattison.php) RB-MIN
 124. [Garrett Wilson](https://www.fantasypros.com/nfl/players/garrett-wilson.php) WR-NYJ
-125. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-IND
+125. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-BUF
 126. [Skyy Moore](https://www.fantasypros.com/nfl/players/skyy-moore.php) WR-KC
 127. [Kenneth Gainwell](https://www.fantasypros.com/nfl/players/kenneth-gainwell.php) RB-PHI
 128. [Irv Smith Jr.](https://www.fantasypros.com/nfl/players/irv-smith-jr.php) TE-MIN
@@ -206,7 +206,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 202. [Daniel Carlson](https://www.fantasypros.com/nfl/players/daniel-carlson.php) K-LV
 203. [Green Bay Packers](https://www.fantasypros.com/nfl/players/green-bay-defense.php) DST-GB
 204. [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) WR-DET
-205. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-SF
+205. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-MIA
 206. [K.J. Hamler](https://www.fantasypros.com/nfl/players/kj-hamler.php) WR-DEN
 207. [Sony Michel](https://www.fantasypros.com/nfl/players/sony-michel.php) RB-LAC
 208. [Alec Pierce](https://www.fantasypros.com/nfl/players/alec-pierce.php) WR-IND
@@ -250,7 +250,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 246. [Younghoe Koo](https://www.fantasypros.com/nfl/players/younghoe-koo.php) K-ATL
 247. [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php) RB-CAR
 248. [Mitch Trubisky](https://www.fantasypros.com/nfl/players/mitch-trubisky.php) QB-PIT
-249. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-BUF
+249. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-IND
 250. [Cincinnati Bengals](https://www.fantasypros.com/nfl/players/cincinnati-defense.php) DST-CIN
 251. [Arizona Cardinals](https://www.fantasypros.com/nfl/players/arizona-defense.php) DST-ARI
 252. [Robbie Gould](https://www.fantasypros.com/nfl/players/robbie-gould.php) K-SF

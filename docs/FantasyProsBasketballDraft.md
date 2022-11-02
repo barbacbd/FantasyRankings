@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 11/1/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 11/2/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -122,7 +122,7 @@ All information contained in this file should be utilized with caution as the ra
 110. [Spencer Dinwiddie](https://www.fantasypros.com/nba/players/spencer-dinwiddie.php?week=draft) PG,SG-DAL
 111. [Cameron Johnson](https://www.fantasypros.com/nba/players/cameron-johnson-g.php?week=draft) SF,PF-PHO
 112. [Dorian FinneySmith](https://www.fantasypros.com/nba/players/dorian-finney-smith.php?week=draft) SF,PF-DAL
-113. [Nic Claxton](https://www.fantasypros.com/nba/players/nicolas-claxton.php?week=draft) C,PF-BKN
+113. [Nicolas Claxton](https://www.fantasypros.com/nba/players/nicolas-claxton.php?week=draft) C,PF-BKN
 114. [Devin Vassell](https://www.fantasypros.com/nba/players/devin-vassell.php?week=draft) SG,SF-SAS
 115. [Aaron Gordon](https://www.fantasypros.com/nba/players/aaron-gordon.php?week=draft) SF,PF-DEN
 116. [Jalen Suggs](https://www.fantasypros.com/nba/players/jalen-suggs.php?week=draft) PG,SG-ORL
@@ -130,7 +130,7 @@ All information contained in this file should be utilized with caution as the ra
 118. [Monte Morris](https://www.fantasypros.com/nba/players/monte-morris.php?week=draft) PG,SG-WAS
 119. [Jaden McDaniels](https://www.fantasypros.com/nba/players/jaden-mcdaniels.php?week=draft) PF,SF-MIN
 120. [Norman Powell](https://www.fantasypros.com/nba/players/norman-powell.php?week=draft) SG,SF-LAC
-121. [Cole Anthony](https://www.fantasypros.com/nba/players/cole-anthony.php?week=draft) PG-ORL
+121. [Cole Anthony ORL](https://www.fantasypros.com/nba/players/cole-anthony.php?week=draft) Out-PG
 122. [Steven Adams](https://www.fantasypros.com/nba/players/steven-adams.php?week=draft) C-MEM
 123. [Franz Wagner](https://www.fantasypros.com/nba/players/franz-wagner.php?week=draft) SG,SF-ORL
 124. [Mo Bamba](https://www.fantasypros.com/nba/players/mohamed-bamba.php?week=draft) C-ORL
@@ -167,7 +167,7 @@ All information contained in this file should be utilized with caution as the ra
 155. [Kevin Huerter](https://www.fantasypros.com/nba/players/kevin-huerter.php?week=draft) SG,SF-SAC
 156. [Kevin Love](https://www.fantasypros.com/nba/players/kevin-love.php?week=draft) PF,C-CLE
 157. [Markelle Fultz](https://www.fantasypros.com/nba/players/markelle-fultz.php?week=draft) PG,SG-ORL
-158. [Bones Hyland](https://www.fantasypros.com/nba/players/nahshon-hyland.php?week=draft) PG,SG-DEN
+158. [Nah'Shon Hyland](https://www.fantasypros.com/nba/players/nahshon-hyland.php?week=draft) PG,SG-DEN
 159. [Isaiah Hartenstein](https://www.fantasypros.com/nba/players/isaiah-hartenstein.php?week=draft) PF,C-NYK
 160. [Seth Curry](https://www.fantasypros.com/nba/players/seth-curry.php?week=draft) PG,SG-BKN
 161. [Chris Boucher](https://www.fantasypros.com/nba/players/chris-boucher.php?week=draft) PF,C-TOR
@@ -279,7 +279,7 @@ All information contained in this file should be utilized with caution as the ra
 267. [Trey Murphy III](https://www.fantasypros.com/nba/players/trey-murphy.php?week=draft) SG,SF-NOR
 268. [Facundo Campazzo](https://www.fantasypros.com/nba/players/facundo-campazzo.php?week=draft) PG-DAL
 269. [Kemba Walker](https://www.fantasypros.com/nba/players/kemba-walker.php?week=draft) PG-FA
-270. [Cam Thomas](https://www.fantasypros.com/nba/players/cameron-thomas.php?week=draft) SG-BKN
+270. [Cameron Thomas](https://www.fantasypros.com/nba/players/cameron-thomas.php?week=draft) SG-BKN
 271. [Austin Reaves](https://www.fantasypros.com/nba/players/austin-reaves.php?week=draft) SG-LAL
 272. [Daniel Theis](https://www.fantasypros.com/nba/players/daniel-theis.php?week=draft) PF,C-IND
 273. [Khem Birch](https://www.fantasypros.com/nba/players/khem-birch.php?week=draft) PF,C-TOR
