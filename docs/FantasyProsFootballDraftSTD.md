@@ -232,7 +232,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 228. [Damien Williams](https://www.fantasypros.com/nfl/players/damien-williams.php) RB-ATL
 229. [Mike Davis](https://www.fantasypros.com/nfl/players/mike-davis-rb.php) RB-BAL
 230. [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) RB-KC
-231. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-ARI
+231. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-FA
 232. [Samaje Perine](https://www.fantasypros.com/nfl/players/samaje-perine.php) RB-CIN
 233. [Kenyan Drake](https://www.fantasypros.com/nfl/players/kenyan-drake.php) RB-BAL
 234. [A.J. Green](https://www.fantasypros.com/nfl/players/aj-green.php) WR-ARI
