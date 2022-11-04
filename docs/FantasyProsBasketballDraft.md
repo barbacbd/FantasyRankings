@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 11/3/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 11/4/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -166,7 +166,7 @@ All information contained in this file should be utilized with caution as the ra
 154. [Bruce Brown Jr.](https://www.fantasypros.com/nba/players/bruce-brown-jr.php?week=draft) SG,SF-DEN
 155. [Kevin Huerter](https://www.fantasypros.com/nba/players/kevin-huerter.php?week=draft) SG,SF-SAC
 156. [Kevin Love](https://www.fantasypros.com/nba/players/kevin-love.php?week=draft) PF,C-CLE
-157. [Markelle Fultz](https://www.fantasypros.com/nba/players/markelle-fultz.php?week=draft) PG,SG-ORL
+157. [Markelle Fultz ORL](https://www.fantasypros.com/nba/players/markelle-fultz.php?week=draft) Out-PG,SG
 158. [Bones Hyland](https://www.fantasypros.com/nba/players/nahshon-hyland.php?week=draft) PG,SG-DEN
 159. [Isaiah Hartenstein](https://www.fantasypros.com/nba/players/isaiah-hartenstein.php?week=draft) PF,C-NYK
 160. [Seth Curry](https://www.fantasypros.com/nba/players/seth-curry.php?week=draft) PG,SG-BKN

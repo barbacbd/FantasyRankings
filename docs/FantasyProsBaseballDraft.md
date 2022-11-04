@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/3/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/4/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-LAA
+815. [Michael Lorenzen](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-LAA
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -985,7 +985,7 @@ All information contained in this file should be utilized with caution as the ra
 973. [Jose](https://www.fantasypros.com/mlb/players/jose-godoy.php?week=draft) C-Godoy
 974. [Dexter](https://www.fantasypros.com/mlb/players/dexter-fowler.php?week=draft) RF-Fowler
 975. [Connor Wong](https://www.fantasypros.com/mlb/players/connor-wong.php?week=draft) C-BOS
-976. [Chad Wallach](https://www.fantasypros.com/mlb/players/chad-wallach.php?week=draft) C-LAA
+976. [Chad](https://www.fantasypros.com/mlb/players/chad-wallach.php?week=draft) C-Wallach
 977. [Anthony Bemboom](https://www.fantasypros.com/mlb/players/anthony-bemboom.php?week=draft) C-BAL
 978. [Mark Kolozsvary](https://www.fantasypros.com/mlb/players/mark-kolozsvary.php?week=draft) C-BAL
 979. [Ali Sanchez](https://www.fantasypros.com/mlb/players/ali-sanchez.php?week=draft) C-PIT
@@ -1077,7 +1077,7 @@ All information contained in this file should be utilized with caution as the ra
 1065. [Jack Mayfield](https://www.fantasypros.com/mlb/players/jack-mayfield.php?week=draft) 2B,3B,SS-LAA
 1066. [Ryan O'Hearn](https://www.fantasypros.com/mlb/players/ryan-ohearn.php?week=draft) 1B,RF,DH-KC
 1067. [Ian](https://www.fantasypros.com/mlb/players/ian-desmond.php?week=draft) LF,CF-Desmond
-1068. [Yonny Hernandez](https://www.fantasypros.com/mlb/players/yonny-hernandez.php?week=draft) 2B,3B-ARI
+1068. [Yonny Hernandez](https://www.fantasypros.com/mlb/players/yonny-hernandez.php?week=draft) 2B,3B-OAK
 1069. [Luke Williams](https://www.fantasypros.com/mlb/players/luke-williams.php?week=draft) 2B,3B,CF,LF-MIA
 1070. [Ronald](https://www.fantasypros.com/mlb/players/ronald-torreyes.php?week=draft) 2B,3B,SS-Torreyes
 1071. [Sergio Alcantara](https://www.fantasypros.com/mlb/players/sergio-alcantara.php?week=draft) 2B,3B,DH,SS-ARI
