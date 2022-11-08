@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 11/7/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 11/8/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -131,7 +131,7 @@ All information contained in this file should be utilized with caution as the ra
 119. [Dorian FinneySmith](https://www.fantasypros.com/nba/players/dorian-finney-smith.php?week=draft) SF,PF-DAL
 120. [Bojan Bogdanovic](https://www.fantasypros.com/nba/players/bojan-bogdanovic.php?week=draft) SF,PF-DET
 121. [Jaden McDaniels](https://www.fantasypros.com/nba/players/jaden-mcdaniels.php?week=draft) PF,SF-MIN
-122. [Cole Anthony ORL](https://www.fantasypros.com/nba/players/cole-anthony.php?week=draft) Out-PG
+122. [Cole Anthony](https://www.fantasypros.com/nba/players/cole-anthony.php?week=draft) PG-ORL
 123. [Jalen Suggs](https://www.fantasypros.com/nba/players/jalen-suggs.php?week=draft) PG,SG-ORL
 124. [Herbert Jones](https://www.fantasypros.com/nba/players/herbert-jones.php?week=draft) SF-NOR
 125. [Norman Powell](https://www.fantasypros.com/nba/players/norman-powell.php?week=draft) SG,SF-LAC
@@ -164,7 +164,7 @@ All information contained in this file should be utilized with caution as the ra
 152. [Matisse Thybulle](https://www.fantasypros.com/nba/players/matisse-thybulle.php?week=draft) SG,SF-PHI
 153. [Kyle Anderson](https://www.fantasypros.com/nba/players/kyle-anderson.php?week=draft) SF,PF-MIN
 154. [Isaiah Hartenstein](https://www.fantasypros.com/nba/players/isaiah-hartenstein.php?week=draft) PF,C-NYK
-155. [Markelle Fultz ORL](https://www.fantasypros.com/nba/players/markelle-fultz.php?week=draft) Out-PG,SG
+155. [Markelle Fultz](https://www.fantasypros.com/nba/players/markelle-fultz.php?week=draft) PG,SG-ORL
 156. [Patrick Beverley](https://www.fantasypros.com/nba/players/patrick-beverley.php?week=draft) PG,SG-LAL
 157. [Kevin Love](https://www.fantasypros.com/nba/players/kevin-love.php?week=draft) PF,C-CLE
 158. [Bones Hyland](https://www.fantasypros.com/nba/players/nahshon-hyland.php?week=draft) PG,SG-DEN
@@ -187,7 +187,7 @@ All information contained in this file should be utilized with caution as the ra
 175. [Chris Boucher](https://www.fantasypros.com/nba/players/chris-boucher.php?week=draft) PF,C-TOR
 176. [Jae Crowder](https://www.fantasypros.com/nba/players/jae-crowder.php?week=draft) SF,PF-PHO
 177. [Royce O'Neale](https://www.fantasypros.com/nba/players/royce-oneale.php?week=draft) SF,PF-BKN
-178. [Victor Oladipo MIA](https://www.fantasypros.com/nba/players/victor-oladipo.php?week=draft) Out-SG,SF
+178. [Victor Oladipo](https://www.fantasypros.com/nba/players/victor-oladipo.php?week=draft) SG,SF-MIA
 179. [Immanuel Quickley](https://www.fantasypros.com/nba/players/immanuel-quickley.php?week=draft) PG-NYK
 180. [Evan Fournier](https://www.fantasypros.com/nba/players/evan-fournier.php?week=draft) SG,SF-NYK
 181. [Cody Martin](https://www.fantasypros.com/nba/players/cody-martin.php?week=draft) SG,SF-CHA
