@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/9/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/10/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -441,7 +441,7 @@ All information contained in this file should be utilized with caution as the ra
 429. [Brusdar Graterol](https://www.fantasypros.com/mlb/players/brusdar-graterol-p.php?week=draft) RP-LAD
 430. [Pete Fairbanks](https://www.fantasypros.com/mlb/players/pete-fairbanks.php?week=draft) RP-TB
 431. [Aaron Hicks](https://www.fantasypros.com/mlb/players/aaron-hicks.php?week=draft) CF,LF-NYY
-432. [Mychal Givens](https://www.fantasypros.com/mlb/players/mychal-antonio-givens.php?week=draft) RP-NYM
+432. [Mychal](https://www.fantasypros.com/mlb/players/mychal-antonio-givens.php?week=draft) RP-Givens
 433. [Dylan](https://www.fantasypros.com/mlb/players/dylan-bundy.php?week=draft) SP-Bundy
 434. [Emilio Pagan](https://www.fantasypros.com/mlb/players/emilio-pagan.php?week=draft) RP-MIN
 435. [Alex Reyes](https://www.fantasypros.com/mlb/players/alexander-reyes.php?week=draft) RP-STL
@@ -459,7 +459,7 @@ All information contained in this file should be utilized with caution as the ra
 447. [Richard Rodriguez](https://www.fantasypros.com/mlb/players/richard-rodriguez-p.php?week=draft) RP-NYY
 448. [Josh Staumont](https://www.fantasypros.com/mlb/players/josh-staumont.php?week=draft) RP-KC
 449. [Riley Green](https://www.fantasypros.com/mlb/players/riley-green.php?week=draft) OF-HS
-450. [Jake Odorizzi](https://www.fantasypros.com/mlb/players/jake-odorizzi.php?week=draft) SP-ATL
+450. [Jake Odorizzi](https://www.fantasypros.com/mlb/players/jake-odorizzi.php?week=draft) SP-TEX
 451. [Yan Gomes](https://www.fantasypros.com/mlb/players/yan-gomes.php?week=draft) C-CHC
 452. [Ben](https://www.fantasypros.com/mlb/players/ben-gamel.php?week=draft) 1B,CF,DH,LF,RF-Gamel
 453. [Adrian Houser](https://www.fantasypros.com/mlb/players/adrian-houser.php?week=draft) SP-MIL
@@ -656,7 +656,7 @@ All information contained in this file should be utilized with caution as the ra
 644. [Jose](https://www.fantasypros.com/mlb/players/jose-quintana.php?week=draft) SP,RP-Quintana
 645. [Caleb Smith](https://www.fantasypros.com/mlb/players/caleb-smith.php?week=draft) SP,RP-ARI
 646. [Ryan Brasier](https://www.fantasypros.com/mlb/players/ryan-brasier.php?week=draft) RP-BOS
-647. [Casey Sadler](https://www.fantasypros.com/mlb/players/casey-sadler.php?week=draft) RP-SEA
+647. [Casey](https://www.fantasypros.com/mlb/players/casey-sadler.php?week=draft) RP-Sadler
 648. [Michael Chavis](https://www.fantasypros.com/mlb/players/michael-chavis.php?week=draft) 1B,2B,3B-PIT
 649. [DJ Stewart](https://www.fantasypros.com/mlb/players/dj-stewart.php?week=draft) DH,LF,RF-BAL
 650. [Drew Smyly](https://www.fantasypros.com/mlb/players/drew-smyly.php?week=draft) SP,RP-CHC
@@ -698,7 +698,7 @@ All information contained in this file should be utilized with caution as the ra
 686. [Sam Moll](https://www.fantasypros.com/mlb/players/sam-moll.php?week=draft) RP-OAK
 687. [Albert Abreu](https://www.fantasypros.com/mlb/players/albert-abreu.php?week=draft) RP-NYY
 688. [Kwang Hyun](https://www.fantasypros.com/mlb/players/kwang-hyun-kim.php?week=draft) SP,RP-Kim
-689. [Kolby Allard](https://www.fantasypros.com/mlb/players/kolby-allard.php?week=draft) SP,RP-TEX
+689. [Kolby Allard](https://www.fantasypros.com/mlb/players/kolby-allard.php?week=draft) SP,RP-ATL
 690. [Logan Allen](https://www.fantasypros.com/mlb/players/logan-allen.php?week=draft) RP,SP-COL
 691. [Dallas](https://www.fantasypros.com/mlb/players/dallas-keuchel.php?week=draft) SP-Keuchel
 692. [Danny](https://www.fantasypros.com/mlb/players/dan-coulombe.php?week=draft) RP-Coulombe
@@ -706,12 +706,12 @@ All information contained in this file should be utilized with caution as the ra
 694. [Austin Voth](https://www.fantasypros.com/mlb/players/austin-voth.php?week=draft) RP,SP-BAL
 695. [Jay](https://www.fantasypros.com/mlb/players/jay-jackson.php?week=draft) RP-Jackson
 696. [Jose](https://www.fantasypros.com/mlb/players/jose-marmolejos.php?week=draft) 1B,LF-Marmolejos
-697. [Dom Nunez](https://www.fantasypros.com/mlb/players/dom-nunez.php?week=draft) C-COL
+697. [Dom Nunez](https://www.fantasypros.com/mlb/players/dom-nunez.php?week=draft) C-SF
 698. [Juan Yepez](https://www.fantasypros.com/mlb/players/juan-yepez.php?week=draft) 1B,3B,DH,LF,RF-STL
 699. [Brett Martin](https://www.fantasypros.com/mlb/players/brett-martin.php?week=draft) RP-TEX
 700. [Jackie Bradley](https://www.fantasypros.com/mlb/players/jackie-bradley.php?week=draft) LF,CF,RF-Jr.
 701. [Drew Smith](https://www.fantasypros.com/mlb/players/drew-smith.php?week=draft) RP-NYM
-702. [Gabe Speier](https://www.fantasypros.com/mlb/players/gabe-speier.php?week=draft) RP-KC
+702. [Gabe Speier](https://www.fantasypros.com/mlb/players/gabe-speier.php?week=draft) RP-SEA
 703. [Ryan Helsley](https://www.fantasypros.com/mlb/players/ryan-helsley.php?week=draft) RP-STL
 704. [Sergio](https://www.fantasypros.com/mlb/players/sergio-romo.php?week=draft) RP-Romo
 705. [Stephen Piscotty](https://www.fantasypros.com/mlb/players/stephen-piscotty.php?week=draft) DH,LF,RF-CIN
@@ -800,7 +800,7 @@ All information contained in this file should be utilized with caution as the ra
 788. [Orlando Arcia](https://www.fantasypros.com/mlb/players/orlando-arcia.php?week=draft) 2B,DH,LF-ATL
 789. [Brennen Davis](https://www.fantasypros.com/mlb/players/brennen-davis.php?week=draft) CF-CHC
 790. [Jose Cisnero](https://www.fantasypros.com/mlb/players/jose-cisnero.php?week=draft) RP-DET
-791. [Ryan Vilade](https://www.fantasypros.com/mlb/players/ryan-vilade.php?week=draft) LF-COL
+791. [Ryan Vilade](https://www.fantasypros.com/mlb/players/ryan-vilade.php?week=draft) LF-PIT
 792. [Mickey Moniak](https://www.fantasypros.com/mlb/players/mckenzie-moniak.php?week=draft) CF,LF-LAA
 793. [Brian](https://www.fantasypros.com/mlb/players/brian-ogrady.php?week=draft) CF,RF-O'Grady
 794. [Sam Long](https://www.fantasypros.com/mlb/players/sam-long.php?week=draft) SP,RP-SF
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-Lorenzen
+815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-Lorenzen
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -837,7 +837,7 @@ All information contained in this file should be utilized with caution as the ra
 825. [Evan White](https://www.fantasypros.com/mlb/players/evan-white.php?week=draft) 1B-SEA
 826. [Alex](https://www.fantasypros.com/mlb/players/alex-dickerson.php?week=draft) DH,LF-Dickerson
 827. [Kyle](https://www.fantasypros.com/mlb/players/kyle-mcgowin.php?week=draft) RP-McGowin
-828. [Ryan Borucki](https://www.fantasypros.com/mlb/players/ryan-borucki.php?week=draft) RP-SEA
+828. [Ryan](https://www.fantasypros.com/mlb/players/ryan-borucki.php?week=draft) RP-Borucki
 829. [Justus Sheffield](https://www.fantasypros.com/mlb/players/justus-sheffield.php?week=draft) SP,RP-SEA
 830. [Jovani Moran](https://www.fantasypros.com/mlb/players/jovani-moran.php?week=draft) RP-MIN
 831. [Jakob Junis](https://www.fantasypros.com/mlb/players/jake-junis.php?week=draft) SP,RP-SF
