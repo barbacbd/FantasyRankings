@@ -348,7 +348,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 344. [Jalen Guyton](https://www.fantasypros.com/nfl/players/jalen-guyton.php) WR-LAC
 345. [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) TE-NO
 346. [Travis Homer](https://www.fantasypros.com/nfl/players/travis-homer.php) RB-SEA
-347. [Phillip Lindsay](https://www.fantasypros.com/nfl/players/phillip-lindsay.php) RB-IND
+347. [Phillip Lindsay](https://www.fantasypros.com/nfl/players/phillip-lindsay.php) RB-FA
 348. [Jimmy Garoppolo](https://www.fantasypros.com/nfl/players/jimmy-garoppolo.php) QB-SF
 349. [DeeJay Dallas](https://www.fantasypros.com/nfl/players/deejay-dallas.php) RB-SEA
 350. [Chase McLaughlin](https://www.fantasypros.com/nfl/players/chase-mclaughlin.php) K-IND

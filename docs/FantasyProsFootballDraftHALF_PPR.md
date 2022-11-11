@@ -339,7 +339,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 335. [Harrison Bryant](https://www.fantasypros.com/nfl/players/harrison-bryant.php) TE-CLE
 336. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-DAL
 337. [Las Vegas Raiders](https://www.fantasypros.com/nfl/players/las-vegas-defense.php) DST-LV
-338. [Phillip Lindsay](https://www.fantasypros.com/nfl/players/phillip-lindsay.php) RB-IND
+338. [Phillip Lindsay](https://www.fantasypros.com/nfl/players/phillip-lindsay.php) RB-FA
 339. [Darrynton Evans](https://www.fantasypros.com/nfl/players/darrynton-evans.php) RB-CHI
 340. [Tommy Tremble](https://www.fantasypros.com/nfl/players/tommy-tremble.php) TE-CAR
 341. [Danny Gray](https://www.fantasypros.com/nfl/players/danny-gray.php) WR-SF

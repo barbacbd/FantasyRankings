@@ -332,7 +332,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 328. [Ty Johnson](https://www.fantasypros.com/nfl/players/ty-johnson.php) RB-NYJ
 329. [Quintez Cephus](https://www.fantasypros.com/nfl/players/quintez-cephus.php) WR-DET
 330. [Harrison Bryant](https://www.fantasypros.com/nfl/players/harrison-bryant.php) TE-CLE
-331. [Phillip Lindsay](https://www.fantasypros.com/nfl/players/phillip-lindsay.php) RB-IND
+331. [Phillip Lindsay](https://www.fantasypros.com/nfl/players/phillip-lindsay.php) RB-FA
 332. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-DAL
 333. [Tommy Tremble](https://www.fantasypros.com/nfl/players/tommy-tremble.php) TE-CAR
 334. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
