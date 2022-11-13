@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/12/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/13/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -612,7 +612,7 @@ All information contained in this file should be utilized with caution as the ra
 600. [Hansel Robles](https://www.fantasypros.com/mlb/players/hansel-robles.php?week=draft) RP-LAD
 601. [Daniel Lynch](https://www.fantasypros.com/mlb/players/daniel-lynch.php?week=draft) SP-KC
 602. [David Peterson](https://www.fantasypros.com/mlb/players/david-peterson.php?week=draft) RP,SP-NYM
-603. [Rafael](https://www.fantasypros.com/mlb/players/rafael-montero.php?week=draft) RP-Montero
+603. [Rafael Montero](https://www.fantasypros.com/mlb/players/rafael-montero.php?week=draft) RP-HOU
 604. [Dominic](https://www.fantasypros.com/mlb/players/dominic-leone.php?week=draft) SP,RP-Leone
 605. [Caleb Ferguson](https://www.fantasypros.com/mlb/players/caleb-ferguson.php?week=draft) RP-LAD
 606. [Jose Urena](https://www.fantasypros.com/mlb/players/jose-urena.php?week=draft) SP,RP-COL
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-Lorenzen
+815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-Lorenzen
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -1208,7 +1208,7 @@ All information contained in this file should be utilized with caution as the ra
 1196. [Kevin Padlo](https://www.fantasypros.com/mlb/players/kevin-padlo.php?week=draft) 1B,3B-PIT
 1197. [Kean Wong](https://www.fantasypros.com/mlb/players/kean-wong.php?week=draft) 2B-LAA
 1198. [Jake Noll](https://www.fantasypros.com/mlb/players/jake-noll.php?week=draft) 1B,2B,3B-WSH
-1199. [Ivan Castillo](https://www.fantasypros.com/mlb/players/ivan-castillo.php?week=draft) 2B,3B-KC
+1199. [Ivan](https://www.fantasypros.com/mlb/players/ivan-castillo.php?week=draft) 2B,3B-Castillo
 1200. [Omar Estevez](https://www.fantasypros.com/mlb/players/omar-estevez.php?week=draft) 2B,SS-LAD
 1201. [Robel](https://www.fantasypros.com/mlb/players/robel-garcia.php?week=draft) 2B,3B,SS-Garcia
 1202. [Anderson](https://www.fantasypros.com/mlb/players/anderson-tejeda.php?week=draft) 3B-Tejeda
