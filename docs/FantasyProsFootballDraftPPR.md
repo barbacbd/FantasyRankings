@@ -240,7 +240,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 236. [Davis Mills](https://www.fantasypros.com/nfl/players/davis-mills.php) QB-HOU
 237. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-FA
 238. [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php) RB-CAR
-239. [Eno Benjamin](https://www.fantasypros.com/nfl/players/eno-benjamin.php) RB-ARI
+239. [Eno Benjamin](https://www.fantasypros.com/nfl/players/eno-benjamin.php) RB-FA
 240. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-DEN
 241. [Jason Sanders](https://www.fantasypros.com/nfl/players/jason-sanders.php) K-MIA
 242. [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) TE-NE

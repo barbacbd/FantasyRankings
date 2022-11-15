@@ -237,7 +237,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 233. [Kenyan Drake](https://www.fantasypros.com/nfl/players/kenyan-drake.php) RB-BAL
 234. [A.J. Green](https://www.fantasypros.com/nfl/players/aj-green.php) WR-ARI
 235. [David Bell](https://www.fantasypros.com/nfl/players/david-bell.php) WR-CLE
-236. [Eno Benjamin](https://www.fantasypros.com/nfl/players/eno-benjamin.php) RB-ARI
+236. [Eno Benjamin](https://www.fantasypros.com/nfl/players/eno-benjamin.php) RB-FA
 237. [Kendrick Bourne](https://www.fantasypros.com/nfl/players/kendrick-bourne.php) WR-NE
 238. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-DEN
 239. [Jamison Crowder](https://www.fantasypros.com/nfl/players/jamison-crowder.php) WR-BUF
