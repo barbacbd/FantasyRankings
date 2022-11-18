@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/17/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/18/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -287,7 +287,7 @@ All information contained in this file should be utilized with caution as the ra
 275. [Gio Urshela](https://www.fantasypros.com/mlb/players/giovanny-urshela.php?week=draft) 3B,SS-MIN
 276. [Tony Gonsolin](https://www.fantasypros.com/mlb/players/anthony-gonsolin.php?week=draft) SP-LAD
 277. [Stephen Strasburg](https://www.fantasypros.com/mlb/players/stephen-strasburg.php?week=draft) SP-WSH
-278. [Kyle Lewis](https://www.fantasypros.com/mlb/players/kyle-lewis.php?week=draft) CF,DH,RF-SEA
+278. [Kyle Lewis](https://www.fantasypros.com/mlb/players/kyle-lewis.php?week=draft) CF,DH,RF-ARI
 279. [Zach Plesac](https://www.fantasypros.com/mlb/players/zach-plesac.php?week=draft) SP-CLE
 280. [Jameson](https://www.fantasypros.com/mlb/players/jameson-taillon.php?week=draft) SP-Taillon
 281. [Cal Quantrill](https://www.fantasypros.com/mlb/players/cal-quantrill.php?week=draft) SP,RP-CLE
@@ -645,7 +645,7 @@ All information contained in this file should be utilized with caution as the ra
 633. [Bailey Falter](https://www.fantasypros.com/mlb/players/bailey-falter.php?week=draft) RP,SP-PHI
 634. [Brad Keller](https://www.fantasypros.com/mlb/players/brad-keller.php?week=draft) RP,SP-KC
 635. [Yonny Chirinos](https://www.fantasypros.com/mlb/players/yonny-chirinos.php?week=draft) SP-TB
-636. [Brent Rooker](https://www.fantasypros.com/mlb/players/brent-rooker.php?week=draft) DH,LF,RF-KC
+636. [Brent Rooker](https://www.fantasypros.com/mlb/players/brent-rooker.php?week=draft) DH,LF,RF-OAK
 637. [Tyler Anderson](https://www.fantasypros.com/mlb/players/tyler-anderson.php?week=draft) SP-LAA
 638. [Daniel](https://www.fantasypros.com/mlb/players/daniel-norris.php?week=draft) RP,SP-Norris
 639. [Tony](https://www.fantasypros.com/mlb/players/tony-watson.php?week=draft) RP-Watson
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-Lorenzen
+815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-Lorenzen
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -902,7 +902,7 @@ All information contained in this file should be utilized with caution as the ra
 890. [Demarcus](https://www.fantasypros.com/mlb/players/demarcus-evans.php?week=draft) RP-Evans
 891. [Ralph Garza Jr.](https://www.fantasypros.com/mlb/players/ralph-garza.php?week=draft) RP-TB
 892. [Drew Ellis](https://www.fantasypros.com/mlb/players/drew-ellis.php?week=draft) 3B-SEA
-893. [Cooper Hummel](https://www.fantasypros.com/mlb/players/cooper-hummel.php?week=draft) C,DH,LF-ARI
+893. [Cooper Hummel](https://www.fantasypros.com/mlb/players/cooper-hummel.php?week=draft) C,DH,LF-SEA
 894. [Grant Holmes](https://www.fantasypros.com/mlb/players/grant-holmes.php?week=draft) RP,SP-ATL
 895. [Paul Blackburn](https://www.fantasypros.com/mlb/players/paul-blackburn.php?week=draft) SP-OAK
 896. [Jon Berti](https://www.fantasypros.com/mlb/players/jon-berti.php?week=draft) 2B,3B,LF,SS-MIA
