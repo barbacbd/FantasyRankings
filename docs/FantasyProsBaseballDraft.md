@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/19/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/20/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-Lorenzen
+815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-Lorenzen
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -849,7 +849,7 @@ All information contained in this file should be utilized with caution as the ra
 837. [Jesse](https://www.fantasypros.com/mlb/players/jesse-hahn.php?week=draft) RP-Hahn
 838. [Miguel Andujar](https://www.fantasypros.com/mlb/players/miguel-andujar.php?week=draft) DH,LF-PIT
 839. [Colton](https://www.fantasypros.com/mlb/players/colton-welker.php?week=draft) 3B-Welker
-840. [Dauri Moreta](https://www.fantasypros.com/mlb/players/dauri-moreta.php?week=draft) RP-CIN
+840. [Dauri Moreta](https://www.fantasypros.com/mlb/players/dauri-moreta.php?week=draft) RP-PIT
 841. [Blake](https://www.fantasypros.com/mlb/players/blake-parker.php?week=draft) RP-Parker
 842. [Adam](https://www.fantasypros.com/mlb/players/adam-eaton.php?week=draft) RF-Eaton
 843. [Andrew Wantz](https://www.fantasypros.com/mlb/players/andrew-wantz.php?week=draft) RP-LAA
@@ -1038,7 +1038,7 @@ All information contained in this file should be utilized with caution as the ra
 1026. [Shogo](https://www.fantasypros.com/mlb/players/shogo-akiyama.php?week=draft) CF-Akiyama
 1027. [Bryse Wilson](https://www.fantasypros.com/mlb/players/bryse-wilson.php?week=draft) RP,SP-PIT
 1028. [Zac Lowther](https://www.fantasypros.com/mlb/players/zac-lowther.php?week=draft) RP,SP-BAL
-1029. [Guillermo Heredia](https://www.fantasypros.com/mlb/players/guillermo-heredia.php?week=draft) CF,LF,RF-ATL
+1029. [Guillermo](https://www.fantasypros.com/mlb/players/guillermo-heredia.php?week=draft) CF,LF,RF-Heredia
 1030. [Julio](https://www.fantasypros.com/mlb/players/julio-teheran.php?week=draft) SP-Teheran
 1031. [Ehire](https://www.fantasypros.com/mlb/players/ehire-adrianza.php?week=draft) 2B,3B,LF,RF-Adrianza
 1032. [Derek Hill](https://www.fantasypros.com/mlb/players/derek-hill-of.php?week=draft) CF-WSH
@@ -1140,7 +1140,7 @@ All information contained in this file should be utilized with caution as the ra
 1128. [Chris Owings](https://www.fantasypros.com/mlb/players/chris-owings.php?week=draft) 2B,LF,RF,SS-NYY
 1129. [Ender](https://www.fantasypros.com/mlb/players/ender-inciarte.php?week=draft) CF-Inciarte
 1130. [Richard Palacios](https://www.fantasypros.com/mlb/players/richard-palacios.php?week=draft) 2B-CLE
-1131. [Pablo Reyes](https://www.fantasypros.com/mlb/players/pablo-reyes.php?week=draft) 3B-MIL
+1131. [Pablo Reyes](https://www.fantasypros.com/mlb/players/pablo-reyes.php?week=draft) 3B-OAK
 1132. [Skye Bolt](https://www.fantasypros.com/mlb/players/skye-bolt.php?week=draft) CF-OAK
 1133. [Richie](https://www.fantasypros.com/mlb/players/richie-martin.php?week=draft) 2B,SS-Martin
 1134. [Jose](https://www.fantasypros.com/mlb/players/jose-peraza.php?week=draft) 2B,3B-Peraza
