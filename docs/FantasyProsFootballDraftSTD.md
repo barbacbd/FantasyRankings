@@ -100,7 +100,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 96. [Trey Lance](https://www.fantasypros.com/nfl/players/trey-lance.php) QB-SF
 97. [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) RB-ATL
 98. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-ARI
-99. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-DEN
+99. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-FA
 100. [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) WR-TEN
 101. [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) WR-ARI
 102. [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) QB-GB

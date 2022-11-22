@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/21/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/22/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -211,7 +211,7 @@ All information contained in this file should be utilized with caution as the ra
 199. [Adam Wainwright](https://www.fantasypros.com/mlb/players/adam-wainwright.php?week=draft) SP-STL
 200. [Amed Rosario](https://www.fantasypros.com/mlb/players/amed-rosario.php?week=draft) CF,DH,LF,SS-CLE
 201. [Jordan Montgomery](https://www.fantasypros.com/mlb/players/jordan-montgomery.php?week=draft) SP-STL
-202. [Ramon Laureano](https://www.fantasypros.com/mlb/players/ramon-laureano.php?week=draft) CF,DH,RF-OAK
+202. [Ramon Laureano](https://www.fantasypros.com/mlb/players/ramon-laureano.php?week=draft) CF,RF-OAK
 203. [Frank](https://www.fantasypros.com/mlb/players/frank-schwindel.php?week=draft) 1B,DH-Schwindel
 204. [Luis Severino](https://www.fantasypros.com/mlb/players/luis-severino.php?week=draft) RP,SP-NYY
 205. [Eugenio Suarez](https://www.fantasypros.com/mlb/players/eugenio-suarez.php?week=draft) 3B,DH,SS-SEA
@@ -460,7 +460,7 @@ All information contained in this file should be utilized with caution as the ra
 448. [Josh Staumont](https://www.fantasypros.com/mlb/players/josh-staumont.php?week=draft) RP-KC
 449. [Riley Green](https://www.fantasypros.com/mlb/players/riley-green.php?week=draft) OF-HS
 450. [Jake Odorizzi](https://www.fantasypros.com/mlb/players/jake-odorizzi.php?week=draft) SP-TEX
-451. [Yan Gomes](https://www.fantasypros.com/mlb/players/yan-gomes.php?week=draft) C,DH-CHC
+451. [Yan Gomes](https://www.fantasypros.com/mlb/players/yan-gomes.php?week=draft) C-CHC
 452. [Ben](https://www.fantasypros.com/mlb/players/ben-gamel.php?week=draft) 1B,CF,DH,LF,RF-Gamel
 453. [Adrian Houser](https://www.fantasypros.com/mlb/players/adrian-houser.php?week=draft) SP-MIL
 454. [Robinson](https://www.fantasypros.com/mlb/players/robinson-cano.php?week=draft) 2B-Cano
@@ -718,7 +718,7 @@ All information contained in this file should be utilized with caution as the ra
 706. [Anthony](https://www.fantasypros.com/mlb/players/anthony-banda.php?week=draft) RP-Banda
 707. [Jose Barrero](https://www.fantasypros.com/mlb/players/jose-barrero.php?week=draft) SS,CF-CIN
 708. [Ben Rortvedt](https://www.fantasypros.com/mlb/players/benjamin-rortvedt.php?week=draft) C-NYY
-709. [Trevor Larnach](https://www.fantasypros.com/mlb/players/trevor-larnach.php?week=draft) DH,LF,RF-MIN
+709. [Trevor Larnach](https://www.fantasypros.com/mlb/players/trevor-larnach.php?week=draft) LF,RF-MIN
 710. [Sean](https://www.fantasypros.com/mlb/players/sean-reid-foley.php?week=draft) RP-ReidFoley
 711. [Adam Cimber](https://www.fantasypros.com/mlb/players/adam-cimber.php?week=draft) RP-TOR
 712. [Scott Effross](https://www.fantasypros.com/mlb/players/scott-effross.php?week=draft) RP-NYY

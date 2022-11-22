@@ -92,7 +92,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 88. [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) RB-BUF
 89. [Dak Prescott](https://www.fantasypros.com/nfl/players/dak-prescott.php) QB-DAL
 90. [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) WR-PHI
-91. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-DEN
+91. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-FA
 92. [Christian Kirk](https://www.fantasypros.com/nfl/players/christian-kirk.php) WR-JAC
 93. [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) WR-LV
 94. [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) WR-ATL

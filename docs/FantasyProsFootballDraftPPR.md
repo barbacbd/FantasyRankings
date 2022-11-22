@@ -94,7 +94,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 90. [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) WR-LV
 91. [Dak Prescott](https://www.fantasypros.com/nfl/players/dak-prescott.php) QB-DAL
 92. [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) WR-PHI
-93. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-DEN
+93. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-FA
 94. [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) WR-ATL
 95. [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) WR-GB
 96. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-ARI
