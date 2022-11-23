@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/22/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/23/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -145,7 +145,7 @@ All information contained in this file should be utilized with caution as the ra
 133. [Lourdes Gurriel Jr.](https://www.fantasypros.com/mlb/players/lourdes-gurriel-jr.php?week=draft) 1B,DH,LF-TOR
 134. [Avisail Garcia](https://www.fantasypros.com/mlb/players/avisail-garcia.php?week=draft) DH,RF-MIA
 135. [Yoan Moncada](https://www.fantasypros.com/mlb/players/yoan-moncada.php?week=draft) 3B-CWS
-136. [Hunter Renfroe](https://www.fantasypros.com/mlb/players/hunter-renfroe.php?week=draft) CF,RF-MIL
+136. [Hunter Renfroe](https://www.fantasypros.com/mlb/players/hunter-renfroe.php?week=draft) CF,RF-LAA
 137. [Chris Taylor](https://www.fantasypros.com/mlb/players/chris-taylor.php?week=draft) 2B,3B,CF,LF,RF,SS-LAD
 138. [Anthony Rizzo](https://www.fantasypros.com/mlb/players/anthony-rizzo.php?week=draft) 1B-NYY
 139. [Sonny Gray](https://www.fantasypros.com/mlb/players/sonny-gray.php?week=draft) SP-MIN
@@ -731,7 +731,7 @@ All information contained in this file should be utilized with caution as the ra
 719. [Sam Howard](https://www.fantasypros.com/mlb/players/sam-howard.php?week=draft) RP-DET
 720. [Evan Phillips](https://www.fantasypros.com/mlb/players/evan-phillips.php?week=draft) RP-LAD
 721. [Andrelton](https://www.fantasypros.com/mlb/players/andrelton-simmons.php?week=draft) 2B,SS-Simmons
-722. [Lewin Diaz](https://www.fantasypros.com/mlb/players/lewin-diaz-1b.php?week=draft) 1B-MIA
+722. [Lewin Diaz](https://www.fantasypros.com/mlb/players/lewin-diaz-1b.php?week=draft) 1B-PIT
 723. [Eric](https://www.fantasypros.com/mlb/players/eric-thames.php?week=draft) 1B,RF-Thames
 724. [Jonah Heim](https://www.fantasypros.com/mlb/players/jonah-heim.php?week=draft) C-TEX
 725. [Ryan Weathers](https://www.fantasypros.com/mlb/players/ryan-weathers.php?week=draft) SP,RP-SD

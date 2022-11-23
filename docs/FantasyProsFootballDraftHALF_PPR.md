@@ -104,7 +104,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 100. [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) QB-GB
 101. [Dawson Knox](https://www.fantasypros.com/nfl/players/dawson-knox.php) TE-BUF
 102. [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) WR-TEN
-103. [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) RB-LAR
+103. [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) RB-FA
 104. [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) RB-BUF
 105. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
 106. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-KC
