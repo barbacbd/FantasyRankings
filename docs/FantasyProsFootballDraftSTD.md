@@ -108,7 +108,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 104. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-KC
 105. [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) WR-NO
 106. [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) QB-MIN
-107. [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) RB-FA
+107. [Darrell Henderson Jr.](https://www.fantasypros.com/nfl/players/darrell-henderson.php) RB-JAC
 108. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-LV
 109. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
 110. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
