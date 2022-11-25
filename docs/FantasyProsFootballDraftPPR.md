@@ -264,7 +264,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 260. [Cameron Brate](https://www.fantasypros.com/nfl/players/cameron-brate.php) TE-TB
 261. [Terrace Marshall Jr.](https://www.fantasypros.com/nfl/players/terrace-marshall.php) WR-CAR
 262. [Ameer Abdullah](https://www.fantasypros.com/nfl/players/ameer-abdullah.php) RB-LV
-263. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-ATL
+263. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-FA
 264. [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php) K-NO
 265. [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) DST-MIN
 266. [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) DST-CAR

@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/24/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/25/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -654,7 +654,7 @@ All information contained in this file should be utilized with caution as the ra
 642. [Luke](https://www.fantasypros.com/mlb/players/luke-jackson.php?week=draft) RP-Jackson
 643. [Miguel](https://www.fantasypros.com/mlb/players/miguel-castro.php?week=draft) RP-Castro
 644. [Jose](https://www.fantasypros.com/mlb/players/jose-quintana.php?week=draft) SP,RP-Quintana
-645. [Caleb Smith](https://www.fantasypros.com/mlb/players/caleb-smith.php?week=draft) SP,RP-ARI
+645. [Caleb](https://www.fantasypros.com/mlb/players/caleb-smith.php?week=draft) SP,RP-Smith
 646. [Ryan Brasier](https://www.fantasypros.com/mlb/players/ryan-brasier.php?week=draft) RP-BOS
 647. [Casey](https://www.fantasypros.com/mlb/players/casey-sadler.php?week=draft) RP-Sadler
 648. [Michael Chavis](https://www.fantasypros.com/mlb/players/michael-chavis.php?week=draft) 1B,2B,3B,DH-PIT
@@ -725,7 +725,7 @@ All information contained in this file should be utilized with caution as the ra
 713. [Jose Siri](https://www.fantasypros.com/mlb/players/jose-siri.php?week=draft) CF,RF-TB
 714. [George Kirby](https://www.fantasypros.com/mlb/players/george-kirby.php?week=draft) SP-SEA
 715. [Duane Underwood Jr.](https://www.fantasypros.com/mlb/players/duane-underwood.php?week=draft) RP-PIT
-716. [Jordan Luplow](https://www.fantasypros.com/mlb/players/jordan-luplow.php?week=draft) 1B,CF,LF,RF-ARI
+716. [Jordan](https://www.fantasypros.com/mlb/players/jordan-luplow.php?week=draft) 1B,CF,LF,RF-Luplow
 717. [Matt Manning](https://www.fantasypros.com/mlb/players/matt-manning.php?week=draft) SP-DET
 718. [Joel Payamps](https://www.fantasypros.com/mlb/players/joel-payamps.php?week=draft) RP-OAK
 719. [Sam Howard](https://www.fantasypros.com/mlb/players/sam-howard.php?week=draft) RP-DET
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-Lorenzen
+815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-Lorenzen
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -1080,7 +1080,7 @@ All information contained in this file should be utilized with caution as the ra
 1068. [Yonny Hernandez](https://www.fantasypros.com/mlb/players/yonny-hernandez.php?week=draft) 2B,3B-OAK
 1069. [Luke](https://www.fantasypros.com/mlb/players/luke-williams.php?week=draft) 2B,3B,CF,DH,LF-Williams
 1070. [Ronald](https://www.fantasypros.com/mlb/players/ronald-torreyes.php?week=draft) 2B,3B,SS-Torreyes
-1071. [Sergio Alcantara](https://www.fantasypros.com/mlb/players/sergio-alcantara.php?week=draft) 2B,3B,SS-ARI
+1071. [Sergio](https://www.fantasypros.com/mlb/players/sergio-alcantara.php?week=draft) 2B,3B,SS-Alcantara
 1072. [Franchy](https://www.fantasypros.com/mlb/players/franchy-cordero.php?week=draft) 1B,LF,RF-Cordero
 1073. [Jake Cave](https://www.fantasypros.com/mlb/players/jake-cave.php?week=draft) LF,CF,RF-BAL
 1074. [Isaac Paredes](https://www.fantasypros.com/mlb/players/isaac-paredes.php?week=draft) 1B,2B,3B-TB
