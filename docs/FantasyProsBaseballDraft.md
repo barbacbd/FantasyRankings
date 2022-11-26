@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/25/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/26/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -363,7 +363,7 @@ All information contained in this file should be utilized with caution as the ra
 351. [Nick Solak](https://www.fantasypros.com/mlb/players/nick-solak.php?week=draft) 2B,DH,LF-CIN
 352. [Diego Castillo](https://www.fantasypros.com/mlb/players/diego-castillo.php?week=draft) RP-SEA
 353. [Kyle](https://www.fantasypros.com/mlb/players/kyle-gibson.php?week=draft) SP-Gibson
-354. [Lorenzo](https://www.fantasypros.com/mlb/players/lorenzo-cain.php?week=draft) CF-Cain
+354. [Lorenzo Cain](https://www.fantasypros.com/mlb/players/lorenzo-cain.php?week=draft) CF-MIL
 355. [Miguel Rojas](https://www.fantasypros.com/mlb/players/miguel-rojas.php?week=draft) 1B,SS-MIA
 356. [Max Stassi](https://www.fantasypros.com/mlb/players/max-stassi.php?week=draft) C-LAA
 357. [Patrick Corbin](https://www.fantasypros.com/mlb/players/patrick-corbin.php?week=draft) SP-WSH
@@ -373,7 +373,7 @@ All information contained in this file should be utilized with caution as the ra
 361. [Bobby](https://www.fantasypros.com/mlb/players/bobby-bradley.php?week=draft) 1B-Bradley
 362. [Cole Sulser](https://www.fantasypros.com/mlb/players/cole-sulser.php?week=draft) RP-ARI
 363. [Pavin Smith](https://www.fantasypros.com/mlb/players/pavin-smith.php?week=draft) 1B,CF,DH,LF,RF-ARI
-364. [Carlos](https://www.fantasypros.com/mlb/players/carlos-santana.php?week=draft) 1B,DH-Santana
+364. [Carlos Santana](https://www.fantasypros.com/mlb/players/carlos-santana.php?week=draft) 1B,DH-PIT
 365. [Abraham Toro](https://www.fantasypros.com/mlb/players/abraham-toro.php?week=draft) 2B,3B,DH-SEA
 366. [Josh](https://www.fantasypros.com/mlb/players/josh-harrison.php?week=draft) 2B,3B,SS,LF-Harrison
 367. [Brandon Marsh](https://www.fantasypros.com/mlb/players/brandon-marsh.php?week=draft) CF,LF-PHI
@@ -727,7 +727,7 @@ All information contained in this file should be utilized with caution as the ra
 715. [Duane Underwood Jr.](https://www.fantasypros.com/mlb/players/duane-underwood.php?week=draft) RP-PIT
 716. [Jordan](https://www.fantasypros.com/mlb/players/jordan-luplow.php?week=draft) 1B,CF,LF,RF-Luplow
 717. [Matt Manning](https://www.fantasypros.com/mlb/players/matt-manning.php?week=draft) SP-DET
-718. [Joel Payamps](https://www.fantasypros.com/mlb/players/joel-payamps.php?week=draft) RP-OAK
+718. [Joel Payamps](https://www.fantasypros.com/mlb/players/joel-payamps.php?week=draft) RP-HOU
 719. [Sam Howard](https://www.fantasypros.com/mlb/players/sam-howard.php?week=draft) RP-DET
 720. [Evan Phillips](https://www.fantasypros.com/mlb/players/evan-phillips.php?week=draft) RP-LAD
 721. [Andrelton](https://www.fantasypros.com/mlb/players/andrelton-simmons.php?week=draft) 2B,SS-Simmons
@@ -791,7 +791,7 @@ All information contained in this file should be utilized with caution as the ra
 779. [Steven](https://www.fantasypros.com/mlb/players/steven-duggar.php?week=draft) CF,LF-Duggar
 780. [Kelvin](https://www.fantasypros.com/mlb/players/kelvin-gutierrez.php?week=draft) 3B-Gutierrez
 781. [Josh Winder](https://www.fantasypros.com/mlb/players/josh-winder.php?week=draft) SP-MIN
-782. [Zack Collins](https://www.fantasypros.com/mlb/players/zack-collins.php?week=draft) 1B,C,DH-PIT
+782. [Zack Collins](https://www.fantasypros.com/mlb/players/zack-collins.php?week=draft) 1B,C,DH-CWS
 783. [Andrew Knizner](https://www.fantasypros.com/mlb/players/andrew-knizner.php?week=draft) 1B,C-STL
 784. [Corey Ray](https://www.fantasypros.com/mlb/players/corey-ray.php?week=draft) RF-MIL
 785. [J.A.](https://www.fantasypros.com/mlb/players/ja-happ.php?week=draft) SP-Happ
