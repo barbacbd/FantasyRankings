@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 11/28/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 11/29/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -190,7 +190,7 @@ All information contained in this file should be utilized with caution as the ra
 178. [Victor Oladipo](https://www.fantasypros.com/nba/players/victor-oladipo.php?week=draft) SG,SF-MIA
 179. [Immanuel Quickley](https://www.fantasypros.com/nba/players/immanuel-quickley.php?week=draft) PG-NYK
 180. [Evan Fournier](https://www.fantasypros.com/nba/players/evan-fournier.php?week=draft) SG,SF-NYK
-181. [Cody Martin](https://www.fantasypros.com/nba/players/cody-martin.php?week=draft) SG,SF-CHA
+181. [Cody Martin CHA](https://www.fantasypros.com/nba/players/cody-martin.php?week=draft) Out-SG,SF
 182. [Otto Porter Jr.](https://www.fantasypros.com/nba/players/otto-porter.php?week=draft) SF,PF-TOR
 183. [Chuma Okeke](https://www.fantasypros.com/nba/players/chuma-okeke.php?week=draft) PF-ORL
 184. [Walker Kessler](https://www.fantasypros.com/nba/players/walker-kessler.php?week=draft) C-UTH
@@ -277,7 +277,7 @@ All information contained in this file should be utilized with caution as the ra
 265. [Danilo Gallinari](https://www.fantasypros.com/nba/players/danilo-gallinari.php?week=draft) SF,PF-BOS
 266. [Ricky Rubio](https://www.fantasypros.com/nba/players/ricky-rubio.php?week=draft) PG-CLE
 267. [Kenyon Martin Jr.](https://www.fantasypros.com/nba/players/kenyon-martin-jr.php?week=draft) SF,PF-HOU
-268. [Kemba Walker](https://www.fantasypros.com/nba/players/kemba-walker.php?week=draft) PG-FA
+268. [Kemba Walker](https://www.fantasypros.com/nba/players/kemba-walker.php?week=draft) PG-DAL
 269. [Santi Aldama](https://www.fantasypros.com/nba/players/santi-aldama.php?week=draft) PF,C-MEM
 270. [Omer Yurtseven](https://www.fantasypros.com/nba/players/omer-yurtseven.php?week=draft) C-MIA
 271. [Cam Thomas](https://www.fantasypros.com/nba/players/cameron-thomas.php?week=draft) SG-BKN
@@ -286,7 +286,7 @@ All information contained in this file should be utilized with caution as the ra
 274. [JaMychal Green](https://www.fantasypros.com/nba/players/jamychal-green.php?week=draft) PF,C-GSW
 275. [Trendon Watford](https://www.fantasypros.com/nba/players/trendon-watford.php?week=draft) SF,PF-POR
 276. [Theo Maledon](https://www.fantasypros.com/nba/players/theo-maledon.php?week=draft) PG-CHA
-277. [Facundo Campazzo](https://www.fantasypros.com/nba/players/facundo-campazzo.php?week=draft) PG-DAL
+277. [Facundo Campazzo](https://www.fantasypros.com/nba/players/facundo-campazzo.php?week=draft) PG-FA
 278. [Eric Bledsoe](https://www.fantasypros.com/nba/players/eric-bledsoe.php?week=draft) PG,SG-FA
 279. [Mark Williams](https://www.fantasypros.com/nba/players/mark-williams.php?week=draft) C-CHA
 280. [Patty Mills](https://www.fantasypros.com/nba/players/patty-mills.php?week=draft) PG-BKN

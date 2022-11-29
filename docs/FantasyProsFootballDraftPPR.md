@@ -94,7 +94,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 90. [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) WR-LV
 91. [Dak Prescott](https://www.fantasypros.com/nfl/players/dak-prescott.php) QB-DAL
 92. [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) WR-PHI
-93. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-FA
+93. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-KC
 94. [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) WR-ATL
 95. [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) WR-GB
 96. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-ARI
@@ -264,7 +264,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 260. [Cameron Brate](https://www.fantasypros.com/nfl/players/cameron-brate.php) TE-TB
 261. [Terrace Marshall Jr.](https://www.fantasypros.com/nfl/players/terrace-marshall.php) WR-CAR
 262. [Ameer Abdullah](https://www.fantasypros.com/nfl/players/ameer-abdullah.php) RB-LV
-263. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-FA
+263. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-KC
 264. [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php) K-NO
 265. [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) DST-MIN
 266. [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) DST-CAR

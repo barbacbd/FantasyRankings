@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/28/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/29/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -66,7 +66,7 @@ All information contained in this file should be utilized with caution as the ra
 54. [Jose Altuve](https://www.fantasypros.com/mlb/players/jose-altuve.php?week=draft) 2B-HOU
 55. [Kris Bryant](https://www.fantasypros.com/mlb/players/kris-bryant.php?week=draft) 1B,3B,CF,DH,LF,RF-COL
 56. [Randy Arozarena](https://www.fantasypros.com/mlb/players/randy-arozarena.php?week=draft) DH,LF,RF-TB
-57. [Jose](https://www.fantasypros.com/mlb/players/jose-dariel-abreu.php?week=draft) 1B,DH-Abreu
+57. [Jose Abreu](https://www.fantasypros.com/mlb/players/jose-dariel-abreu.php?week=draft) 1B,DH-HOU
 58. [Corey Seager](https://www.fantasypros.com/mlb/players/corey-seager.php?week=draft) SS-TEX
 59. [J.D.](https://www.fantasypros.com/mlb/players/jd-martinez.php?week=draft) LF,RF,DH-Martinez
 60. [Kevin Gausman](https://www.fantasypros.com/mlb/players/kevin-gausman.php?week=draft) SP-TOR
@@ -848,7 +848,7 @@ All information contained in this file should be utilized with caution as the ra
 836. [Josh](https://www.fantasypros.com/mlb/players/josh-vanmeter.php?week=draft) 1B,2B,3B-VanMeter
 837. [Jesse](https://www.fantasypros.com/mlb/players/jesse-hahn.php?week=draft) RP-Hahn
 838. [Miguel Andujar](https://www.fantasypros.com/mlb/players/miguel-andujar.php?week=draft) DH,LF-PIT
-839. [Colton](https://www.fantasypros.com/mlb/players/colton-welker.php?week=draft) 3B-Welker
+839. [Colton Welker](https://www.fantasypros.com/mlb/players/colton-welker.php?week=draft) 3B-SF
 840. [Dauri Moreta](https://www.fantasypros.com/mlb/players/dauri-moreta.php?week=draft) RP-PIT
 841. [Blake](https://www.fantasypros.com/mlb/players/blake-parker.php?week=draft) RP-Parker
 842. [Adam](https://www.fantasypros.com/mlb/players/adam-eaton.php?week=draft) RF-Eaton
@@ -879,7 +879,7 @@ All information contained in this file should be utilized with caution as the ra
 867. [Eli Morgan](https://www.fantasypros.com/mlb/players/eli-morgan.php?week=draft) RP,SP-CLE
 868. [Jackson Kowar](https://www.fantasypros.com/mlb/players/jackson-kowar.php?week=draft) RP,SP-KC
 869. [Jose Trevino](https://www.fantasypros.com/mlb/players/jose-trevino.php?week=draft) C-NYY
-870. [Trevor](https://www.fantasypros.com/mlb/players/trevor-gott.php?week=draft) RP-Gott
+870. [Trevor Gott](https://www.fantasypros.com/mlb/players/trevor-gott.php?week=draft) RP-SEA
 871. [Derek](https://www.fantasypros.com/mlb/players/derek-holland.php?week=draft) RP-Holland
 872. [Manuel Rodriguez](https://www.fantasypros.com/mlb/players/manuel-rodriguez.php?week=draft) RP-CHC
 873. [Austin Allen](https://www.fantasypros.com/mlb/players/austin-allen.php?week=draft) C-STL
@@ -965,7 +965,7 @@ All information contained in this file should be utilized with caution as the ra
 953. [Ryan Rolison](https://www.fantasypros.com/mlb/players/ryan-rolison.php?week=draft) SP-COL
 954. [Mike](https://www.fantasypros.com/mlb/players/michael-fiers.php?week=draft) SP-Fiers
 955. [Steven Brault](https://www.fantasypros.com/mlb/players/steven-brault.php?week=draft) RP,SP-CHC
-956. [Luke](https://www.fantasypros.com/mlb/players/luke-maile.php?week=draft) C-Maile
+956. [Luke Maile](https://www.fantasypros.com/mlb/players/luke-maile.php?week=draft) C-CIN
 957. [Austin](https://www.fantasypros.com/mlb/players/austin-romine.php?week=draft) C-Romine
 958. [Tres Barrera](https://www.fantasypros.com/mlb/players/felipe-barrera.php?week=draft) C-WSH
 959. [Lucas Gilbreath](https://www.fantasypros.com/mlb/players/lucas-gilbreath.php?week=draft) RP-COL
@@ -1039,7 +1039,7 @@ All information contained in this file should be utilized with caution as the ra
 1027. [Bryse Wilson](https://www.fantasypros.com/mlb/players/bryse-wilson.php?week=draft) RP,SP-PIT
 1028. [Zac Lowther](https://www.fantasypros.com/mlb/players/zac-lowther.php?week=draft) RP,SP-BAL
 1029. [Guillermo](https://www.fantasypros.com/mlb/players/guillermo-heredia.php?week=draft) CF,LF,RF-Heredia
-1030. [Julio](https://www.fantasypros.com/mlb/players/julio-teheran.php?week=draft) SP-Teheran
+1030. [Julio Teheran](https://www.fantasypros.com/mlb/players/julio-teheran.php?week=draft) SP-SD
 1031. [Ehire](https://www.fantasypros.com/mlb/players/ehire-adrianza.php?week=draft) 2B,3B,LF,RF-Adrianza
 1032. [Derek Hill](https://www.fantasypros.com/mlb/players/derek-hill-of.php?week=draft) CF-WSH
 1033. [Johan](https://www.fantasypros.com/mlb/players/johan-camargo.php?week=draft) 1B,2B,3B,SS-Camargo

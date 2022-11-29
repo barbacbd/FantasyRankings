@@ -100,7 +100,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 96. [Trey Lance](https://www.fantasypros.com/nfl/players/trey-lance.php) QB-SF
 97. [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) RB-ATL
 98. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-ARI
-99. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-FA
+99. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-KC
 100. [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) WR-TEN
 101. [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) WR-ARI
 102. [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) QB-GB
@@ -266,7 +266,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 262. [Laviska Shenault Jr.](https://www.fantasypros.com/nfl/players/laviska-shenault.php) WR-CAR
 263. [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) DST-MIN
 264. [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) DST-CAR
-265. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-FA
+265. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-KC
 266. [Mason Crosby](https://www.fantasypros.com/nfl/players/mason-crosby.php) K-GB
 267. [Terrace Marshall Jr.](https://www.fantasypros.com/nfl/players/terrace-marshall.php) WR-CAR
 268. [Braxton Berrios](https://www.fantasypros.com/nfl/players/braxton-berrios.php) WR-NYJ

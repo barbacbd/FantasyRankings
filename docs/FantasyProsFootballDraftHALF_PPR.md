@@ -92,7 +92,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 88. [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) RB-BUF
 89. [Dak Prescott](https://www.fantasypros.com/nfl/players/dak-prescott.php) QB-DAL
 90. [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) WR-PHI
-91. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-FA
+91. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-KC
 92. [Christian Kirk](https://www.fantasypros.com/nfl/players/christian-kirk.php) WR-JAC
 93. [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) WR-LV
 94. [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) WR-ATL
@@ -265,7 +265,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 261. [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) DST-CAR
 262. [Randall Cobb](https://www.fantasypros.com/nfl/players/randall-cobb.php) WR-GB
 263. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-IND
-264. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-FA
+264. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-KC
 265. [Mason Crosby](https://www.fantasypros.com/nfl/players/mason-crosby.php) K-GB
 266. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
 267. [Nelson Agholor](https://www.fantasypros.com/nfl/players/nelson-agholor.php) WR-NE
