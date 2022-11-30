@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/29/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 11/30/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -245,7 +245,7 @@ All information contained in this file should be utilized with caution as the ra
 233. [Jon Gray](https://www.fantasypros.com/mlb/players/jonathan-gray.php?week=draft) SP-TEX
 234. [Hyun Jin Ryu](https://www.fantasypros.com/mlb/players/hyun-jin-ryu.php?week=draft) SP-TOR
 235. [German Marquez](https://www.fantasypros.com/mlb/players/german-marquez.php?week=draft) SP-COL
-236. [Jeimer](https://www.fantasypros.com/mlb/players/jeimer-candelario.php?week=draft) 3B-Candelario
+236. [Jeimer Candelario](https://www.fantasypros.com/mlb/players/jeimer-candelario.php?week=draft) 3B-WSH
 237. [Tyler Stephenson](https://www.fantasypros.com/mlb/players/tyler-stephenson.php?week=draft) C,1B-CIN
 238. [Wil](https://www.fantasypros.com/mlb/players/wil-myers.php?week=draft) 1B,CF,LF,RF-Myers
 239. [Tanner Houck](https://www.fantasypros.com/mlb/players/tanner-houck.php?week=draft) SP,RP-BOS
