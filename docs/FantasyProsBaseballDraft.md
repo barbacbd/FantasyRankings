@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/1/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/2/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -326,7 +326,7 @@ All information contained in this file should be utilized with caution as the ra
 314. [Jeremy Pena](https://www.fantasypros.com/mlb/players/jeremy-pena.php?week=draft) SS-HOU
 315. [David](https://www.fantasypros.com/mlb/players/david-peralta.php?week=draft) DH,LF-Peralta
 316. [Brady Singer](https://www.fantasypros.com/mlb/players/brady-singer.php?week=draft) SP-KC
-317. [Zach](https://www.fantasypros.com/mlb/players/zach-eflin.php?week=draft) RP,SP-Eflin
+317. [Zach Eflin](https://www.fantasypros.com/mlb/players/zach-eflin.php?week=draft) RP,SP-TB
 318. [Lane Thomas](https://www.fantasypros.com/mlb/players/lane-thomas.php?week=draft) LF,CF,RF-WSH
 319. [Cesar](https://www.fantasypros.com/mlb/players/cesar-hernandez.php?week=draft) 2B,3B,LF-Hernandez
 320. [Alex](https://www.fantasypros.com/mlb/players/alexander-colome.php?week=draft) RP-Colome
@@ -522,7 +522,7 @@ All information contained in this file should be utilized with caution as the ra
 510. [Triston Casas](https://www.fantasypros.com/mlb/players/triston-casas.php?week=draft) 1B,3B-BOS
 511. [Jeffrey Springs](https://www.fantasypros.com/mlb/players/jeffrey-springs.php?week=draft) RP,SP-TB
 512. [Rougned](https://www.fantasypros.com/mlb/players/rougned-odor.php?week=draft) 2B,3B-Odor
-513. [Matthew](https://www.fantasypros.com/mlb/players/matt-boyd.php?week=draft) RP,SP-Boyd
+513. [Matthew Boyd](https://www.fantasypros.com/mlb/players/matt-boyd.php?week=draft) RP,SP-DET
 514. [Joely Rodriguez](https://www.fantasypros.com/mlb/players/joely-rodriguez.php?week=draft) RP-BOS
 515. [Dylan Moore](https://www.fantasypros.com/mlb/players/dylan-moore.php?week=draft) 2B,3B,CF,LF,RF,SS-SEA
 516. [Ryan Tepera](https://www.fantasypros.com/mlb/players/ryan-tepera.php?week=draft) RP-LAA
@@ -824,7 +824,7 @@ All information contained in this file should be utilized with caution as the ra
 812. [Deivi Garcia](https://www.fantasypros.com/mlb/players/deivi-garcia-p.php?week=draft) SP-NYY
 813. [Riley Adams](https://www.fantasypros.com/mlb/players/riley-adams.php?week=draft) C-WSH
 814. [William Contreras](https://www.fantasypros.com/mlb/players/william-contreras.php?week=draft) C,DH-ATL
-815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) RP,SP-Lorenzen
+815. [Michael](https://www.fantasypros.com/mlb/players/michael-lorenzen.php?week=draft) CF,RF,RP,SP-Lorenzen
 816. [Josh Fleming](https://www.fantasypros.com/mlb/players/josh-fleming.php?week=draft) SP,RP-TB
 817. [Nick Pratto](https://www.fantasypros.com/mlb/players/nick-pratto.php?week=draft) 1B,LF-KC
 818. [Andrew Stevenson](https://www.fantasypros.com/mlb/players/andrew-stevenson.php?week=draft) LF,CF,RF-WSH
@@ -914,7 +914,7 @@ All information contained in this file should be utilized with caution as the ra
 902. [Andrew](https://www.fantasypros.com/mlb/players/andrew-knapp.php?week=draft) C-Knapp
 903. [Taylor Hearn](https://www.fantasypros.com/mlb/players/taylor-hearn.php?week=draft) SP,RP-TEX
 904. [Vince](https://www.fantasypros.com/mlb/players/vincent-velasquez.php?week=draft) RP,SP-Velasquez
-905. [Anthony](https://www.fantasypros.com/mlb/players/anthony-gose.php?week=draft) RP-Gose
+905. [Anthony Gose](https://www.fantasypros.com/mlb/players/anthony-gose.php?week=draft) RP-CLE
 906. [Packy Naughton](https://www.fantasypros.com/mlb/players/packy-naughton.php?week=draft) RP,SP-STL
 907. [Dennis Santana](https://www.fantasypros.com/mlb/players/dennis-santana.php?week=draft) RP-ATL
 908. [Cade Cavalli](https://www.fantasypros.com/mlb/players/cade-cavalli-p.php?week=draft) SP-WSH
