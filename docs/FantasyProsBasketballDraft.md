@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 12/2/2022.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 12/3/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -178,7 +178,7 @@ All information contained in this file should be utilized with caution as the ra
 166. [Richaun Holmes](https://www.fantasypros.com/nba/players/richaun-holmes.php?week=draft) PF,C-SAC
 167. [Kyle Anderson](https://www.fantasypros.com/nba/players/kyle-anderson.php?week=draft) SF,PF-MIN
 168. [Kevin Huerter](https://www.fantasypros.com/nba/players/kevin-huerter.php?week=draft) SG,SF-SAC
-169. [Cody Martin CHA](https://www.fantasypros.com/nba/players/cody-martin.php?week=draft) Out-SG,SF
+169. [Cody Martin](https://www.fantasypros.com/nba/players/cody-martin.php?week=draft) SG,SF-CHA
 170. [Walker Kessler](https://www.fantasypros.com/nba/players/walker-kessler.php?week=draft) C-UTH
 171. [Bennedict Mathurin](https://www.fantasypros.com/nba/players/bennedict-mathurin.php?week=draft) SF-IND
 172. [Jaden Ivey](https://www.fantasypros.com/nba/players/jaden-ivey.php?week=draft) PG-DET

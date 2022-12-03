@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/2/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/3/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -110,7 +110,7 @@ All information contained in this file should be utilized with caution as the ra
 98. [Aroldis](https://www.fantasypros.com/mlb/players/aroldis-chapman.php?week=draft) RP-Chapman
 99. [Fernando Tatis Jr.](https://www.fantasypros.com/mlb/players/fernando-tatis-jr.php?week=draft) SS,CF,RF-SD
 100. [Nelson](https://www.fantasypros.com/mlb/players/nelson-cruz.php?week=draft) DH-Cruz
-101. [Jesse Winker](https://www.fantasypros.com/mlb/players/jesse-winker.php?week=draft) DH,LF-SEA
+101. [Jesse Winker](https://www.fantasypros.com/mlb/players/jesse-winker.php?week=draft) DH,LF-MIL
 102. [Rhys Hoskins](https://www.fantasypros.com/mlb/players/rhys-hoskins.php?week=draft) 1B-PHI
 103. [C.J. Cron](https://www.fantasypros.com/mlb/players/cj-cron.php?week=draft) 1B,DH-COL
 104. [Will Smith](https://www.fantasypros.com/mlb/players/will-smith-c.php?week=draft) C,DH-LAD
@@ -154,7 +154,7 @@ All information contained in this file should be utilized with caution as the ra
 142. [DJ LeMahieu](https://www.fantasypros.com/mlb/players/dj-lemahieu.php?week=draft) 1B,2B,3B-NYY
 143. [Alex Verdugo](https://www.fantasypros.com/mlb/players/alex-verdugo.php?week=draft) LF,CF,RF-BOS
 144. [Dylan Carlson](https://www.fantasypros.com/mlb/players/dylan-carlson.php?week=draft) LF,CF,RF-STL
-145. [Jacob](https://www.fantasypros.com/mlb/players/jacob-degrom.php?week=draft) SP-deGrom
+145. [Jacob deGrom](https://www.fantasypros.com/mlb/players/jacob-degrom.php?week=draft) SP-TEX
 146. [Jarred Kelenic](https://www.fantasypros.com/mlb/players/jarred-kelenic.php?week=draft) CF,LF,RF-SEA
 147. [Willson](https://www.fantasypros.com/mlb/players/willson-contreras.php?week=draft) C,DH-Contreras
 148. [Logan Gilbert](https://www.fantasypros.com/mlb/players/logan-gilbert.php?week=draft) SP-SEA
@@ -205,7 +205,7 @@ All information contained in this file should be utilized with caution as the ra
 193. [Tarik Skubal](https://www.fantasypros.com/mlb/players/tarik-skubal.php?week=draft) SP-DET
 194. [Jack Flaherty](https://www.fantasypros.com/mlb/players/jack-flaherty.php?week=draft) SP-STL
 195. [Brendan Rodgers](https://www.fantasypros.com/mlb/players/brendan-rodgers.php?week=draft) 2B,SS-COL
-196. [Kolten Wong](https://www.fantasypros.com/mlb/players/kolten-wong.php?week=draft) 2B-MIL
+196. [Kolten Wong](https://www.fantasypros.com/mlb/players/kolten-wong.php?week=draft) 2B-SEA
 197. [Myles Straw](https://www.fantasypros.com/mlb/players/myles-straw.php?week=draft) CF-CLE
 198. [Shane Baz](https://www.fantasypros.com/mlb/players/shane-baz.php?week=draft) SP-TB
 199. [Adam Wainwright](https://www.fantasypros.com/mlb/players/adam-wainwright.php?week=draft) SP-STL
@@ -374,7 +374,7 @@ All information contained in this file should be utilized with caution as the ra
 362. [Cole Sulser](https://www.fantasypros.com/mlb/players/cole-sulser.php?week=draft) RP-ARI
 363. [Pavin Smith](https://www.fantasypros.com/mlb/players/pavin-smith.php?week=draft) 1B,CF,DH,LF,RF-ARI
 364. [Carlos Santana](https://www.fantasypros.com/mlb/players/carlos-santana.php?week=draft) 1B,DH-PIT
-365. [Abraham Toro](https://www.fantasypros.com/mlb/players/abraham-toro.php?week=draft) 2B,3B,DH-SEA
+365. [Abraham Toro](https://www.fantasypros.com/mlb/players/abraham-toro.php?week=draft) 2B,3B,DH-MIL
 366. [Josh](https://www.fantasypros.com/mlb/players/josh-harrison.php?week=draft) 2B,3B,SS,LF-Harrison
 367. [Brandon Marsh](https://www.fantasypros.com/mlb/players/brandon-marsh.php?week=draft) CF,LF-PHI
 368. [Yadier](https://www.fantasypros.com/mlb/players/yadier-molina.php?week=draft) C-Molina
@@ -554,7 +554,7 @@ All information contained in this file should be utilized with caution as the ra
 542. [Bryan De La Cruz](https://www.fantasypros.com/mlb/players/bryan-de-la-cruz.php?week=draft) CF,LF,RF-MIA
 543. [Sean Doolittle](https://www.fantasypros.com/mlb/players/sean-doolittle.php?week=draft) RP-WSH
 544. [Trevor](https://www.fantasypros.com/mlb/players/trevor-rosenthal.php?week=draft) RP-Rosenthal
-545. [Chris](https://www.fantasypros.com/mlb/players/chris-martin.php?week=draft) RP-Martin
+545. [Chris Martin](https://www.fantasypros.com/mlb/players/chris-martin.php?week=draft) RP-BOS
 546. [Roberto](https://www.fantasypros.com/mlb/players/roberto-perez.php?week=draft) C-Perez
 547. [Zach Thompson](https://www.fantasypros.com/mlb/players/zachary-thompson.php?week=draft) SP,RP-PIT
 548. [Austin](https://www.fantasypros.com/mlb/players/austin-hedges.php?week=draft) C-Hedges
@@ -652,7 +652,7 @@ All information contained in this file should be utilized with caution as the ra
 640. [Jeurys](https://www.fantasypros.com/mlb/players/jeurys-familia.php?week=draft) RP-Familia
 641. [Corbin Martin](https://www.fantasypros.com/mlb/players/corbin-martin.php?week=draft) RP,SP-ARI
 642. [Luke](https://www.fantasypros.com/mlb/players/luke-jackson.php?week=draft) RP-Jackson
-643. [Miguel](https://www.fantasypros.com/mlb/players/miguel-castro.php?week=draft) RP-Castro
+643. [Miguel Castro](https://www.fantasypros.com/mlb/players/miguel-castro.php?week=draft) RP-ARI
 644. [Jose](https://www.fantasypros.com/mlb/players/jose-quintana.php?week=draft) SP,RP-Quintana
 645. [Caleb](https://www.fantasypros.com/mlb/players/caleb-smith.php?week=draft) SP,RP-Smith
 646. [Ryan Brasier](https://www.fantasypros.com/mlb/players/ryan-brasier.php?week=draft) RP-BOS
@@ -727,11 +727,11 @@ All information contained in this file should be utilized with caution as the ra
 715. [Duane Underwood Jr.](https://www.fantasypros.com/mlb/players/duane-underwood.php?week=draft) RP-PIT
 716. [Jordan](https://www.fantasypros.com/mlb/players/jordan-luplow.php?week=draft) 1B,CF,LF,RF-Luplow
 717. [Matt Manning](https://www.fantasypros.com/mlb/players/matt-manning.php?week=draft) SP-DET
-718. [Joel Payamps](https://www.fantasypros.com/mlb/players/joel-payamps.php?week=draft) RP-HOU
+718. [Joel Payamps](https://www.fantasypros.com/mlb/players/joel-payamps.php?week=draft) RP-OAK
 719. [Sam Howard](https://www.fantasypros.com/mlb/players/sam-howard.php?week=draft) RP-DET
 720. [Evan Phillips](https://www.fantasypros.com/mlb/players/evan-phillips.php?week=draft) RP-LAD
 721. [Andrelton](https://www.fantasypros.com/mlb/players/andrelton-simmons.php?week=draft) 2B,SS-Simmons
-722. [Lewin Diaz](https://www.fantasypros.com/mlb/players/lewin-diaz-1b.php?week=draft) 1B-PIT
+722. [Lewin Diaz](https://www.fantasypros.com/mlb/players/lewin-diaz-1b.php?week=draft) 1B-BAL
 723. [Eric](https://www.fantasypros.com/mlb/players/eric-thames.php?week=draft) 1B,RF-Thames
 724. [Jonah Heim](https://www.fantasypros.com/mlb/players/jonah-heim.php?week=draft) C-TEX
 725. [Ryan Weathers](https://www.fantasypros.com/mlb/players/ryan-weathers.php?week=draft) SP,RP-SD
@@ -988,7 +988,7 @@ All information contained in this file should be utilized with caution as the ra
 976. [Chad Wallach](https://www.fantasypros.com/mlb/players/chad-wallach.php?week=draft) C-LAA
 977. [Anthony Bemboom](https://www.fantasypros.com/mlb/players/anthony-bemboom.php?week=draft) C-BAL
 978. [Mark Kolozsvary](https://www.fantasypros.com/mlb/players/mark-kolozsvary.php?week=draft) C-BAL
-979. [Ali Sanchez](https://www.fantasypros.com/mlb/players/ali-sanchez.php?week=draft) C-PIT
+979. [Ali Sanchez](https://www.fantasypros.com/mlb/players/ali-sanchez.php?week=draft) C-ARI
 980. [Jaime Barria](https://www.fantasypros.com/mlb/players/jaime-barria.php?week=draft) RP,SP-LAA
 981. [Aaron](https://www.fantasypros.com/mlb/players/aaron-sanchez.php?week=draft) RP,SP-Sanchez
 982. [Drew](https://www.fantasypros.com/mlb/players/drew-butera.php?week=draft) C-Butera
@@ -1071,7 +1071,7 @@ All information contained in this file should be utilized with caution as the ra
 1059. [Matt](https://www.fantasypros.com/mlb/players/matt-joyce.php?week=draft) LF,RF-Joyce
 1060. [Estevan Florial](https://www.fantasypros.com/mlb/players/estevan-florial.php?week=draft) CF-NYY
 1061. [Mauricio Dubon](https://www.fantasypros.com/mlb/players/mauricio-dubon.php?week=draft) 2B,3B,CF,LF,SS-HOU
-1062. [Rylan Bannon](https://www.fantasypros.com/mlb/players/rylan-bannon.php?week=draft) 3B-CHC
+1062. [Rylan Bannon](https://www.fantasypros.com/mlb/players/rylan-bannon.php?week=draft) 3B-HOU
 1063. [Zach McKinstry](https://www.fantasypros.com/mlb/players/zach-mckinstry.php?week=draft) 2B,3B,LF,RF,SS-CHC
 1064. [Aaron](https://www.fantasypros.com/mlb/players/aaron-altherr.php?week=draft) LF,CF,RF-Altherr
 1065. [Jack Mayfield](https://www.fantasypros.com/mlb/players/jack-mayfield.php?week=draft) 2B,3B,SS-LAA
@@ -1081,8 +1081,8 @@ All information contained in this file should be utilized with caution as the ra
 1069. [Luke](https://www.fantasypros.com/mlb/players/luke-williams.php?week=draft) 2B,3B,CF,DH,LF-Williams
 1070. [Ronald](https://www.fantasypros.com/mlb/players/ronald-torreyes.php?week=draft) 2B,3B,SS-Torreyes
 1071. [Sergio](https://www.fantasypros.com/mlb/players/sergio-alcantara.php?week=draft) 2B,3B,SS-Alcantara
-1072. [Franchy](https://www.fantasypros.com/mlb/players/franchy-cordero.php?week=draft) 1B,LF,RF-Cordero
-1073. [Jake Cave](https://www.fantasypros.com/mlb/players/jake-cave.php?week=draft) LF,CF,RF-BAL
+1072. [Franchy Cordero](https://www.fantasypros.com/mlb/players/franchy-cordero.php?week=draft) 1B,LF,RF-BAL
+1073. [Jake Cave](https://www.fantasypros.com/mlb/players/jake-cave.php?week=draft) LF,CF,RF-PHI
 1074. [Isaac Paredes](https://www.fantasypros.com/mlb/players/isaac-paredes.php?week=draft) 1B,2B,3B-TB
 1075. [Renato](https://www.fantasypros.com/mlb/players/renato-nunez.php?week=draft) 1B,3B-Nunez
 1076. [Mason Martin](https://www.fantasypros.com/mlb/players/mason-martin.php?week=draft) 1B,LF-PIT
@@ -1193,7 +1193,7 @@ All information contained in this file should be utilized with caution as the ra
 1181. [Mike](https://www.fantasypros.com/mlb/players/mike-tauchman.php?week=draft) LF,CF,RF-Tauchman
 1182. [Jason](https://www.fantasypros.com/mlb/players/jason-vosler.php?week=draft) 3B-Vosler
 1183. [Blake Rutherford](https://www.fantasypros.com/mlb/players/blake-rutherford.php?week=draft) CF,LF-CWS
-1184. [Brendon](https://www.fantasypros.com/mlb/players/brendon-davis.php?week=draft) 3B,RF-Davis
+1184. [Brendon Davis](https://www.fantasypros.com/mlb/players/brendon-davis.php?week=draft) 3B,RF-DET
 1185. [Ronnie Dawson](https://www.fantasypros.com/mlb/players/ronnie-dawson.php?week=draft) DH-CIN
 1186. [Scott Hurst](https://www.fantasypros.com/mlb/players/scott-hurst.php?week=draft) CF-STL
 1187. [Billy McKinney](https://www.fantasypros.com/mlb/players/billy-mckinney.php?week=draft) 1B,LF,RF-OAK
@@ -1235,6 +1235,6 @@ All information contained in this file should be utilized with caution as the ra
 1223. [Travis Blankenhorn](https://www.fantasypros.com/mlb/players/travis-blankenhorn-3b.php?week=draft) 2B-NYM
 1224. [Kody Clemens](https://www.fantasypros.com/mlb/players/kody-clemens.php?week=draft) 1B,2B,3B,LF,RP-DET
 1225. [Tim](https://www.fantasypros.com/mlb/players/tim-lopes.php?week=draft) 2B-Lopes
-1226. [Alex De Goti](https://www.fantasypros.com/mlb/players/alexander-de-goti.php?week=draft) 2B-HOU
+1226. [Alex De Goti](https://www.fantasypros.com/mlb/players/alexander-de-goti.php?week=draft) 2B-MIA
 
 
