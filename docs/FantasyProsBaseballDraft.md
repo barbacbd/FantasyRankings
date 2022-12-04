@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/3/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/4/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -362,7 +362,7 @@ All information contained in this file should be utilized with caution as the ra
 350. [CJ Abrams](https://www.fantasypros.com/mlb/players/cj-abrams.php?week=draft) 2B,SS-WSH
 351. [Nick Solak](https://www.fantasypros.com/mlb/players/nick-solak.php?week=draft) 2B,DH,LF-CIN
 352. [Diego Castillo](https://www.fantasypros.com/mlb/players/diego-castillo.php?week=draft) RP-SEA
-353. [Kyle](https://www.fantasypros.com/mlb/players/kyle-gibson.php?week=draft) SP-Gibson
+353. [Kyle Gibson](https://www.fantasypros.com/mlb/players/kyle-gibson.php?week=draft) SP-BAL
 354. [Lorenzo Cain](https://www.fantasypros.com/mlb/players/lorenzo-cain.php?week=draft) CF-MIL
 355. [Miguel Rojas](https://www.fantasypros.com/mlb/players/miguel-rojas.php?week=draft) 1B,SS-MIA
 356. [Max Stassi](https://www.fantasypros.com/mlb/players/max-stassi.php?week=draft) C-LAA
