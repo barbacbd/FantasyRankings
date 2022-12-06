@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/5/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/6/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -10,7 +10,7 @@ All information contained in this file should be utilized with caution as the ra
 
 ## Overall Rankings
 
-1. [Trea](https://www.fantasypros.com/mlb/players/trea-turner.php?week=draft) 2B,SS-Turner
+1. [Trea Turner](https://www.fantasypros.com/mlb/players/trea-turner.php?week=draft) 2B,SS-PHI
 2. [Juan Soto](https://www.fantasypros.com/mlb/players/juan-soto.php?week=draft) RF-SD
 3. [Jose Ramirez](https://www.fantasypros.com/mlb/players/jose-ramirez.php?week=draft) 3B,DH-CLE
 4. [Vladimir Guerrero Jr.](https://www.fantasypros.com/mlb/players/vladimir-guerrero-jr.php?week=draft) 1B,DH-TOR
@@ -87,7 +87,7 @@ All information contained in this file should be utilized with caution as the ra
 75. [Jorge Polanco](https://www.fantasypros.com/mlb/players/jorge-polanco.php?week=draft) 2B,SS-MIN
 76. [Frankie Montas](https://www.fantasypros.com/mlb/players/frankie-montas.php?week=draft) SP-NYY
 77. [Alex Bregman](https://www.fantasypros.com/mlb/players/alex-bregman.php?week=draft) 3B-HOU
-78. [Justin](https://www.fantasypros.com/mlb/players/justin-verlander.php?week=draft) SP-Verlander
+78. [Justin Verlander](https://www.fantasypros.com/mlb/players/justin-verlander.php?week=draft) SP-NYM
 79. [Jonathan India](https://www.fantasypros.com/mlb/players/jonathan-india.php?week=draft) 2B,DH-CIN
 80. [J.T. Realmuto](https://www.fantasypros.com/mlb/players/jt-realmuto.php?week=draft) C,1B-PHI
 81. [Christian Yelich](https://www.fantasypros.com/mlb/players/christian-yelich.php?week=draft) DH,LF-MIL
@@ -536,7 +536,7 @@ All information contained in this file should be utilized with caution as the ra
 524. [Kevin Smith](https://www.fantasypros.com/mlb/players/kevin-smith-ss.php?week=draft) 3B,SS-OAK
 525. [Ramon Urias](https://www.fantasypros.com/mlb/players/ramon-urias.php?week=draft) 2B,3B,SS-BAL
 526. [Tyler Glasnow](https://www.fantasypros.com/mlb/players/tyler-glasnow.php?week=draft) SP-TB
-527. [Carlos](https://www.fantasypros.com/mlb/players/carlos-estevez.php?week=draft) RP-Estevez
+527. [Carlos Estevez](https://www.fantasypros.com/mlb/players/carlos-estevez.php?week=draft) RP-LAA
 528. [Nick Sandlin](https://www.fantasypros.com/mlb/players/nick-sandlin.php?week=draft) RP-CLE
 529. [Brooks Raley](https://www.fantasypros.com/mlb/players/brooks-raley.php?week=draft) RP-TB
 530. [Cole Irvin](https://www.fantasypros.com/mlb/players/cole-irvin.php?week=draft) SP-OAK

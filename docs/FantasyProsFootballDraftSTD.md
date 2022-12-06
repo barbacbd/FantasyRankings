@@ -171,7 +171,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 167. [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) DST-IND
 168. [Kenny Golladay](https://www.fantasypros.com/nfl/players/kenny-golladay.php) WR-NYG
 169. [Joshua Palmer](https://www.fantasypros.com/nfl/players/josh-palmer.php) WR-LAC
-170. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-CAR
+170. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-FA
 171. [Justin Tucker](https://www.fantasypros.com/nfl/players/justin-tucker.php) K-BAL
 172. [K.J. Osborn](https://www.fantasypros.com/nfl/players/kj-osborn.php) WR-MIN
 173. [New Orleans Saints](https://www.fantasypros.com/nfl/players/new-orleans-defense.php) DST-NO
