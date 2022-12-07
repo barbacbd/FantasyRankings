@@ -185,7 +185,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 181. [Carson Wentz](https://www.fantasypros.com/nfl/players/carson-wentz.php) QB-WAS
 182. [Denver Broncos](https://www.fantasypros.com/nfl/players/denver-defense.php) DST-DEN
 183. [Isaiah Spiller](https://www.fantasypros.com/nfl/players/isaiah-spiller.php) RB-LAC
-184. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-FA
+184. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-LAR
 185. [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) WR-LAR
 186. [Los Angeles Rams](https://www.fantasypros.com/nfl/players/los-angeles-defense.php) DST-LAR
 187. [Jalen Tolbert](https://www.fantasypros.com/nfl/players/jalen-tolbert.php) WR-DAL
