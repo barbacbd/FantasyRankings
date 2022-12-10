@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/9/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/10/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -669,7 +669,7 @@ All information contained in this file should be utilized with caution as the ra
 657. [Sean](https://www.fantasypros.com/mlb/players/sean-newcomb.php?week=draft) RP-Newcomb
 658. [Luis Garcia](https://www.fantasypros.com/mlb/players/luis-garcia-2b.php?week=draft) 2B,SS-WSH
 659. [Spencer](https://www.fantasypros.com/mlb/players/spencer-patton.php?week=draft) RP-Patton
-660. [Victor](https://www.fantasypros.com/mlb/players/victor-reyes.php?week=draft) CF,LF,RF-Reyes
+660. [Victor Reyes](https://www.fantasypros.com/mlb/players/victor-reyes.php?week=draft) CF,LF,RF-CWS
 661. [Corey](https://www.fantasypros.com/mlb/players/corey-dickerson.php?week=draft) CF,DH,LF,RF-Dickerson
 662. [Hirokazu](https://www.fantasypros.com/mlb/players/hirokazu-sawamura.php?week=draft) RP-Sawamura
 663. [Ross](https://www.fantasypros.com/mlb/players/ross-stripling.php?week=draft) SP,RP-Stripling
@@ -686,13 +686,13 @@ All information contained in this file should be utilized with caution as the ra
 674. [Leody Taveras](https://www.fantasypros.com/mlb/players/leody-taveras-of.php?week=draft) CF-TEX
 675. [Kevin Newman](https://www.fantasypros.com/mlb/players/kevin-newman.php?week=draft) 2B,SS-CIN
 676. [Jose Leclerc](https://www.fantasypros.com/mlb/players/jose-leclerc.php?week=draft) RP-TEX
-677. [Trevor](https://www.fantasypros.com/mlb/players/trevor-williams.php?week=draft) SP,RP-Williams
+677. [Trevor Williams](https://www.fantasypros.com/mlb/players/trevor-williams.php?week=draft) SP,RP-WSH
 678. [Jesse Chavez](https://www.fantasypros.com/mlb/players/jesse-chavez.php?week=draft) SP,RP-ATL
 679. [Max Meyer](https://www.fantasypros.com/mlb/players/max-meyer.php?week=draft) SP-MIA
 680. [Maikel](https://www.fantasypros.com/mlb/players/maikel-franco.php?week=draft) 3B-Franco
 681. [Cody Stashak](https://www.fantasypros.com/mlb/players/cody-stashak.php?week=draft) RP-MIN
 682. [Jed](https://www.fantasypros.com/mlb/players/jed-lowrie.php?week=draft) 2B,DH-Lowrie
-683. [Patrick Murphy](https://www.fantasypros.com/mlb/players/patrick-murphy.php?week=draft) RP-WSH
+683. [Patrick Murphy](https://www.fantasypros.com/mlb/players/patrick-murphy.php?week=draft) RP-MIN
 684. [Nick Gordon](https://www.fantasypros.com/mlb/players/nick-gordon.php?week=draft) 2B,SS,LF,CF-MIN
 685. [Austin Warren](https://www.fantasypros.com/mlb/players/austin-warren.php?week=draft) RP-LAA
 686. [Sam Moll](https://www.fantasypros.com/mlb/players/sam-moll.php?week=draft) RP-OAK
