@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/10/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/11/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -596,7 +596,7 @@ All information contained in this file should be utilized with caution as the ra
 584. [Martin Maldonado](https://www.fantasypros.com/mlb/players/martin-maldonado.php?week=draft) C-HOU
 585. [Seranthony Dominguez](https://www.fantasypros.com/mlb/players/seranthony-dominguez.php?week=draft) RP-PHI
 586. [John King](https://www.fantasypros.com/mlb/players/john-king.php?week=draft) RP-TEX
-587. [Kevin](https://www.fantasypros.com/mlb/players/kevin-kiermaier.php?week=draft) CF-Kiermaier
+587. [Kevin Kiermaier](https://www.fantasypros.com/mlb/players/kevin-kiermaier.php?week=draft) CF-TOR
 588. [Kyle Wright](https://www.fantasypros.com/mlb/players/kyle-wright.php?week=draft) SP-ATL
 589. [Alex Wells](https://www.fantasypros.com/mlb/players/alex-wells.php?week=draft) SP-BAL
 590. [Robert Stephenson](https://www.fantasypros.com/mlb/players/robert-stephenson.php?week=draft) RP-PIT

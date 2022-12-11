@@ -231,7 +231,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 227. [Kansas City Chiefs](https://www.fantasypros.com/nfl/players/kansas-city-defense.php) DST-KC
 228. [Marcus Mariota](https://www.fantasypros.com/nfl/players/marcus-mariota.php) QB-ATL
 229. [Samaje Perine](https://www.fantasypros.com/nfl/players/samaje-perine.php) RB-CIN
-230. [Mike Davis](https://www.fantasypros.com/nfl/players/mike-davis-rb.php) RB-BAL
+230. [Mike Davis](https://www.fantasypros.com/nfl/players/mike-davis-rb.php) RB-FA
 231. [Matt Prater](https://www.fantasypros.com/nfl/players/matt-prater.php) K-ARI
 232. [Zach Wilson](https://www.fantasypros.com/nfl/players/zach-wilson.php) QB-NYJ
 233. [Pittsburgh Steelers](https://www.fantasypros.com/nfl/players/pittsburgh-defense.php) DST-PIT

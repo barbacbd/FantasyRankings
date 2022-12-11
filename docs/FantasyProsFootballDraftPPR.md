@@ -233,7 +233,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 229. [Pittsburgh Steelers](https://www.fantasypros.com/nfl/players/pittsburgh-defense.php) DST-PIT
 230. [Ronald Jones II](https://www.fantasypros.com/nfl/players/ronald-jones-ii.php) RB-KC
 231. [Mo Alie-Cox](https://www.fantasypros.com/nfl/players/mo-alie-cox.php) TE-IND
-232. [Mike Davis](https://www.fantasypros.com/nfl/players/mike-davis-rb.php) RB-BAL
+232. [Mike Davis](https://www.fantasypros.com/nfl/players/mike-davis-rb.php) RB-FA
 233. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-SF
 234. [A.J. Green](https://www.fantasypros.com/nfl/players/aj-green.php) WR-ARI
 235. [Davis Mills](https://www.fantasypros.com/nfl/players/davis-mills.php) QB-HOU
