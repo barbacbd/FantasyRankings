@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/11/2022.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 12/12/2022.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -102,7 +102,7 @@ All information contained in this file should be utilized with caution as the ra
 90. [Alek Manoah](https://www.fantasypros.com/mlb/players/alek-manoah-p.php?week=draft) SP-TOR
 91. [Ryan Pressly](https://www.fantasypros.com/mlb/players/ryan-pressly.php?week=draft) RP-HOU
 92. [Jazz Chisholm Jr.](https://www.fantasypros.com/mlb/players/jasrado-chisholm.php?week=draft) 2B,SS-MIA
-93. [Mitch Haniger](https://www.fantasypros.com/mlb/players/mitch-haniger.php?week=draft) RF,DH-SD
+93. [Mitch Haniger](https://www.fantasypros.com/mlb/players/mitch-haniger.php?week=draft) RF,DH-SF
 94. [Shane McClanahan](https://www.fantasypros.com/mlb/players/shane-mcclanahan.php?week=draft) SP-TB
 95. [Kyle Schwarber](https://www.fantasypros.com/mlb/players/kyle-schwarber.php?week=draft) 1B,DH,LF-PHI
 96. [Anthony Rendon](https://www.fantasypros.com/mlb/players/anthony-rendon.php?week=draft) 3B-LAA
