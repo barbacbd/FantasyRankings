@@ -218,7 +218,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 214. [Harrison Butker](https://www.fantasypros.com/nfl/players/harrison-butker.php) K-KC
 215. [Sony Michel](https://www.fantasypros.com/nfl/players/sony-michel.php) RB-LAC
 216. [Gus Edwards](https://www.fantasypros.com/nfl/players/gus-edwards.php) RB-BAL
-217. [Damien Williams](https://www.fantasypros.com/nfl/players/damien-williams.php) RB-ATL
+217. [Damien Williams](https://www.fantasypros.com/nfl/players/damien-williams.php) RB-FA
 218. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-LAR
 219. [Ryan Succop](https://www.fantasypros.com/nfl/players/ryan-succop.php) K-TB
 220. [Baltimore Ravens](https://www.fantasypros.com/nfl/players/baltimore-defense.php) DST-BAL

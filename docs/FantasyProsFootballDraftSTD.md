@@ -229,7 +229,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 225. [Kansas City Chiefs](https://www.fantasypros.com/nfl/players/kansas-city-defense.php) DST-KC
 226. [Matt Prater](https://www.fantasypros.com/nfl/players/matt-prater.php) K-ARI
 227. [Pittsburgh Steelers](https://www.fantasypros.com/nfl/players/pittsburgh-defense.php) DST-PIT
-228. [Damien Williams](https://www.fantasypros.com/nfl/players/damien-williams.php) RB-ATL
+228. [Damien Williams](https://www.fantasypros.com/nfl/players/damien-williams.php) RB-FA
 229. [Mike Davis](https://www.fantasypros.com/nfl/players/mike-davis-rb.php) RB-FA
 230. [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) RB-KC
 231. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-FA

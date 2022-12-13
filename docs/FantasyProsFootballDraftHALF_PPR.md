@@ -221,7 +221,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 217. [Sterling Shepard](https://www.fantasypros.com/nfl/players/sterling-shepard.php) WR-NYG
 218. [David Bell](https://www.fantasypros.com/nfl/players/david-bell.php) WR-CLE
 219. [Mo Alie-Cox](https://www.fantasypros.com/nfl/players/mo-alie-cox.php) TE-IND
-220. [Damien Williams](https://www.fantasypros.com/nfl/players/damien-williams.php) RB-ATL
+220. [Damien Williams](https://www.fantasypros.com/nfl/players/damien-williams.php) RB-FA
 221. [Baltimore Ravens](https://www.fantasypros.com/nfl/players/baltimore-defense.php) DST-BAL
 222. [Sony Michel](https://www.fantasypros.com/nfl/players/sony-michel.php) RB-LAC
 223. [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) RB-KC
