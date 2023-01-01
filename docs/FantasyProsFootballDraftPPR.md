@@ -147,7 +147,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 143. [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) WR-WAS
 144. [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php) QB-JAC
 145. [Julio Jones](https://www.fantasypros.com/nfl/players/julio-jones.php) WR-TB
-146. [D.J. Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-DET
+146. [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-DET
 147. [Tyler Allgeier](https://www.fantasypros.com/nfl/players/tyler-allgeier.php) RB-ATL
 148. [Nico Collins](https://www.fantasypros.com/nfl/players/nico-collins.php) WR-HOU
 149. [Gerald Everett](https://www.fantasypros.com/nfl/players/gerald-everett.php) TE-LAC
@@ -196,7 +196,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 192. [Evan McPherson](https://www.fantasypros.com/nfl/players/evan-mcpherson.php) K-CIN
 193. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-MIA
 194. [Dallas Cowboys](https://www.fantasypros.com/nfl/players/dallas-defense.php) DST-DAL
-195. [K.J. Hamler](https://www.fantasypros.com/nfl/players/kj-hamler.php) WR-DEN
+195. [KJ Hamler](https://www.fantasypros.com/nfl/players/kj-hamler.php) WR-DEN
 196. [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) WR-DET
 197. [Parris Campbell](https://www.fantasypros.com/nfl/players/parris-campbell.php) WR-IND
 198. [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) RB-CAR
@@ -216,7 +216,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 212. [Curtis Samuel](https://www.fantasypros.com/nfl/players/curtis-samuel.php) WR-WAS
 213. [Sterling Shepard](https://www.fantasypros.com/nfl/players/sterling-shepard.php) WR-NYG
 214. [Harrison Butker](https://www.fantasypros.com/nfl/players/harrison-butker.php) K-KC
-215. [Sony Michel](https://www.fantasypros.com/nfl/players/sony-michel.php) RB-LAC
+215. [Sony Michel](https://www.fantasypros.com/nfl/players/sony-michel.php) RB-FA
 216. [Gus Edwards](https://www.fantasypros.com/nfl/players/gus-edwards.php) RB-BAL
 217. [Damien Williams](https://www.fantasypros.com/nfl/players/damien-williams.php) RB-FA
 218. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-LAR
@@ -240,14 +240,14 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 236. [Kendrick Bourne](https://www.fantasypros.com/nfl/players/kendrick-bourne.php) WR-NE
 237. [Rodrigo Blankenship](https://www.fantasypros.com/nfl/players/rodrigo-blankenship.php) K-FA
 238. [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php) RB-CAR
-239. [Eno Benjamin](https://www.fantasypros.com/nfl/players/eno-benjamin.php) RB-HOU
+239. [Eno Benjamin](https://www.fantasypros.com/nfl/players/eno-benjamin.php) RB-NO
 240. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-DEN
 241. [Jason Sanders](https://www.fantasypros.com/nfl/players/jason-sanders.php) K-MIA
 242. [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) TE-NE
 243. [D'Ernest Johnson](https://www.fantasypros.com/nfl/players/dernest-johnson.php) RB-CLE
 244. [Nick Folk](https://www.fantasypros.com/nfl/players/nick-folk.php) K-NE
 245. [Younghoe Koo](https://www.fantasypros.com/nfl/players/younghoe-koo.php) K-ATL
-246. [Sammy Watkins](https://www.fantasypros.com/nfl/players/sammy-watkins.php) WR-GB
+246. [Sammy Watkins](https://www.fantasypros.com/nfl/players/sammy-watkins.php) WR-BAL
 247. [Braxton Berrios](https://www.fantasypros.com/nfl/players/braxton-berrios.php) WR-NYJ
 248. [Robbie Gould](https://www.fantasypros.com/nfl/players/robbie-gould.php) K-SF
 249. [Cincinnati Bengals](https://www.fantasypros.com/nfl/players/cincinnati-defense.php) DST-CIN
@@ -418,7 +418,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
  | [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) | [Jarvis Landry](https://www.fantasypros.com/nfl/players/jarvis-landry.php) | - | - | - | -
  | [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) | [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) | - | - | - | -
  | [Boston Scott](https://www.fantasypros.com/nfl/players/boston-scott.php) | [Julio Jones](https://www.fantasypros.com/nfl/players/julio-jones.php) | - | - | - | -
- | [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) | [D.J. Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) | - | - | - | -
+ | [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) | [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) | - | - | - | -
  | [Rex Burkhead](https://www.fantasypros.com/nfl/players/rex-burkhead.php) | [Nico Collins](https://www.fantasypros.com/nfl/players/nico-collins.php) | - | - | - | -
  | [Samaje Perine](https://www.fantasypros.com/nfl/players/samaje-perine.php) | [Joshua Palmer](https://www.fantasypros.com/nfl/players/josh-palmer.php) | - | - | - | -
  | [Sony Michel](https://www.fantasypros.com/nfl/players/sony-michel.php) | [Kenny Golladay](https://www.fantasypros.com/nfl/players/kenny-golladay.php) | - | - | - | -
@@ -433,7 +433,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
  | [D'Ernest Johnson](https://www.fantasypros.com/nfl/players/dernest-johnson.php) | [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) | - | - | - | -
  | [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) | [Romeo Doubs](https://www.fantasypros.com/nfl/players/romeo-doubs.php) | - | - | - | -
  | [Ameer Abdullah](https://www.fantasypros.com/nfl/players/ameer-abdullah.php) | [Christian Watson](https://www.fantasypros.com/nfl/players/christian-watson.php) | - | - | - | -
- | [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) | [K.J. Hamler](https://www.fantasypros.com/nfl/players/kj-hamler.php) | - | - | - | -
+ | [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) | [KJ Hamler](https://www.fantasypros.com/nfl/players/kj-hamler.php) | - | - | - | -
  | [Chris Evans](https://www.fantasypros.com/nfl/players/chris-evans.php) | [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) | - | - | - | -
  | [Matt Breida](https://www.fantasypros.com/nfl/players/matt-breida.php) | [Parris Campbell](https://www.fantasypros.com/nfl/players/parris-campbell.php) | - | - | - | -
  | [Trey Sermon](https://www.fantasypros.com/nfl/players/trey-sermon.php) | [Alec Pierce](https://www.fantasypros.com/nfl/players/alec-pierce.php) | - | - | - | -
