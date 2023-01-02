@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 1/1/2023.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 1/2/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -52,8 +52,8 @@ All information contained in this file should be utilized with caution as the ra
 40. [Justin Verlander](https://www.fantasypros.com/mlb/players/justin-verlander.php?week=draft) SP-NYM
 41. [J.T. Realmuto](https://www.fantasypros.com/mlb/players/jt-realmuto.php?week=draft) C,1B-PHI
 42. [Matt Olson](https://www.fantasypros.com/mlb/players/matt-olson.php?week=draft) 1B-ATL
-43. [Kyle Schwarber](https://www.fantasypros.com/mlb/players/kyle-schwarber.php?week=draft) 1B,DH,LF-PHI
-44. [Jacob deGrom](https://www.fantasypros.com/mlb/players/jacob-degrom.php?week=draft) SP-TEX
+43. [Jacob deGrom](https://www.fantasypros.com/mlb/players/jacob-degrom.php?week=draft) SP-TEX
+44. [Kyle Schwarber](https://www.fantasypros.com/mlb/players/kyle-schwarber.php?week=draft) 1B,DH,LF-PHI
 45. [Cedric Mullins II](https://www.fantasypros.com/mlb/players/cedric-mullins.php?week=draft) CF-BAL
 46. [Adolis Garcia](https://www.fantasypros.com/mlb/players/jose-adolis-garcia.php?week=draft) CF,DH,LF,RF-TEX
 47. [Carlos Rodon](https://www.fantasypros.com/mlb/players/carlos-rodon.php?week=draft) SP-NYY
