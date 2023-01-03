@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 1/2/2023.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 1/3/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -58,20 +58,20 @@ All information contained in this file should be utilized with caution as the ra
 46. [Adolis Garcia](https://www.fantasypros.com/mlb/players/jose-adolis-garcia.php?week=draft) CF,DH,LF,RF-TEX
 47. [Carlos Rodon](https://www.fantasypros.com/mlb/players/carlos-rodon.php?week=draft) SP-NYY
 48. [Shane Bieber](https://www.fantasypros.com/mlb/players/shane-bieber.php?week=draft) SP-CLE
-49. [Zack Wheeler](https://www.fantasypros.com/mlb/players/zack-wheeler.php?week=draft) SP-PHI
-50. [Shane McClanahan](https://www.fantasypros.com/mlb/players/shane-mcclanahan.php?week=draft) SP-TB
+49. [Shane McClanahan](https://www.fantasypros.com/mlb/players/shane-mcclanahan.php?week=draft) SP-TB
+50. [Zack Wheeler](https://www.fantasypros.com/mlb/players/zack-wheeler.php?week=draft) SP-PHI
 51. [Jordan Romano](https://www.fantasypros.com/mlb/players/jordan-romano.php?week=draft) RP-TOR
 52. [Jazz Chisholm Jr.](https://www.fantasypros.com/mlb/players/jasrado-chisholm.php?week=draft) 2B,SS-MIA
 53. [Ozzie Albies](https://www.fantasypros.com/mlb/players/ozhaino-albies.php?week=draft) 2B-ATL
 54. [Corey Seager](https://www.fantasypros.com/mlb/players/corey-seager.php?week=draft) SS-TEX
 55. [Julio Urias](https://www.fantasypros.com/mlb/players/julio-urias.php?week=draft) SP-LAD
 56. [Alex Bregman](https://www.fantasypros.com/mlb/players/alex-bregman.php?week=draft) 3B-HOU
-57. [Kevin Gausman](https://www.fantasypros.com/mlb/players/kevin-gausman.php?week=draft) SP-TOR
-58. [Luis Castillo](https://www.fantasypros.com/mlb/players/luis-castillo.php?week=draft) SP-SEA
-59. [Devin Williams](https://www.fantasypros.com/mlb/players/devin-williams-p.php?week=draft) RP-MIL
+57. [Devin Williams](https://www.fantasypros.com/mlb/players/devin-williams-p.php?week=draft) RP-MIL
+58. [Kevin Gausman](https://www.fantasypros.com/mlb/players/kevin-gausman.php?week=draft) SP-TOR
+59. [Luis Castillo](https://www.fantasypros.com/mlb/players/luis-castillo.php?week=draft) SP-SEA
 60. [Liam Hendriks](https://www.fantasypros.com/mlb/players/liam-hendriks.php?week=draft) RP-CWS
-61. [Alek Manoah](https://www.fantasypros.com/mlb/players/alek-manoah-p.php?week=draft) SP-TOR
-62. [Starling Marte](https://www.fantasypros.com/mlb/players/starling-marte.php?week=draft) CF,RF-NYM
+61. [Starling Marte](https://www.fantasypros.com/mlb/players/starling-marte.php?week=draft) CF,RF-NYM
+62. [Alek Manoah](https://www.fantasypros.com/mlb/players/alek-manoah-p.php?week=draft) SP-TOR
 63. [Ryan Pressly](https://www.fantasypros.com/mlb/players/ryan-pressly.php?week=draft) RP-HOU
 64. [Eloy Jimenez](https://www.fantasypros.com/mlb/players/eloy-jimenez.php?week=draft) DH,LF-CWS
 65. [George Springer](https://www.fantasypros.com/mlb/players/george-springer.php?week=draft) CF,DH,RF-TOR
