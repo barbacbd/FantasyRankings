@@ -266,7 +266,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 262. [Laviska Shenault Jr.](https://www.fantasypros.com/nfl/players/laviska-shenault.php) WR-CAR
 263. [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) DST-MIN
 264. [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) DST-CAR
-265. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-KC
+265. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-FA
 266. [Mason Crosby](https://www.fantasypros.com/nfl/players/mason-crosby.php) K-GB
 267. [Terrace Marshall Jr.](https://www.fantasypros.com/nfl/players/terrace-marshall.php) WR-CAR
 268. [Braxton Berrios](https://www.fantasypros.com/nfl/players/braxton-berrios.php) WR-NYJ

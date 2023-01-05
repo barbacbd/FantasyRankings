@@ -265,7 +265,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 261. [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) DST-CAR
 262. [Randall Cobb](https://www.fantasypros.com/nfl/players/randall-cobb.php) WR-GB
 263. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-IND
-264. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-KC
+264. [Bryan Edwards](https://www.fantasypros.com/nfl/players/bryan-edwards.php) WR-FA
 265. [Mason Crosby](https://www.fantasypros.com/nfl/players/mason-crosby.php) K-GB
 266. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
 267. [Nelson Agholor](https://www.fantasypros.com/nfl/players/nelson-agholor.php) WR-NE
