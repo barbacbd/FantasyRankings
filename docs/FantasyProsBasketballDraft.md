@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/6/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/7/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -248,7 +248,7 @@ All information contained in this file should be utilized with caution as the ra
 236. [Deni Avdija](https://www.fantasypros.com/nba/players/deni-avdija.php?week=draft) SG,SF,PF-WAS
 237. [Damian Jones](https://www.fantasypros.com/nba/players/damian-jones.php?week=draft) C-LAL
 238. [Thaddeus Young](https://www.fantasypros.com/nba/players/thaddeus-young.php?week=draft) PF,C,SF-TOR
-239. [Kemba Walker](https://www.fantasypros.com/nba/players/kemba-walker.php?week=draft) PG-DAL
+239. [Kemba Walker](https://www.fantasypros.com/nba/players/kemba-walker.php?week=draft) PG-FA
 240. [Grayson Allen](https://www.fantasypros.com/nba/players/grayson-allen.php?week=draft) SG,SF-MIL
 241. [Tyus Jones](https://www.fantasypros.com/nba/players/tyus-jones.php?week=draft) PG-MEM
 242. [Naz Reid](https://www.fantasypros.com/nba/players/naz-reid.php?week=draft) C-MIN
