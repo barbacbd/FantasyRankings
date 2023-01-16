@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/15/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/16/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -437,7 +437,7 @@ All information contained in this file should be utilized with caution as the ra
 425. [Sharife Cooper](https://www.fantasypros.com/nba/players/sharife-cooper.php?week=draft) PG-FA
 426. [Javonte Green](https://www.fantasypros.com/nba/players/javonte-green.php?week=draft) PG,SG-CHI
 427. [DeAndre' Bembry](https://www.fantasypros.com/nba/players/deandre-bembry.php?week=draft) SF,PF-FA
-428. [Jarrett Culver](https://www.fantasypros.com/nba/players/jarrett-culver.php?week=draft) PG,SG,SF-ATL
+428. [Jarrett Culver](https://www.fantasypros.com/nba/players/jarrett-culver.php?week=draft) PG,SG,SF-FA
 429. [Raul Neto](https://www.fantasypros.com/nba/players/raul-neto.php?week=draft) PG,SG-CLE
 430. [Troy Brown Jr.](https://www.fantasypros.com/nba/players/troy-brown.php?week=draft) SG,SF-LAL
 431. [Josh Okogie](https://www.fantasypros.com/nba/players/josh-okogie.php?week=draft) SG,SF-PHO

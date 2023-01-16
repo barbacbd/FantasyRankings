@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Baseball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 1/15/2023.
+The data contained in this file is the result of scraping fantasy baseball draft ranking information from Fantasy Pros on 1/16/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -23,8 +23,8 @@ All information contained in this file should be utilized with caution as the ra
 11. [Shohei Ohtani](https://www.fantasypros.com/mlb/players/shohei-ohtani.php?week=draft) SP,DH-LAA
 12. [Freddie Freeman](https://www.fantasypros.com/mlb/players/freddie-freeman.php?week=draft) 1B-LAD
 13. [Corbin Burnes](https://www.fantasypros.com/mlb/players/corbin-burnes.php?week=draft) SP-MIL
-14. [Mike Trout](https://www.fantasypros.com/mlb/players/mike-trout.php?week=draft) CF-LAA
-15. [Gerrit Cole](https://www.fantasypros.com/mlb/players/gerrit-cole.php?week=draft) SP-NYY
+14. [Gerrit Cole](https://www.fantasypros.com/mlb/players/gerrit-cole.php?week=draft) SP-NYY
+15. [Mike Trout](https://www.fantasypros.com/mlb/players/mike-trout.php?week=draft) CF-LAA
 16. [Bobby Witt Jr.](https://www.fantasypros.com/mlb/players/bobby-witt-jr.php?week=draft) 3B,SS-KC
 17. [Bo Bichette](https://www.fantasypros.com/mlb/players/bo-bichette.php?week=draft) DH,SS-TOR
 18. [Manny Machado](https://www.fantasypros.com/mlb/players/manny-machado.php?week=draft) 3B,DH-SD
@@ -81,8 +81,8 @@ All information contained in this file should be utilized with caution as the ra
 69. [Ryan Pressly](https://www.fantasypros.com/mlb/players/ryan-pressly.php?week=draft) RP-HOU
 70. [Tommy Edman](https://www.fantasypros.com/mlb/players/thomas-edman.php?week=draft) 2B,RF,SS-STL
 71. [Tim Anderson](https://www.fantasypros.com/mlb/players/tim-anderson.php?week=draft) SS-CWS
-72. [Xander Bogaerts](https://www.fantasypros.com/mlb/players/xander-bogaerts.php?week=draft) SS-SD
-73. [Cristian Javier](https://www.fantasypros.com/mlb/players/cristian-javier.php?week=draft) SP,RP-HOU
+72. [Cristian Javier](https://www.fantasypros.com/mlb/players/cristian-javier.php?week=draft) SP,RP-HOU
+73. [Xander Bogaerts](https://www.fantasypros.com/mlb/players/xander-bogaerts.php?week=draft) SS-SD
 74. [Ryan Helsley](https://www.fantasypros.com/mlb/players/ryan-helsley.php?week=draft) RP-STL
 75. [Framber Valdez](https://www.fantasypros.com/mlb/players/framber-valdez.php?week=draft) SP-HOU
 76. [Bryan Reynolds](https://www.fantasypros.com/mlb/players/bryan-reynolds.php?week=draft) CF,DH,LF-PIT
@@ -124,9 +124,9 @@ All information contained in this file should be utilized with caution as the ra
 112. [Giancarlo Stanton](https://www.fantasypros.com/mlb/players/giancarlo-stanton.php?week=draft) LF,RF,DH-NYY
 113. [Clayton Kershaw](https://www.fantasypros.com/mlb/players/clayton-kershaw.php?week=draft) SP-LAD
 114. [Alejandro Kirk](https://www.fantasypros.com/mlb/players/alejandro-kirk.php?week=draft) C,DH-TOR
-115. [Liam Hendriks](https://www.fantasypros.com/mlb/players/liam-hendriks.php?week=draft) RP-CWS
-116. [Amed Rosario](https://www.fantasypros.com/mlb/players/amed-rosario.php?week=draft) CF,LF,SS-CLE
-117. [Tyler O'Neill](https://www.fantasypros.com/mlb/players/tyler-oneill.php?week=draft) CF,LF-STL
+115. [Amed Rosario](https://www.fantasypros.com/mlb/players/amed-rosario.php?week=draft) CF,LF,SS-CLE
+116. [Tyler O'Neill](https://www.fantasypros.com/mlb/players/tyler-oneill.php?week=draft) CF,LF-STL
+117. [Liam Hendriks](https://www.fantasypros.com/mlb/players/liam-hendriks.php?week=draft) RP-CWS
 118. [George Kirby](https://www.fantasypros.com/mlb/players/george-kirby.php?week=draft) SP-SEA
 119. [Kris Bryant](https://www.fantasypros.com/mlb/players/kris-bryant.php?week=draft) 1B,3B,CF,DH,LF,RF-COL
 120. [Jake McCarthy](https://www.fantasypros.com/mlb/players/jake-mccarthy.php?week=draft) CF,DH,LF,RF-ARI
