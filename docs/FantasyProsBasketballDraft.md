@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/22/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/23/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -264,7 +264,7 @@ All information contained in this file should be utilized with caution as the ra
 252. [Kenyon Martin Jr.](https://www.fantasypros.com/nba/players/kenyon-martin-jr.php?week=draft) SF,PF-HOU
 253. [Daniel Theis](https://www.fantasypros.com/nba/players/daniel-theis.php?week=draft) PF,C-IND
 254. [Talen HortonTucker](https://www.fantasypros.com/nba/players/talen-horton-tucker.php?week=draft) SG,SF-UTH
-255. [Derrick Favors](https://www.fantasypros.com/nba/players/derrick-favors.php?week=draft) C,PF-ATL
+255. [Derrick Favors](https://www.fantasypros.com/nba/players/derrick-favors.php?week=draft) C,PF-FA
 256. [Theo Maledon](https://www.fantasypros.com/nba/players/theo-maledon.php?week=draft) PG-CHA
 257. [Facundo Campazzo](https://www.fantasypros.com/nba/players/facundo-campazzo.php?week=draft) PG-FA
 258. [Jalen McDaniels](https://www.fantasypros.com/nba/players/jalen-mcdaniels.php?week=draft) PF,C-CHA
