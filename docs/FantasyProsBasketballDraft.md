@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/23/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/24/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -199,7 +199,7 @@ All information contained in this file should be utilized with caution as the ra
 187. [Bennedict Mathurin](https://www.fantasypros.com/nba/players/bennedict-mathurin.php?week=draft) SF-IND
 188. [Jaxson Hayes](https://www.fantasypros.com/nba/players/jaxson-hayes.php?week=draft) C-NOR
 189. [Isaiah Hartenstein](https://www.fantasypros.com/nba/players/isaiah-hartenstein.php?week=draft) PF,C-NYK
-190. [Kendrick Nunn](https://www.fantasypros.com/nba/players/kendrick-nunn.php?week=draft) PG,SG-LAL
+190. [Kendrick Nunn](https://www.fantasypros.com/nba/players/kendrick-nunn.php?week=draft) PG,SG-WAS
 191. [T.J. McConnell](https://www.fantasypros.com/nba/players/tj-mcconnell.php?week=draft) PG,SG-IND
 192. [Joe Harris](https://www.fantasypros.com/nba/players/joe-harris.php?week=draft) SG,SF-BKN
 193. [Josh Richardson](https://www.fantasypros.com/nba/players/josh-richardson.php?week=draft) SG,SF-SAS
@@ -216,7 +216,7 @@ All information contained in this file should be utilized with caution as the ra
 204. [Jalen Duren](https://www.fantasypros.com/nba/players/jalen-duren.php?week=draft) C-DET
 205. [Nerlens Noel](https://www.fantasypros.com/nba/players/nerlens-noel.php?week=draft) PF,C-DET
 206. [Miles Bridges](https://www.fantasypros.com/nba/players/miles-bridges.php?week=draft) SF,PF-CHA
-207. [Rui Hachimura](https://www.fantasypros.com/nba/players/rui-hachimura.php?week=draft) SF,PF-WAS
+207. [Rui Hachimura](https://www.fantasypros.com/nba/players/rui-hachimura.php?week=draft) SF,PF-LAL
 208. [Tari Eason](https://www.fantasypros.com/nba/players/tari-eason.php?week=draft) SF-HOU
 209. [Nicolas Batum](https://www.fantasypros.com/nba/players/nicolas-batum.php?week=draft) SF,PF,SG-LAC
 210. [Lonnie Walker IV](https://www.fantasypros.com/nba/players/lonnie-walker.php?week=draft) SG,SF-LAL
