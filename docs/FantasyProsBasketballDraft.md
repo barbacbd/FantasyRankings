@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/30/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/31/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -372,7 +372,7 @@ All information contained in this file should be utilized with caution as the ra
 360. [Jericho Sims](https://www.fantasypros.com/nba/players/jericho-sims.php?week=draft) C,PF-NYK
 361. [Dalen Terry](https://www.fantasypros.com/nba/players/dalen-terry.php?week=draft) PG-CHI
 362. [John Konchar](https://www.fantasypros.com/nba/players/john-konchar.php?week=draft) SG,PG-MEM
-363. [Gorgui Dieng](https://www.fantasypros.com/nba/players/gorgui-dieng.php?week=draft) PF,C-SAS
+363. [Gorgui Dieng](https://www.fantasypros.com/nba/players/gorgui-dieng.php?week=draft) PF,C-FA
 364. [Wendell Moore Jr.](https://www.fantasypros.com/nba/players/wendell-moore.php?week=draft) F-MIN
 365. [R.J. Hampton Jr.](https://www.fantasypros.com/nba/players/rj-hampton.php?week=draft) PG,SG-ORL
 366. [Torrey Craig](https://www.fantasypros.com/nba/players/torrey-craig.php?week=draft) SG,SF-PHO
