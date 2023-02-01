@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/31/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/1/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -409,7 +409,7 @@ All information contained in this file should be utilized with caution as the ra
 397. [Max Christie](https://www.fantasypros.com/nba/players/max-christie.php?week=draft) SG-LAL
 398. [Gabriele Procida](https://www.fantasypros.com/nba/players/gabriele-procida.php?week=draft) SG-FA
 399. [Kennedy Chandler](https://www.fantasypros.com/nba/players/kennedy-chandler.php?week=draft) PG-MEM
-400. [Saben Lee](https://www.fantasypros.com/nba/players/saben-lee.php?week=draft) PG-PHO
+400. [Saben Lee](https://www.fantasypros.com/nba/players/saben-lee.php?week=draft) PG-FA
 401. [Khalifa Diop](https://www.fantasypros.com/nba/players/khalifa-diop.php?week=draft) C-CLE
 402. [Bryce McGowens](https://www.fantasypros.com/nba/players/bryce-mcgowens.php?week=draft) SG-CHA
 403. [Keon Johnson](https://www.fantasypros.com/nba/players/keon-johnson.php?week=draft) SF,SG-POR
