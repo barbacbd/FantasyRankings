@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/1/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/2/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -376,7 +376,7 @@ All information contained in this file should be utilized with caution as the ra
 364. [Wendell Moore Jr.](https://www.fantasypros.com/nba/players/wendell-moore.php?week=draft) F-MIN
 365. [R.J. Hampton Jr.](https://www.fantasypros.com/nba/players/rj-hampton.php?week=draft) PG,SG-ORL
 366. [Torrey Craig](https://www.fantasypros.com/nba/players/torrey-craig.php?week=draft) SG,SF-PHO
-367. [Duane Washington Jr.](https://www.fantasypros.com/nba/players/duane-washington-jr.php?week=draft) PG-PHO
+367. [Duane Washington Jr.](https://www.fantasypros.com/nba/players/duane-washington-jr.php?week=draft) PG-FA
 368. [Austin Rivers](https://www.fantasypros.com/nba/players/austin-rivers.php?week=draft) PG,SG-MIN
 369. [Eric Paschall](https://www.fantasypros.com/nba/players/eric-paschall.php?week=draft) PF,C-FA
 370. [Aaron Wiggins](https://www.fantasypros.com/nba/players/aaron-wiggins.php?week=draft) SG,SF-OKC
@@ -409,7 +409,7 @@ All information contained in this file should be utilized with caution as the ra
 397. [Max Christie](https://www.fantasypros.com/nba/players/max-christie.php?week=draft) SG-LAL
 398. [Gabriele Procida](https://www.fantasypros.com/nba/players/gabriele-procida.php?week=draft) SG-FA
 399. [Kennedy Chandler](https://www.fantasypros.com/nba/players/kennedy-chandler.php?week=draft) PG-MEM
-400. [Saben Lee](https://www.fantasypros.com/nba/players/saben-lee.php?week=draft) PG-FA
+400. [Saben Lee](https://www.fantasypros.com/nba/players/saben-lee.php?week=draft) PG-PHO
 401. [Khalifa Diop](https://www.fantasypros.com/nba/players/khalifa-diop.php?week=draft) C-CLE
 402. [Bryce McGowens](https://www.fantasypros.com/nba/players/bryce-mcgowens.php?week=draft) SG-CHA
 403. [Keon Johnson](https://www.fantasypros.com/nba/players/keon-johnson.php?week=draft) SF,SG-POR
