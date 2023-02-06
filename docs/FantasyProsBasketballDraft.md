@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/5/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/6/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -30,7 +30,7 @@ All information contained in this file should be utilized with caution as the ra
 18. [Domantas Sabonis](https://www.fantasypros.com/nba/players/domantas-sabonis.php?week=draft) PF,C-SAC
 19. [Tyrese Haliburton](https://www.fantasypros.com/nba/players/tyrese-haliburton.php?week=draft) PG,SG-IND
 20. [Ja Morant](https://www.fantasypros.com/nba/players/ja-morant.php?week=draft) PG-MEM
-21. [Kyrie Irving](https://www.fantasypros.com/nba/players/kyrie-irving.php?week=draft) PG,SG-BKN
+21. [Kyrie Irving](https://www.fantasypros.com/nba/players/kyrie-irving.php?week=draft) PG,SG-DAL
 22. [Jimmy Butler](https://www.fantasypros.com/nba/players/jimmy-butler.php?week=draft) SF,PF,SG-MIA
 23. [Shai GilgeousAlexander](https://www.fantasypros.com/nba/players/shai-gilgeous-alexander.php?week=draft) PG,SG-OKC
 24. [Rudy Gobert](https://www.fantasypros.com/nba/players/rudy-gobert.php?week=draft) C-MIN
@@ -114,7 +114,7 @@ All information contained in this file should be utilized with caution as the ra
 102. [Robert Covington](https://www.fantasypros.com/nba/players/robert-covington.php?week=draft) PF,C,SF-LAC
 103. [Isaiah Stewart](https://www.fantasypros.com/nba/players/isaiah-stewart.php?week=draft) PF,C-DET
 104. [Bogdan Bogdanovic](https://www.fantasypros.com/nba/players/bogdan-bogdanovic.php?week=draft) SF,PF,SG-ATL
-105. [Spencer Dinwiddie](https://www.fantasypros.com/nba/players/spencer-dinwiddie.php?week=draft) PG,SG-DAL
+105. [Spencer Dinwiddie](https://www.fantasypros.com/nba/players/spencer-dinwiddie.php?week=draft) PG,SG-BKN
 106. [Lonzo Ball](https://www.fantasypros.com/nba/players/lonzo-ball.php?week=draft) PG,SG-CHI
 107. [Jalen Suggs](https://www.fantasypros.com/nba/players/jalen-suggs.php?week=draft) PG,SG-ORL
 108. [Norman Powell](https://www.fantasypros.com/nba/players/norman-powell.php?week=draft) SG,SF-LAC
@@ -139,7 +139,7 @@ All information contained in this file should be utilized with caution as the ra
 127. [Jabari Smith Jr.](https://www.fantasypros.com/nba/players/jabari-smith.php?week=draft) PF-HOU
 128. [Derrick White](https://www.fantasypros.com/nba/players/derrick-white.php?week=draft) PG,SG-BOS
 129. [Luguentz Dort](https://www.fantasypros.com/nba/players/luguentz-dort.php?week=draft) SG,SF-OKC
-130. [Dorian FinneySmith](https://www.fantasypros.com/nba/players/dorian-finney-smith.php?week=draft) SF,PF-DAL
+130. [Dorian FinneySmith](https://www.fantasypros.com/nba/players/dorian-finney-smith.php?week=draft) SF,PF-BKN
 131. [Jae'Sean Tate](https://www.fantasypros.com/nba/players/jaesean-tate.php?week=draft) SF,PF-HOU
 132. [De'Anthony Melton](https://www.fantasypros.com/nba/players/deanthony-melton.php?week=draft) PG,SG-PHI
 133. [Daniel Gafford](https://www.fantasypros.com/nba/players/daniel-gafford.php?week=draft) C,PF-WAS
