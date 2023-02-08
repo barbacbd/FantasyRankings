@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/7/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/8/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -273,7 +273,7 @@ All information contained in this file should be utilized with caution as the ra
 261. [Jose Alvarado](https://www.fantasypros.com/nba/players/jose-alvarado.php?week=draft) PG-NOR
 262. [Davion Mitchell](https://www.fantasypros.com/nba/players/davion-mitchell.php?week=draft) SG,PG-SAC
 263. [Danny Green](https://www.fantasypros.com/nba/players/daniel-green.php?week=draft) SG,SF-MEM
-264. [Dewayne Dedmon](https://www.fantasypros.com/nba/players/dewayne-dedmon.php?week=draft) C-MIA
+264. [Dewayne Dedmon](https://www.fantasypros.com/nba/players/dewayne-dedmon.php?week=draft) C-SAS
 265. [Josh Christopher](https://www.fantasypros.com/nba/players/josh-christopher.php?week=draft) SG-HOU
 266. [Doug McDermott](https://www.fantasypros.com/nba/players/doug-mcdermott.php?week=draft) SF,PF-SAS
 267. [Malik Monk](https://www.fantasypros.com/nba/players/malik-monk.php?week=draft) PG,SG-SAC
@@ -386,7 +386,7 @@ All information contained in this file should be utilized with caution as the ra
 374. [Willy Hernangomez](https://www.fantasypros.com/nba/players/guillermo-hernangomez.php?week=draft) C-NOR
 375. [Brandon Goodwin](https://www.fantasypros.com/nba/players/brandon-goodwin.php?week=draft) PG-CLE
 376. [Peyton Watson](https://www.fantasypros.com/nba/players/peyton-watson.php?week=draft) SF-DEN
-377. [Kessler Edwards](https://www.fantasypros.com/nba/players/kessler-edwards.php?week=draft) SF-BKN
+377. [Kessler Edwards](https://www.fantasypros.com/nba/players/kessler-edwards.php?week=draft) SF-SAC
 378. [Nick Richards](https://www.fantasypros.com/nba/players/nick-richards.php?week=draft) C-CHA
 379. [Aaron Holiday](https://www.fantasypros.com/nba/players/aaron-holiday.php?week=draft) PG,SG-ATL
 380. [Frank Jackson](https://www.fantasypros.com/nba/players/frank-jackson.php?week=draft) PG,SG-FA
