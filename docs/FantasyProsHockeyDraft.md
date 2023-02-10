@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/9/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/10/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -54,7 +54,7 @@ All information contained in this file should be utilized with caution as the ra
 42. [Jack Eichel](https://www.fantasypros.com/nhl/adp/jack-eichel.php) C-VGK
 43. [Andrei Svechnikov](https://www.fantasypros.com/nhl/adp/andrei-svechnikov.php) RW-CAR
 44. [Elias Pettersson](https://www.fantasypros.com/nhl/adp/elias-pettersson.php) C-VAN
-45. [Vladimir Tarasenko](https://www.fantasypros.com/nhl/adp/vladimir-tarasenko.php) RW-STL
+45. [Vladimir Tarasenko](https://www.fantasypros.com/nhl/adp/vladimir-tarasenko.php) RW-NYR
 46. [Patrick Kane](https://www.fantasypros.com/nhl/adp/patrick-kane.php) RW-CHI
 47. [Tristan Jarry](https://www.fantasypros.com/nhl/adp/tristan-jarry.php) G-PIT
 48. [Evander Kane](https://www.fantasypros.com/nhl/adp/evander-kane.php) LW-EDM
