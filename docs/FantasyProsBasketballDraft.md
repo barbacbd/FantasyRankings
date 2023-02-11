@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/10/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/11/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -209,7 +209,7 @@ All information contained in this file should be utilized with caution as the ra
 197. [Marcus Morris Sr.](https://www.fantasypros.com/nba/players/marcus-morris.php?week=draft) PF,C,SF-LAC
 198. [Isaac Okoro](https://www.fantasypros.com/nba/players/isaac-okoro.php?week=draft) SG,SF-CLE
 199. [Chris Duarte](https://www.fantasypros.com/nba/players/chris-duarte.php?week=draft) SG-IND
-200. [T.J. Warren](https://www.fantasypros.com/nba/players/tj-warren.php?week=draft) SF,PF-BKN
+200. [T.J. Warren](https://www.fantasypros.com/nba/players/tj-warren.php?week=draft) SF,PF-PHO
 201. [Precious Achiuwa](https://www.fantasypros.com/nba/players/precious-achiuwa.php?week=draft) SF,PF,C-TOR
 202. [Derrick Rose](https://www.fantasypros.com/nba/players/derrick-rose.php?week=draft) PG,SG-NYK
 203. [Isaiah Roby](https://www.fantasypros.com/nba/players/isaiah-roby.php?week=draft) C,PF-SAS
