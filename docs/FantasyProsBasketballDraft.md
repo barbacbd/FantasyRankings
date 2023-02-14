@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/13/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/14/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -231,7 +231,7 @@ All information contained in this file should be utilized with caution as the ra
 219. [Ayo Dosunmu](https://www.fantasypros.com/nba/players/ayo-dosunmu.php?week=draft) PG,SG-CHI
 220. [Coby White](https://www.fantasypros.com/nba/players/coby-white.php?week=draft) PG,SG-CHI
 221. [Joe Ingles](https://www.fantasypros.com/nba/players/joe-ingles.php?week=draft) SG,SF,PF-MIL
-222. [Justin Holiday](https://www.fantasypros.com/nba/players/justin-holiday.php?week=draft) SG,SF-HOU
+222. [Justin Holiday](https://www.fantasypros.com/nba/players/justin-holiday.php?week=draft) SG,SF-FA
 223. [JaVale McGee](https://www.fantasypros.com/nba/players/javale-mcgee.php?week=draft) C-DAL
 224. [Luke Kennard](https://www.fantasypros.com/nba/players/luke-kennard.php?week=draft) SG,SF-MEM
 225. [Xavier Tillman](https://www.fantasypros.com/nba/players/xavier-tillman.php?week=draft) PF,C-MEM
@@ -273,7 +273,7 @@ All information contained in this file should be utilized with caution as the ra
 261. [Jose Alvarado](https://www.fantasypros.com/nba/players/jose-alvarado.php?week=draft) PG-NOR
 262. [Davion Mitchell](https://www.fantasypros.com/nba/players/davion-mitchell.php?week=draft) SG,PG-SAC
 263. [Danny Green](https://www.fantasypros.com/nba/players/daniel-green.php?week=draft) SG,SF-CLE
-264. [Dewayne Dedmon](https://www.fantasypros.com/nba/players/dewayne-dedmon.php?week=draft) C-FA
+264. [Dewayne Dedmon](https://www.fantasypros.com/nba/players/dewayne-dedmon.php?week=draft) C-PHI
 265. [Josh Christopher](https://www.fantasypros.com/nba/players/josh-christopher.php?week=draft) SG-HOU
 266. [Doug McDermott](https://www.fantasypros.com/nba/players/doug-mcdermott.php?week=draft) SF,PF-SAS
 267. [Malik Monk](https://www.fantasypros.com/nba/players/malik-monk.php?week=draft) PG,SG-SAC
@@ -341,7 +341,7 @@ All information contained in this file should be utilized with caution as the ra
 329. [Landry Shamet](https://www.fantasypros.com/nba/players/landry-shamet.php?week=draft) PG,SG-PHO
 330. [Nemanja Bjelica](https://www.fantasypros.com/nba/players/nemanja-bjelica.php?week=draft) PF-FA
 331. [Garrison Mathews](https://www.fantasypros.com/nba/players/garrison-mathews.php?week=draft) SG,SF-ATL
-332. [Goga Bitadze](https://www.fantasypros.com/nba/players/goga-bitadze.php?week=draft) C-FA
+332. [Goga Bitadze](https://www.fantasypros.com/nba/players/goga-bitadze.php?week=draft) C-ORL
 333. [Santi Aldama](https://www.fantasypros.com/nba/players/santi-aldama.php?week=draft) PF,C-MEM
 334. [Trevor Ariza](https://www.fantasypros.com/nba/players/trevor-ariza.php?week=draft) SG,SF,PF-FA
 335. [Ousmane Dieng](https://www.fantasypros.com/nba/players/ousmane-dieng-f.php?week=draft) F-OKC
