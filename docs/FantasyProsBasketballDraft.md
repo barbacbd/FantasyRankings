@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/15/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/16/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -236,7 +236,7 @@ All information contained in this file should be utilized with caution as the ra
 224. [Luke Kennard](https://www.fantasypros.com/nba/players/luke-kennard.php?week=draft) SG,SF-MEM
 225. [Xavier Tillman](https://www.fantasypros.com/nba/players/xavier-tillman.php?week=draft) PF,C-MEM
 226. [Kentavious CaldwellPope](https://www.fantasypros.com/nba/players/kentavious-caldwell-pope.php?week=draft) PG,SG,SF-DEN
-227. [Terrence Ross](https://www.fantasypros.com/nba/players/terrence-ross.php?week=draft) SG,SF-FA
+227. [Terrence Ross](https://www.fantasypros.com/nba/players/terrence-ross.php?week=draft) SG,SF-PHO
 228. [Terance Mann](https://www.fantasypros.com/nba/players/terance-mann.php?week=draft) SF,SG-LAC
 229. [Cam Reddish](https://www.fantasypros.com/nba/players/cam-reddish.php?week=draft) SG,SF-POR
 230. [Gary Payton II](https://www.fantasypros.com/nba/players/gary-payton.php?week=draft) PG,SG-GSW
