@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/16/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/17/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -146,7 +146,7 @@ All information contained in this file should be utilized with caution as the ra
 134. [Steven Adams](https://www.fantasypros.com/nba/players/steven-adams.php?week=draft) C-MEM
 135. [Aleksej Pokusevski](https://www.fantasypros.com/nba/players/aleksej-pokusevski.php?week=draft) SF,PF-OKC
 136. [Richaun Holmes](https://www.fantasypros.com/nba/players/richaun-holmes.php?week=draft) PF,C-SAC
-137. [Reggie Jackson](https://www.fantasypros.com/nba/players/reggie-jackson.php?week=draft) PG,SG-FA
+137. [Reggie Jackson](https://www.fantasypros.com/nba/players/reggie-jackson.php?week=draft) PG,SG-DEN
 138. [Kyle Anderson](https://www.fantasypros.com/nba/players/kyle-anderson.php?week=draft) SF,PF-MIN
 139. [Kelly Olynyk](https://www.fantasypros.com/nba/players/kelly-olynyk.php?week=draft) PF,C-UTH
 140. [Markelle Fultz](https://www.fantasypros.com/nba/players/markelle-fultz.php?week=draft) PG,SG-ORL
@@ -231,7 +231,7 @@ All information contained in this file should be utilized with caution as the ra
 219. [Ayo Dosunmu](https://www.fantasypros.com/nba/players/ayo-dosunmu.php?week=draft) PG,SG-CHI
 220. [Coby White](https://www.fantasypros.com/nba/players/coby-white.php?week=draft) PG,SG-CHI
 221. [Joe Ingles](https://www.fantasypros.com/nba/players/joe-ingles.php?week=draft) SG,SF,PF-MIL
-222. [Justin Holiday](https://www.fantasypros.com/nba/players/justin-holiday.php?week=draft) SG,SF-FA
+222. [Justin Holiday](https://www.fantasypros.com/nba/players/justin-holiday.php?week=draft) SG,SF-DAL
 223. [JaVale McGee](https://www.fantasypros.com/nba/players/javale-mcgee.php?week=draft) C-DAL
 224. [Luke Kennard](https://www.fantasypros.com/nba/players/luke-kennard.php?week=draft) SG,SF-MEM
 225. [Xavier Tillman](https://www.fantasypros.com/nba/players/xavier-tillman.php?week=draft) PF,C-MEM
@@ -466,7 +466,7 @@ All information contained in this file should be utilized with caution as the ra
 454. [James Johnson](https://www.fantasypros.com/nba/players/james-johnson.php?week=draft) PF,C,SF-IND
 455. [Robin Lopez](https://www.fantasypros.com/nba/players/robin-lopez.php?week=draft) C-CLE
 456. [Bruno Fernando](https://www.fantasypros.com/nba/players/bruno-fernando.php?week=draft) C-ATL
-457. [Leandro Bolmaro](https://www.fantasypros.com/nba/players/leandro-bolmaro-f.php?week=draft) SF-UTH
+457. [Leandro Bolmaro](https://www.fantasypros.com/nba/players/leandro-bolmaro-f.php?week=draft) SF-FA
 458. [Rodney Hood](https://www.fantasypros.com/nba/players/rodney-hood.php?week=draft) SG,SF-FA
 459. [Kent Bazemore](https://www.fantasypros.com/nba/players/kent-bazemore.php?week=draft) SG,SF-FA
 460. [Khyri Thomas](https://www.fantasypros.com/nba/players/khyri-thomas.php?week=draft) SG-HOU

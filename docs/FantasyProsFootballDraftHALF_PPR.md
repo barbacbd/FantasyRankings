@@ -214,9 +214,9 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 210. [Tyquan Thornton](https://www.fantasypros.com/nfl/players/tyquan-thornton.php) WR-NE
 211. [Isaiah Spiller](https://www.fantasypros.com/nfl/players/isaiah-spiller.php) RB-LAC
 212. [Isaiah Hodgins](https://www.fantasypros.com/nfl/players/isaiah-hodgins.php) WR-NYG
-213. [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php) RB-FA
-214. [Zay Flowers](https://www.fantasypros.com/nfl/players/zay-flowers.php) WR-FA
-215. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
+213. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
+214. [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php) RB-FA
+215. [Zay Flowers](https://www.fantasypros.com/nfl/players/zay-flowers.php) WR-FA
 216. [Terrace Marshall Jr.](https://www.fantasypros.com/nfl/players/terrace-marshall.php) WR-CAR
 217. [D'Ernest Johnson](https://www.fantasypros.com/nfl/players/dernest-johnson.php) RB-CLE
 218. [Irv Smith Jr.](https://www.fantasypros.com/nfl/players/irv-smith-jr.php) TE-MIN
@@ -235,18 +235,18 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 231. [Julio Jones](https://www.fantasypros.com/nfl/players/julio-jones.php) WR-TB
 232. [Albert Okwuegbunam](https://www.fantasypros.com/nfl/players/albert-okwuegbunam.php) TE-DEN
 233. [Nyheim Hines](https://www.fantasypros.com/nfl/players/nyheim-hines.php) RB-BUF
-234. [Robert Tonyan](https://www.fantasypros.com/nfl/players/robert-tonyan.php) TE-GB
-235. [Cincinnati Bengals](https://www.fantasypros.com/nfl/players/cincinnati-defense.php) DST-CIN
+234. [Cincinnati Bengals](https://www.fantasypros.com/nfl/players/cincinnati-defense.php) DST-CIN
+235. [Robert Tonyan](https://www.fantasypros.com/nfl/players/robert-tonyan.php) TE-GB
 236. [Matt Gay](https://www.fantasypros.com/nfl/players/matt-gay.php) K-LAR
 237. [Jelani Woods](https://www.fantasypros.com/nfl/players/jelani-woods.php) TE-IND
 238. [Cleveland Browns](https://www.fantasypros.com/nfl/players/cleveland-defense.php) DST-CLE
 239. [Tank Bigsby](https://www.fantasypros.com/nfl/players/tank-bigsby.php) RB-FA
 240. [Green Bay Packers](https://www.fantasypros.com/nfl/players/green-bay-defense.php) DST-GB
 241. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-JAC
-242. [Cade Otton](https://www.fantasypros.com/nfl/players/cade-otton.php) TE-TB
-243. [Josh Downs](https://www.fantasypros.com/nfl/players/josh-downs.php) WR-FA
-244. [Odell Beckham Jr.](https://www.fantasypros.com/nfl/players/odell-beckham.php) WR-FA
-245. [Matt Prater](https://www.fantasypros.com/nfl/players/matt-prater.php) K-ARI
+242. [Josh Downs](https://www.fantasypros.com/nfl/players/josh-downs.php) WR-FA
+243. [Odell Beckham Jr.](https://www.fantasypros.com/nfl/players/odell-beckham.php) WR-FA
+244. [Matt Prater](https://www.fantasypros.com/nfl/players/matt-prater.php) K-ARI
+245. [Cade Otton](https://www.fantasypros.com/nfl/players/cade-otton.php) TE-TB
 246. [Sterling Shepard](https://www.fantasypros.com/nfl/players/sterling-shepard.php) WR-FA
 247. [Robbie Gould](https://www.fantasypros.com/nfl/players/robbie-gould.php) K-SF
 248. [J.D. McKissic](https://www.fantasypros.com/nfl/players/jd-mckissic.php) RB-WAS
