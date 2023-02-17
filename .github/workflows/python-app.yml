@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "ci-test" ]
   schedule:
-  - cron: "0 12 * * *"
+  - cron: "0 12 * * 4"
 
 permissions:
   contents: write
@@ -33,7 +33,7 @@ jobs:
     - name: Setup Git
       run: |
         git config --global user.name "Brent Barbachem"
-        git config --global user.email "barbacbd@dukes.jmu.edu"
+        git config --global user.email "barbacbd@gmail.com"
 
     - name: Execute the Applications
       env:
