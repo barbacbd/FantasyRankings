@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/17/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/23/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -159,7 +159,7 @@ All information contained in this file should be utilized with caution as the ra
 147. [Logan Couture](https://www.fantasypros.com/nhl/adp/logan-couture.php) C-SJ
 148. [Anton Forsberg](https://www.fantasypros.com/nhl/adp/anton-forsberg.php) G-OTT
 149. [Shayne Gostisbehere](https://www.fantasypros.com/nhl/adp/shayne-gostisbehere.php) D-ARI
-150. [Ryan O'Reilly](https://www.fantasypros.com/nhl/adp/ryan-oreilly.php) C-STL
+150. [Ryan O'Reilly](https://www.fantasypros.com/nhl/adp/ryan-oreilly.php) C-TOR
 151. [Charlie McAvoy](https://www.fantasypros.com/nhl/adp/charlie-mcavoy.php) D-BOS
 152. [Jared Spurgeon](https://www.fantasypros.com/nhl/adp/jared-spurgeon.php) D-MIN
 153. [Colton Parayko](https://www.fantasypros.com/nhl/adp/colton-parayko.php) D-STL
