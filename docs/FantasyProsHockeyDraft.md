@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/23/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 3/2/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -47,7 +47,7 @@ All information contained in this file should be utilized with caution as the ra
 35. [John Carlson](https://www.fantasypros.com/nhl/adp/john-carlson.php) D-WSH
 36. [Chris Kreider](https://www.fantasypros.com/nhl/adp/chris-kreider.php) LW-NYR
 37. [Aaron Ekblad](https://www.fantasypros.com/nhl/adp/aaron-ekblad.php) D-FLA
-38. [Timo Meier](https://www.fantasypros.com/nhl/adp/timo-meier.php) RW-SJ
+38. [Timo Meier](https://www.fantasypros.com/nhl/adp/timo-meier.php) RW-NJ
 39. [Jake Oettinger](https://www.fantasypros.com/nhl/adp/jake-oettinger.php) G-DAL
 40. [Gabriel Landeskog](https://www.fantasypros.com/nhl/adp/gabriel-landeskog.php) LW-COL
 41. [Elias Lindholm](https://www.fantasypros.com/nhl/adp/elias-lindholm.php) C-CGY
@@ -55,7 +55,7 @@ All information contained in this file should be utilized with caution as the ra
 43. [Andrei Svechnikov](https://www.fantasypros.com/nhl/adp/andrei-svechnikov.php) RW-CAR
 44. [Elias Pettersson](https://www.fantasypros.com/nhl/adp/elias-pettersson.php) C-VAN
 45. [Vladimir Tarasenko](https://www.fantasypros.com/nhl/adp/vladimir-tarasenko.php) RW-NYR
-46. [Patrick Kane](https://www.fantasypros.com/nhl/adp/patrick-kane.php) RW-CHI
+46. [Patrick Kane](https://www.fantasypros.com/nhl/adp/patrick-kane.php) RW-NYR
 47. [Tristan Jarry](https://www.fantasypros.com/nhl/adp/tristan-jarry.php) G-PIT
 48. [Evander Kane](https://www.fantasypros.com/nhl/adp/evander-kane.php) LW-EDM
 49. [Connor Hellebuyck](https://www.fantasypros.com/nhl/adp/connor-hellebuyck.php) G-WPG
@@ -184,7 +184,7 @@ All information contained in this file should be utilized with caution as the ra
 172. [Tyler Bertuzzi](https://www.fantasypros.com/nhl/adp/tyler-bertuzzi.php) LW-DET
 173. [Brock Boeser](https://www.fantasypros.com/nhl/adp/brock-boeser.php) RW-VAN
 174. [Valeri Nichushkin](https://www.fantasypros.com/nhl/adp/valeri-nichushkin.php) RW-COL
-175. [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) LW-NSH
+175. [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) LW-TB
 176. [Jaccob Slavin](https://www.fantasypros.com/nhl/adp/jaccob-slavin.php) D-CAR
 177. [David Perron](https://www.fantasypros.com/nhl/adp/david-perron.php) LW-DET
 178. [Nico Hischier](https://www.fantasypros.com/nhl/adp/nico-hischier.php) C-NJ
@@ -194,7 +194,7 @@ All information contained in this file should be utilized with caution as the ra
 182. [Ryan Hartman](https://www.fantasypros.com/nhl/adp/ryan-hartman.php) RW-MIN
 183. [Pavel Francouz](https://www.fantasypros.com/nhl/adp/pavel-francouz.php) G-COL
 184. [Marco Rossi](https://www.fantasypros.com/nhl/adp/marco-rossi.php) C-MIN
-185. [Tyson Barrie](https://www.fantasypros.com/nhl/adp/tyson-barrie.php) D-EDM
+185. [Tyson Barrie](https://www.fantasypros.com/nhl/adp/tyson-barrie.php) D-NSH
 186. [Mathew Barzal](https://www.fantasypros.com/nhl/adp/mathew-barzal.php) C-NYI
 187. [Blake Wheeler](https://www.fantasypros.com/nhl/adp/blake-wheeler.php) RW-WPG
 188. [David Krejci](https://www.fantasypros.com/nhl/adp/david-krejci.php) C-BOS
