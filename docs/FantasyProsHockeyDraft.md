@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 3/2/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 3/9/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -115,7 +115,7 @@ All information contained in this file should be utilized with caution as the ra
 103. [Shea Theodore](https://www.fantasypros.com/nhl/adp/shea-theodore.php) D-VGK
 104. [Rasmus Andersson](https://www.fantasypros.com/nhl/adp/rasmus-andersson.php) D-CGY
 105. [Anze Kopitar](https://www.fantasypros.com/nhl/adp/anze-kopitar.php) C-LA
-106. [Jonathan Quick](https://www.fantasypros.com/nhl/adp/jonathan-quick.php) G-LA
+106. [Jonathan Quick](https://www.fantasypros.com/nhl/adp/jonathan-quick.php) G-VGK
 107. [Ivan Provorov](https://www.fantasypros.com/nhl/adp/ivan-provorov.php) D-PHI
 108. [Jordan Kyrou](https://www.fantasypros.com/nhl/adp/jordan-kyrou.php) C-STL
 109. [Bryan Rust](https://www.fantasypros.com/nhl/adp/bryan-rust.php) RW-PIT
@@ -145,9 +145,9 @@ All information contained in this file should be utilized with caution as the ra
 133. [Brad Marchand](https://www.fantasypros.com/nhl/adp/brad-marchand.php) LW-BOS
 134. [Alec Martinez](https://www.fantasypros.com/nhl/adp/alec-martinez.php) D-VGK
 135. [Brayden Point](https://www.fantasypros.com/nhl/adp/brayden-point.php) C-TB
-136. [Jakob Chychrun](https://www.fantasypros.com/nhl/adp/jakob-chychrun.php) D-ARI
+136. [Jakob Chychrun](https://www.fantasypros.com/nhl/adp/jakob-chychrun.php) D-OTT
 137. [Logan Thompson](https://www.fantasypros.com/nhl/adp/logan-thompson.php) G-VGK
-138. [John Klingberg](https://www.fantasypros.com/nhl/adp/john-klingberg.php) D-ANA
+138. [John Klingberg](https://www.fantasypros.com/nhl/adp/john-klingberg.php) D-MIN
 139. [Tony DeAngelo](https://www.fantasypros.com/nhl/adp/anthony-deangelo.php) D-PHI
 140. [Josh Morrissey](https://www.fantasypros.com/nhl/adp/josh-morrissey.php) D-WPG
 141. [Zach Hyman](https://www.fantasypros.com/nhl/adp/zach-hyman.php) LW-EDM
@@ -158,7 +158,7 @@ All information contained in this file should be utilized with caution as the ra
 146. [Ville Husso](https://www.fantasypros.com/nhl/adp/ville-husso.php) G-DET
 147. [Logan Couture](https://www.fantasypros.com/nhl/adp/logan-couture.php) C-SJ
 148. [Anton Forsberg](https://www.fantasypros.com/nhl/adp/anton-forsberg.php) G-OTT
-149. [Shayne Gostisbehere](https://www.fantasypros.com/nhl/adp/shayne-gostisbehere.php) D-ARI
+149. [Shayne Gostisbehere](https://www.fantasypros.com/nhl/adp/shayne-gostisbehere.php) D-CAR
 150. [Ryan O'Reilly](https://www.fantasypros.com/nhl/adp/ryan-oreilly.php) C-TOR
 151. [Charlie McAvoy](https://www.fantasypros.com/nhl/adp/charlie-mcavoy.php) D-BOS
 152. [Jared Spurgeon](https://www.fantasypros.com/nhl/adp/jared-spurgeon.php) D-MIN
@@ -181,7 +181,7 @@ All information contained in this file should be utilized with caution as the ra
 169. [Lucas Raymond](https://www.fantasypros.com/nhl/adp/lucas-raymond.php) LW-DET
 170. [Taylor Hall](https://www.fantasypros.com/nhl/adp/taylor-hall.php) LW-BOS
 171. [Linus Ullmark](https://www.fantasypros.com/nhl/adp/linus-ullmark.php) G-BOS
-172. [Tyler Bertuzzi](https://www.fantasypros.com/nhl/adp/tyler-bertuzzi.php) LW-DET
+172. [Tyler Bertuzzi](https://www.fantasypros.com/nhl/adp/tyler-bertuzzi.php) LW-BOS
 173. [Brock Boeser](https://www.fantasypros.com/nhl/adp/brock-boeser.php) RW-VAN
 174. [Valeri Nichushkin](https://www.fantasypros.com/nhl/adp/valeri-nichushkin.php) RW-COL
 175. [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) LW-TB
@@ -205,7 +205,7 @@ All information contained in this file should be utilized with caution as the ra
 193. [Brock Nelson](https://www.fantasypros.com/nhl/adp/brock-nelson.php) C-NYI
 194. [Vince Dunn](https://www.fantasypros.com/nhl/adp/vince-dunn.php) D-SEA
 195. [Jeff Skinner](https://www.fantasypros.com/nhl/adp/jeff-skinner.php) LW-BUF
-196. [Filip Hronek](https://www.fantasypros.com/nhl/adp/filip-hronek.php) D-DET
+196. [Filip Hronek](https://www.fantasypros.com/nhl/adp/filip-hronek.php) D-VAN
 197. [Travis Konecny](https://www.fantasypros.com/nhl/adp/travis-konecny.php) RW-PHI
 198. [Victor Olofsson](https://www.fantasypros.com/nhl/adp/victor-olofsson.php) LW-BUF
 199. [Semyon Varlamov](https://www.fantasypros.com/nhl/adp/semyon-varlamov.php) G-NYI
@@ -222,9 +222,9 @@ All information contained in this file should be utilized with caution as the ra
 210. [Sean Couturier](https://www.fantasypros.com/nhl/adp/sean-couturier.php) C-PHI
 211. [T.J. Oshie](https://www.fantasypros.com/nhl/adp/tj-oshie.php) C-WSH
 212. [Andre Burakovsky](https://www.fantasypros.com/nhl/adp/andre-burakovsky.php) LW-SEA
-213. [Vladislav Gavrikov](https://www.fantasypros.com/nhl/adp/vladislav-gavrikov.php) D-CBJ
+213. [Vladislav Gavrikov](https://www.fantasypros.com/nhl/adp/vladislav-gavrikov.php) D-LA
 214. [Vasily Podkolzin](https://www.fantasypros.com/nhl/adp/vasily-podkolzin.php) RW-VAN
-215. [Jakub Vrana](https://www.fantasypros.com/nhl/adp/jakub-vrana.php) LW-DET
+215. [Jakub Vrana](https://www.fantasypros.com/nhl/adp/jakub-vrana.php) LW-STL
 216. [Gustav Forsling](https://www.fantasypros.com/nhl/adp/forsling-gustav.php) D-FLA
 217. [Matt Dumba](https://www.fantasypros.com/nhl/adp/mathew-dumba.php) D-MIN
 218. [Ondrej Palat](https://www.fantasypros.com/nhl/adp/ondrej-palat.php) LW-NJ
@@ -238,7 +238,7 @@ All information contained in this file should be utilized with caution as the ra
 226. [Vitek Vanecek](https://www.fantasypros.com/nhl/adp/vitek-vanecek.php) G-NJ
 227. [Mason McTavish](https://www.fantasypros.com/nhl/adp/mason-mctavish.php) C-ANA
 228. [Petr Mrazek](https://www.fantasypros.com/nhl/adp/petr-mrazek.php) G-CHI
-229. [Jakub Voracek](https://www.fantasypros.com/nhl/adp/jakub-voracek.php) RW-CBJ
+229. [Jakub Voracek](https://www.fantasypros.com/nhl/adp/jakub-voracek.php) RW-ARI
 
 
 ## Position Ranks

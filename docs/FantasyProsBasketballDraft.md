@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/2/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/9/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -212,9 +212,9 @@ All information contained in this file should be utilized with caution as the ra
 200. [T.J. Warren](https://www.fantasypros.com/nba/players/tj-warren.php?week=draft) SF,PF-PHO
 201. [Precious Achiuwa](https://www.fantasypros.com/nba/players/precious-achiuwa.php?week=draft) SF,PF,C-TOR
 202. [Derrick Rose](https://www.fantasypros.com/nba/players/derrick-rose.php?week=draft) PG,SG-NYK
-203. [Isaiah Roby](https://www.fantasypros.com/nba/players/isaiah-roby.php?week=draft) C,PF-SAS
+203. [Isaiah Roby](https://www.fantasypros.com/nba/players/isaiah-roby.php?week=draft) C,PF-FA
 204. [Jalen Duren](https://www.fantasypros.com/nba/players/jalen-duren.php?week=draft) C-DET
-205. [Nerlens Noel](https://www.fantasypros.com/nba/players/nerlens-noel.php?week=draft) PF,C-FA
+205. [Nerlens Noel](https://www.fantasypros.com/nba/players/nerlens-noel.php?week=draft) PF,C-BKN
 206. [Miles Bridges](https://www.fantasypros.com/nba/players/miles-bridges.php?week=draft) SF,PF-CHA
 207. [Rui Hachimura](https://www.fantasypros.com/nba/players/rui-hachimura.php?week=draft) SF,PF-LAL
 208. [Tari Eason](https://www.fantasypros.com/nba/players/tari-eason.php?week=draft) SF-HOU
@@ -257,7 +257,7 @@ All information contained in this file should be utilized with caution as the ra
 245. [Quentin Grimes](https://www.fantasypros.com/nba/players/quentin-grimes.php?week=draft) SG-NYK
 246. [Eric Bledsoe](https://www.fantasypros.com/nba/players/eric-bledsoe.php?week=draft) PG,SG-FA
 247. [Hassan Whiteside](https://www.fantasypros.com/nba/players/hassan-whiteside.php?week=draft) PF,C-FA
-248. [Goran Dragic](https://www.fantasypros.com/nba/players/goran-dragic.php?week=draft) PG,SG-FA
+248. [Goran Dragic](https://www.fantasypros.com/nba/players/goran-dragic.php?week=draft) PG,SG-MIL
 249. [Danilo Gallinari](https://www.fantasypros.com/nba/players/danilo-gallinari.php?week=draft) SF,PF-BOS
 250. [Ricky Rubio](https://www.fantasypros.com/nba/players/ricky-rubio.php?week=draft) PG-CLE
 251. [Grant Williams](https://www.fantasypros.com/nba/players/grant-williams.php?week=draft) SF,PF-BOS
@@ -354,12 +354,12 @@ All information contained in this file should be utilized with caution as the ra
 342. [Jaden Hardy](https://www.fantasypros.com/nba/players/jaden-hardy.php?week=draft) G-DAL
 343. [Nikola Jovic](https://www.fantasypros.com/nba/players/nikola-jovic.php?week=draft) SF-MIA
 344. [Jaylin Williams](https://www.fantasypros.com/nba/players/jaylin-williams.php?week=draft) C-OKC
-345. [Jared Butler](https://www.fantasypros.com/nba/players/jared-butler.php?week=draft) SG-FA
+345. [Jared Butler](https://www.fantasypros.com/nba/players/jared-butler.php?week=draft) SG-OKC
 346. [Hamidou Diallo](https://www.fantasypros.com/nba/players/hamidou-diallo.php?week=draft) SG,SF-DET
 347. [Kira Lewis Jr.](https://www.fantasypros.com/nba/players/kira-lewis.php?week=draft) PG,SG-NOR
 348. [MarJon Beauchamp](https://www.fantasypros.com/nba/players/marjon-beauchamp.php?week=draft) F-MIL
 349. [Cedi Osman](https://www.fantasypros.com/nba/players/cedi-osman.php?week=draft) SF,PF-CLE
-350. [Trevor Keels](https://www.fantasypros.com/nba/players/trevor-keels.php?week=draft) SF-NYK
+350. [Trevor Keels](https://www.fantasypros.com/nba/players/trevor-keels.php?week=draft) SF-FA
 351. [Aaron Nesmith](https://www.fantasypros.com/nba/players/aaron-nesmith.php?week=draft) SG,SF-IND
 352. [Bismack Biyombo](https://www.fantasypros.com/nba/players/bismack-biyombo.php?week=draft) C-PHO
 353. [Wesley Matthews](https://www.fantasypros.com/nba/players/wesley-matthews.php?week=draft) SG,SF-MIL
