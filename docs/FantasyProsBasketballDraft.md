@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/9/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/16/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -389,7 +389,7 @@ All information contained in this file should be utilized with caution as the ra
 377. [Kessler Edwards](https://www.fantasypros.com/nba/players/kessler-edwards.php?week=draft) SF-SAC
 378. [Nick Richards](https://www.fantasypros.com/nba/players/nick-richards.php?week=draft) C-CHA
 379. [Aaron Holiday](https://www.fantasypros.com/nba/players/aaron-holiday.php?week=draft) PG,SG-ATL
-380. [Frank Jackson](https://www.fantasypros.com/nba/players/frank-jackson.php?week=draft) PG,SG-UTH
+380. [Frank Jackson](https://www.fantasypros.com/nba/players/frank-jackson.php?week=draft) PG,SG-FA
 381. [Mike Muscala](https://www.fantasypros.com/nba/players/mike-muscala.php?week=draft) PF,C-BOS
 382. [George Hill](https://www.fantasypros.com/nba/players/george-hill.php?week=draft) PG,SG-IND
 383. [CJ Elleby](https://www.fantasypros.com/nba/players/cj-elleby.php?week=draft) SF,SG-FA
@@ -475,7 +475,7 @@ All information contained in this file should be utilized with caution as the ra
 463. [Jeff Teague](https://www.fantasypros.com/nba/players/jeff-teague.php?week=draft) PG,SG-FA
 464. [Sekou Doumbouya](https://www.fantasypros.com/nba/players/sekou-doumbouya.php?week=draft) SF,PF-FA
 465. [Denzel Valentine](https://www.fantasypros.com/nba/players/denzel-valentine.php?week=draft) SG,SF-BOS
-466. [Willie CauleyStein](https://www.fantasypros.com/nba/players/willie-cauley-stein.php?week=draft) PF,C-HOU
+466. [Willie CauleyStein](https://www.fantasypros.com/nba/players/willie-cauley-stein.php?week=draft) PF,C-FA
 467. [Jabari Parker](https://www.fantasypros.com/nba/players/jabari-parker.php?week=draft) SF,PF-FA
 468. [Harry Giles III](https://www.fantasypros.com/nba/players/harry-giles.php?week=draft) PF,C-FA
 469. [Zhaire Smith](https://www.fantasypros.com/nba/players/zhaire-smith.php?week=draft) SG-FA
@@ -484,7 +484,7 @@ All information contained in this file should be utilized with caution as the ra
 472. [Emmanuel Mudiay](https://www.fantasypros.com/nba/players/emmanuel-mudiay.php?week=draft) PG-FA
 473. [Dante Exum](https://www.fantasypros.com/nba/players/dante-exum.php?week=draft) SG,SF,PG-FA
 474. [Tyler Johnson](https://www.fantasypros.com/nba/players/tyler-johnson.php?week=draft) PG,SG-FA
-475. [Meyers Leonard](https://www.fantasypros.com/nba/players/meyers-leonard.php?week=draft) PF,C-MIL
+475. [Meyers Leonard](https://www.fantasypros.com/nba/players/meyers-leonard.php?week=draft) PF,C-FA
 476. [Brad Wanamaker](https://www.fantasypros.com/nba/players/bradley-wanamaker.php?week=draft) PG,SG-FA
 477. [Aron Baynes](https://www.fantasypros.com/nba/players/aron-baynes.php?week=draft) C-FA
 
