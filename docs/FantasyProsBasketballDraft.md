@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/16/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/23/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -61,7 +61,7 @@ All information contained in this file should be utilized with caution as the ra
 49. [Terry Rozier](https://www.fantasypros.com/nba/players/terry-rozier.php?week=draft) PG,SG-CHA
 50. [Jonas Valanciunas](https://www.fantasypros.com/nba/players/jonas-valanciunas.php?week=draft) C-NOR
 51. [Julius Randle](https://www.fantasypros.com/nba/players/julius-randle.php?week=draft) PF,C-NYK
-52. [OG Anunoby](https://www.fantasypros.com/nba/players/og-anunoby.php?week=draft) SF,PF-TOR
+52. [O.G. Anunoby](https://www.fantasypros.com/nba/players/og-anunoby.php?week=draft) SF,PF-TOR
 53. [John Collins](https://www.fantasypros.com/nba/players/john-collins.php?week=draft) PF,C-ATL
 54. [Scottie Barnes](https://www.fantasypros.com/nba/players/scottie-barnes.php?week=draft) SF,PF-TOR
 55. [Mikal Bridges](https://www.fantasypros.com/nba/players/mikal-bridges.php?week=draft) SG,SF-BKN
@@ -214,7 +214,7 @@ All information contained in this file should be utilized with caution as the ra
 202. [Derrick Rose](https://www.fantasypros.com/nba/players/derrick-rose.php?week=draft) PG,SG-NYK
 203. [Isaiah Roby](https://www.fantasypros.com/nba/players/isaiah-roby.php?week=draft) C,PF-FA
 204. [Jalen Duren](https://www.fantasypros.com/nba/players/jalen-duren.php?week=draft) C-DET
-205. [Nerlens Noel](https://www.fantasypros.com/nba/players/nerlens-noel.php?week=draft) PF,C-BKN
+205. [Nerlens Noel](https://www.fantasypros.com/nba/players/nerlens-noel.php?week=draft) PF,C-FA
 206. [Miles Bridges](https://www.fantasypros.com/nba/players/miles-bridges.php?week=draft) SF,PF-CHA
 207. [Rui Hachimura](https://www.fantasypros.com/nba/players/rui-hachimura.php?week=draft) SF,PF-LAL
 208. [Tari Eason](https://www.fantasypros.com/nba/players/tari-eason.php?week=draft) SF-HOU
@@ -285,7 +285,7 @@ All information contained in this file should be utilized with caution as the ra
 273. [Malachi Flynn](https://www.fantasypros.com/nba/players/malachi-flynn.php?week=draft) PG-TOR
 274. [Tomas Satoransky](https://www.fantasypros.com/nba/players/tomas-satoransky.php?week=draft) PG,SG-FA
 275. [Rudy Gay](https://www.fantasypros.com/nba/players/rudy-gay.php?week=draft) SF,PF-UTH
-276. [Moses Brown](https://www.fantasypros.com/nba/players/moses-brown.php?week=draft) C-FA
+276. [Moses Brown](https://www.fantasypros.com/nba/players/moses-brown.php?week=draft) C-BKN
 277. [Enes Freedom](https://www.fantasypros.com/nba/players/enes-kanter.php?week=draft) C-FA
 278. [Dario Saric](https://www.fantasypros.com/nba/players/dario-saric.php?week=draft) PF,C-OKC
 279. [Cody Zeller](https://www.fantasypros.com/nba/players/cody-zeller.php?week=draft) C-MIA
@@ -484,7 +484,7 @@ All information contained in this file should be utilized with caution as the ra
 472. [Emmanuel Mudiay](https://www.fantasypros.com/nba/players/emmanuel-mudiay.php?week=draft) PG-FA
 473. [Dante Exum](https://www.fantasypros.com/nba/players/dante-exum.php?week=draft) SG,SF,PG-FA
 474. [Tyler Johnson](https://www.fantasypros.com/nba/players/tyler-johnson.php?week=draft) PG,SG-FA
-475. [Meyers Leonard](https://www.fantasypros.com/nba/players/meyers-leonard.php?week=draft) PF,C-FA
+475. [Meyers Leonard](https://www.fantasypros.com/nba/players/meyers-leonard.php?week=draft) PF,C-MIL
 476. [Brad Wanamaker](https://www.fantasypros.com/nba/players/bradley-wanamaker.php?week=draft) PG,SG-FA
 477. [Aron Baynes](https://www.fantasypros.com/nba/players/aron-baynes.php?week=draft) C-FA
 
