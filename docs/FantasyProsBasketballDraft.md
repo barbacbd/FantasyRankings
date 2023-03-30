@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/23/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/30/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -359,7 +359,7 @@ All information contained in this file should be utilized with caution as the ra
 347. [Kira Lewis Jr.](https://www.fantasypros.com/nba/players/kira-lewis.php?week=draft) PG,SG-NOR
 348. [MarJon Beauchamp](https://www.fantasypros.com/nba/players/marjon-beauchamp.php?week=draft) F-MIL
 349. [Cedi Osman](https://www.fantasypros.com/nba/players/cedi-osman.php?week=draft) SF,PF-CLE
-350. [Trevor Keels](https://www.fantasypros.com/nba/players/trevor-keels.php?week=draft) SF-FA
+350. [Trevor Keels](https://www.fantasypros.com/nba/players/trevor-keels.php?week=draft) SF-NYK
 351. [Aaron Nesmith](https://www.fantasypros.com/nba/players/aaron-nesmith.php?week=draft) SG,SF-IND
 352. [Bismack Biyombo](https://www.fantasypros.com/nba/players/bismack-biyombo.php?week=draft) C-PHO
 353. [Wesley Matthews](https://www.fantasypros.com/nba/players/wesley-matthews.php?week=draft) SG,SF-MIL
@@ -462,7 +462,7 @@ All information contained in this file should be utilized with caution as the ra
 450. [Marquese Chriss](https://www.fantasypros.com/nba/players/marquese-chriss.php?week=draft) PF,C-FA
 451. [Damion Lee](https://www.fantasypros.com/nba/players/damion-lee.php?week=draft) SG,SF-PHO
 452. [Alex Len](https://www.fantasypros.com/nba/players/alex-len.php?week=draft) PF,C-SAC
-453. [D.J. Augustin](https://www.fantasypros.com/nba/players/dj-augustin.php?week=draft) PG-FA
+453. [D.J. Augustin](https://www.fantasypros.com/nba/players/dj-augustin.php?week=draft) PG-HOU
 454. [James Johnson](https://www.fantasypros.com/nba/players/james-johnson.php?week=draft) PF,C,SF-IND
 455. [Robin Lopez](https://www.fantasypros.com/nba/players/robin-lopez.php?week=draft) C-CLE
 456. [Bruno Fernando](https://www.fantasypros.com/nba/players/bruno-fernando.php?week=draft) C-ATL
