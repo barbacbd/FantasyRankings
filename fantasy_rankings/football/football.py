@@ -82,7 +82,7 @@ class FFRankings(BaseRankings):
             worksheet.autofilter(0, 0, max_row, max_col - 1)
 
         # Save the file to disk
-        writer.save()
+        writer.close()
         
         return filename
 
