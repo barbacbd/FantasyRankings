@@ -21,12 +21,7 @@
         }
     },
     "basketball": {
-        "Fantasy Pros": {
-            "spreadsheets": "FantasyProsBasketballDraft.xlsx",
-            "markdown": {
-                "base": "FantasyProsBasketballDraft.md"
-            }
-        }
+        "Fantasy Pros": {}
     },
     "hockey": {
         "Fantasy Pros": {
