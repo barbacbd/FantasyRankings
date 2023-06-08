@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 6/1/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 6/8/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -116,7 +116,7 @@ All information contained in this file should be utilized with caution as the ra
 104. [Rasmus Andersson](https://www.fantasypros.com/nhl/adp/rasmus-andersson.php) D-CGY
 105. [Anze Kopitar](https://www.fantasypros.com/nhl/adp/anze-kopitar.php) C-LA
 106. [Jonathan Quick](https://www.fantasypros.com/nhl/adp/jonathan-quick.php) G-VGK
-107. [Ivan Provorov](https://www.fantasypros.com/nhl/adp/ivan-provorov.php) D-PHI
+107. [Ivan Provorov](https://www.fantasypros.com/nhl/adp/ivan-provorov.php) D-CBJ
 108. [Jordan Kyrou](https://www.fantasypros.com/nhl/adp/jordan-kyrou.php) C-STL
 109. [Bryan Rust](https://www.fantasypros.com/nhl/adp/bryan-rust.php) RW-PIT
 110. [Miro Heiskanen](https://www.fantasypros.com/nhl/adp/miro-heiskanen.php) D-DAL
