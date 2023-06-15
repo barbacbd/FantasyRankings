@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 6/8/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 6/15/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -200,7 +200,7 @@ All information contained in this file should be utilized with caution as the ra
 188. [David Krejci](https://www.fantasypros.com/nhl/adp/david-krejci.php) C-BOS
 189. [Cam Atkinson](https://www.fantasypros.com/nhl/adp/cam-atkinson.php) RW-PHI
 190. [Ryan Pulock](https://www.fantasypros.com/nhl/adp/ryan-pulock.php) D-NYI
-191. [Damon Severson](https://www.fantasypros.com/nhl/adp/damon-severson.php) D-NJ
+191. [Damon Severson](https://www.fantasypros.com/nhl/adp/damon-severson.php) D-CBJ
 192. [Andrew Mangiapane](https://www.fantasypros.com/nhl/adp/andrew-mangiapane.php) LW-CGY
 193. [Brock Nelson](https://www.fantasypros.com/nhl/adp/brock-nelson.php) C-NYI
 194. [Vince Dunn](https://www.fantasypros.com/nhl/adp/vince-dunn.php) D-SEA
