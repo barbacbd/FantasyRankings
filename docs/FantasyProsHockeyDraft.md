@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 6/22/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 6/29/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -106,7 +106,7 @@ All information contained in this file should be utilized with caution as the ra
 94. [Mark Scheifele](https://www.fantasypros.com/nhl/adp/mark-scheifele.php) C-WPG
 95. [Zach Werenski](https://www.fantasypros.com/nhl/adp/zachary-werenski.php) D-CBJ
 96. [Jeremy Swayman](https://www.fantasypros.com/nhl/adp/jeremy-swayman.php) G-BOS
-97. [Pierre-Luc Dubois](https://www.fantasypros.com/nhl/adp/pierre-luc-dubois.php) C-WPG
+97. [Pierre-Luc Dubois](https://www.fantasypros.com/nhl/adp/pierre-luc-dubois.php) C-LA
 98. [Tim Stutzle](https://www.fantasypros.com/nhl/adp/tim-stutzle.php) C-OTT
 99. [Joe Pavelski](https://www.fantasypros.com/nhl/adp/joe-pavelski.php) C-DAL
 100. [Tomas Hertl](https://www.fantasypros.com/nhl/adp/tomas-hertl.php) C-SJ
@@ -124,7 +124,7 @@ All information contained in this file should be utilized with caution as the ra
 112. [Mikhail Sergachev](https://www.fantasypros.com/nhl/adp/mikhail-sergachev.php) D-TB
 113. [Alexandar Georgiev](https://www.fantasypros.com/nhl/adp/alexandar-georgiev.php) G-COL
 114. [Torey Krug](https://www.fantasypros.com/nhl/adp/torey-krug.php) D-STL
-115. [Tyler Toffoli](https://www.fantasypros.com/nhl/adp/tyler-toffoli.php) RW-CGY
+115. [Tyler Toffoli](https://www.fantasypros.com/nhl/adp/tyler-toffoli.php) RW-NJ
 116. [Evan Bouchard](https://www.fantasypros.com/nhl/adp/evan-bouchard.php) D-EDM
 117. [Michael Bunting](https://www.fantasypros.com/nhl/adp/michael-bunting.php) LW-TOR
 118. [Mats Zuccarello](https://www.fantasypros.com/nhl/adp/mats-zuccarello.php) RW-MIN
@@ -179,7 +179,7 @@ All information contained in this file should be utilized with caution as the ra
 167. [Hampus Lindholm](https://www.fantasypros.com/nhl/adp/hampus-lindholm.php) D-BOS
 168. [John Gibson](https://www.fantasypros.com/nhl/adp/john-gibson.php) G-ANA
 169. [Lucas Raymond](https://www.fantasypros.com/nhl/adp/lucas-raymond.php) LW-DET
-170. [Taylor Hall](https://www.fantasypros.com/nhl/adp/taylor-hall.php) LW-BOS
+170. [Taylor Hall](https://www.fantasypros.com/nhl/adp/taylor-hall.php) LW-CHI
 171. [Linus Ullmark](https://www.fantasypros.com/nhl/adp/linus-ullmark.php) G-BOS
 172. [Tyler Bertuzzi](https://www.fantasypros.com/nhl/adp/tyler-bertuzzi.php) LW-BOS
 173. [Brock Boeser](https://www.fantasypros.com/nhl/adp/brock-boeser.php) RW-VAN
@@ -214,7 +214,7 @@ All information contained in this file should be utilized with caution as the ra
 202. [Adam Larsson](https://www.fantasypros.com/nhl/adp/adam-larsson.php) D-SEA
 203. [Shane Wright](https://www.fantasypros.com/nhl/adp/shane-wright.php) C-SEA
 204. [Peyton Krebs](https://www.fantasypros.com/nhl/adp/peyton-krebs.php) C-BUF
-205. [Ryan Johansen](https://www.fantasypros.com/nhl/adp/ryan-johansen.php) C-NSH
+205. [Ryan Johansen](https://www.fantasypros.com/nhl/adp/ryan-johansen.php) C-COL
 206. [Filip Chytil](https://www.fantasypros.com/nhl/adp/filip-chytil.php) C-NYR
 207. [Philipp Grubauer](https://www.fantasypros.com/nhl/adp/philipp-grubauer.php) G-SEA
 208. [Kevin Shattenkirk](https://www.fantasypros.com/nhl/adp/kevin-shattenkirk.php) D-ANA
@@ -231,7 +231,7 @@ All information contained in this file should be utilized with caution as the ra
 219. [Mark Giordano](https://www.fantasypros.com/nhl/adp/mark-giordano.php) D-TOR
 220. [Esa Lindell](https://www.fantasypros.com/nhl/adp/esa-lindell.php) D-DAL
 221. [Alexis Lafreniere](https://www.fantasypros.com/nhl/adp/alexis-lafreniere.php) LW-NYR
-222. [Yegor Sharangovich](https://www.fantasypros.com/nhl/adp/yegor-sharangovich.php) C-NJ
+222. [Yegor Sharangovich](https://www.fantasypros.com/nhl/adp/yegor-sharangovich.php) C-CGY
 223. [Jamie Benn](https://www.fantasypros.com/nhl/adp/jamie-benn.php) LW-DAL
 224. [Rickard Rakell](https://www.fantasypros.com/nhl/adp/rickard-rakell.php) RW-PIT
 225. [Anders Lee](https://www.fantasypros.com/nhl/adp/anders-lee.php) LW-NYI
