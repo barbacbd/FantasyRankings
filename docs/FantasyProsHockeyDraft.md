@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 7/6/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 7/13/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -43,7 +43,7 @@ All information contained in this file should be utilized with caution as the ra
 31. [Johnny Gaudreau](https://www.fantasypros.com/nhl/adp/johnny-gaudreau.php) LW-CBJ
 32. [Artemi Panarin](https://www.fantasypros.com/nhl/adp/artemi-panarin.php) LW-NYR
 33. [Moritz Seider](https://www.fantasypros.com/nhl/adp/moritz-seider.php) D-DET
-34. [Alex DeBrincat](https://www.fantasypros.com/nhl/adp/alex-debrincat.php) RW-OTT
+34. [Alex DeBrincat](https://www.fantasypros.com/nhl/adp/alex-debrincat.php) RW-DET
 35. [John Carlson](https://www.fantasypros.com/nhl/adp/john-carlson.php) D-WSH
 36. [Chris Kreider](https://www.fantasypros.com/nhl/adp/chris-kreider.php) LW-NYR
 37. [Aaron Ekblad](https://www.fantasypros.com/nhl/adp/aaron-ekblad.php) D-FLA
