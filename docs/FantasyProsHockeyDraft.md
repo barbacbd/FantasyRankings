@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 7/20/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 7/27/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -148,7 +148,7 @@ All information contained in this file should be utilized with caution as the ra
 136. [Jakob Chychrun](https://www.fantasypros.com/nhl/adp/jakob-chychrun.php) D-OTT
 137. [Logan Thompson](https://www.fantasypros.com/nhl/adp/logan-thompson.php) G-VGK
 138. [John Klingberg](https://www.fantasypros.com/nhl/adp/john-klingberg.php) D-TOR
-139. [Tony DeAngelo](https://www.fantasypros.com/nhl/adp/anthony-deangelo.php) D-PHI
+139. [Tony DeAngelo](https://www.fantasypros.com/nhl/adp/anthony-deangelo.php) D-CAR
 140. [Josh Morrissey](https://www.fantasypros.com/nhl/adp/josh-morrissey.php) D-WPG
 141. [Zach Hyman](https://www.fantasypros.com/nhl/adp/zach-hyman.php) LW-EDM
 142. [Matty Beniers](https://www.fantasypros.com/nhl/adp/matthew-beniers.php) C-SEA
@@ -196,7 +196,7 @@ All information contained in this file should be utilized with caution as the ra
 184. [Marco Rossi](https://www.fantasypros.com/nhl/adp/marco-rossi.php) C-MIN
 185. [Tyson Barrie](https://www.fantasypros.com/nhl/adp/tyson-barrie.php) D-NSH
 186. [Mathew Barzal](https://www.fantasypros.com/nhl/adp/mathew-barzal.php) C-NYI
-187. [Blake Wheeler](https://www.fantasypros.com/nhl/adp/blake-wheeler.php) RW-WPG
+187. [Blake Wheeler](https://www.fantasypros.com/nhl/adp/blake-wheeler.php) RW-NYR
 188. [David Krejci](https://www.fantasypros.com/nhl/adp/david-krejci.php) C-BOS
 189. [Cam Atkinson](https://www.fantasypros.com/nhl/adp/cam-atkinson.php) RW-PHI
 190. [Ryan Pulock](https://www.fantasypros.com/nhl/adp/ryan-pulock.php) D-NYI
