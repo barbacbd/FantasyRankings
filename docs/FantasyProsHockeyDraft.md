@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 8/3/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 8/10/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -152,7 +152,7 @@ All information contained in this file should be utilized with caution as the ra
 140. [Josh Morrissey](https://www.fantasypros.com/nhl/adp/josh-morrissey.php) D-WPG
 141. [Zach Hyman](https://www.fantasypros.com/nhl/adp/zach-hyman.php) LW-EDM
 142. [Matty Beniers](https://www.fantasypros.com/nhl/adp/matthew-beniers.php) C-SEA
-143. [Jeff Petry](https://www.fantasypros.com/nhl/adp/jeff-petry.php) D-PIT
+143. [Jeff Petry](https://www.fantasypros.com/nhl/adp/jeff-petry.php) D-MTL
 144. [Bo Horvat](https://www.fantasypros.com/nhl/adp/bo-horvat.php) C-NYI
 145. [Noah Hanifin](https://www.fantasypros.com/nhl/adp/noah-hanifin.php) D-CGY
 146. [Ville Husso](https://www.fantasypros.com/nhl/adp/ville-husso.php) G-DET
@@ -166,7 +166,7 @@ All information contained in this file should be utilized with caution as the ra
 154. [Clayton Keller](https://www.fantasypros.com/nhl/adp/clayton-keller.php) RW-ARI
 155. [Radko Gudas](https://www.fantasypros.com/nhl/adp/radko-gudas.php) D-ANA
 156. [Boone Jenner](https://www.fantasypros.com/nhl/adp/boone-jenner.php) C-CBJ
-157. [Erik Karlsson](https://www.fantasypros.com/nhl/adp/erik-karlsson.php) D-SJ
+157. [Erik Karlsson](https://www.fantasypros.com/nhl/adp/erik-karlsson.php) D-PIT
 158. [Ryan Nugent-Hopkins](https://www.fantasypros.com/nhl/adp/ryan-nugent-hopkins.php) C-EDM
 159. [Elvis Merzlikins](https://www.fantasypros.com/nhl/adp/elivs-merzlikins.php) G-CBJ
 160. [Sam Bennett](https://www.fantasypros.com/nhl/adp/sam-bennett.php) C-FLA
@@ -226,7 +226,7 @@ All information contained in this file should be utilized with caution as the ra
 214. [Vasily Podkolzin](https://www.fantasypros.com/nhl/adp/vasily-podkolzin.php) RW-VAN
 215. [Jakub Vrana](https://www.fantasypros.com/nhl/adp/jakub-vrana.php) LW-STL
 216. [Gustav Forsling](https://www.fantasypros.com/nhl/adp/forsling-gustav.php) D-FLA
-217. [Matt Dumba](https://www.fantasypros.com/nhl/adp/mathew-dumba.php) D-MIN
+217. [Matt Dumba](https://www.fantasypros.com/nhl/adp/mathew-dumba.php) D-ARI
 218. [Ondrej Palat](https://www.fantasypros.com/nhl/adp/ondrej-palat.php) LW-NJ
 219. [Mark Giordano](https://www.fantasypros.com/nhl/adp/mark-giordano.php) D-TOR
 220. [Esa Lindell](https://www.fantasypros.com/nhl/adp/esa-lindell.php) D-DAL
