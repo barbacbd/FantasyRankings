@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 8/10/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 8/17/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -152,7 +152,7 @@ All information contained in this file should be utilized with caution as the ra
 140. [Josh Morrissey](https://www.fantasypros.com/nhl/adp/josh-morrissey.php) D-WPG
 141. [Zach Hyman](https://www.fantasypros.com/nhl/adp/zach-hyman.php) LW-EDM
 142. [Matty Beniers](https://www.fantasypros.com/nhl/adp/matthew-beniers.php) C-SEA
-143. [Jeff Petry](https://www.fantasypros.com/nhl/adp/jeff-petry.php) D-MTL
+143. [Jeff Petry](https://www.fantasypros.com/nhl/adp/jeff-petry.php) D-DET
 144. [Bo Horvat](https://www.fantasypros.com/nhl/adp/bo-horvat.php) C-NYI
 145. [Noah Hanifin](https://www.fantasypros.com/nhl/adp/noah-hanifin.php) D-CGY
 146. [Ville Husso](https://www.fantasypros.com/nhl/adp/ville-husso.php) G-DET
