@@ -10,10 +10,10 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 6. [Austin Ekeler](https://www.fantasypros.com/nfl/players/austin-ekeler.php) RB-LAC
 7. [CeeDee Lamb](https://www.fantasypros.com/nfl/players/ceedee-lamb.php) WR-DAL
 8. [Amon-Ra St. Brown](https://www.fantasypros.com/nfl/players/amonra-stbrown.php) WR-DET
-9. [A.J. Brown](https://www.fantasypros.com/nfl/players/aj-brown.php) WR-PHI
-10. [Davante Adams](https://www.fantasypros.com/nfl/players/davante-adams.php) WR-LV
-11. [Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php) RB-NYG
-12. [Travis Kelce](https://www.fantasypros.com/nfl/players/travis-kelce.php) TE-KC
+9. [Travis Kelce](https://www.fantasypros.com/nfl/players/travis-kelce.php) TE-KC
+10. [A.J. Brown](https://www.fantasypros.com/nfl/players/aj-brown.php) WR-PHI
+11. [Davante Adams](https://www.fantasypros.com/nfl/players/davante-adams.php) WR-LV
+12. [Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php) RB-NYG
 13. [Garrett Wilson](https://www.fantasypros.com/nfl/players/garrett-wilson.php) WR-NYJ
 14. [Bijan Robinson](https://www.fantasypros.com/nfl/players/bijan-robinson.php) RB-ATL
 15. [Tony Pollard](https://www.fantasypros.com/nfl/players/tony-pollard.php) RB-DAL
@@ -72,7 +72,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 68. [Jerry Jeudy](https://www.fantasypros.com/nfl/players/jerry-jeudy.php) WR-DEN
 69. [George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php) WR-PIT
 70. [James Conner](https://www.fantasypros.com/nfl/players/james-conner.php) RB-ARI
-71. [Cam Akers](https://www.fantasypros.com/nfl/players/cam-akers.php) RB-LAR
+71. [Cam Akers](https://www.fantasypros.com/nfl/players/cam-akers.php) RB-MIN
 72. [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) RB-BUF
 73. [George Kittle](https://www.fantasypros.com/nfl/players/george-kittle.php) TE-SF
 74. [Dallas Goedert](https://www.fantasypros.com/nfl/players/dallas-goedert.php) TE-PHI
@@ -266,7 +266,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 262. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-TB
 263. [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php) K-DEN
 264. [Matt Gay](https://www.fantasypros.com/nfl/players/matt-gay.php) K-IND
-265. [Kareem Hunt](https://www.fantasypros.com/nfl/players/kareem-hunt.php) RB-FA
+265. [Kareem Hunt](https://www.fantasypros.com/nfl/players/kareem-hunt.php) RB-CLE
 266. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-TB
 267. [Deuce Vaughn](https://www.fantasypros.com/nfl/players/deuce-vaughn.php) RB-DAL
 268. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
@@ -328,7 +328,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 324. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-LAR
 325. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
 326. [Jacoby Brissett](https://www.fantasypros.com/nfl/players/jacoby-brissett.php) QB-WAS
-327. [Ronald Jones II](https://www.fantasypros.com/nfl/players/ronald-jones-ii.php) RB-DAL
+327. [Ronald Jones II](https://www.fantasypros.com/nfl/players/ronald-jones-ii.php) RB-FA
 328. [Adam Trautman](https://www.fantasypros.com/nfl/players/adam-trautman.php) TE-DEN
 329. [Nelson Agholor](https://www.fantasypros.com/nfl/players/nelson-agholor.php) WR-BAL
 330. [Eddy Pineiro](https://www.fantasypros.com/nfl/players/eddy-pineiro.php) K-CAR
