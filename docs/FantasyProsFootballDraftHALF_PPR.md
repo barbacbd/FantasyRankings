@@ -241,7 +241,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 237. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-JAC
 238. [Jason Myers](https://www.fantasypros.com/nfl/players/jason-myers.php) K-SEA
 239. [Jake Elliott](https://www.fantasypros.com/nfl/players/jake-elliott.php) K-PHI
-240. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-IND
+240. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-CLE
 241. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-ARI
 242. [Kyler Murray](https://www.fantasypros.com/nfl/players/kyler-murray.php) QB-ARI
 243. [Green Bay Packers](https://www.fantasypros.com/nfl/players/green-bay-defense.php) DST-GB

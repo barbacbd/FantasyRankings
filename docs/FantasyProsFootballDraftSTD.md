@@ -247,7 +247,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 243. [Greg Joseph](https://www.fantasypros.com/nfl/players/greg-joseph.php) K-MIN
 244. [Sean Tucker](https://www.fantasypros.com/nfl/players/sean-tucker.php) RB-TB
 245. [Greg Zuerlein](https://www.fantasypros.com/nfl/players/greg-zuerlein.php) K-NYJ
-246. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-IND
+246. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-CLE
 247. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-TB
 248. [Trey McBride](https://www.fantasypros.com/nfl/players/trey-mcbride.php) TE-ARI
 249. [Jacksonville Jaguars](https://www.fantasypros.com/nfl/players/jacksonville-defense.php) DST-JAC
