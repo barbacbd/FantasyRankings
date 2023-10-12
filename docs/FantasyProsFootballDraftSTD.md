@@ -147,7 +147,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 143. [Zay Jones](https://www.fantasypros.com/nfl/players/zay-jones.php) WR-JAC
 144. [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-CAR
 145. [Michael Gallup](https://www.fantasypros.com/nfl/players/michael-gallup.php) WR-DAL
-146. [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) WR-LAR
+146. [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) WR-ATL
 147. [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) TE-CHI
 148. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-NO
 149. [Kenny Pickett](https://www.fantasypros.com/nfl/players/kenny-pickett.php) QB-PIT
@@ -207,7 +207,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 203. [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) WR-LV
 204. [Jalin Hyatt](https://www.fantasypros.com/nfl/players/jalin-hyatt.php) WR-NYG
 205. [Ty Chandler](https://www.fantasypros.com/nfl/players/ty-chandler.php) RB-MIN
-206. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-CHI
+206. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-MIA
 207. [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) RB-ATL
 208. [Younghoe Koo](https://www.fantasypros.com/nfl/players/younghoe-koo.php) K-ATL
 209. [Joshua Palmer](https://www.fantasypros.com/nfl/players/josh-palmer.php) WR-LAC

@@ -150,7 +150,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 146. [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) RB-HOU
 147. [Rondale Moore](https://www.fantasypros.com/nfl/players/rondale-moore.php) WR-ARI
 148. [Michael Gallup](https://www.fantasypros.com/nfl/players/michael-gallup.php) WR-DAL
-149. [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) WR-LAR
+149. [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) WR-ATL
 150. [Sam LaPorta](https://www.fantasypros.com/nfl/players/sam-laporta.php) TE-DET
 151. [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-CAR
 152. [Roschon Johnson](https://www.fantasypros.com/nfl/players/roschon-johnson.php) RB-CHI
@@ -208,7 +208,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 204. [Baltimore Ravens](https://www.fantasypros.com/nfl/players/baltimore-defense.php) DST-BAL
 205. [Jake Ferguson](https://www.fantasypros.com/nfl/players/jake-ferguson.php) TE-DAL
 206. [Evan McPherson](https://www.fantasypros.com/nfl/players/evan-mcpherson.php) K-CIN
-207. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-CHI
+207. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-MIA
 208. [Daniel Carlson](https://www.fantasypros.com/nfl/players/daniel-carlson.php) K-LV
 209. [Trey McBride](https://www.fantasypros.com/nfl/players/trey-mcbride.php) TE-ARI
 210. [Denver Broncos](https://www.fantasypros.com/nfl/players/denver-defense.php) DST-DEN

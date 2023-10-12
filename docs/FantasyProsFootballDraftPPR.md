@@ -143,7 +143,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 139. [Dalton Kincaid](https://www.fantasypros.com/nfl/players/dalton-kincaid.php) TE-BUF
 140. [Tyler Allgeier](https://www.fantasypros.com/nfl/players/tyler-allgeier.php) RB-ATL
 141. [Michael Gallup](https://www.fantasypros.com/nfl/players/michael-gallup.php) WR-DAL
-142. [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) WR-LAR
+142. [Van Jefferson](https://www.fantasypros.com/nfl/players/van-jefferson.php) WR-ATL
 143. [Ezekiel Elliott](https://www.fantasypros.com/nfl/players/ezekiel-elliott.php) RB-NE
 144. [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) WR-DET
 145. [Gerald Everett](https://www.fantasypros.com/nfl/players/gerald-everett.php) TE-LAC
@@ -199,7 +199,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 195. [Baltimore Ravens](https://www.fantasypros.com/nfl/players/baltimore-defense.php) DST-BAL
 196. [Daniel Carlson](https://www.fantasypros.com/nfl/players/daniel-carlson.php) K-LV
 197. [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) RB-CHI
-198. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-CHI
+198. [Chase Claypool](https://www.fantasypros.com/nfl/players/chase-claypool.php) WR-MIA
 199. [Wan'Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php) WR-NYG
 200. [Gus Edwards](https://www.fantasypros.com/nfl/players/gus-edwards.php) RB-BAL
 201. [Clyde Edwards-Helaire](https://www.fantasypros.com/nfl/players/clyde-edwards-helaire.php) RB-KC
