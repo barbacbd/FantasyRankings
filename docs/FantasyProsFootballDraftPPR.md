@@ -208,7 +208,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 204. [Denver Broncos](https://www.fantasypros.com/nfl/players/denver-defense.php) DST-DEN
 205. [New Orleans Saints](https://www.fantasypros.com/nfl/players/new-orleans-defense.php) DST-NO
 206. [Pittsburgh Steelers](https://www.fantasypros.com/nfl/players/pittsburgh-defense.php) DST-PIT
-207. [Mecole Hardman Jr.](https://www.fantasypros.com/nfl/players/mecole-hardman.php) WR-NYJ
+207. [Mecole Hardman Jr.](https://www.fantasypros.com/nfl/players/mecole-hardman.php) WR-KC
 208. [Kansas City Chiefs](https://www.fantasypros.com/nfl/players/kansas-city-defense.php) DST-KC
 209. [Jimmy Garoppolo](https://www.fantasypros.com/nfl/players/jimmy-garoppolo.php) QB-LV
 210. [C.J. Stroud](https://www.fantasypros.com/nfl/players/cj-stroud.php) QB-HOU
@@ -334,7 +334,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 330. [Eddy Pineiro](https://www.fantasypros.com/nfl/players/eddy-pineiro.php) K-CAR
 331. [Kyle Philips](https://www.fantasypros.com/nfl/players/kyle-philips.php) WR-TEN
 332. [Trayveon Williams](https://www.fantasypros.com/nfl/players/trayveon-williams.php) RB-CIN
-333. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-MIN
+333. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-LAR
 334. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
 335. [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php) WR-SF
 336. [DeWayne McBride](https://www.fantasypros.com/nfl/players/dewayne-mcbride.php) RB-MIN
@@ -348,7 +348,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 344. [Luke Schoonmaker](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php) TE-DAL
 345. [Calvin Austin III](https://www.fantasypros.com/nfl/players/calvin-austin.php) WR-PIT
 346. [Ben Skowronek](https://www.fantasypros.com/nfl/players/ben-skowronek.php) WR-LAR
-347. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-FA
+347. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-GB
 348. [Noah Gray](https://www.fantasypros.com/nfl/players/noah-gray.php) TE-KC
 349. [Joey Slye](https://www.fantasypros.com/nfl/players/joey-slye.php) K-WAS
 350. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL

@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 10/12/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 10/19/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -24,7 +24,7 @@ All information contained in this file should be utilized with caution as the ra
 12. [Kirill Kaprizov](https://www.fantasypros.com/nhl/adp/kirill-kaprizov.php) LW-MIN
 13. [Nikita Kucherov](https://www.fantasypros.com/nhl/adp/nikita-kucherov.php) RW-TB
 14. [Brady Tkachuk](https://www.fantasypros.com/nhl/adp/brady-tkachuk.php) LW-OTT
-15. [Mitch Marner](https://www.fantasypros.com/nhl/adp/mitchell-marner.php) RW-TOR
+15. [Mitchell Marner](https://www.fantasypros.com/nhl/adp/mitchell-marner.php) RW-TOR
 16. [Elias Pettersson](https://www.fantasypros.com/nhl/adp/elias-pettersson.php) C-VAN
 17. [Igor Shesterkin](https://www.fantasypros.com/nhl/adp/igor-shesterkin.php) G-NYR
 18. [Jake Oettinger](https://www.fantasypros.com/nhl/adp/jake-oettinger.php) G-DAL
@@ -331,7 +331,7 @@ All information contained in this file should be utilized with caution as the ra
  | [Connor McDavid](https://www.fantasypros.com/nhl/adp/connor-mcdavid.php) | [David Pastrnak](https://www.fantasypros.com/nhl/adp/david-pastrnak.php) | [Matthew Tkachuk](https://www.fantasypros.com/nhl/adp/matthew-tkachuk.php) | [Cale Makar](https://www.fantasypros.com/nhl/adp/cale-makar.php) | [Igor Shesterkin](https://www.fantasypros.com/nhl/adp/igor-shesterkin.php)
  | [Leon Draisaitl](https://www.fantasypros.com/nhl/adp/leon-draisaitl.php) | [Mikko Rantanen](https://www.fantasypros.com/nhl/adp/mikko-rantanen.php) | [Jason Robertson](https://www.fantasypros.com/nhl/adp/jason-robertson.php) | [Erik Karlsson](https://www.fantasypros.com/nhl/adp/erik-karlsson.php) | [Jake Oettinger](https://www.fantasypros.com/nhl/adp/jake-oettinger.php)
  | [Nathan MacKinnon](https://www.fantasypros.com/nhl/adp/nathan-mackinnon.php) | [Nikita Kucherov](https://www.fantasypros.com/nhl/adp/nikita-kucherov.php) | [Kirill Kaprizov](https://www.fantasypros.com/nhl/adp/kirill-kaprizov.php) | [Adam Fox](https://www.fantasypros.com/nhl/adp/adam-fox.php) | [Ilya Sorokin](https://www.fantasypros.com/nhl/adp/ilya-sorokin.php)
- | [Auston Matthews](https://www.fantasypros.com/nhl/adp/auston-matthews.php) | [Mitch Marner](https://www.fantasypros.com/nhl/adp/mitchell-marner.php) | [Brady Tkachuk](https://www.fantasypros.com/nhl/adp/brady-tkachuk.php) | [Rasmus Dahlin](https://www.fantasypros.com/nhl/adp/rasmus-dahlin.php) | [Alexandar Georgiev](https://www.fantasypros.com/nhl/adp/alexandar-georgiev.php)
+ | [Auston Matthews](https://www.fantasypros.com/nhl/adp/auston-matthews.php) | [Mitchell Marner](https://www.fantasypros.com/nhl/adp/mitchell-marner.php) | [Brady Tkachuk](https://www.fantasypros.com/nhl/adp/brady-tkachuk.php) | [Rasmus Dahlin](https://www.fantasypros.com/nhl/adp/rasmus-dahlin.php) | [Alexandar Georgiev](https://www.fantasypros.com/nhl/adp/alexandar-georgiev.php)
  | [Jack Hughes](https://www.fantasypros.com/nhl/adp/jack-hughes.php) | [Timo Meier](https://www.fantasypros.com/nhl/adp/timo-meier.php) | [Alex Ovechkin](https://www.fantasypros.com/nhl/adp/alex-ovechkin.php) | [Roman Josi](https://www.fantasypros.com/nhl/adp/roman-josi.php) | [Linus Ullmark](https://www.fantasypros.com/nhl/adp/linus-ullmark.php)
  | [Tage Thompson](https://www.fantasypros.com/nhl/adp/tage-thompson.php) | [William Nylander](https://www.fantasypros.com/nhl/adp/william-nylander.php) | [Kyle Connor](https://www.fantasypros.com/nhl/adp/kyle-connor.php) | [Dougie Hamilton](https://www.fantasypros.com/nhl/adp/dougie-hamilton.php) | [Connor Hellebuyck](https://www.fantasypros.com/nhl/adp/connor-hellebuyck.php)
  | [Elias Pettersson](https://www.fantasypros.com/nhl/adp/elias-pettersson.php) | [Clayton Keller](https://www.fantasypros.com/nhl/adp/clayton-keller.php) | [Artemi Panarin](https://www.fantasypros.com/nhl/adp/artemi-panarin.php) | [Charlie McAvoy](https://www.fantasypros.com/nhl/adp/charlie-mcavoy.php) | [Juuse Saros](https://www.fantasypros.com/nhl/adp/juuse-saros.php)
