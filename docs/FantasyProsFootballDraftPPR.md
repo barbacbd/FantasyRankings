@@ -243,11 +243,11 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 239. [Los Angeles Chargers](https://www.fantasypros.com/nfl/players/san-diego-defense.php) DST-LAC
 240. [Desmond Ridder](https://www.fantasypros.com/nfl/players/desmond-ridder.php) QB-ATL
 241. [Kyren Williams](https://www.fantasypros.com/nfl/players/kyren-williams.php) RB-LAR
-242. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-DET
+242. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-FA
 243. [Mack Hollins](https://www.fantasypros.com/nfl/players/mack-hollins.php) WR-ATL
 244. [Tampa Bay Buccaneers](https://www.fantasypros.com/nfl/players/tampa-bay-defense.php) DST-TB
 245. [Puka Nacua](https://www.fantasypros.com/nfl/players/puka-nacua.php) WR-LAR
-246. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-CLE
+246. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-NYG
 247. [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) WR-DET
 248. [Graham Gano](https://www.fantasypros.com/nfl/players/graham-gano.php) K-NYG
 249. [Greg Joseph](https://www.fantasypros.com/nfl/players/greg-joseph.php) K-MIN
@@ -325,7 +325,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 321. [Daniel Bellinger](https://www.fantasypros.com/nfl/players/daniel-bellinger.php) TE-NYG
 322. [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) DST-MIN
 323. [Randall Cobb](https://www.fantasypros.com/nfl/players/randall-cobb.php) WR-NYJ
-324. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-LAR
+324. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-FA
 325. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
 326. [Jacoby Brissett](https://www.fantasypros.com/nfl/players/jacoby-brissett.php) QB-WAS
 327. [Ronald Jones II](https://www.fantasypros.com/nfl/players/ronald-jones-ii.php) RB-FA

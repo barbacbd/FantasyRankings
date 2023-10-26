@@ -241,7 +241,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 237. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-JAC
 238. [Jason Myers](https://www.fantasypros.com/nfl/players/jason-myers.php) K-SEA
 239. [Jake Elliott](https://www.fantasypros.com/nfl/players/jake-elliott.php) K-PHI
-240. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-CLE
+240. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-NYG
 241. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-ARI
 242. [Kyler Murray](https://www.fantasypros.com/nfl/players/kyler-murray.php) QB-ARI
 243. [Green Bay Packers](https://www.fantasypros.com/nfl/players/green-bay-defense.php) DST-GB
@@ -265,7 +265,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 261. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
 262. [Mack Hollins](https://www.fantasypros.com/nfl/players/mack-hollins.php) WR-ATL
 263. [Chase Brown](https://www.fantasypros.com/nfl/players/chase-brown.php) RB-CIN
-264. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-DET
+264. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-FA
 265. [Puka Nacua](https://www.fantasypros.com/nfl/players/puka-nacua.php) WR-LAR
 266. [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php) K-DEN
 267. [Michael Wilson](https://www.fantasypros.com/nfl/players/michael-wilson.php) WR-ARI
@@ -327,7 +327,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 323. [Deonte Harty](https://www.fantasypros.com/nfl/players/deonte-harty.php) WR-BUF
 324. [Greg Dortch](https://www.fantasypros.com/nfl/players/greg-dortch.php) WR-ARI
 325. [Trey Palmer](https://www.fantasypros.com/nfl/players/trey-palmer.php) WR-TB
-326. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-LAR
+326. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-FA
 327. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-LAR
 328. [Eric Gray](https://www.fantasypros.com/nfl/players/eric-gray.php) RB-NYG
 329. [Adam Trautman](https://www.fantasypros.com/nfl/players/adam-trautman.php) TE-DEN

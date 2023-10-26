@@ -247,7 +247,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 243. [Greg Joseph](https://www.fantasypros.com/nfl/players/greg-joseph.php) K-MIN
 244. [Sean Tucker](https://www.fantasypros.com/nfl/players/sean-tucker.php) RB-TB
 245. [Greg Zuerlein](https://www.fantasypros.com/nfl/players/greg-zuerlein.php) K-NYJ
-246. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-CLE
+246. [Deon Jackson](https://www.fantasypros.com/nfl/players/deon-jackson.php) RB-NYG
 247. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-TB
 248. [Trey McBride](https://www.fantasypros.com/nfl/players/trey-mcbride.php) TE-ARI
 249. [Jacksonville Jaguars](https://www.fantasypros.com/nfl/players/jacksonville-defense.php) DST-JAC
@@ -260,7 +260,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 256. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
 257. [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php) K-DEN
 258. [Michael Mayer](https://www.fantasypros.com/nfl/players/michael-mayer.php) TE-LV
-259. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-DET
+259. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-FA
 260. [Richie James Jr.](https://www.fantasypros.com/nfl/players/richie-james.php) WR-KC
 261. [Pierre Strong Jr.](https://www.fantasypros.com/nfl/players/pierre-strong-jr.php) RB-CLE
 262. [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) WR-DET
@@ -328,7 +328,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 324. [Trayveon Williams](https://www.fantasypros.com/nfl/players/trayveon-williams.php) RB-CIN
 325. [Trey Palmer](https://www.fantasypros.com/nfl/players/trey-palmer.php) WR-TB
 326. [Greg Dortch](https://www.fantasypros.com/nfl/players/greg-dortch.php) WR-ARI
-327. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-LAR
+327. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-FA
 328. [Zonovan Knight](https://www.fantasypros.com/nfl/players/zonovan-bam-knight.php) RB-DET
 329. [David Bell](https://www.fantasypros.com/nfl/players/david-bell.php) WR-CLE
 330. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-LAR
