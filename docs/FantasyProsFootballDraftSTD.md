@@ -159,7 +159,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 155. [Gerald Everett](https://www.fantasypros.com/nfl/players/gerald-everett.php) TE-LAC
 156. [Jordan Love](https://www.fantasypros.com/nfl/players/jordan-love.php) QB-GB
 157. [Brock Purdy](https://www.fantasypros.com/nfl/players/brock-purdy.php) QB-SF
-158. [Donovan Peoples-Jones](https://www.fantasypros.com/nfl/players/donovan-peoples-jones.php) WR-CLE
+158. [Donovan Peoples-Jones](https://www.fantasypros.com/nfl/players/donovan-peoples-jones.php) WR-DET
 159. [San Francisco 49ers](https://www.fantasypros.com/nfl/players/san-francisco-defense.php) DST-SF
 160. [Matthew Stafford](https://www.fantasypros.com/nfl/players/matthew-stafford.php) QB-LAR
 161. [Marvin Mims Jr.](https://www.fantasypros.com/nfl/players/marvin-mims.php) WR-DEN
@@ -267,7 +267,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 263. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-ARI
 264. [Puka Nacua](https://www.fantasypros.com/nfl/players/puka-nacua.php) WR-LAR
 265. [Tyquan Thornton](https://www.fantasypros.com/nfl/players/tyquan-thornton.php) WR-NE
-266. [Leonard Fournette](https://www.fantasypros.com/nfl/players/leonard-fournette.php) RB-FA
+266. [Leonard Fournette](https://www.fantasypros.com/nfl/players/leonard-fournette.php) RB-BUF
 267. [Mack Hollins](https://www.fantasypros.com/nfl/players/mack-hollins.php) WR-ATL
 268. [Nick Folk](https://www.fantasypros.com/nfl/players/nick-folk.php) K-TEN
 269. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-ARI
@@ -345,7 +345,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 341. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL
 342. [Kyle Philips](https://www.fantasypros.com/nfl/players/kyle-philips.php) WR-TEN
 343. [Michael Badgley](https://www.fantasypros.com/nfl/players/michael-badgley.php) K-DET
-344. [Joshua Dobbs](https://www.fantasypros.com/nfl/players/joshua-dobbs.php) QB-ARI
+344. [Joshua Dobbs](https://www.fantasypros.com/nfl/players/joshua-dobbs.php) QB-MIN
 345. [Joey Slye](https://www.fantasypros.com/nfl/players/joey-slye.php) K-WAS
 346. [Justice Hill](https://www.fantasypros.com/nfl/players/justice-hill.php) RB-BAL
 347. [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php) WR-SF

@@ -154,7 +154,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 150. [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) RB-HOU
 151. [Marvin Mims Jr.](https://www.fantasypros.com/nfl/players/marvin-mims.php) WR-DEN
 152. [Jonathan Mingo](https://www.fantasypros.com/nfl/players/jonathan-mingo.php) WR-CAR
-153. [Donovan Peoples-Jones](https://www.fantasypros.com/nfl/players/donovan-peoples-jones.php) WR-CLE
+153. [Donovan Peoples-Jones](https://www.fantasypros.com/nfl/players/donovan-peoples-jones.php) WR-DET
 154. [Jordan Love](https://www.fantasypros.com/nfl/players/jordan-love.php) QB-GB
 155. [K.J. Osborn](https://www.fantasypros.com/nfl/players/kj-osborn.php) WR-MIN
 156. [Juwan Johnson](https://www.fantasypros.com/nfl/players/juwan-johnson.php) TE-NO
@@ -276,7 +276,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 272. [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) TE-NO
 273. [Chase Brown](https://www.fantasypros.com/nfl/players/chase-brown.php) RB-CIN
 274. [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) DST-IND
-275. [Leonard Fournette](https://www.fantasypros.com/nfl/players/leonard-fournette.php) RB-FA
+275. [Leonard Fournette](https://www.fantasypros.com/nfl/players/leonard-fournette.php) RB-BUF
 276. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
 277. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-ARI
 278. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
@@ -342,7 +342,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 338. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-SF
 339. [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) WR-HOU
 340. [Zonovan Knight](https://www.fantasypros.com/nfl/players/zonovan-bam-knight.php) RB-DET
-341. [Joshua Dobbs](https://www.fantasypros.com/nfl/players/joshua-dobbs.php) QB-ARI
+341. [Joshua Dobbs](https://www.fantasypros.com/nfl/players/joshua-dobbs.php) QB-MIN
 342. [DeeJay Dallas](https://www.fantasypros.com/nfl/players/deejay-dallas.php) RB-SEA
 343. [Kyle Trask](https://www.fantasypros.com/nfl/players/kyle-trask.php) QB-TB
 344. [Luke Schoonmaker](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php) TE-DAL
