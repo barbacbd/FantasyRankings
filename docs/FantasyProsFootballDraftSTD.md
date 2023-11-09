@@ -331,7 +331,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 327. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-FA
 328. [Zonovan Knight](https://www.fantasypros.com/nfl/players/zonovan-bam-knight.php) RB-DET
 329. [David Bell](https://www.fantasypros.com/nfl/players/david-bell.php) WR-CLE
-330. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-LAR
+330. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-FA
 331. [Eddy Pineiro](https://www.fantasypros.com/nfl/players/eddy-pineiro.php) K-CAR
 332. [Ke'Shawn Vaughn](https://www.fantasypros.com/nfl/players/keshawn-vaughn.php) RB-TB
 333. [DeWayne McBride](https://www.fantasypros.com/nfl/players/dewayne-mcbride.php) RB-MIN
@@ -340,7 +340,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 336. [Adam Trautman](https://www.fantasypros.com/nfl/players/adam-trautman.php) TE-DEN
 337. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
 338. [Randall Cobb](https://www.fantasypros.com/nfl/players/randall-cobb.php) WR-NYJ
-339. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-GB
+339. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-FA
 340. [DeeJay Dallas](https://www.fantasypros.com/nfl/players/deejay-dallas.php) RB-SEA
 341. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL
 342. [Kyle Philips](https://www.fantasypros.com/nfl/players/kyle-philips.php) WR-TEN
@@ -351,7 +351,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 347. [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php) WR-SF
 348. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-BAL
 349. [Luke Schoonmaker](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php) TE-DAL
-350. [Cade York](https://www.fantasypros.com/nfl/players/cade-york.php) K-TEN
+350. [Cade York](https://www.fantasypros.com/nfl/players/cade-york.php) K-NYG
 
 
 ## Position Ranks
