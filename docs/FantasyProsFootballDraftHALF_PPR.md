@@ -262,7 +262,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 258. [Jacksonville Jaguars](https://www.fantasypros.com/nfl/players/jacksonville-defense.php) DST-JAC
 259. [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) WR-DET
 260. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
-261. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
+261. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-ARI
 262. [Mack Hollins](https://www.fantasypros.com/nfl/players/mack-hollins.php) WR-ATL
 263. [Chase Brown](https://www.fantasypros.com/nfl/players/chase-brown.php) RB-CIN
 264. [Marvin Jones Jr.](https://www.fantasypros.com/nfl/players/marvin-jones.php) WR-FA
@@ -312,7 +312,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 308. [Nick Westbrook-Ikhine](https://www.fantasypros.com/nfl/players/nick-westbrook.php) WR-TEN
 309. [Ka'imi Fairbairn](https://www.fantasypros.com/nfl/players/kaimi-fairbairn.php) K-HOU
 310. [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) DST-MIN
-311. [JaMycal Hasty](https://www.fantasypros.com/nfl/players/jamycal-hasty.php) RB-JAC
+311. [JaMycal Hasty](https://www.fantasypros.com/nfl/players/jamycal-hasty.php) RB-NE
 312. [Rico Dowdle](https://www.fantasypros.com/nfl/players/rico-dowdle.php) RB-DAL
 313. [D'Ernest Johnson](https://www.fantasypros.com/nfl/players/dernest-johnson.php) RB-JAC
 314. [Tutu Atwell](https://www.fantasypros.com/nfl/players/tutu-atwell.php) WR-LAR
@@ -328,7 +328,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 324. [Greg Dortch](https://www.fantasypros.com/nfl/players/greg-dortch.php) WR-ARI
 325. [Trey Palmer](https://www.fantasypros.com/nfl/players/trey-palmer.php) WR-TB
 326. [Brett Maher](https://www.fantasypros.com/nfl/players/brett-maher.php) K-FA
-327. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-FA
+327. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-MIN
 328. [Eric Gray](https://www.fantasypros.com/nfl/players/eric-gray.php) RB-NYG
 329. [Adam Trautman](https://www.fantasypros.com/nfl/players/adam-trautman.php) TE-DEN
 330. [Jacoby Brissett](https://www.fantasypros.com/nfl/players/jacoby-brissett.php) QB-WAS

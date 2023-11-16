@@ -269,7 +269,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 265. [Kareem Hunt](https://www.fantasypros.com/nfl/players/kareem-hunt.php) RB-CLE
 266. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-TB
 267. [Deuce Vaughn](https://www.fantasypros.com/nfl/players/deuce-vaughn.php) RB-DAL
-268. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-NYJ
+268. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-ARI
 269. [Sean Tucker](https://www.fantasypros.com/nfl/players/sean-tucker.php) RB-TB
 270. [Khalil Shakir](https://www.fantasypros.com/nfl/players/khalil-shakir.php) WR-BUF
 271. [Nick Folk](https://www.fantasypros.com/nfl/players/nick-folk.php) K-TEN
@@ -313,7 +313,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 309. [Ka'imi Fairbairn](https://www.fantasypros.com/nfl/players/kaimi-fairbairn.php) K-HOU
 310. [Devin Duvernay](https://www.fantasypros.com/nfl/players/devin-duvernay.php) WR-BAL
 311. [Greg Dortch](https://www.fantasypros.com/nfl/players/greg-dortch.php) WR-ARI
-312. [JaMycal Hasty](https://www.fantasypros.com/nfl/players/jamycal-hasty.php) RB-JAC
+312. [JaMycal Hasty](https://www.fantasypros.com/nfl/players/jamycal-hasty.php) RB-NE
 313. [Austin Hooper](https://www.fantasypros.com/nfl/players/austin-hooper.php) TE-LV
 314. [Deonte Harty](https://www.fantasypros.com/nfl/players/deonte-harty.php) WR-BUF
 315. [Trey Palmer](https://www.fantasypros.com/nfl/players/trey-palmer.php) WR-TB
@@ -334,7 +334,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 330. [Eddy Pineiro](https://www.fantasypros.com/nfl/players/eddy-pineiro.php) K-CAR
 331. [Kyle Philips](https://www.fantasypros.com/nfl/players/kyle-philips.php) WR-TEN
 332. [Trayveon Williams](https://www.fantasypros.com/nfl/players/trayveon-williams.php) RB-CIN
-333. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-FA
+333. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-MIN
 334. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
 335. [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php) WR-SF
 336. [DeWayne McBride](https://www.fantasypros.com/nfl/players/dewayne-mcbride.php) RB-MIN

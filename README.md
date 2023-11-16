@@ -18,7 +18,7 @@ provide any information that should be taken any further than a simple list of d
 
 ## baseball
 
-- [Fantasy Pros](./docs/FantasyProsBaseballDraft.md)
+
 
 ## basketball
 
