@@ -348,7 +348,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 344. [Luke Schoonmaker](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php) TE-DAL
 345. [Calvin Austin III](https://www.fantasypros.com/nfl/players/calvin-austin.php) WR-PIT
 346. [Ben Skowronek](https://www.fantasypros.com/nfl/players/ben-skowronek.php) WR-LAR
-347. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-FA
+347. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-GB
 348. [Noah Gray](https://www.fantasypros.com/nfl/players/noah-gray.php) TE-KC
 349. [Joey Slye](https://www.fantasypros.com/nfl/players/joey-slye.php) K-WAS
 350. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL

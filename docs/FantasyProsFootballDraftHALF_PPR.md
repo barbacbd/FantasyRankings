@@ -347,7 +347,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 343. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
 344. [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) WR-HOU
 345. [Ke'Shawn Vaughn](https://www.fantasypros.com/nfl/players/keshawn-vaughn.php) RB-TB
-346. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-FA
+346. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-GB
 347. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL
 348. [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) TE-ATL
 349. [Kyle Trask](https://www.fantasypros.com/nfl/players/kyle-trask.php) QB-TB

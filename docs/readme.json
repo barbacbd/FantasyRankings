@@ -13,7 +13,12 @@
         }
     },
     "baseball": {
-        "Fantasy Pros": {}
+        "Fantasy Pros": {
+            "spreadsheets": "FantasyProsBaseballDraft.xlsx",
+            "markdown": {
+                "base": "FantasyProsBaseballDraft.md"
+            }
+        }
     },
     "basketball": {
         "Fantasy Pros": {

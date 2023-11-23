@@ -340,7 +340,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 336. [Adam Trautman](https://www.fantasypros.com/nfl/players/adam-trautman.php) TE-DEN
 337. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
 338. [Randall Cobb](https://www.fantasypros.com/nfl/players/randall-cobb.php) WR-NYJ
-339. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-FA
+339. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-GB
 340. [DeeJay Dallas](https://www.fantasypros.com/nfl/players/deejay-dallas.php) RB-SEA
 341. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL
 342. [Kyle Philips](https://www.fantasypros.com/nfl/players/kyle-philips.php) WR-TEN
@@ -351,7 +351,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 347. [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php) WR-SF
 348. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-BAL
 349. [Luke Schoonmaker](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php) TE-DAL
-350. [Cade York](https://www.fantasypros.com/nfl/players/cade-york.php) K-NYG
+350. [Cade York](https://www.fantasypros.com/nfl/players/cade-york.php) K-FA
 
 
 ## Position Ranks
