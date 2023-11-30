@@ -264,7 +264,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 260. [Richie James Jr.](https://www.fantasypros.com/nfl/players/richie-james.php) WR-KC
 261. [Pierre Strong Jr.](https://www.fantasypros.com/nfl/players/pierre-strong-jr.php) RB-CLE
 262. [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) WR-DET
-263. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-ARI
+263. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-FA
 264. [Puka Nacua](https://www.fantasypros.com/nfl/players/puka-nacua.php) WR-LAR
 265. [Tyquan Thornton](https://www.fantasypros.com/nfl/players/tyquan-thornton.php) WR-NE
 266. [Leonard Fournette](https://www.fantasypros.com/nfl/players/leonard-fournette.php) RB-BUF
@@ -351,7 +351,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 347. [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php) WR-SF
 348. [Melvin Gordon III](https://www.fantasypros.com/nfl/players/melvin-gordon.php) RB-BAL
 349. [Luke Schoonmaker](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php) TE-DAL
-350. [Cade York](https://www.fantasypros.com/nfl/players/cade-york.php) K-FA
+350. [Cade York](https://www.fantasypros.com/nfl/players/cade-york.php) K-NYG
 
 
 ## Position Ranks

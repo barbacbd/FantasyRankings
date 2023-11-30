@@ -272,7 +272,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 268. [Kendrick Bourne](https://www.fantasypros.com/nfl/players/kendrick-bourne.php) WR-NE
 269. [Matt Gay](https://www.fantasypros.com/nfl/players/matt-gay.php) K-IND
 270. [Pierre Strong Jr.](https://www.fantasypros.com/nfl/players/pierre-strong-jr.php) RB-CLE
-271. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-ARI
+271. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-FA
 272. [Tyquan Thornton](https://www.fantasypros.com/nfl/players/tyquan-thornton.php) WR-NE
 273. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-TB
 274. [Leonard Fournette](https://www.fantasypros.com/nfl/players/leonard-fournette.php) RB-BUF

@@ -278,7 +278,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 274. [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) DST-IND
 275. [Leonard Fournette](https://www.fantasypros.com/nfl/players/leonard-fournette.php) RB-BUF
 276. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
-277. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-ARI
+277. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-FA
 278. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
 279. [Riley Patterson](https://www.fantasypros.com/nfl/players/riley-patterson.php) K-DET
 280. [Seattle Seahawks](https://www.fantasypros.com/nfl/players/seattle-defense.php) DST-SEA

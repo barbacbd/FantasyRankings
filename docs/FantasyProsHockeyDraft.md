@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 11/23/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 11/30/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -184,7 +184,7 @@ All information contained in this file should be utilized with caution as the ra
 172. [Max Domi](https://www.fantasypros.com/nhl/adp/max-domi.php) C-TOR
 173. [Matt Duchene](https://www.fantasypros.com/nhl/adp/matt-duchene.php) C-DAL
 174. [MacKenzie Weegar](https://www.fantasypros.com/nhl/adp/mackenzie-weegar.php) D-CGY
-175. [Patrick Kane](https://www.fantasypros.com/nhl/adp/patrick-kane.php) RW-NYR
+175. [Patrick Kane](https://www.fantasypros.com/nhl/adp/patrick-kane.php) RW-DET
 176. [Owen Tippett](https://www.fantasypros.com/nhl/adp/owen-tippett.php) RW-PHI
 177. [Filip Hronek](https://www.fantasypros.com/nhl/adp/filip-hronek.php) D-VAN
 178. [John Klingberg](https://www.fantasypros.com/nhl/adp/john-klingberg.php) D-TOR
@@ -286,7 +286,7 @@ All information contained in this file should be utilized with caution as the ra
 274. [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) LW-TB
 275. [Kaapo Kakko](https://www.fantasypros.com/nhl/adp/kaapo-kakko.php) RW-NYR
 276. [Oliver Ekman-Larsson](https://www.fantasypros.com/nhl/adp/oliver-ekman-larsson.php) D-FLA
-277. [Anthony Beauvillier](https://www.fantasypros.com/nhl/adp/anthony-beauvillier.php) LW-VAN
+277. [Anthony Beauvillier](https://www.fantasypros.com/nhl/adp/anthony-beauvillier.php) LW-CHI
 278. [Kaapo Kahkonen](https://www.fantasypros.com/nhl/adp/kaapo-kahkonen.php) G-SJ
 279. [Casey Mittelstadt](https://www.fantasypros.com/nhl/adp/casey-mittelstadt.php) C-BUF
 280. [Yanni Gourde](https://www.fantasypros.com/nhl/adp/yanni-gourde.php) C-SEA
