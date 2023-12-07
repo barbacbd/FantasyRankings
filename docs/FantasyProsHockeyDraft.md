@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 11/30/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 12/7/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -301,7 +301,7 @@ All information contained in this file should be utilized with caution as the ra
 289. [Boone Jenner](https://www.fantasypros.com/nhl/adp/boone-jenner.php) C-CBJ
 290. [Michael Matheson](https://www.fantasypros.com/nhl/adp/michael-matheson.php) D-MTL
 291. [Wyatt Johnston](https://www.fantasypros.com/nhl/adp/wyatt-johnston.php) C-DAL
-292. [Nikita Zadorov](https://www.fantasypros.com/nhl/adp/nikita-zadorov.php) D-CGY
+292. [Nikita Zadorov](https://www.fantasypros.com/nhl/adp/nikita-zadorov.php) D-VAN
 293. [Ryan O'Reilly](https://www.fantasypros.com/nhl/adp/ryan-oreilly.php) C-NSH
 294. [Andre Burakovsky](https://www.fantasypros.com/nhl/adp/andre-burakovsky.php) LW-SEA
 295. [Dominik Kubalik](https://www.fantasypros.com/nhl/adp/dominik-kubalik.php) LW-OTT

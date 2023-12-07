@@ -252,7 +252,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 248. [Graham Gano](https://www.fantasypros.com/nfl/players/graham-gano.php) K-NYG
 249. [Greg Joseph](https://www.fantasypros.com/nfl/players/greg-joseph.php) K-MIN
 250. [Michael Mayer](https://www.fantasypros.com/nfl/players/michael-mayer.php) TE-LV
-251. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-ARI
+251. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-FA
 252. [Greg Zuerlein](https://www.fantasypros.com/nfl/players/greg-zuerlein.php) K-NYJ
 253. [Evan Hull](https://www.fantasypros.com/nfl/players/evan-hull.php) RB-IND
 254. [Michael Wilson](https://www.fantasypros.com/nfl/players/michael-wilson.php) WR-ARI
@@ -278,7 +278,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 274. [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) DST-IND
 275. [Leonard Fournette](https://www.fantasypros.com/nfl/players/leonard-fournette.php) RB-BUF
 276. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
-277. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-FA
+277. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-KC
 278. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
 279. [Riley Patterson](https://www.fantasypros.com/nfl/players/riley-patterson.php) K-DET
 280. [Seattle Seahawks](https://www.fantasypros.com/nfl/players/seattle-defense.php) DST-SEA
@@ -339,7 +339,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 335. [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php) WR-SF
 336. [DeWayne McBride](https://www.fantasypros.com/nfl/players/dewayne-mcbride.php) RB-MIN
 337. [Eric Gray](https://www.fantasypros.com/nfl/players/eric-gray.php) RB-NYG
-338. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-SF
+338. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-FA
 339. [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) WR-HOU
 340. [Zonovan Knight](https://www.fantasypros.com/nfl/players/zonovan-bam-knight.php) RB-DET
 341. [Joshua Dobbs](https://www.fantasypros.com/nfl/players/joshua-dobbs.php) QB-MIN
@@ -348,7 +348,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 344. [Luke Schoonmaker](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php) TE-DAL
 345. [Calvin Austin III](https://www.fantasypros.com/nfl/players/calvin-austin.php) WR-PIT
 346. [Ben Skowronek](https://www.fantasypros.com/nfl/players/ben-skowronek.php) WR-LAR
-347. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-GB
+347. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-FA
 348. [Noah Gray](https://www.fantasypros.com/nfl/players/noah-gray.php) TE-KC
 349. [Joey Slye](https://www.fantasypros.com/nfl/players/joey-slye.php) K-WAS
 350. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL
