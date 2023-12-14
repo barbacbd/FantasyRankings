@@ -321,7 +321,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 317. [Devin Duvernay](https://www.fantasypros.com/nfl/players/devin-duvernay.php) WR-BAL
 318. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
 319. [Daniel Bellinger](https://www.fantasypros.com/nfl/players/daniel-bellinger.php) TE-NYG
-320. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-FA
+320. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-SF
 321. [Trayveon Williams](https://www.fantasypros.com/nfl/players/trayveon-williams.php) RB-CIN
 322. [Ronald Jones II](https://www.fantasypros.com/nfl/players/ronald-jones-ii.php) RB-FA
 323. [Deonte Harty](https://www.fantasypros.com/nfl/players/deonte-harty.php) WR-BUF
@@ -347,7 +347,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 343. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
 344. [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) WR-HOU
 345. [Ke'Shawn Vaughn](https://www.fantasypros.com/nfl/players/keshawn-vaughn.php) RB-TB
-346. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-FA
+346. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-NO
 347. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL
 348. [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) TE-ATL
 349. [Kyle Trask](https://www.fantasypros.com/nfl/players/kyle-trask.php) QB-TB

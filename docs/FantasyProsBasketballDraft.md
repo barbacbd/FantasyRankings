@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 12/7/2023.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 12/14/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -462,7 +462,7 @@ All information contained in this file should be utilized with caution as the ra
 450. [Jett Howard](https://www.fantasypros.com/nba/players/jett-howard.php?week=draft) SF,SG-ORL
 451. [Jericho Sims](https://www.fantasypros.com/nba/players/jericho-sims.php?week=draft) C,PF-NYK
 452. [Joe Wieskamp](https://www.fantasypros.com/nba/players/joe-wieskamp.php?week=draft) SG,SF-DAL
-453. [John Butler Jr.](https://www.fantasypros.com/nba/players/john-butler-jr.php?week=draft) F-WAS
+453. [John Butler Jr.](https://www.fantasypros.com/nba/players/john-butler-jr.php?week=draft) F-FA
 454. [Johnny Juzang](https://www.fantasypros.com/nba/players/johnny-juzang.php?week=draft) SF,SG-UTH
 455. [Jordan McLaughlin](https://www.fantasypros.com/nba/players/jordan-mclaughlin.php?week=draft) PG-MIN
 456. [Jordan Miller](https://www.fantasypros.com/nba/players/jordan-miller.php?week=draft) SF-LAC
@@ -522,7 +522,7 @@ All information contained in this file should be utilized with caution as the ra
 510. [Raul Neto](https://www.fantasypros.com/nba/players/raul-neto.php?week=draft) PG-FA
 511. [Rayan Rupert](https://www.fantasypros.com/nba/players/rayan-rupert.php?week=draft) SF,SG-POR
 512. [Rodney McGruder](https://www.fantasypros.com/nba/players/rodney-mcgruder.php?week=draft) SG,SF-FA
-513. [Ron Harper Jr.](https://www.fantasypros.com/nba/players/ron-harper-jr-f.php?week=draft) SF-TOR
+513. [Ron Harper Jr.](https://www.fantasypros.com/nba/players/ron-harper-jr-f.php?week=draft) SF-FA
 514. [Rudy Gay](https://www.fantasypros.com/nba/players/rudy-gay.php?week=draft) PF,SF-FA
 515. [Ryan Arcidiacono](https://www.fantasypros.com/nba/players/ryan-arcidiacono.php?week=draft) PG-NYK
 516. [Ryan Rollins](https://www.fantasypros.com/nba/players/ryan-rollins.php?week=draft) PG,SG-WAS

@@ -317,7 +317,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 313. [JaMycal Hasty](https://www.fantasypros.com/nfl/players/jamycal-hasty.php) RB-NE
 314. [Kayshon Boutte](https://www.fantasypros.com/nfl/players/kayshon-boutte.php) WR-NE
 315. [Tutu Atwell](https://www.fantasypros.com/nfl/players/tutu-atwell.php) WR-LAR
-316. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-FA
+316. [Tyrion Davis-Price](https://www.fantasypros.com/nfl/players/tyrion-davis-price.php) RB-SF
 317. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
 318. [Ronald Jones II](https://www.fantasypros.com/nfl/players/ronald-jones-ii.php) RB-FA
 319. [Austin Hooper](https://www.fantasypros.com/nfl/players/austin-hooper.php) TE-LV
@@ -340,7 +340,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 336. [Adam Trautman](https://www.fantasypros.com/nfl/players/adam-trautman.php) TE-DEN
 337. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
 338. [Randall Cobb](https://www.fantasypros.com/nfl/players/randall-cobb.php) WR-NYJ
-339. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-FA
+339. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-NO
 340. [DeeJay Dallas](https://www.fantasypros.com/nfl/players/deejay-dallas.php) RB-SEA
 341. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL
 342. [Kyle Philips](https://www.fantasypros.com/nfl/players/kyle-philips.php) WR-TEN
