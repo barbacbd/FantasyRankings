@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 12/14/2023.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 12/21/2023.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -266,7 +266,7 @@ All information contained in this file should be utilized with caution as the ra
 254. [Pheonix Copley](https://www.fantasypros.com/nhl/adp/pheonix-copley.php) G-LA
 255. [Jonathan Drouin](https://www.fantasypros.com/nhl/adp/jonathan-drouin.php) LW-COL
 256. [Ukko-Pekka Luukkonen](https://www.fantasypros.com/nhl/adp/ukko-pekka-luukkonen.php) G-BUF
-257. [Tomas Tatar](https://www.fantasypros.com/nhl/adp/tomas-tatar.php) LW-COL
+257. [Tomas Tatar](https://www.fantasypros.com/nhl/adp/tomas-tatar.php) LW-SEA
 258. [Mikael Backlund](https://www.fantasypros.com/nhl/adp/mikael-backlund.php) C-CGY
 259. [John Gibson](https://www.fantasypros.com/nhl/adp/john-gibson.php) G-ANA
 260. [Esa Lindell](https://www.fantasypros.com/nhl/adp/esa-lindell.php) D-DAL

@@ -281,7 +281,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 277. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-TB
 278. [Khalil Shakir](https://www.fantasypros.com/nfl/players/khalil-shakir.php) WR-BUF
 279. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
-280. [Riley Patterson](https://www.fantasypros.com/nfl/players/riley-patterson.php) K-DET
+280. [Riley Patterson](https://www.fantasypros.com/nfl/players/riley-patterson.php) K-FA
 281. [Seattle Seahawks](https://www.fantasypros.com/nfl/players/seattle-defense.php) DST-SEA
 282. [Sterling Shepard](https://www.fantasypros.com/nfl/players/sterling-shepard.php) WR-NYG
 283. [Jake Moody](https://www.fantasypros.com/nfl/players/jake-moody.php) K-SF
@@ -333,7 +333,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 329. [David Bell](https://www.fantasypros.com/nfl/players/david-bell.php) WR-CLE
 330. [Myles Gaskin](https://www.fantasypros.com/nfl/players/myles-gaskin.php) RB-MIN
 331. [Eddy Pineiro](https://www.fantasypros.com/nfl/players/eddy-pineiro.php) K-CAR
-332. [Ke'Shawn Vaughn](https://www.fantasypros.com/nfl/players/keshawn-vaughn.php) RB-TB
+332. [Ke'Shawn Vaughn](https://www.fantasypros.com/nfl/players/keshawn-vaughn.php) RB-NE
 333. [DeWayne McBride](https://www.fantasypros.com/nfl/players/dewayne-mcbride.php) RB-MIN
 334. [Jacoby Brissett](https://www.fantasypros.com/nfl/players/jacoby-brissett.php) QB-WAS
 335. [Nelson Agholor](https://www.fantasypros.com/nfl/players/nelson-agholor.php) WR-BAL

@@ -280,7 +280,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 276. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
 277. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-KC
 278. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
-279. [Riley Patterson](https://www.fantasypros.com/nfl/players/riley-patterson.php) K-DET
+279. [Riley Patterson](https://www.fantasypros.com/nfl/players/riley-patterson.php) K-FA
 280. [Seattle Seahawks](https://www.fantasypros.com/nfl/players/seattle-defense.php) DST-SEA
 281. [Jake Moody](https://www.fantasypros.com/nfl/players/jake-moody.php) K-SF
 282. [Justyn Ross](https://www.fantasypros.com/nfl/players/justyn-ross.php) WR-KC

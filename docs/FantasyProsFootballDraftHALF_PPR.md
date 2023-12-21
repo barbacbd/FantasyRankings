@@ -284,7 +284,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 280. [Jelani Woods](https://www.fantasypros.com/nfl/players/jelani-woods.php) TE-IND
 281. [Khalil Shakir](https://www.fantasypros.com/nfl/players/khalil-shakir.php) WR-BUF
 282. [Isaiah Spiller](https://www.fantasypros.com/nfl/players/isaiah-spiller.php) RB-LAC
-283. [Riley Patterson](https://www.fantasypros.com/nfl/players/riley-patterson.php) K-DET
+283. [Riley Patterson](https://www.fantasypros.com/nfl/players/riley-patterson.php) K-FA
 284. [Logan Thomas](https://www.fantasypros.com/nfl/players/logan-thomas.php) TE-WAS
 285. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
 286. [Zach Evans](https://www.fantasypros.com/nfl/players/zach-evans.php) RB-LAR
@@ -346,7 +346,7 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 342. [Michael Badgley](https://www.fantasypros.com/nfl/players/michael-badgley.php) K-DET
 343. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
 344. [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) WR-HOU
-345. [Ke'Shawn Vaughn](https://www.fantasypros.com/nfl/players/keshawn-vaughn.php) RB-TB
+345. [Ke'Shawn Vaughn](https://www.fantasypros.com/nfl/players/keshawn-vaughn.php) RB-NE
 346. [James Robinson](https://www.fantasypros.com/nfl/players/james-robinson.php) RB-NO
 347. [Malik Davis](https://www.fantasypros.com/nfl/players/malik-davis.php) RB-DAL
 348. [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) TE-ATL
