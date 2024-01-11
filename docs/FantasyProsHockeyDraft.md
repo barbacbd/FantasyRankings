@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 1/4/2024.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 1/11/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -292,7 +292,7 @@ All information contained in this file should be utilized with caution as the ra
 280. [Yanni Gourde](https://www.fantasypros.com/nhl/adp/yanni-gourde.php) C-SEA
 281. [James van Riemsdyk](https://www.fantasypros.com/nhl/adp/james-van-riemsdyk.php) LW-BOS
 282. [Seth Jarvis](https://www.fantasypros.com/nhl/adp/seth-jarvis.php) C-CAR
-283. [Jamie Drysdale](https://www.fantasypros.com/nhl/adp/jamie-drysdale.php) D-ANA
+283. [Jamie Drysdale](https://www.fantasypros.com/nhl/adp/jamie-drysdale.php) D-PHI
 284. [Cam Atkinson](https://www.fantasypros.com/nhl/adp/cam-atkinson.php) RW-PHI
 285. [Brayden Schenn](https://www.fantasypros.com/nhl/adp/brayden-schenn.php) C-STL
 286. [Gabriel Vilardi](https://www.fantasypros.com/nhl/adp/gabriel-vilardi.php) C-WPG
