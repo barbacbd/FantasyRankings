@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/18/2024.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 1/25/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -84,8 +84,8 @@ All information contained in this file should be utilized with caution as the ra
 72. [Devin Vassell](https://www.fantasypros.com/nba/players/devin-vassell.php?week=draft) SG,SF-SAS
 73. [Tyus Jones](https://www.fantasypros.com/nba/players/tyus-jones.php?week=draft) PG-WAS
 74. [Derrick White](https://www.fantasypros.com/nba/players/derrick-white.php?week=draft) PG,SG-BOS
-75. [Michael Porter Jr.](https://www.fantasypros.com/nba/players/michael-porter.php?week=draft) SF-DEN
-76. [Terry Rozier](https://www.fantasypros.com/nba/players/terry-rozier.php?week=draft) PG,SG-CHA
+75. [Michael Porter Jr.](https://www.fantasypros.com/nba/players/michael-porter.php?week=draft) PF,SF-DEN
+76. [Terry Rozier](https://www.fantasypros.com/nba/players/terry-rozier.php?week=draft) PG,SG-MIA
 77. [Tobias Harris](https://www.fantasypros.com/nba/players/tobias-harris.php?week=draft) SF,PF-PHI
 78. [Anfernee Simons](https://www.fantasypros.com/nba/players/anfernee-simons.php?week=draft) PG,SG-POR
 79. [Kyle Kuzma](https://www.fantasypros.com/nba/players/kyle-kuzma.php?week=draft) SF,PF-WAS
@@ -154,7 +154,7 @@ All information contained in this file should be utilized with caution as the ra
 142. [Herbert Jones](https://www.fantasypros.com/nba/players/herbert-jones.php?week=draft) PF,SF-NOR
 143. [Bojan Bogdanovic](https://www.fantasypros.com/nba/players/bojan-bogdanovic.php?week=draft) PF,SF,SG-DET
 144. [Keldon Johnson](https://www.fantasypros.com/nba/players/keldon-johnson.php?week=draft) PF,SF,SG-SAS
-145. [Kyle Lowry](https://www.fantasypros.com/nba/players/kyle-lowry.php?week=draft) PG-MIA
+145. [Kyle Lowry](https://www.fantasypros.com/nba/players/kyle-lowry.php?week=draft) PG-CHA
 146. [Jarred Vanderbilt](https://www.fantasypros.com/nba/players/jarred-vanderbilt.php?week=draft) PF-LAL
 147. [Deni Avdija](https://www.fantasypros.com/nba/players/deni-avdija.php?week=draft) PF,SF-WAS
 148. [Dillon Brooks](https://www.fantasypros.com/nba/players/dillon-brooks.php?week=draft) SG,SF-HOU
