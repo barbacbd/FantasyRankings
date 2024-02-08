@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/1/2024.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/8/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -112,10 +112,10 @@ All information contained in this file should be utilized with caution as the ra
 100. [Noah Dobson](https://www.fantasypros.com/nhl/adp/noah-dobson.php) D-NYI
 101. [Devon Toews](https://www.fantasypros.com/nhl/adp/devon-toews.php) D-COL
 102. [Rasmus Andersson](https://www.fantasypros.com/nhl/adp/rasmus-andersson.php) D-CGY
-103. [Andrei Kuzmenko](https://www.fantasypros.com/nhl/adp/andrei-kuzmenko.php) LW-VAN
+103. [Andrei Kuzmenko](https://www.fantasypros.com/nhl/adp/andrei-kuzmenko.php) LW-CGY
 104. [Mark Scheifele](https://www.fantasypros.com/nhl/adp/mark-scheifele.php) C-WPG
 105. [Martin Necas](https://www.fantasypros.com/nhl/adp/martin-necas.php) C-CAR
-106. [Elias Lindholm](https://www.fantasypros.com/nhl/adp/elias-lindholm.php) C-CGY
+106. [Elias Lindholm](https://www.fantasypros.com/nhl/adp/elias-lindholm.php) C-VAN
 107. [Devon Levi](https://www.fantasypros.com/nhl/adp/devon-levi.php) G-BUF
 108. [Dylan Cozens](https://www.fantasypros.com/nhl/adp/dylan-cozens.php) C-BUF
 109. [Thomas Chabot](https://www.fantasypros.com/nhl/adp/thomas-chabot.php) D-OTT
