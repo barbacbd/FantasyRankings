@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/8/2024.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 2/15/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -299,7 +299,7 @@ All information contained in this file should be utilized with caution as the ra
 287. [Alexander Romanov](https://www.fantasypros.com/nhl/adp/alexander-romanov.php) D-NYI
 288. [Joseph Woll](https://www.fantasypros.com/nhl/adp/joseph-woll.php) G-TOR
 289. [Boone Jenner](https://www.fantasypros.com/nhl/adp/boone-jenner.php) C-CBJ
-290. [Michael Matheson](https://www.fantasypros.com/nhl/adp/michael-matheson.php) D-MTL
+290. [Mike Matheson](https://www.fantasypros.com/nhl/adp/michael-matheson.php) D-MTL
 291. [Wyatt Johnston](https://www.fantasypros.com/nhl/adp/wyatt-johnston.php) C-DAL
 292. [Nikita Zadorov](https://www.fantasypros.com/nhl/adp/nikita-zadorov.php) D-VAN
 293. [Ryan O'Reilly](https://www.fantasypros.com/nhl/adp/ryan-oreilly.php) C-NSH
@@ -408,7 +408,7 @@ All information contained in this file should be utilized with caution as the ra
  | [Wyatt Johnston](https://www.fantasypros.com/nhl/adp/wyatt-johnston.php) | - | - | [Oliver Ekman-Larsson](https://www.fantasypros.com/nhl/adp/oliver-ekman-larsson.php) | -
  | [Ryan O'Reilly](https://www.fantasypros.com/nhl/adp/ryan-oreilly.php) | - | - | [Jamie Drysdale](https://www.fantasypros.com/nhl/adp/jamie-drysdale.php) | -
  | [Kirby Dach](https://www.fantasypros.com/nhl/adp/kirby-dach.php) | - | - | [Alexander Romanov](https://www.fantasypros.com/nhl/adp/alexander-romanov.php) | -
- | - | - | - | [Michael Matheson](https://www.fantasypros.com/nhl/adp/michael-matheson.php) | -
+ | - | - | - | [Mike Matheson](https://www.fantasypros.com/nhl/adp/michael-matheson.php) | -
  | - | - | - | [Nikita Zadorov](https://www.fantasypros.com/nhl/adp/nikita-zadorov.php) | -
  | - | - | - | [Samuel Girard](https://www.fantasypros.com/nhl/adp/samuel-girard.php) | -
  | - | - | - | [Jani Hakanpaa](https://www.fantasypros.com/nhl/adp/jani-hakanpaa.php) | -
