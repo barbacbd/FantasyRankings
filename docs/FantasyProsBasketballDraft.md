@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/15/2024.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 2/22/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -28,7 +28,7 @@ All information contained in this file should be utilized with caution as the ra
 16. [Donovan Mitchell](https://www.fantasypros.com/nba/players/donovan-mitchell.php?week=draft) PG,SG-CLE
 17. [Kyrie Irving](https://www.fantasypros.com/nba/players/kyrie-irving.php?week=draft) PG,SG-DAL
 18. [Trae Young](https://www.fantasypros.com/nba/players/trae-young.php?week=draft) PG-ATL
-19. [Mikal Bridges](https://www.fantasypros.com/nba/players/mikal-bridges.php?week=draft) SG,SF-BKN
+19. [Mikal Bridges](https://www.fantasypros.com/nba/players/mikal-bridges.php?week=draft) PF,SF,SG-BKN
 20. [James Harden](https://www.fantasypros.com/nba/players/james-harden.php?week=draft) PG,SG-LAC
 21. [Jaren Jackson Jr.](https://www.fantasypros.com/nba/players/jaren-jackson.php?week=draft) PF,C-MEM
 22. [KarlAnthony Towns](https://www.fantasypros.com/nba/players/karl-anthony-towns.php?week=draft) C,PF-MIN
@@ -172,7 +172,7 @@ All information contained in this file should be utilized with caution as the ra
 160. [Dennis Schroder](https://www.fantasypros.com/nba/players/dennis-schroder.php?week=draft) PG-BKN
 161. [Luguentz Dort](https://www.fantasypros.com/nba/players/luguentz-dort.php?week=draft) SG,SF-OKC
 162. [Richaun Holmes](https://www.fantasypros.com/nba/players/richaun-holmes.php?week=draft) PF,C-WAS
-163. [Josh Richardson](https://www.fantasypros.com/nba/players/josh-richardson.php?week=draft) SF,SG-MIA
+163. [Josh Richardson](https://www.fantasypros.com/nba/players/josh-richardson.php?week=draft) PG,SF,SG-MIA
 164. [Jalen Suggs](https://www.fantasypros.com/nba/players/jalen-suggs.php?week=draft) PG,SG-ORL
 165. [Mason Plumlee](https://www.fantasypros.com/nba/players/mason-plumlee.php?week=draft) C-LAC
 166. [Dorian FinneySmith](https://www.fantasypros.com/nba/players/dorian-finney-smith.php?week=draft) C,PF,SF-BKN
@@ -183,7 +183,7 @@ All information contained in this file should be utilized with caution as the ra
 171. [Kevin Love](https://www.fantasypros.com/nba/players/kevin-love.php?week=draft) PF,C-MIA
 172. [Monte Morris](https://www.fantasypros.com/nba/players/monte-morris.php?week=draft) PG-MIN
 173. [Brandon Miller](https://www.fantasypros.com/nba/players/brandon-miller.php?week=draft) SF,SG-CHA
-174. [Delon Wright](https://www.fantasypros.com/nba/players/delon-wright.php?week=draft) PG,SG-WAS
+174. [Delon Wright](https://www.fantasypros.com/nba/players/delon-wright.php?week=draft) PG,SG-MIA
 175. [Donte DiVincenzo](https://www.fantasypros.com/nba/players/donte-divincenzo.php?week=draft) SF,SG-NYK
 176. [Andre Drummond](https://www.fantasypros.com/nba/players/andre-drummond.php?week=draft) C-CHI
 177. [Rui Hachimura](https://www.fantasypros.com/nba/players/rui-hachimura.php?week=draft) SF,PF-LAL
@@ -202,7 +202,7 @@ All information contained in this file should be utilized with caution as the ra
 190. [Isaiah Hartenstein](https://www.fantasypros.com/nba/players/isaiah-hartenstein.php?week=draft) C,PF-NYK
 191. [Isaiah Jackson](https://www.fantasypros.com/nba/players/isaiah-jackson.php?week=draft) C,PF-IND
 192. [Paul Reed](https://www.fantasypros.com/nba/players/paul-reed.php?week=draft) C,PF-PHI
-193. [Grant Williams](https://www.fantasypros.com/nba/players/grant-williams.php?week=draft) PF-CHA
+193. [Grant Williams](https://www.fantasypros.com/nba/players/grant-williams.php?week=draft) C,PF-CHA
 194. [Amen Thompson](https://www.fantasypros.com/nba/players/amen-thompson.php?week=draft) PG,SF,SG-HOU
 195. [Mo Bamba](https://www.fantasypros.com/nba/players/mohamed-bamba.php?week=draft) C-PHI
 196. [Larry Nance Jr.](https://www.fantasypros.com/nba/players/larry-nance.php?week=draft) PF,C-NOR
@@ -227,7 +227,7 @@ All information contained in this file should be utilized with caution as the ra
 215. [Moses Moody](https://www.fantasypros.com/nba/players/moses-moody.php?week=draft) SF,SG-GSW
 216. [Quentin Grimes](https://www.fantasypros.com/nba/players/quentin-grimes.php?week=draft) SF,SG-DET
 217. [Ayo Dosunmu](https://www.fantasypros.com/nba/players/ayo-dosunmu.php?week=draft) PG,SF,SG-CHI
-218. [Darius Bazley](https://www.fantasypros.com/nba/players/darius-bazley.php?week=draft) C,PF,SF-BKN
+218. [Darius Bazley](https://www.fantasypros.com/nba/players/darius-bazley.php?week=draft) C,PF,SF-PHI
 219. [Malik Monk](https://www.fantasypros.com/nba/players/malik-monk.php?week=draft) SF,SG-SAC
 220. [Marcus Morris Sr.](https://www.fantasypros.com/nba/players/marcus-morris.php?week=draft) PF,C,SF-SAS
 221. [Xavier Tillman Sr.](https://www.fantasypros.com/nba/players/xavier-tillman.php?week=draft) PF,C-BOS
@@ -251,7 +251,7 @@ All information contained in this file should be utilized with caution as the ra
 239. [Nickeil AlexanderWalker](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php?week=draft) SF,SG-MIN
 240. [Jalen Johnson](https://www.fantasypros.com/nba/players/jalen-johnson-f-f.php?week=draft) PF,SF-ATL
 241. [P.J. Tucker](https://www.fantasypros.com/nba/players/pj-tucker.php?week=draft) PF,SF-LAC
-242. [Kris Dunn](https://www.fantasypros.com/nba/players/kris-dunn.php?week=draft) PG-UTH
+242. [Kris Dunn](https://www.fantasypros.com/nba/players/kris-dunn.php?week=draft) PG,SG-UTH
 243. [Kendrick Nunn](https://www.fantasypros.com/nba/players/kendrick-nunn.php?week=draft) PG,SG-FA
 244. [T.J. Warren](https://www.fantasypros.com/nba/players/tj-warren.php?week=draft) SF,PF-FA
 245. [Talen HortonTucker](https://www.fantasypros.com/nba/players/talen-horton-tucker.php?week=draft) PG,SF,SG-UTH
@@ -323,7 +323,7 @@ All information contained in this file should be utilized with caution as the ra
 311. [David Duke Jr.](https://www.fantasypros.com/nba/players/david-duke-jr.php?week=draft) SF,SG-SAS
 312. [Ziaire Williams](https://www.fantasypros.com/nba/players/ziaire-williams.php?week=draft) SF,SG-MEM
 313. [Trey Lyles](https://www.fantasypros.com/nba/players/trey-lyles.php?week=draft) PF,C-SAC
-314. [Jaime Jaquez Jr.](https://www.fantasypros.com/nba/players/jaime-jaquez-jr.php?week=draft) SF-MIA
+314. [Jaime Jaquez Jr.](https://www.fantasypros.com/nba/players/jaime-jaquez-jr.php?week=draft) SF,SG-MIA
 315. [Kemba Walker](https://www.fantasypros.com/nba/players/kemba-walker.php?week=draft) PG-FA
 316. [Sasha Vezenkov](https://www.fantasypros.com/nba/players/aleksandar-vezenkov.php?week=draft) PF-SAC
 317. [Sandro Mamukelashvili](https://www.fantasypros.com/nba/players/sandro-mamukelashvili.php?week=draft) C-SAS
@@ -351,7 +351,7 @@ All information contained in this file should be utilized with caution as the ra
 339. [Eric Bledsoe](https://www.fantasypros.com/nba/players/eric-bledsoe.php?week=draft) PG,SG-FA
 340. [Emoni Bates](https://www.fantasypros.com/nba/players/emoni-bates.php?week=draft) SF-CLE
 341. [Goran Dragic](https://www.fantasypros.com/nba/players/goran-dragic.php?week=draft) PG-FA
-342. [Danilo Gallinari](https://www.fantasypros.com/nba/players/danilo-gallinari.php?week=draft) SF,PF-FA
+342. [Danilo Gallinari](https://www.fantasypros.com/nba/players/danilo-gallinari.php?week=draft) SF,PF-MIL
 343. [Ricky Rubio](https://www.fantasypros.com/nba/players/ricky-rubio.php?week=draft) PG,SG-FA
 344. [Vasilije Micic](https://www.fantasypros.com/nba/players/vasilije-micic.php?week=draft) PG,SG-CHA
 345. [Kris Murray](https://www.fantasypros.com/nba/players/kris-murray.php?week=draft) PF,SF-POR
@@ -471,11 +471,11 @@ All information contained in this file should be utilized with caution as the ra
 459. [Josh Minott](https://www.fantasypros.com/nba/players/josh-minott.php?week=draft) PF,SF,SG-MIN
 460. [Juan ToscanoAnderson](https://www.fantasypros.com/nba/players/juan-toscano-anderson.php?week=draft) SF,PF-FA
 461. [Julian Phillips](https://www.fantasypros.com/nba/players/julian-phillips.php?week=draft) SF-CHI
-462. [Justin Champagnie](https://www.fantasypros.com/nba/players/justin-champagnie.php?week=draft) SF,SG-FA
+462. [Justin Champagnie](https://www.fantasypros.com/nba/players/justin-champagnie.php?week=draft) SF,SG-WAS
 463. [Justin Lewis](https://www.fantasypros.com/nba/players/justin-lewis.php?week=draft) PF-FA
 464. [Justin Minaya](https://www.fantasypros.com/nba/players/justin-minaya.php?week=draft) SF-POR
 465. [Justinian Jessup](https://www.fantasypros.com/nba/players/justinian-jessup.php?week=draft) SG-GSW
-466. [Justise Winslow](https://www.fantasypros.com/nba/players/justise-winslow.php?week=draft) PF,SF-TOR
+466. [Justise Winslow](https://www.fantasypros.com/nba/players/justise-winslow.php?week=draft) PF,SF-FA
 467. [Kendall Brown](https://www.fantasypros.com/nba/players/kendall-brown.php?week=draft) SF,SG-IND
 468. [Kai Jones](https://www.fantasypros.com/nba/players/kai-jones.php?week=draft) C,PF-FA
 469. [Keon Johnson](https://www.fantasypros.com/nba/players/keon-johnson.php?week=draft) PG,SG-PHO
@@ -525,7 +525,7 @@ All information contained in this file should be utilized with caution as the ra
 513. [Ron Harper Jr.](https://www.fantasypros.com/nba/players/ron-harper-jr-f.php?week=draft) SF-FA
 514. [Rudy Gay](https://www.fantasypros.com/nba/players/rudy-gay.php?week=draft) PF,SF-FA
 515. [Ryan Arcidiacono](https://www.fantasypros.com/nba/players/ryan-arcidiacono.php?week=draft) PG-FA
-516. [Ryan Rollins](https://www.fantasypros.com/nba/players/ryan-rollins.php?week=draft) PG,SG-FA
+516. [Ryan Rollins](https://www.fantasypros.com/nba/players/ryan-rollins.php?week=draft) PG,SG-MIL
 517. [Sam Merrill](https://www.fantasypros.com/nba/players/sam-merrill.php?week=draft) SG-CLE
 518. [Scotty Pippen Jr.](https://www.fantasypros.com/nba/players/scotty-pippen-jr-g.php?week=draft) PG,SG-MEM
 519. [Seth Lundy](https://www.fantasypros.com/nba/players/seth-lundy.php?week=draft) SF,SG-ATL
