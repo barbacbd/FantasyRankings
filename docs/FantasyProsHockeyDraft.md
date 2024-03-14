@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 3/7/2024.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 3/14/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -73,8 +73,8 @@ All information contained in this file should be utilized with caution as the ra
 61. [Andrei Vasilevskiy](https://www.fantasypros.com/nhl/adp/andrei-vasilevskiy.php) G-TB
 62. [Brad Marchand](https://www.fantasypros.com/nhl/adp/brad-marchand.php) LW-BOS
 63. [Evan Bouchard](https://www.fantasypros.com/nhl/adp/evan-bouchard.php) D-EDM
-64. [Jake Guentzel](https://www.fantasypros.com/nhl/adp/jake-guentzel.php) LW-PIT
-65. [Vitek Vanecek](https://www.fantasypros.com/nhl/adp/vitek-vanecek.php) G-NJ
+64. [Jake Guentzel](https://www.fantasypros.com/nhl/adp/jake-guentzel.php) LW-CAR
+65. [Vitek Vanecek](https://www.fantasypros.com/nhl/adp/vitek-vanecek.php) G-SJ
 66. [Adrian Kempe](https://www.fantasypros.com/nhl/adp/adrian-kempe.php) C-LA
 67. [Moritz Seider](https://www.fantasypros.com/nhl/adp/moritz-seider.php) D-DET
 68. [Carter Verhaeghe](https://www.fantasypros.com/nhl/adp/carter-verhaeghe.php) C-FLA
@@ -102,7 +102,7 @@ All information contained in this file should be utilized with caution as the ra
 90. [Thatcher Demko](https://www.fantasypros.com/nhl/adp/thatcher-demko.php) G-VAN
 91. [Jeremy Swayman](https://www.fantasypros.com/nhl/adp/jeremy-swayman.php) G-BOS
 92. [Darnell Nurse](https://www.fantasypros.com/nhl/adp/darnell-nurse.php) D-EDM
-93. [Tyler Toffoli](https://www.fantasypros.com/nhl/adp/tyler-toffoli.php) RW-NJ
+93. [Tyler Toffoli](https://www.fantasypros.com/nhl/adp/tyler-toffoli.php) RW-WPG
 94. [Tristan Jarry](https://www.fantasypros.com/nhl/adp/tristan-jarry.php) G-PIT
 95. [Travis Konecny](https://www.fantasypros.com/nhl/adp/travis-konecny.php) RW-PHI
 96. [Cole Caufield](https://www.fantasypros.com/nhl/adp/cole-caufield.php) RW-MTL
@@ -137,7 +137,7 @@ All information contained in this file should be utilized with caution as the ra
 125. [Pavel Buchnevich](https://www.fantasypros.com/nhl/adp/pavel-buchnevich.php) LW-STL
 126. [Evander Kane](https://www.fantasypros.com/nhl/adp/evander-kane.php) LW-EDM
 127. [Hampus Lindholm](https://www.fantasypros.com/nhl/adp/hampus-lindholm.php) D-BOS
-128. [Vladimir Tarasenko](https://www.fantasypros.com/nhl/adp/vladimir-tarasenko.php) RW-OTT
+128. [Vladimir Tarasenko](https://www.fantasypros.com/nhl/adp/vladimir-tarasenko.php) RW-FLA
 129. [Joel Eriksson Ek](https://www.fantasypros.com/nhl/adp/joel-eriksson-ek.php) C-MIN
 130. [Drew Doughty](https://www.fantasypros.com/nhl/adp/drew-doughty.php) D-LA
 131. [Anze Kopitar](https://www.fantasypros.com/nhl/adp/anze-kopitar.php) C-LA
@@ -160,16 +160,16 @@ All information contained in this file should be utilized with caution as the ra
 148. [Vincent Trocheck](https://www.fantasypros.com/nhl/adp/vincent-trocheck.php) C-NYR
 149. [Gustav Forsling](https://www.fantasypros.com/nhl/adp/forsling-gustav.php) D-FLA
 150. [Aaron Ekblad](https://www.fantasypros.com/nhl/adp/aaron-ekblad.php) D-FLA
-151. [Noah Hanifin](https://www.fantasypros.com/nhl/adp/noah-hanifin.php) D-CGY
+151. [Noah Hanifin](https://www.fantasypros.com/nhl/adp/noah-hanifin.php) D-VGK
 152. [Dawson Mercer](https://www.fantasypros.com/nhl/adp/dawson-mercer.php) C-NJ
 153. [Adam Larsson](https://www.fantasypros.com/nhl/adp/adam-larsson.php) D-SEA
 154. [Ville Husso](https://www.fantasypros.com/nhl/adp/ville-husso.php) G-DET
 155. [Logan Thompson](https://www.fantasypros.com/nhl/adp/logan-thompson.php) G-VGK
-156. [Tomas Hertl](https://www.fantasypros.com/nhl/adp/tomas-hertl.php) C-SJ
+156. [Tomas Hertl](https://www.fantasypros.com/nhl/adp/tomas-hertl.php) C-VGK
 157. [Rickard Rakell](https://www.fantasypros.com/nhl/adp/rickard-rakell.php) RW-PIT
 158. [Darcy Kuemper](https://www.fantasypros.com/nhl/adp/darcy-kuemper.php) G-WSH
 159. [K'Andre Miller](https://www.fantasypros.com/nhl/adp/kandre-miller.php) D-NYR
-160. [Bowen Byram](https://www.fantasypros.com/nhl/adp/bowen-byram.php) D-COL
+160. [Bowen Byram](https://www.fantasypros.com/nhl/adp/bowen-byram.php) D-BUF
 161. [Valeri Nichushkin](https://www.fantasypros.com/nhl/adp/valeri-nichushkin.php) RW-COL
 162. [Troy Terry](https://www.fantasypros.com/nhl/adp/troy-terry.php) C-ANA
 163. [Connor Brown](https://www.fantasypros.com/nhl/adp/connor-brown.php) RW-EDM
@@ -211,7 +211,7 @@ All information contained in this file should be utilized with caution as the ra
 199. [David Perron](https://www.fantasypros.com/nhl/adp/david-perron.php) LW-DET
 200. [Jordan Eberle](https://www.fantasypros.com/nhl/adp/jordan-eberle.php) RW-SEA
 201. [Logan Couture](https://www.fantasypros.com/nhl/adp/logan-couture.php) C-SJ
-202. [Evgeny Kuznetsov](https://www.fantasypros.com/nhl/adp/evgeny-kuznetsov.php) C-WSH
+202. [Evgeny Kuznetsov](https://www.fantasypros.com/nhl/adp/evgeny-kuznetsov.php) C-CAR
 203. [Jack Campbell](https://www.fantasypros.com/nhl/adp/jack-campbell.php) G-EDM
 204. [Pyotr Kochetkov](https://www.fantasypros.com/nhl/adp/pyotr-kochetkov.php) G-CAR
 205. [Juraj Slafkovsky](https://www.fantasypros.com/nhl/adp/juraj-slafkovsky.php) LW-MTL
@@ -282,13 +282,13 @@ All information contained in this file should be utilized with caution as the ra
 270. [Connor Clifton](https://www.fantasypros.com/nhl/adp/connor-clifton.php) D-BUF
 271. [Alexis Lafreniere](https://www.fantasypros.com/nhl/adp/alexis-lafreniere.php) LW-NYR
 272. [Ryan Johansen](https://www.fantasypros.com/nhl/adp/ryan-johansen.php) C-COL
-273. [Michael Bunting](https://www.fantasypros.com/nhl/adp/michael-bunting.php) LW-CAR
+273. [Michael Bunting](https://www.fantasypros.com/nhl/adp/michael-bunting.php) LW-PIT
 274. [Tanner Jeannot](https://www.fantasypros.com/nhl/adp/tanner-jeannot.php) LW-TB
 275. [Kaapo Kakko](https://www.fantasypros.com/nhl/adp/kaapo-kakko.php) RW-NYR
 276. [Oliver Ekman-Larsson](https://www.fantasypros.com/nhl/adp/oliver-ekman-larsson.php) D-FLA
-277. [Anthony Beauvillier](https://www.fantasypros.com/nhl/adp/anthony-beauvillier.php) LW-CHI
-278. [Kaapo Kahkonen](https://www.fantasypros.com/nhl/adp/kaapo-kahkonen.php) G-SJ
-279. [Casey Mittelstadt](https://www.fantasypros.com/nhl/adp/casey-mittelstadt.php) C-BUF
+277. [Anthony Beauvillier](https://www.fantasypros.com/nhl/adp/anthony-beauvillier.php) LW-NSH
+278. [Kaapo Kahkonen](https://www.fantasypros.com/nhl/adp/kaapo-kahkonen.php) G-NJ
+279. [Casey Mittelstadt](https://www.fantasypros.com/nhl/adp/casey-mittelstadt.php) C-COL
 280. [Yanni Gourde](https://www.fantasypros.com/nhl/adp/yanni-gourde.php) C-SEA
 281. [James van Riemsdyk](https://www.fantasypros.com/nhl/adp/james-van-riemsdyk.php) LW-BOS
 282. [Seth Jarvis](https://www.fantasypros.com/nhl/adp/seth-jarvis.php) C-CAR
@@ -313,14 +313,14 @@ All information contained in this file should be utilized with caution as the ra
 301. [Samuel Girard](https://www.fantasypros.com/nhl/adp/samuel-girard.php) D-COL
 302. [Alex Killorn](https://www.fantasypros.com/nhl/adp/alex-killorn.php) LW-ANA
 303. [Jani Hakanpaa](https://www.fantasypros.com/nhl/adp/jani-hakanpaa.php) D-DAL
-304. [Jason Zucker](https://www.fantasypros.com/nhl/adp/jason-zucker.php) LW-ARI
+304. [Jason Zucker](https://www.fantasypros.com/nhl/adp/jason-zucker.php) LW-NSH
 305. [Nino Niederreiter](https://www.fantasypros.com/nhl/adp/nino-niederreiter.php) RW-WPG
 306. [Antti Raanta](https://www.fantasypros.com/nhl/adp/antti-raanta.php) G-CAR
 307. [Frank Vatrano](https://www.fantasypros.com/nhl/adp/frank-vatrano.php) RW-ANA
 308. [Daniel Sprong](https://www.fantasypros.com/nhl/adp/daniel-sprong.php) RW-DET
 309. [Conor Garland](https://www.fantasypros.com/nhl/adp/conor-garland.php) RW-VAN
 310. [Pavel Francouz](https://www.fantasypros.com/nhl/adp/pavel-francouz.php) G-COL
-311. [Jake Allen](https://www.fantasypros.com/nhl/adp/jake-allen.php) G-MTL
+311. [Jake Allen](https://www.fantasypros.com/nhl/adp/jake-allen.php) G-NJ
 312. [Martin Jones](https://www.fantasypros.com/nhl/adp/martin-jones.php) G-TOR
 
 

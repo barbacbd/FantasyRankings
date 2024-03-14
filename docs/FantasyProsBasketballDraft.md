@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/7/2024.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/14/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -227,7 +227,7 @@ All information contained in this file should be utilized with caution as the ra
 215. [Moses Moody](https://www.fantasypros.com/nba/players/moses-moody.php?week=draft) SF,SG-GSW
 216. [Quentin Grimes](https://www.fantasypros.com/nba/players/quentin-grimes.php?week=draft) SF,SG-DET
 217. [Ayo Dosunmu](https://www.fantasypros.com/nba/players/ayo-dosunmu.php?week=draft) PG,SF,SG-CHI
-218. [Darius Bazley](https://www.fantasypros.com/nba/players/darius-bazley.php?week=draft) C,PF,SF-FA
+218. [Darius Bazley](https://www.fantasypros.com/nba/players/darius-bazley.php?week=draft) C,PF,SF-UTH
 219. [Malik Monk](https://www.fantasypros.com/nba/players/malik-monk.php?week=draft) SF,SG-SAC
 220. [Marcus Morris Sr.](https://www.fantasypros.com/nba/players/marcus-morris.php?week=draft) PF,C,SF-FA
 221. [Xavier Tillman Sr.](https://www.fantasypros.com/nba/players/xavier-tillman.php?week=draft) PF,C-BOS
@@ -261,7 +261,7 @@ All information contained in this file should be utilized with caution as the ra
 249. [Nassir Little](https://www.fantasypros.com/nba/players/nassir-little.php?week=draft) PF,SF-PHO
 250. [AJ Griffin](https://www.fantasypros.com/nba/players/aj-griffin.php?week=draft) SF,SG-ATL
 251. [Max Strus](https://www.fantasypros.com/nba/players/max-strus.php?week=draft) SG,SF-CLE
-252. [Otto Porter Jr.](https://www.fantasypros.com/nba/players/otto-porter.php?week=draft) PF,SF,SG-UTH
+252. [Otto Porter Jr.](https://www.fantasypros.com/nba/players/otto-porter.php?week=draft) PF,SF,SG-FA
 253. [Jeremy Sochan](https://www.fantasypros.com/nba/players/jeremy-sochan.php?week=draft) PF,PG-SAS
 254. [Victor Oladipo](https://www.fantasypros.com/nba/players/victor-oladipo.php?week=draft) PG,SG-FA
 255. [Christian Braun](https://www.fantasypros.com/nba/players/christian-braun.php?week=draft) SG-DEN
@@ -333,7 +333,7 @@ All information contained in this file should be utilized with caution as the ra
 321. [Mike Muscala](https://www.fantasypros.com/nba/players/mike-muscala.php?week=draft) C,PF-OKC
 322. [Orlando Robinson](https://www.fantasypros.com/nba/players/orlando-robinson.php?week=draft) C-MIA
 323. [Day'Ron Sharpe](https://www.fantasypros.com/nba/players/dayron-sharpe.php?week=draft) C-BKN
-324. [Kenneth Lofton Jr.](https://www.fantasypros.com/nba/players/kenneth-lofton-jr.php?week=draft) C,PF-FA
+324. [Kenneth Lofton Jr.](https://www.fantasypros.com/nba/players/kenneth-lofton-jr.php?week=draft) C,PF-UTH
 325. [Isaiah Joe](https://www.fantasypros.com/nba/players/isaiah-joe.php?week=draft) PG,SF,SG-OKC
 326. [James Bouknight](https://www.fantasypros.com/nba/players/james-bouknight.php?week=draft) SG-FA
 327. [Payton Pritchard](https://www.fantasypros.com/nba/players/payton-pritchard.php?week=draft) PG,SG-BOS
