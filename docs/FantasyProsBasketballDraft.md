@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/21/2024.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 3/28/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -448,9 +448,9 @@ All information contained in this file should be utilized with caution as the ra
 436. [Jalen Wilson](https://www.fantasypros.com/nba/players/jalen-wilson.php?week=draft) PF,SF-BKN
 437. [Jamal Cain](https://www.fantasypros.com/nba/players/jamal-cain.php?week=draft) PF,SF,SG-MIA
 438. [James Johnson](https://www.fantasypros.com/nba/players/james-johnson.php?week=draft) PF-IND
-439. [Ish Wainright](https://www.fantasypros.com/nba/players/ishmail-wainright.php?week=draft) C,PF,SF-PHO
+439. [Ish Wainright](https://www.fantasypros.com/nba/players/ishmail-wainright.php?week=draft) PF,SF-PHO
 440. [Jared Butler](https://www.fantasypros.com/nba/players/jared-butler.php?week=draft) PG,SG-WAS
-441. [Javonte Green](https://www.fantasypros.com/nba/players/javonte-green.php?week=draft) SF,SG-FA
+441. [Javonte Green](https://www.fantasypros.com/nba/players/javonte-green.php?week=draft) SF,SG-CHI
 442. [James Nnaji](https://www.fantasypros.com/nba/players/james-nnaji.php?week=draft) C-CHA
 443. [Jaylen Clark](https://www.fantasypros.com/nba/players/jaylen-clark.php?week=draft) SG-MIN
 444. [Jaylen Nowell](https://www.fantasypros.com/nba/players/jaylen-nowell.php?week=draft) SG-FA
@@ -485,7 +485,7 @@ All information contained in this file should be utilized with caution as the ra
 473. [Keyontae Johnson](https://www.fantasypros.com/nba/players/keyontae-johnson.php?week=draft) SF,SG-OKC
 474. [Kira Lewis Jr.](https://www.fantasypros.com/nba/players/kira-lewis.php?week=draft) PG-UTH
 475. [Kobe Bufkin](https://www.fantasypros.com/nba/players/kobe-bufkin.php?week=draft) PG,SG-ATL
-476. [Kobi Simmons](https://www.fantasypros.com/nba/players/kobi-simmons.php?week=draft) PG,SG-FA
+476. [Kobi Simmons](https://www.fantasypros.com/nba/players/kobi-simmons.php?week=draft) PG,SG-TOR
 477. [Landry Shamet](https://www.fantasypros.com/nba/players/landry-shamet.php?week=draft) PG,SG-WAS
 478. [Lester Quinones](https://www.fantasypros.com/nba/players/lester-quinones.php?week=draft) PG,SG-GSW
 479. [Leonard Miller](https://www.fantasypros.com/nba/players/leonard-miller.php?week=draft) PF,SF-MIN

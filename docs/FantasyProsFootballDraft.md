@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Football Draft Rankings
 
-The data contained in this file is the result of scraping fantasy football draft ranking information from Fantasy Pros on 3/21/2024.
+The data contained in this file is the result of scraping fantasy football draft ranking information from Fantasy Pros on 3/28/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
