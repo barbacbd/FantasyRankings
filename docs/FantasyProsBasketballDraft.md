@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 4/4/2024.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 4/11/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -245,7 +245,7 @@ All information contained in this file should be utilized with caution as the ra
 233. [Gary Payton II](https://www.fantasypros.com/nba/players/gary-payton.php) PG,SF,SG-GSW
 234. [Chuma Okeke](https://www.fantasypros.com/nba/players/chuma-okeke.php) PF,SF-ORL
 235. [Pat Connaughton](https://www.fantasypros.com/nba/players/pat-connaughton.php) SG,SF-MIL
-236. [Reggie Bullock](https://www.fantasypros.com/nba/players/reggie-bullock.php) PF,SF,SG-HOU
+236. [Reggie Bullock Jr.](https://www.fantasypros.com/nba/players/reggie-bullock.php) PF,SF,SG-HOU
 237. [Maxi Kleber](https://www.fantasypros.com/nba/players/maxi-kleber.php) PF,C-DAL
 238. [Alec Burks](https://www.fantasypros.com/nba/players/alec-burks.php) PG,SF,SG-NYK
 239. [Nickeil AlexanderWalker](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php) SF,SG-MIN
@@ -431,7 +431,7 @@ All information contained in this file should be utilized with caution as the ra
 419. [Hamidou Diallo](https://www.fantasypros.com/nba/players/hamidou-diallo.php) SG,SF-FA
 420. [Hunter Tyson](https://www.fantasypros.com/nba/players/hunter-tyson.php) PF,SF-DEN
 421. [Gorgui Dieng](https://www.fantasypros.com/nba/players/gorgui-dieng.php) C,PF-FA
-422. [Isaiah Livers](https://www.fantasypros.com/nba/players/isaiah-livers.php) PF,SF-WAS
+422. [Isaiah Livers](https://www.fantasypros.com/nba/players/isaiah-livers.php) PF,SF-FA
 423. [Ibou Badji](https://www.fantasypros.com/nba/players/ibou-badji.php) C-POR
 424. [Isaiah Mobley](https://www.fantasypros.com/nba/players/isaiah-mobley.php) C,PF-CLE
 425. [Isaiah Todd](https://www.fantasypros.com/nba/players/isaiah-todd.php) C,PF-MEM
@@ -440,7 +440,7 @@ All information contained in this file should be utilized with caution as the ra
 428. [JT Thor](https://www.fantasypros.com/nba/players/jt-thor.php) PF-CHA
 429. [JaMychal Green](https://www.fantasypros.com/nba/players/jamychal-green.php) PF-FA
 430. [Jabari Walker](https://www.fantasypros.com/nba/players/jabari-walker.php) PF,SF-POR
-431. [Jack White](https://www.fantasypros.com/nba/players/jack-white.php) PF,SF-OKC
+431. [Jack White](https://www.fantasypros.com/nba/players/jack-white.php) PF,SF-MEM
 432. [Jacob Gilyard](https://www.fantasypros.com/nba/players/jacob-gilyard.php) PG-BKN
 433. [Jalen HoodSchifino](https://www.fantasypros.com/nba/players/jalen-hood-schifino.php) PG,SG-LAL
 434. [Jalen Pickett](https://www.fantasypros.com/nba/players/jalen-pickett.php) PG,SG-DEN
@@ -450,7 +450,7 @@ All information contained in this file should be utilized with caution as the ra
 438. [James Johnson](https://www.fantasypros.com/nba/players/james-johnson.php) PF-IND
 439. [Ish Wainright](https://www.fantasypros.com/nba/players/ishmail-wainright.php) PF,SF-PHO
 440. [Jared Butler](https://www.fantasypros.com/nba/players/jared-butler.php) PG,SG-WAS
-441. [Javonte Green](https://www.fantasypros.com/nba/players/javonte-green.php) SF,SG-FA
+441. [Javonte Green](https://www.fantasypros.com/nba/players/javonte-green.php) SF,SG-CHI
 442. [James Nnaji](https://www.fantasypros.com/nba/players/james-nnaji.php) C-CHA
 443. [Jaylen Clark](https://www.fantasypros.com/nba/players/jaylen-clark.php) SG-MIN
 444. [Jaylen Nowell](https://www.fantasypros.com/nba/players/jaylen-nowell.php) SG-DET
