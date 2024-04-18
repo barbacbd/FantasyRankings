@@ -17,341 +17,341 @@ The file contains the K rankings. This includes theoverall rankings as well as t
 13. [Jonathan Taylor](https://www.fantasypros.com/nfl/players/jonathan-taylor.php) RB-IND
 14. [Davante Adams](https://www.fantasypros.com/nfl/players/davante-adams.php) WR-LV
 15. [Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php) RB-PHI
-16. [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) WR-NO
-17. [Kyren Williams](https://www.fantasypros.com/nfl/players/kyren-williams.php) RB-LAR
+16. [Kyren Williams](https://www.fantasypros.com/nfl/players/kyren-williams.php) RB-LAR
+17. [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) WR-NO
 18. [Brandon Aiyuk](https://www.fantasypros.com/nfl/players/brandon-aiyuk.php) WR-SF
 19. [Josh Allen](https://www.fantasypros.com/nfl/players/josh-allen-qb.php) QB-BUF
 20. [Michael Pittman Jr.](https://www.fantasypros.com/nfl/players/michael-pittman.php) WR-IND
 21. [DJ Moore](https://www.fantasypros.com/nfl/players/dj-moore-wr.php) WR-CHI
-22. [Sam LaPorta](https://www.fantasypros.com/nfl/players/sam-laporta.php) TE-DET
-23. [Jalen Hurts](https://www.fantasypros.com/nfl/players/jalen-hurts.php) QB-PHI
-24. [Nico Collins](https://www.fantasypros.com/nfl/players/nico-collins.php) WR-HOU
-25. [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) WR-ATL
-26. [Travis Etienne Jr.](https://www.fantasypros.com/nfl/players/travis-etienne.php) RB-JAC
-27. [Deebo Samuel](https://www.fantasypros.com/nfl/players/deebo-samuel.php) WR-SF
-28. [Mike Evans](https://www.fantasypros.com/nfl/players/mike-evans.php) WR-TB
-29. [Lamar Jackson](https://www.fantasypros.com/nfl/players/lamar-jackson.php) QB-BAL
-30. [Travis Kelce](https://www.fantasypros.com/nfl/players/travis-kelce.php) TE-KC
-31. [Jaylen Waddle](https://www.fantasypros.com/nfl/players/jaylen-waddle.php) WR-MIA
-32. [Rashee Rice](https://www.fantasypros.com/nfl/players/rashee-rice.php) WR-KC
+22. [Jalen Hurts](https://www.fantasypros.com/nfl/players/jalen-hurts.php) QB-PHI
+23. [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) WR-ATL
+24. [Sam LaPorta](https://www.fantasypros.com/nfl/players/sam-laporta.php) TE-DET
+25. [Deebo Samuel](https://www.fantasypros.com/nfl/players/deebo-samuel.php) WR-SF
+26. [Mike Evans](https://www.fantasypros.com/nfl/players/mike-evans.php) WR-TB
+27. [Travis Etienne Jr.](https://www.fantasypros.com/nfl/players/travis-etienne.php) RB-JAC
+28. [Travis Kelce](https://www.fantasypros.com/nfl/players/travis-kelce.php) TE-KC
+29. [Nico Collins](https://www.fantasypros.com/nfl/players/nico-collins.php) WR-HOU
+30. [Jaylen Waddle](https://www.fantasypros.com/nfl/players/jaylen-waddle.php) WR-MIA
+31. [Lamar Jackson](https://www.fantasypros.com/nfl/players/lamar-jackson.php) QB-BAL
+32. [Patrick Mahomes II](https://www.fantasypros.com/nfl/players/patrick-mahomes.php) QB-KC
 33. [Stefon Diggs](https://www.fantasypros.com/nfl/players/stefon-diggs.php) WR-HOU
-34. [Patrick Mahomes II](https://www.fantasypros.com/nfl/players/patrick-mahomes.php) QB-KC
-35. [Rachaad White](https://www.fantasypros.com/nfl/players/rachaad-white.php) RB-TB
-36. [Josh Jacobs](https://www.fantasypros.com/nfl/players/josh-jacobs.php) RB-GB
-37. [Keenan Allen](https://www.fantasypros.com/nfl/players/keenan-allen.php) WR-CHI
+34. [Rashee Rice](https://www.fantasypros.com/nfl/players/rashee-rice.php) WR-KC
+35. [Josh Jacobs](https://www.fantasypros.com/nfl/players/josh-jacobs.php) RB-GB
+36. [Rachaad White](https://www.fantasypros.com/nfl/players/rachaad-white.php) RB-TB
+37. [Marvin Harrison Jr.](https://www.fantasypros.com/nfl/players/marvin-harrison-jr.php) WR-FA
 38. [DK Metcalf](https://www.fantasypros.com/nfl/players/dk-metcalf.php) WR-SEA
-39. [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) WR-PHI
-40. [Isiah Pacheco](https://www.fantasypros.com/nfl/players/isiah-pacheco.php) RB-KC
-41. [De'Von Achane](https://www.fantasypros.com/nfl/players/devon-achane.php) RB-MIA
-42. [Cooper Kupp](https://www.fantasypros.com/nfl/players/cooper-kupp.php) WR-LAR
-43. [Marvin Harrison Jr.](https://www.fantasypros.com/nfl/players/marvin-harrison-jr.php) WR-FA
-44. [Amari Cooper](https://www.fantasypros.com/nfl/players/amari-cooper.php) WR-CLE
-45. [Trey McBride](https://www.fantasypros.com/nfl/players/trey-mcbride.php) TE-ARI
-46. [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) RB-BUF
-47. [C.J. Stroud](https://www.fantasypros.com/nfl/players/cj-stroud.php) QB-HOU
-48. [Derrick Henry](https://www.fantasypros.com/nfl/players/derrick-henry.php) RB-BAL
-49. [Tank Dell](https://www.fantasypros.com/nfl/players/nathaniel-dell.php) WR-HOU
-50. [Anthony Richardson](https://www.fantasypros.com/nfl/players/anthony-richardson.php) QB-IND
-51. [Zay Flowers](https://www.fantasypros.com/nfl/players/zay-flowers.php) WR-BAL
-52. [Tee Higgins](https://www.fantasypros.com/nfl/players/tee-higgins.php) WR-CIN
-53. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
-54. [Christian Kirk](https://www.fantasypros.com/nfl/players/christian-kirk.php) WR-JAC
-55. [Alvin Kamara](https://www.fantasypros.com/nfl/players/alvin-kamara.php) RB-NO
-56. [Joe Mixon](https://www.fantasypros.com/nfl/players/joe-mixon.php) RB-HOU
+39. [Keenan Allen](https://www.fantasypros.com/nfl/players/keenan-allen.php) WR-CHI
+40. [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) WR-PHI
+41. [Cooper Kupp](https://www.fantasypros.com/nfl/players/cooper-kupp.php) WR-LAR
+42. [Isiah Pacheco](https://www.fantasypros.com/nfl/players/isiah-pacheco.php) RB-KC
+43. [Amari Cooper](https://www.fantasypros.com/nfl/players/amari-cooper.php) WR-CLE
+44. [De'Von Achane](https://www.fantasypros.com/nfl/players/devon-achane.php) RB-MIA
+45. [C.J. Stroud](https://www.fantasypros.com/nfl/players/cj-stroud.php) QB-HOU
+46. [Derrick Henry](https://www.fantasypros.com/nfl/players/derrick-henry.php) RB-BAL
+47. [Trey McBride](https://www.fantasypros.com/nfl/players/trey-mcbride.php) TE-ARI
+48. [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) RB-BUF
+49. [Anthony Richardson](https://www.fantasypros.com/nfl/players/anthony-richardson.php) QB-IND
+50. [Zay Flowers](https://www.fantasypros.com/nfl/players/zay-flowers.php) WR-BAL
+51. [Tank Dell](https://www.fantasypros.com/nfl/players/nathaniel-dell.php) WR-HOU
+52. [Christian Kirk](https://www.fantasypros.com/nfl/players/christian-kirk.php) WR-JAC
+53. [Tee Higgins](https://www.fantasypros.com/nfl/players/tee-higgins.php) WR-CIN
+54. [Alvin Kamara](https://www.fantasypros.com/nfl/players/alvin-kamara.php) RB-NO
+55. [Joe Mixon](https://www.fantasypros.com/nfl/players/joe-mixon.php) RB-HOU
+56. [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) RB-SEA
 57. [Dak Prescott](https://www.fantasypros.com/nfl/players/dak-prescott.php) QB-DAL
 58. [Joe Burrow](https://www.fantasypros.com/nfl/players/joe-burrow.php) QB-CIN
-59. [Mark Andrews](https://www.fantasypros.com/nfl/players/mark-andrews.php) TE-BAL
-60. [George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php) WR-PIT
-61. [Aaron Jones](https://www.fantasypros.com/nfl/players/aaron-jones.php) RB-MIN
-62. [Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php) WR-WAS
-63. [Rhamondre Stevenson](https://www.fantasypros.com/nfl/players/rhamondre-stevenson.php) RB-NE
+59. [George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php) WR-PIT
+60. [Mark Andrews](https://www.fantasypros.com/nfl/players/mark-andrews.php) TE-BAL
+61. [Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php) WR-WAS
+62. [Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php) WR-FA
+63. [Aaron Jones](https://www.fantasypros.com/nfl/players/aaron-jones.php) RB-MIN
 64. [Calvin Ridley](https://www.fantasypros.com/nfl/players/calvin-ridley.php) WR-TEN
-65. [Chris Godwin](https://www.fantasypros.com/nfl/players/chris-godwin.php) WR-TB
-66. [Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php) WR-FA
-67. [David Montgomery](https://www.fantasypros.com/nfl/players/david-montgomery.php) RB-DET
-68. [James Conner](https://www.fantasypros.com/nfl/players/james-conner.php) RB-ARI
-69. [Tony Pollard](https://www.fantasypros.com/nfl/players/tony-pollard.php) RB-TEN
-70. [Jordan Love](https://www.fantasypros.com/nfl/players/jordan-love.php) QB-GB
-71. [Jaxon Smith-Njigba](https://www.fantasypros.com/nfl/players/jaxon-smith-njigba.php) WR-SEA
-72. [Jordan Addison](https://www.fantasypros.com/nfl/players/jordan-addison.php) WR-MIN
-73. [D'Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php) RB-CHI
-74. [Kyler Murray](https://www.fantasypros.com/nfl/players/kyler-murray.php) QB-ARI
-75. [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) WR-TEN
-76. [Jayden Reed](https://www.fantasypros.com/nfl/players/jayden-reed.php) WR-GB
-77. [Evan Engram](https://www.fantasypros.com/nfl/players/evan-engram.php) TE-JAC
-78. [Javonte Williams](https://www.fantasypros.com/nfl/players/javonte-williams.php) RB-DEN
-79. [Rome Odunze](https://www.fantasypros.com/nfl/players/rome-odunze.php) WR-FA
-80. [George Kittle](https://www.fantasypros.com/nfl/players/george-kittle.php) TE-SF
+65. [Rhamondre Stevenson](https://www.fantasypros.com/nfl/players/rhamondre-stevenson.php) RB-NE
+66. [Kyler Murray](https://www.fantasypros.com/nfl/players/kyler-murray.php) QB-ARI
+67. [Jordan Love](https://www.fantasypros.com/nfl/players/jordan-love.php) QB-GB
+68. [Chris Godwin](https://www.fantasypros.com/nfl/players/chris-godwin.php) WR-TB
+69. [James Conner](https://www.fantasypros.com/nfl/players/james-conner.php) RB-ARI
+70. [David Montgomery](https://www.fantasypros.com/nfl/players/david-montgomery.php) RB-DET
+71. [Tony Pollard](https://www.fantasypros.com/nfl/players/tony-pollard.php) RB-TEN
+72. [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) WR-TEN
+73. [Jaxon Smith-Njigba](https://www.fantasypros.com/nfl/players/jaxon-smith-njigba.php) WR-SEA
+74. [Jordan Addison](https://www.fantasypros.com/nfl/players/jordan-addison.php) WR-MIN
+75. [D'Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php) RB-CHI
+76. [Brock Purdy](https://www.fantasypros.com/nfl/players/brock-purdy.php) QB-SF
+77. [Rome Odunze](https://www.fantasypros.com/nfl/players/rome-odunze.php) WR-FA
+78. [Dalton Kincaid](https://www.fantasypros.com/nfl/players/dalton-kincaid.php) TE-BUF
+79. [Jayden Reed](https://www.fantasypros.com/nfl/players/jayden-reed.php) WR-GB
+80. [Evan Engram](https://www.fantasypros.com/nfl/players/evan-engram.php) TE-JAC
 81. [Marquise Brown](https://www.fantasypros.com/nfl/players/marquise-brown.php) WR-KC
-82. [Diontae Johnson](https://www.fantasypros.com/nfl/players/diontae-johnson.php) WR-CAR
-83. [Dalton Kincaid](https://www.fantasypros.com/nfl/players/dalton-kincaid.php) TE-BUF
-84. [Najee Harris](https://www.fantasypros.com/nfl/players/najee-harris-rb.php) RB-PIT
-85. [Nick Chubb](https://www.fantasypros.com/nfl/players/nick-chubb.php) RB-CLE
-86. [Brock Purdy](https://www.fantasypros.com/nfl/players/brock-purdy.php) QB-SF
-87. [David Njoku](https://www.fantasypros.com/nfl/players/david-njoku.php) TE-CLE
-88. [Tyjae Spears](https://www.fantasypros.com/nfl/players/tyjae-spears.php) RB-TEN
-89. [Justin Herbert](https://www.fantasypros.com/nfl/players/justin-herbert.php) QB-LAC
-90. [Jaylen Warren](https://www.fantasypros.com/nfl/players/jaylen-warren.php) RB-PIT
-91. [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) WR-SEA
-92. [Courtland Sutton](https://www.fantasypros.com/nfl/players/courtland-sutton.php) WR-DEN
-93. [Austin Ekeler](https://www.fantasypros.com/nfl/players/austin-ekeler.php) RB-WAS
-94. [Brock Bowers](https://www.fantasypros.com/nfl/players/brock-bowers.php) TE-FA
-95. [Christian Watson](https://www.fantasypros.com/nfl/players/christian-watson.php) WR-GB
-96. [Zamir White](https://www.fantasypros.com/nfl/players/zamir-white.php) RB-LV
-97. [Tua Tagovailoa](https://www.fantasypros.com/nfl/players/tua-tagovailoa.php) QB-MIA
-98. [Kyle Pitts](https://www.fantasypros.com/nfl/players/kyle-pitts.php) TE-ATL
-99. [Brian Robinson Jr.](https://www.fantasypros.com/nfl/players/brian-robinson-jr.php) RB-WAS
-100. [Mike Williams](https://www.fantasypros.com/nfl/players/mike-williams-wr.php) WR-NYJ
-101. [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php) QB-JAC
-102. [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) QB-ATL
-103. [Dallas Goedert](https://www.fantasypros.com/nfl/players/dallas-goedert.php) TE-PHI
-104. [Jared Goff](https://www.fantasypros.com/nfl/players/jared-goff.php) QB-DET
-105. [Josh Downs](https://www.fantasypros.com/nfl/players/josh-downs.php) WR-IND
-106. [Raheem Mostert](https://www.fantasypros.com/nfl/players/raheem-mostert.php) RB-MIA
-107. [Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php) WR-LV
-108. [Jake Ferguson](https://www.fantasypros.com/nfl/players/jake-ferguson.php) TE-DAL
-109. [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) TE-MIN
-110. [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php) RB-SEA
-111. [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php) RB-CAR
-112. [Matthew Stafford](https://www.fantasypros.com/nfl/players/matthew-stafford.php) QB-LAR
-113. [Romeo Doubs](https://www.fantasypros.com/nfl/players/romeo-doubs.php) WR-GB
-114. [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) RB-NYG
-115. [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) WR-DET
-116. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-CIN
-117. [Adam Thielen](https://www.fantasypros.com/nfl/players/adam-thielen.php) WR-CAR
-118. [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) TE-CHI
-119. [Jerry Jeudy](https://www.fantasypros.com/nfl/players/jerry-jeudy.php) WR-CLE
-120. [Chase Brown](https://www.fantasypros.com/nfl/players/chase-brown.php) RB-CIN
-121. [Gabe Davis](https://www.fantasypros.com/nfl/players/gabriel-davis.php) WR-JAC
-122. [Caleb Williams](https://www.fantasypros.com/nfl/players/caleb-williams.php) QB-FA
-123. [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) WR-WAS
-124. [Deshaun Watson](https://www.fantasypros.com/nfl/players/deshaun-watson.php) QB-CLE
-125. [Roschon Johnson](https://www.fantasypros.com/nfl/players/roschon-johnson.php) RB-CHI
-126. [Jerome Ford](https://www.fantasypros.com/nfl/players/jerome-ford.php) RB-CLE
-127. [Brandin Cooks](https://www.fantasypros.com/nfl/players/brandin-cooks.php) WR-DAL
-128. [Gus Edwards](https://www.fantasypros.com/nfl/players/gus-edwards.php) RB-LAC
-129. [Antonio Gibson](https://www.fantasypros.com/nfl/players/antonio-gibson.php) RB-NE
-130. [Joshua Palmer](https://www.fantasypros.com/nfl/players/josh-palmer.php) WR-LAC
-131. [Khalil Herbert](https://www.fantasypros.com/nfl/players/khalil-herbert.php) RB-CHI
-132. [Pat Freiermuth](https://www.fantasypros.com/nfl/players/pat-freiermuth.php) TE-PIT
-133. [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) QB-NYJ
-134. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-TB
-135. [Curtis Samuel](https://www.fantasypros.com/nfl/players/curtis-samuel.php) WR-BUF
-136. [Rashid Shaheed](https://www.fantasypros.com/nfl/players/rashid-shaheed.php) WR-NO
-137. [Elijah Moore](https://www.fantasypros.com/nfl/players/elijah-moore.php) WR-CLE
-138. [Jayden Daniels](https://www.fantasypros.com/nfl/players/jayden-daniels.php) QB-FA
-139. [Dalton Schultz](https://www.fantasypros.com/nfl/players/dalton-schultz.php) TE-HOU
-140. [Ty Chandler](https://www.fantasypros.com/nfl/players/ty-chandler.php) RB-MIN
-141. [Kendre Miller](https://www.fantasypros.com/nfl/players/kendre-miller.php) RB-NO
-142. [Geno Smith](https://www.fantasypros.com/nfl/players/geno-smith.php) QB-SEA
-143. [Quentin Johnston](https://www.fantasypros.com/nfl/players/quentin-johnston.php) WR-LAC
-144. [Tyler Allgeier](https://www.fantasypros.com/nfl/players/tyler-allgeier.php) RB-ATL
+82. [George Kittle](https://www.fantasypros.com/nfl/players/george-kittle.php) TE-SF
+83. [Javonte Williams](https://www.fantasypros.com/nfl/players/javonte-williams.php) RB-DEN
+84. [Diontae Johnson](https://www.fantasypros.com/nfl/players/diontae-johnson.php) WR-CAR
+85. [Najee Harris](https://www.fantasypros.com/nfl/players/najee-harris-rb.php) RB-PIT
+86. [David Njoku](https://www.fantasypros.com/nfl/players/david-njoku.php) TE-CLE
+87. [Jaylen Warren](https://www.fantasypros.com/nfl/players/jaylen-warren.php) RB-PIT
+88. [Nick Chubb](https://www.fantasypros.com/nfl/players/nick-chubb.php) RB-CLE
+89. [Tyjae Spears](https://www.fantasypros.com/nfl/players/tyjae-spears.php) RB-TEN
+90. [Tua Tagovailoa](https://www.fantasypros.com/nfl/players/tua-tagovailoa.php) QB-MIA
+91. [Justin Herbert](https://www.fantasypros.com/nfl/players/justin-herbert.php) QB-LAC
+92. [Austin Ekeler](https://www.fantasypros.com/nfl/players/austin-ekeler.php) RB-WAS
+93. [Kyle Pitts](https://www.fantasypros.com/nfl/players/kyle-pitts.php) TE-ATL
+94. [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) WR-SEA
+95. [Courtland Sutton](https://www.fantasypros.com/nfl/players/courtland-sutton.php) WR-DEN
+96. [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) QB-ATL
+97. [Zamir White](https://www.fantasypros.com/nfl/players/zamir-white.php) RB-LV
+98. [Brian Robinson Jr.](https://www.fantasypros.com/nfl/players/brian-robinson-jr.php) RB-WAS
+99. [Jared Goff](https://www.fantasypros.com/nfl/players/jared-goff.php) QB-DET
+100. [Christian Watson](https://www.fantasypros.com/nfl/players/christian-watson.php) WR-GB
+101. [Brock Bowers](https://www.fantasypros.com/nfl/players/brock-bowers.php) TE-FA
+102. [Mike Williams](https://www.fantasypros.com/nfl/players/mike-williams-wr.php) WR-NYJ
+103. [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php) QB-JAC
+104. [Dallas Goedert](https://www.fantasypros.com/nfl/players/dallas-goedert.php) TE-PHI
+105. [Raheem Mostert](https://www.fantasypros.com/nfl/players/raheem-mostert.php) RB-MIA
+106. [Caleb Williams](https://www.fantasypros.com/nfl/players/caleb-williams.php) QB-FA
+107. [Jake Ferguson](https://www.fantasypros.com/nfl/players/jake-ferguson.php) TE-DAL
+108. [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) TE-MIN
+109. [Josh Downs](https://www.fantasypros.com/nfl/players/josh-downs.php) WR-IND
+110. [Matthew Stafford](https://www.fantasypros.com/nfl/players/matthew-stafford.php) QB-LAR
+111. [Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php) WR-LV
+112. [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) TE-CHI
+113. [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php) RB-SEA
+114. [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) RB-CIN
+115. [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php) RB-CAR
+116. [Jayden Daniels](https://www.fantasypros.com/nfl/players/jayden-daniels.php) QB-FA
+117. [Romeo Doubs](https://www.fantasypros.com/nfl/players/romeo-doubs.php) WR-GB
+118. [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) RB-NYG
+119. [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) WR-DET
+120. [Jerry Jeudy](https://www.fantasypros.com/nfl/players/jerry-jeudy.php) WR-CLE
+121. [Deshaun Watson](https://www.fantasypros.com/nfl/players/deshaun-watson.php) QB-CLE
+122. [Chase Brown](https://www.fantasypros.com/nfl/players/chase-brown.php) RB-CIN
+123. [Adam Thielen](https://www.fantasypros.com/nfl/players/adam-thielen.php) WR-CAR
+124. [Gabe Davis](https://www.fantasypros.com/nfl/players/gabriel-davis.php) WR-JAC
+125. [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) QB-NYJ
+126. [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) QB-TB
+127. [Curtis Samuel](https://www.fantasypros.com/nfl/players/curtis-samuel.php) WR-BUF
+128. [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) WR-WAS
+129. [Pat Freiermuth](https://www.fantasypros.com/nfl/players/pat-freiermuth.php) TE-PIT
+130. [Gus Edwards](https://www.fantasypros.com/nfl/players/gus-edwards.php) RB-LAC
+131. [Brandin Cooks](https://www.fantasypros.com/nfl/players/brandin-cooks.php) WR-DAL
+132. [Roschon Johnson](https://www.fantasypros.com/nfl/players/roschon-johnson.php) RB-CHI
+133. [Antonio Gibson](https://www.fantasypros.com/nfl/players/antonio-gibson.php) RB-NE
+134. [Dalton Schultz](https://www.fantasypros.com/nfl/players/dalton-schultz.php) TE-HOU
+135. [Jerome Ford](https://www.fantasypros.com/nfl/players/jerome-ford.php) RB-CLE
+136. [Geno Smith](https://www.fantasypros.com/nfl/players/geno-smith.php) QB-SEA
+137. [Joshua Palmer](https://www.fantasypros.com/nfl/players/josh-palmer.php) WR-LAC
+138. [Khalil Herbert](https://www.fantasypros.com/nfl/players/khalil-herbert.php) RB-CHI
+139. [Ty Chandler](https://www.fantasypros.com/nfl/players/ty-chandler.php) RB-MIN
+140. [Elijah Moore](https://www.fantasypros.com/nfl/players/elijah-moore.php) WR-CLE
+141. [Rashid Shaheed](https://www.fantasypros.com/nfl/players/rashid-shaheed.php) WR-NO
+142. [Kendre Miller](https://www.fantasypros.com/nfl/players/kendre-miller.php) RB-NO
+143. [Trey Benson](https://www.fantasypros.com/nfl/players/trey-benson.php) RB-FA
+144. [Khalil Shakir](https://www.fantasypros.com/nfl/players/khalil-shakir.php) WR-BUF
 145. [Michael Mayer](https://www.fantasypros.com/nfl/players/michael-mayer.php) TE-LV
-146. [Wan'Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php) WR-NYG
-147. [Khalil Shakir](https://www.fantasypros.com/nfl/players/khalil-shakir.php) WR-BUF
-148. [Luke Musgrave](https://www.fantasypros.com/nfl/players/luke-musgrave.php) TE-GB
-149. [Baltimore Ravens](https://www.fantasypros.com/nfl/players/baltimore-defense.php) DST-BAL
-150. [Darren Waller](https://www.fantasypros.com/nfl/players/darren-waller.php) TE-NYG
-151. [Marvin Mims Jr.](https://www.fantasypros.com/nfl/players/marvin-mims.php) WR-DEN
-152. [Demario Douglas](https://www.fantasypros.com/nfl/players/demario-douglas.php) WR-NE
-153. [Blake Corum](https://www.fantasypros.com/nfl/players/blake-corum.php) RB-FA
-154. [Trey Benson](https://www.fantasypros.com/nfl/players/trey-benson.php) RB-FA
-155. [AJ Dillon](https://www.fantasypros.com/nfl/players/aj-dillon.php) RB-GB
-156. [Zay Jones](https://www.fantasypros.com/nfl/players/zay-jones.php) WR-JAC
-157. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-NO
-158. [Ezekiel Elliott](https://www.fantasypros.com/nfl/players/ezekiel-elliott.php) RB-NE
-159. [San Francisco 49ers](https://www.fantasypros.com/nfl/players/san-francisco-defense.php) DST-SF
-160. [Jaleel McLaughlin](https://www.fantasypros.com/nfl/players/jaleel-mclaughlin.php) RB-DEN
-161. [Rashod Bateman](https://www.fantasypros.com/nfl/players/rashod-bateman.php) WR-BAL
-162. [Miles Sanders](https://www.fantasypros.com/nfl/players/miles-sanders.php) RB-CAR
-163. [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) WR-CIN
-164. [Dallas Cowboys](https://www.fantasypros.com/nfl/players/dallas-defense.php) DST-DAL
-165. [Daniel Jones](https://www.fantasypros.com/nfl/players/daniel-jones.php) QB-NYG
-166. [Keon Coleman](https://www.fantasypros.com/nfl/players/keon-coleman.php) WR-FA
+146. [Blake Corum](https://www.fantasypros.com/nfl/players/blake-corum.php) RB-FA
+147. [Tyler Allgeier](https://www.fantasypros.com/nfl/players/tyler-allgeier.php) RB-ATL
+148. [Quentin Johnston](https://www.fantasypros.com/nfl/players/quentin-johnston.php) WR-LAC
+149. [Luke Musgrave](https://www.fantasypros.com/nfl/players/luke-musgrave.php) TE-GB
+150. [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) QB-NO
+151. [Baltimore Ravens](https://www.fantasypros.com/nfl/players/baltimore-defense.php) DST-BAL
+152. [Will Levis](https://www.fantasypros.com/nfl/players/will-levis.php) QB-TEN
+153. [Wan'Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php) WR-NYG
+154. [San Francisco 49ers](https://www.fantasypros.com/nfl/players/san-francisco-defense.php) DST-SF
+155. [Jaleel McLaughlin](https://www.fantasypros.com/nfl/players/jaleel-mclaughlin.php) RB-DEN
+156. [Darren Waller](https://www.fantasypros.com/nfl/players/darren-waller.php) TE-NYG
+157. [Miles Sanders](https://www.fantasypros.com/nfl/players/miles-sanders.php) RB-CAR
+158. [Marvin Mims Jr.](https://www.fantasypros.com/nfl/players/marvin-mims.php) WR-DEN
+159. [Ezekiel Elliott](https://www.fantasypros.com/nfl/players/ezekiel-elliott.php) RB-NE
+160. [AJ Dillon](https://www.fantasypros.com/nfl/players/aj-dillon.php) RB-GB
+161. [Keon Coleman](https://www.fantasypros.com/nfl/players/keon-coleman.php) WR-FA
+162. [Zay Jones](https://www.fantasypros.com/nfl/players/zay-jones.php) WR-JAC
+163. [Daniel Jones](https://www.fantasypros.com/nfl/players/daniel-jones.php) QB-NYG
+164. [Juwan Johnson](https://www.fantasypros.com/nfl/players/juwan-johnson.php) TE-NO
+165. [Dallas Cowboys](https://www.fantasypros.com/nfl/players/dallas-defense.php) DST-DAL
+166. [Dameon Pierce](https://www.fantasypros.com/nfl/players/dameon-pierce.php) RB-HOU
 167. [Darnell Mooney](https://www.fantasypros.com/nfl/players/darnell-mooney.php) WR-ATL
 168. [Tucker Kraft](https://www.fantasypros.com/nfl/players/tucker-kraft.php) TE-GB
-169. [Will Levis](https://www.fantasypros.com/nfl/players/will-levis.php) QB-TEN
-170. [Juwan Johnson](https://www.fantasypros.com/nfl/players/juwan-johnson.php) TE-NO
-171. [Dameon Pierce](https://www.fantasypros.com/nfl/players/dameon-pierce.php) RB-HOU
-172. [Justin Fields](https://www.fantasypros.com/nfl/players/justin-fields.php) QB-PIT
-173. [Cleveland Browns](https://www.fantasypros.com/nfl/players/cleveland-defense.php) DST-CLE
+169. [Rashod Bateman](https://www.fantasypros.com/nfl/players/rashod-bateman.php) WR-BAL
+170. [Adonai Mitchell](https://www.fantasypros.com/nfl/players/adonai-mitchell.php) WR-FA
+171. [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) WR-CIN
+172. [Cleveland Browns](https://www.fantasypros.com/nfl/players/cleveland-defense.php) DST-CLE
+173. [Demario Douglas](https://www.fantasypros.com/nfl/players/demario-douglas.php) WR-NE
 174. [New York Jets](https://www.fantasypros.com/nfl/players/new-york-jets-defense.php) DST-NYJ
-175. [Michael Wilson](https://www.fantasypros.com/nfl/players/michael-wilson.php) WR-ARI
-176. [Buffalo Bills](https://www.fantasypros.com/nfl/players/buffalo-defense.php) DST-BUF
-177. [Justin Tucker](https://www.fantasypros.com/nfl/players/justin-tucker.php) K-BAL
-178. [Miami Dolphins](https://www.fantasypros.com/nfl/players/miami-defense.php) DST-MIA
-179. [Jalin Hyatt](https://www.fantasypros.com/nfl/players/jalin-hyatt.php) WR-NYG
-180. [Jonathan Mingo](https://www.fantasypros.com/nfl/players/jonathan-mingo.php) WR-CAR
-181. [J.K. Dobbins](https://www.fantasypros.com/nfl/players/jk-dobbins.php) RB-FA
-182. [Adonai Mitchell](https://www.fantasypros.com/nfl/players/adonai-mitchell.php) WR-FA
-183. [Kenneth Gainwell](https://www.fantasypros.com/nfl/players/kenneth-gainwell.php) RB-PHI
-184. [Russell Wilson](https://www.fantasypros.com/nfl/players/russell-wilson.php) QB-PIT
-185. [Dontayvion Wicks](https://www.fantasypros.com/nfl/players/dontayvion-wicks.php) WR-GB
-186. [Chigoziem Okonkwo](https://www.fantasypros.com/nfl/players/chigoziem-okonkwo.php) TE-TEN
-187. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
-188. [Philadelphia Eagles](https://www.fantasypros.com/nfl/players/philadelphia-defense.php) DST-PHI
-189. [Brian Thomas Jr.](https://www.fantasypros.com/nfl/players/brian-thomas-jr.php) WR-FA
-190. [Xavier Worthy](https://www.fantasypros.com/nfl/players/xavier-worthy.php) WR-FA
-191. [Kansas City Chiefs](https://www.fantasypros.com/nfl/players/kansas-city-defense.php) DST-KC
-192. [Darius Slayton](https://www.fantasypros.com/nfl/players/darius-slayton.php) WR-NYG
-193. [Keaton Mitchell](https://www.fantasypros.com/nfl/players/keaton-mitchell.php) RB-BAL
-194. [Jason Sanders](https://www.fantasypros.com/nfl/players/jason-sanders.php) K-MIA
-195. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
-196. [Hunter Henry](https://www.fantasypros.com/nfl/players/hunter-henry.php) TE-NE
-197. [New Orleans Saints](https://www.fantasypros.com/nfl/players/new-orleans-defense.php) DST-NO
-198. [Alexander Mattison](https://www.fantasypros.com/nfl/players/alexander-mattison.php) RB-LV
-199. [Harrison Butker](https://www.fantasypros.com/nfl/players/harrison-butker.php) K-KC
-200. [Pittsburgh Steelers](https://www.fantasypros.com/nfl/players/pittsburgh-defense.php) DST-PIT
-201. [Braelon Allen](https://www.fantasypros.com/nfl/players/braelon-allen.php) RB-FA
-202. [Ladd McConkey](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php) WR-FA
-203. [Jake Elliott](https://www.fantasypros.com/nfl/players/jake-elliott.php) K-PHI
-204. [Tyler Bass](https://www.fantasypros.com/nfl/players/tyler-bass.php) K-BUF
-205. [Drake Maye](https://www.fantasypros.com/nfl/players/drake-maye.php) QB-FA
-206. [Odell Beckham Jr.](https://www.fantasypros.com/nfl/players/odell-beckham.php) WR-FA
-207. [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) DST-MIN
-208. [Troy Franklin](https://www.fantasypros.com/nfl/players/troy-franklin.php) WR-FA
-209. [Elijah Mitchell](https://www.fantasypros.com/nfl/players/elijah-mitchell-rb.php) RB-SF
-210. [Cade Otton](https://www.fantasypros.com/nfl/players/cade-otton.php) TE-TB
-211. [Rico Dowdle](https://www.fantasypros.com/nfl/players/rico-dowdle.php) RB-DAL
-212. [Bryce Young](https://www.fantasypros.com/nfl/players/bryce-young.php) QB-CAR
-213. [Chicago Bears](https://www.fantasypros.com/nfl/players/chicago-defense.php) DST-CHI
-214. [Jaylen Wright](https://www.fantasypros.com/nfl/players/jaylen-wright.php) RB-FA
-215. [Jake Moody](https://www.fantasypros.com/nfl/players/jake-moody.php) K-SF
-216. [Younghoe Koo](https://www.fantasypros.com/nfl/players/younghoe-koo.php) K-ATL
-217. [Jonathon Brooks](https://www.fantasypros.com/nfl/players/jonathon-brooks.php) RB-FA
-218. [Jamaal Williams](https://www.fantasypros.com/nfl/players/jamaal-williams.php) RB-NO
-219. [Michael Thomas](https://www.fantasypros.com/nfl/players/michael-thomas-wr.php) WR-NO
-220. [Ka'imi Fairbairn](https://www.fantasypros.com/nfl/players/kaimi-fairbairn.php) K-HOU
-221. [Evan McPherson](https://www.fantasypros.com/nfl/players/evan-mcpherson.php) K-CIN
-222. [Alec Pierce](https://www.fantasypros.com/nfl/players/alec-pierce.php) WR-IND
-223. [Houston Texans](https://www.fantasypros.com/nfl/players/houston-defense.php) DST-HOU
-224. [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-CAR
-225. [Cameron Dicker](https://www.fantasypros.com/nfl/players/cameron-dicker.php) K-LAC
-226. [Ricky Pearsall](https://www.fantasypros.com/nfl/players/ricky-pearsall.php) WR-FA
-227. [Dustin Hopkins](https://www.fantasypros.com/nfl/players/dustin-hopkins.php) K-CLE
-228. [Gerald Everett](https://www.fantasypros.com/nfl/players/gerald-everett.php) TE-CHI
-229. [Denver Broncos](https://www.fantasypros.com/nfl/players/denver-defense.php) DST-DEN
-230. [Ja'Lynn Polk](https://www.fantasypros.com/nfl/players/jalynn-polk.php) WR-FA
-231. [Xavier Legette](https://www.fantasypros.com/nfl/players/xavier-legette.php) WR-FA
-232. [Cedric Tillman](https://www.fantasypros.com/nfl/players/cedric-tillman.php) WR-CLE
-233. [MarShawn Lloyd](https://www.fantasypros.com/nfl/players/marshawn-lloyd.php) RB-FA
-234. [Noah Fant](https://www.fantasypros.com/nfl/players/noah-fant.php) TE-SEA
-235. [Rondale Moore](https://www.fantasypros.com/nfl/players/rondale-moore.php) WR-ATL
-236. [Justice Hill](https://www.fantasypros.com/nfl/players/justice-hill.php) RB-BAL
+175. [Drake Maye](https://www.fantasypros.com/nfl/players/drake-maye.php) QB-FA
+176. [Russell Wilson](https://www.fantasypros.com/nfl/players/russell-wilson.php) QB-PIT
+177. [Miami Dolphins](https://www.fantasypros.com/nfl/players/miami-defense.php) DST-MIA
+178. [Brian Thomas Jr.](https://www.fantasypros.com/nfl/players/brian-thomas-jr.php) WR-FA
+179. [Buffalo Bills](https://www.fantasypros.com/nfl/players/buffalo-defense.php) DST-BUF
+180. [Michael Wilson](https://www.fantasypros.com/nfl/players/michael-wilson.php) WR-ARI
+181. [Chigoziem Okonkwo](https://www.fantasypros.com/nfl/players/chigoziem-okonkwo.php) TE-TEN
+182. [Justin Fields](https://www.fantasypros.com/nfl/players/justin-fields.php) QB-PIT
+183. [Justin Tucker](https://www.fantasypros.com/nfl/players/justin-tucker.php) K-BAL
+184. [Xavier Worthy](https://www.fantasypros.com/nfl/players/xavier-worthy.php) WR-FA
+185. [Kenneth Gainwell](https://www.fantasypros.com/nfl/players/kenneth-gainwell.php) RB-PHI
+186. [Ladd McConkey](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php) WR-FA
+187. [Hunter Henry](https://www.fantasypros.com/nfl/players/hunter-henry.php) TE-NE
+188. [Kansas City Chiefs](https://www.fantasypros.com/nfl/players/kansas-city-defense.php) DST-KC
+189. [Philadelphia Eagles](https://www.fantasypros.com/nfl/players/philadelphia-defense.php) DST-PHI
+190. [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php) K-DAL
+191. [Jalin Hyatt](https://www.fantasypros.com/nfl/players/jalin-hyatt.php) WR-NYG
+192. [Braelon Allen](https://www.fantasypros.com/nfl/players/braelon-allen.php) RB-FA
+193. [Dontayvion Wicks](https://www.fantasypros.com/nfl/players/dontayvion-wicks.php) WR-GB
+194. [New Orleans Saints](https://www.fantasypros.com/nfl/players/new-orleans-defense.php) DST-NO
+195. [Jason Sanders](https://www.fantasypros.com/nfl/players/jason-sanders.php) K-MIA
+196. [J.K. Dobbins](https://www.fantasypros.com/nfl/players/jk-dobbins.php) RB-LAC
+197. [Harrison Butker](https://www.fantasypros.com/nfl/players/harrison-butker.php) K-KC
+198. [Pittsburgh Steelers](https://www.fantasypros.com/nfl/players/pittsburgh-defense.php) DST-PIT
+199. [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) DST-MIN
+200. [Jonathan Mingo](https://www.fantasypros.com/nfl/players/jonathan-mingo.php) WR-CAR
+201. [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) WR-TEN
+202. [Keaton Mitchell](https://www.fantasypros.com/nfl/players/keaton-mitchell.php) RB-BAL
+203. [Darius Slayton](https://www.fantasypros.com/nfl/players/darius-slayton.php) WR-NYG
+204. [Jonathon Brooks](https://www.fantasypros.com/nfl/players/jonathon-brooks.php) RB-FA
+205. [Alexander Mattison](https://www.fantasypros.com/nfl/players/alexander-mattison.php) RB-LV
+206. [Jake Elliott](https://www.fantasypros.com/nfl/players/jake-elliott.php) K-PHI
+207. [Elijah Mitchell](https://www.fantasypros.com/nfl/players/elijah-mitchell-rb.php) RB-SF
+208. [Cade Otton](https://www.fantasypros.com/nfl/players/cade-otton.php) TE-TB
+209. [Tyler Bass](https://www.fantasypros.com/nfl/players/tyler-bass.php) K-BUF
+210. [Troy Franklin](https://www.fantasypros.com/nfl/players/troy-franklin.php) WR-FA
+211. [Chicago Bears](https://www.fantasypros.com/nfl/players/chicago-defense.php) DST-CHI
+212. [Rico Dowdle](https://www.fantasypros.com/nfl/players/rico-dowdle.php) RB-DAL
+213. [Jaylen Wright](https://www.fantasypros.com/nfl/players/jaylen-wright.php) RB-FA
+214. [Bryce Young](https://www.fantasypros.com/nfl/players/bryce-young.php) QB-CAR
+215. [Jamaal Williams](https://www.fantasypros.com/nfl/players/jamaal-williams.php) RB-NO
+216. [Ka'imi Fairbairn](https://www.fantasypros.com/nfl/players/kaimi-fairbairn.php) K-HOU
+217. [Jake Moody](https://www.fantasypros.com/nfl/players/jake-moody.php) K-SF
+218. [Younghoe Koo](https://www.fantasypros.com/nfl/players/younghoe-koo.php) K-ATL
+219. [Houston Texans](https://www.fantasypros.com/nfl/players/houston-defense.php) DST-HOU
+220. [MarShawn Lloyd](https://www.fantasypros.com/nfl/players/marshawn-lloyd.php) RB-FA
+221. [Ricky Pearsall](https://www.fantasypros.com/nfl/players/ricky-pearsall.php) WR-FA
+222. [Evan McPherson](https://www.fantasypros.com/nfl/players/evan-mcpherson.php) K-CIN
+223. [Cameron Dicker](https://www.fantasypros.com/nfl/players/cameron-dicker.php) K-LAC
+224. [Dustin Hopkins](https://www.fantasypros.com/nfl/players/dustin-hopkins.php) K-CLE
+225. [Gerald Everett](https://www.fantasypros.com/nfl/players/gerald-everett.php) TE-CHI
+226. [Odell Beckham Jr.](https://www.fantasypros.com/nfl/players/odell-beckham.php) WR-FA
+227. [Noah Fant](https://www.fantasypros.com/nfl/players/noah-fant.php) TE-SEA
+228. [Alec Pierce](https://www.fantasypros.com/nfl/players/alec-pierce.php) WR-IND
+229. [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) WR-CAR
+230. [Xavier Legette](https://www.fantasypros.com/nfl/players/xavier-legette.php) WR-FA
+231. [Denver Broncos](https://www.fantasypros.com/nfl/players/denver-defense.php) DST-DEN
+232. [Tyler Conklin](https://www.fantasypros.com/nfl/players/tyler-conklin.php) TE-NYJ
+233. [Ja'Lynn Polk](https://www.fantasypros.com/nfl/players/jalynn-polk.php) WR-FA
+234. [Justice Hill](https://www.fantasypros.com/nfl/players/justice-hill.php) RB-BAL
+235. [Michael Thomas](https://www.fantasypros.com/nfl/players/michael-thomas-wr.php) WR-NO
+236. [Clyde Edwards-Helaire](https://www.fantasypros.com/nfl/players/clyde-edwards-helaire.php) RB-KC
 237. [Matt Gay](https://www.fantasypros.com/nfl/players/matt-gay.php) K-IND
 238. [Roman Wilson](https://www.fantasypros.com/nfl/players/roman-wilson.php) WR-FA
-239. [New England Patriots](https://www.fantasypros.com/nfl/players/new-england-defense.php) DST-NE
-240. [Tyler Conklin](https://www.fantasypros.com/nfl/players/tyler-conklin.php) TE-NYJ
-241. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
-242. [Clyde Edwards-Helaire](https://www.fantasypros.com/nfl/players/clyde-edwards-helaire.php) RB-KC
-243. [Jason Myers](https://www.fantasypros.com/nfl/players/jason-myers.php) K-SEA
-244. [K.J. Osborn](https://www.fantasypros.com/nfl/players/kj-osborn.php) WR-NE
-245. [Kendrick Bourne](https://www.fantasypros.com/nfl/players/kendrick-bourne.php) WR-NE
-246. [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) RB-CLE
-247. [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) RB-KC
-248. [Andrei Iosivas](https://www.fantasypros.com/nfl/players/andrei-iosivas.php) WR-CIN
-249. [Michael Gallup](https://www.fantasypros.com/nfl/players/michael-gallup.php) WR-FA
-250. [Devontez Walker](https://www.fantasypros.com/nfl/players/devontez-walker.php) WR-FA
-251. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-ARI
-252. [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) TE-NO
-253. [J.J. McCarthy](https://www.fantasypros.com/nfl/players/jj-mccarthy.php) QB-FA
-254. [Cincinnati Bengals](https://www.fantasypros.com/nfl/players/cincinnati-defense.php) DST-CIN
-255. [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) DST-IND
-256. [Cairo Santos](https://www.fantasypros.com/nfl/players/cairo-santos.php) K-CHI
-257. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-KC
-258. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-MIA
-259. [Israel Abanikanda](https://www.fantasypros.com/nfl/players/israel-abanikanda.php) RB-NYJ
-260. [Tyler Higbee](https://www.fantasypros.com/nfl/players/tyler-higbee.php) TE-LAR
-261. [Bucky Irving](https://www.fantasypros.com/nfl/players/bucky-irving.php) RB-FA
+239. [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) TE-NO
+240. [Rondale Moore](https://www.fantasypros.com/nfl/players/rondale-moore.php) WR-ATL
+241. [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) RB-CLE
+242. [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) RB-KC
+243. [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) RB-ARI
+244. [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) TE-BAL
+245. [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) DST-IND
+246. [Jason Myers](https://www.fantasypros.com/nfl/players/jason-myers.php) K-SEA
+247. [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) RB-MIA
+248. [Cairo Santos](https://www.fantasypros.com/nfl/players/cairo-santos.php) K-CHI
+249. [Cedric Tillman](https://www.fantasypros.com/nfl/players/cedric-tillman.php) WR-CLE
+250. [New England Patriots](https://www.fantasypros.com/nfl/players/new-england-defense.php) DST-NE
+251. [Tyler Higbee](https://www.fantasypros.com/nfl/players/tyler-higbee.php) TE-LAR
+252. [Cincinnati Bengals](https://www.fantasypros.com/nfl/players/cincinnati-defense.php) DST-CIN
+253. [Ja'Tavion Sanders](https://www.fantasypros.com/nfl/players/jatavion-sanders.php) TE-FA
+254. [J.J. McCarthy](https://www.fantasypros.com/nfl/players/jj-mccarthy.php) QB-FA
+255. [Bucky Irving](https://www.fantasypros.com/nfl/players/bucky-irving.php) RB-FA
+256. [Devontez Walker](https://www.fantasypros.com/nfl/players/devontez-walker.php) WR-FA
+257. [K.J. Osborn](https://www.fantasypros.com/nfl/players/kj-osborn.php) WR-NE
+258. [Andrei Iosivas](https://www.fantasypros.com/nfl/players/andrei-iosivas.php) WR-CIN
+259. [Audric Estime](https://www.fantasypros.com/nfl/players/audric-estime.php) RB-FA
+260. [Israel Abanikanda](https://www.fantasypros.com/nfl/players/israel-abanikanda.php) RB-NYJ
+261. [Kendrick Bourne](https://www.fantasypros.com/nfl/players/kendrick-bourne.php) WR-NE
 262. [Samaje Perine](https://www.fantasypros.com/nfl/players/samaje-perine.php) RB-DEN
-263. [Audric Estime](https://www.fantasypros.com/nfl/players/audric-estime.php) RB-FA
-264. [Demarcus Robinson](https://www.fantasypros.com/nfl/players/demarcus-robinson.php) WR-LAR
-265. [Ja'Tavion Sanders](https://www.fantasypros.com/nfl/players/jatavion-sanders.php) TE-FA
-266. [Trey Palmer](https://www.fantasypros.com/nfl/players/trey-palmer.php) WR-TB
-267. [Malachi Corley](https://www.fantasypros.com/nfl/players/malachi-corley.php) WR-FA
-268. [Daniel Carlson](https://www.fantasypros.com/nfl/players/daniel-carlson.php) K-LV
-269. [Blake Grupe](https://www.fantasypros.com/nfl/players/blake-grupe.php) K-NO
-270. [DeVante Parker](https://www.fantasypros.com/nfl/players/devante-parker.php) WR-PHI
-271. [Kareem Hunt](https://www.fantasypros.com/nfl/players/kareem-hunt.php) RB-CLE
-272. [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) WR-HOU
-273. [Tyler Scott](https://www.fantasypros.com/nfl/players/tyler-scott-wr.php) WR-CHI
-274. [Jacksonville Jaguars](https://www.fantasypros.com/nfl/players/jacksonville-defense.php) DST-JAC
-275. [A.T. Perry](https://www.fantasypros.com/nfl/players/at-perry.php) WR-NO
-276. [Dawson Knox](https://www.fantasypros.com/nfl/players/dawson-knox.php) TE-BUF
+263. [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) WR-KC
+264. [Daniel Carlson](https://www.fantasypros.com/nfl/players/daniel-carlson.php) K-LV
+265. [Michael Gallup](https://www.fantasypros.com/nfl/players/michael-gallup.php) WR-FA
+266. [Malachi Corley](https://www.fantasypros.com/nfl/players/malachi-corley.php) WR-FA
+267. [Blake Grupe](https://www.fantasypros.com/nfl/players/blake-grupe.php) K-NO
+268. [Kareem Hunt](https://www.fantasypros.com/nfl/players/kareem-hunt.php) RB-CLE
+269. [Demarcus Robinson](https://www.fantasypros.com/nfl/players/demarcus-robinson.php) WR-LAR
+270. [Trey Palmer](https://www.fantasypros.com/nfl/players/trey-palmer.php) WR-TB
+271. [Mike Gesicki](https://www.fantasypros.com/nfl/players/mike-gesicki.php) TE-CIN
+272. [Tank Bigsby](https://www.fantasypros.com/nfl/players/tank-bigsby.php) RB-JAC
+273. [Dawson Knox](https://www.fantasypros.com/nfl/players/dawson-knox.php) TE-BUF
+274. [DeVante Parker](https://www.fantasypros.com/nfl/players/devante-parker.php) WR-PHI
+275. [Brenden Rice](https://www.fantasypros.com/nfl/players/brenden-rice.php) WR-FA
+276. [Jacksonville Jaguars](https://www.fantasypros.com/nfl/players/jacksonville-defense.php) DST-JAC
 277. [Emari Demercado](https://www.fantasypros.com/nfl/players/emari-demercado.php) RB-ARI
 278. [Evan Hull](https://www.fantasypros.com/nfl/players/evan-hull.php) RB-IND
-279. [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) WR-DEN
-280. [Tank Bigsby](https://www.fantasypros.com/nfl/players/tank-bigsby.php) RB-JAC
-281. [Brenden Rice](https://www.fantasypros.com/nfl/players/brenden-rice.php) WR-FA
-282. [Jacob Cowing](https://www.fantasypros.com/nfl/players/jacob-cowing.php) WR-FA
-283. [Pierre Strong Jr.](https://www.fantasypros.com/nfl/players/pierre-strong-jr.php) RB-CLE
-284. [Michael Penix Jr.](https://www.fantasypros.com/nfl/players/michael-penix-jr.php) QB-FA
-285. [Mike Gesicki](https://www.fantasypros.com/nfl/players/mike-gesicki.php) TE-CIN
-286. [Jalen McMillan](https://www.fantasypros.com/nfl/players/jalen-mcmillan.php) WR-FA
-287. [Dalvin Cook](https://www.fantasypros.com/nfl/players/dalvin-cook.php) RB-BAL
-288. [Ray Davis](https://www.fantasypros.com/nfl/players/ray-davis.php) RB-FA
-289. [Logan Thomas](https://www.fantasypros.com/nfl/players/logan-thomas.php) TE-FA
-290. [Jordan Mason](https://www.fantasypros.com/nfl/players/jordan-mason.php) RB-SF
-291. [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) WR-HOU
-292. [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) WR-FA
-293. [Bo Nix](https://www.fantasypros.com/nfl/players/bo-nix.php) QB-FA
-294. [Will Shipley](https://www.fantasypros.com/nfl/players/will-shipley.php) RB-FA
-295. [Deuce Vaughn](https://www.fantasypros.com/nfl/players/deuce-vaughn.php) RB-DAL
-296. [Detroit Lions](https://www.fantasypros.com/nfl/players/detroit-defense.php) DST-DET
-297. [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php) K-DEN
-298. [Marquez Valdes-Scantling](https://www.fantasypros.com/nfl/players/marquez-valdesscantling.php) WR-FA
-299. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-WAS
-300. [Joshua Kelley](https://www.fantasypros.com/nfl/players/joshua-kelley.php) RB-LAC
-301. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-TB
-302. [Ronnie Rivers](https://www.fantasypros.com/nfl/players/ronnie-rivers.php) RB-LAR
-303. [Greg Dulcich](https://www.fantasypros.com/nfl/players/greg-dulcich.php) TE-DEN
-304. [D'Ernest Johnson](https://www.fantasypros.com/nfl/players/dernest-johnson.php) RB-JAC
-305. [Jelani Woods](https://www.fantasypros.com/nfl/players/jelani-woods.php) TE-IND
-306. [Aidan O'Connell](https://www.fantasypros.com/nfl/players/aidan-oconnell.php) QB-LV
-307. [Las Vegas Raiders](https://www.fantasypros.com/nfl/players/las-vegas-defense.php) DST-LV
-308. [John Metchie III](https://www.fantasypros.com/nfl/players/john-metchie.php) WR-HOU
-309. [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) TE-MIA
-310. [Kenny Pickett](https://www.fantasypros.com/nfl/players/kenny-pickett.php) QB-PHI
-311. [Chris Rodriguez Jr.](https://www.fantasypros.com/nfl/players/chris-rodriguez-jr.php) RB-WAS
-312. [Tutu Atwell](https://www.fantasypros.com/nfl/players/tutu-atwell.php) WR-LAR
-313. [Sam Darnold](https://www.fantasypros.com/nfl/players/sam-darnold.php) QB-MIN
-314. [Isaiah Spiller](https://www.fantasypros.com/nfl/players/isaiah-spiller.php) RB-LAC
-315. [Trey Sermon](https://www.fantasypros.com/nfl/players/trey-sermon.php) RB-IND
-316. [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) RB-PIT
-317. [Cam Akers](https://www.fantasypros.com/nfl/players/cam-akers.php) RB-MIN
-318. [Rashaad Penny](https://www.fantasypros.com/nfl/players/rashaad-penny.php) RB-PHI
-319. [JuJu Smith-Schuster](https://www.fantasypros.com/nfl/players/juju-smith-schuster.php) WR-NE
-320. [Green Bay Packers](https://www.fantasypros.com/nfl/players/green-bay-defense.php) DST-GB
-321. [Greg Zuerlein](https://www.fantasypros.com/nfl/players/greg-zuerlein.php) K-NYJ
-322. [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) WR-NYJ
-323. [Los Angeles Rams](https://www.fantasypros.com/nfl/players/los-angeles-rams-defense.php) DST-LAR
-324. [Matt Breida](https://www.fantasypros.com/nfl/players/matt-breida.php) RB-NYG
-325. [Gardner Minshew II](https://www.fantasypros.com/nfl/players/gardner-minshew.php) QB-LV
-326. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-WAS
-327. [Latavius Murray](https://www.fantasypros.com/nfl/players/latavius-murray.php) RB-BUF
-328. [Tampa Bay Buccaneers](https://www.fantasypros.com/nfl/players/tampa-bay-defense.php) DST-TB
-329. [Greg Dortch](https://www.fantasypros.com/nfl/players/greg-dortch.php) WR-ARI
-330. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-KC
-331. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
-332. [Eric Gray](https://www.fantasypros.com/nfl/players/eric-gray.php) RB-NYG
-333. [Skyy Moore](https://www.fantasypros.com/nfl/players/skyy-moore.php) WR-KC
-334. [Greg Joseph](https://www.fantasypros.com/nfl/players/greg-joseph.php) K-GB
-335. [Sam Howell](https://www.fantasypros.com/nfl/players/sam-howell.php) QB-SEA
+279. [Ray Davis](https://www.fantasypros.com/nfl/players/ray-davis.php) RB-FA
+280. [Pierre Strong Jr.](https://www.fantasypros.com/nfl/players/pierre-strong-jr.php) RB-CLE
+281. [Jalen McMillan](https://www.fantasypros.com/nfl/players/jalen-mcmillan.php) WR-FA
+282. [Michael Penix Jr.](https://www.fantasypros.com/nfl/players/michael-penix-jr.php) QB-FA
+283. [Dalvin Cook](https://www.fantasypros.com/nfl/players/dalvin-cook.php) RB-BAL
+284. [Bo Nix](https://www.fantasypros.com/nfl/players/bo-nix.php) QB-FA
+285. [A.T. Perry](https://www.fantasypros.com/nfl/players/at-perry.php) WR-NO
+286. [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) WR-HOU
+287. [Logan Thomas](https://www.fantasypros.com/nfl/players/logan-thomas.php) TE-FA
+288. [Jacob Cowing](https://www.fantasypros.com/nfl/players/jacob-cowing.php) WR-FA
+289. [Jordan Mason](https://www.fantasypros.com/nfl/players/jordan-mason.php) RB-SF
+290. [Tyler Scott](https://www.fantasypros.com/nfl/players/tyler-scott-wr.php) WR-CHI
+291. [Will Shipley](https://www.fantasypros.com/nfl/players/will-shipley.php) RB-FA
+292. [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) WR-DEN
+293. [Deuce Vaughn](https://www.fantasypros.com/nfl/players/deuce-vaughn.php) RB-DAL
+294. [Detroit Lions](https://www.fantasypros.com/nfl/players/detroit-defense.php) DST-DET
+295. [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) RB-TB
+296. [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) WR-FA
+297. [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) WR-HOU
+298. [Jelani Woods](https://www.fantasypros.com/nfl/players/jelani-woods.php) TE-IND
+299. [Joshua Kelley](https://www.fantasypros.com/nfl/players/joshua-kelley.php) RB-LAC
+300. [D'Ernest Johnson](https://www.fantasypros.com/nfl/players/dernest-johnson.php) RB-JAC
+301. [Ronnie Rivers](https://www.fantasypros.com/nfl/players/ronnie-rivers.php) RB-LAR
+302. [Sam Darnold](https://www.fantasypros.com/nfl/players/sam-darnold.php) QB-MIN
+303. [Marquez Valdes-Scantling](https://www.fantasypros.com/nfl/players/marquez-valdesscantling.php) WR-FA
+304. [Aidan O'Connell](https://www.fantasypros.com/nfl/players/aidan-oconnell.php) QB-LV
+305. [Isaiah Spiller](https://www.fantasypros.com/nfl/players/isaiah-spiller.php) RB-LAC
+306. [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) RB-PIT
+307. [Trey Sermon](https://www.fantasypros.com/nfl/players/trey-sermon.php) RB-IND
+308. [Chris Rodriguez Jr.](https://www.fantasypros.com/nfl/players/chris-rodriguez-jr.php) RB-WAS
+309. [Rashaad Penny](https://www.fantasypros.com/nfl/players/rashaad-penny.php) RB-PHI
+310. [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php) K-DEN
+311. [Greg Dulcich](https://www.fantasypros.com/nfl/players/greg-dulcich.php) TE-DEN
+312. [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php) K-WAS
+313. [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) TE-MIA
+314. [Cam Akers](https://www.fantasypros.com/nfl/players/cam-akers.php) RB-MIN
+315. [Matt Breida](https://www.fantasypros.com/nfl/players/matt-breida.php) RB-NYG
+316. [Latavius Murray](https://www.fantasypros.com/nfl/players/latavius-murray.php) RB-BUF
+317. [Kenny Pickett](https://www.fantasypros.com/nfl/players/kenny-pickett.php) QB-PHI
+318. [Las Vegas Raiders](https://www.fantasypros.com/nfl/players/las-vegas-defense.php) DST-LV
+319. [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) RB-KC
+320. [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) RB-MIA
+321. [Gardner Minshew II](https://www.fantasypros.com/nfl/players/gardner-minshew.php) QB-LV
+322. [Greg Dortch](https://www.fantasypros.com/nfl/players/greg-dortch.php) WR-ARI
+323. [Eric Gray](https://www.fantasypros.com/nfl/players/eric-gray.php) RB-NYG
+324. [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) TE-WAS
+325. [Greg Zuerlein](https://www.fantasypros.com/nfl/players/greg-zuerlein.php) K-NYJ
+326. [Tutu Atwell](https://www.fantasypros.com/nfl/players/tutu-atwell.php) WR-LAR
+327. [Jermaine Burton](https://www.fantasypros.com/nfl/players/jermaine-burton.php) WR-FA
+328. [Green Bay Packers](https://www.fantasypros.com/nfl/players/green-bay-defense.php) DST-GB
+329. [Dylan Laube](https://www.fantasypros.com/nfl/players/dylan-laube.php) RB-FA
+330. [John Metchie III](https://www.fantasypros.com/nfl/players/john-metchie.php) WR-HOU
+331. [JuJu Smith-Schuster](https://www.fantasypros.com/nfl/players/juju-smith-schuster.php) WR-NE
+332. [Atlanta Falcons](https://www.fantasypros.com/nfl/players/atlanta-defense.php) DST-ATL
+333. [Tre Tucker](https://www.fantasypros.com/nfl/players/tre-tucker.php) WR-LV
+334. [Tampa Bay Buccaneers](https://www.fantasypros.com/nfl/players/tampa-bay-defense.php) DST-TB
+335. [Jacoby Brissett](https://www.fantasypros.com/nfl/players/jacoby-brissett.php) QB-NE
 336. [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) DST-CAR
 337. [Seattle Seahawks](https://www.fantasypros.com/nfl/players/seattle-defense.php) DST-SEA
-338. [Atlanta Falcons](https://www.fantasypros.com/nfl/players/atlanta-defense.php) DST-ATL
-339. [Donovan Peoples-Jones](https://www.fantasypros.com/nfl/players/donovan-peoples-jones.php) WR-DET
-340. [Xavier Hutchinson](https://www.fantasypros.com/nfl/players/xavier-hutchinson.php) WR-HOU
-341. [Jermaine Burton](https://www.fantasypros.com/nfl/players/jermaine-burton.php) WR-FA
-342. [Dylan Laube](https://www.fantasypros.com/nfl/players/dylan-laube.php) RB-FA
-343. [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php) K-PIT
-344. [Tre Tucker](https://www.fantasypros.com/nfl/players/tre-tucker.php) WR-LV
-345. [Jacoby Brissett](https://www.fantasypros.com/nfl/players/jacoby-brissett.php) QB-NE
-346. [Javon Baker](https://www.fantasypros.com/nfl/players/javon-baker.php) WR-FA
-347. [Graham Gano](https://www.fantasypros.com/nfl/players/graham-gano.php) K-NYG
-348. [Justin Watson](https://www.fantasypros.com/nfl/players/justin-watson.php) WR-KC
-349. [Parker Washington](https://www.fantasypros.com/nfl/players/parker-washington.php) WR-JAC
-350. [Michael Badgley](https://www.fantasypros.com/nfl/players/michael-badgley.php) K-DET
+338. [Los Angeles Rams](https://www.fantasypros.com/nfl/players/los-angeles-rams-defense.php) DST-LAR
+339. [Javon Baker](https://www.fantasypros.com/nfl/players/javon-baker.php) WR-FA
+340. [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) WR-NYJ
+341. [Bo Melton](https://www.fantasypros.com/nfl/players/bo-melton.php) WR-GB
+342. [Donovan Peoples-Jones](https://www.fantasypros.com/nfl/players/donovan-peoples-jones.php) WR-DET
+343. [Greg Joseph](https://www.fantasypros.com/nfl/players/greg-joseph.php) K-GB
+344. [Kimani Vidal](https://www.fantasypros.com/nfl/players/kimani-vidal.php) RB-FA
+345. [Craig Reynolds](https://www.fantasypros.com/nfl/players/craig-reynolds.php) RB-DET
+346. [Malik Washington](https://www.fantasypros.com/nfl/players/malik-washington.php) WR-FA
+347. [Parker Washington](https://www.fantasypros.com/nfl/players/parker-washington.php) WR-JAC
+348. [Sam Howell](https://www.fantasypros.com/nfl/players/sam-howell.php) QB-SEA
+349. [Skyy Moore](https://www.fantasypros.com/nfl/players/skyy-moore.php) WR-KC
+350. [Tanner Hudson](https://www.fantasypros.com/nfl/players/tanner-hudson.php) TE-CIN
 
 
 ## Position Ranks
@@ -362,122 +362,122 @@ The file contains the K rankings. This includes theoverall rankings as well as t
  | [Breece Hall](https://www.fantasypros.com/nfl/players/breece-hall.php) | [Tyreek Hill](https://www.fantasypros.com/nfl/players/tyreek-hill.php) | [Jalen Hurts](https://www.fantasypros.com/nfl/players/jalen-hurts.php) | [Travis Kelce](https://www.fantasypros.com/nfl/players/travis-kelce.php) | [San Francisco 49ers](https://www.fantasypros.com/nfl/players/san-francisco-defense.php) | [Brandon Aubrey](https://www.fantasypros.com/nfl/players/brandon-aubrey.php)
  | [Bijan Robinson](https://www.fantasypros.com/nfl/players/bijan-robinson.php) | [Ja'Marr Chase](https://www.fantasypros.com/nfl/players/jamarr-chase.php) | [Lamar Jackson](https://www.fantasypros.com/nfl/players/lamar-jackson.php) | [Trey McBride](https://www.fantasypros.com/nfl/players/trey-mcbride.php) | [Dallas Cowboys](https://www.fantasypros.com/nfl/players/dallas-defense.php) | [Jason Sanders](https://www.fantasypros.com/nfl/players/jason-sanders.php)
  | [Jahmyr Gibbs](https://www.fantasypros.com/nfl/players/jahmyr-gibbs.php) | [Justin Jefferson](https://www.fantasypros.com/nfl/players/justin-jefferson.php) | [Patrick Mahomes II](https://www.fantasypros.com/nfl/players/patrick-mahomes.php) | [Mark Andrews](https://www.fantasypros.com/nfl/players/mark-andrews.php) | [Cleveland Browns](https://www.fantasypros.com/nfl/players/cleveland-defense.php) | [Harrison Butker](https://www.fantasypros.com/nfl/players/harrison-butker.php)
- | [Jonathan Taylor](https://www.fantasypros.com/nfl/players/jonathan-taylor.php) | [Amon-Ra St. Brown](https://www.fantasypros.com/nfl/players/amonra-stbrown.php) | [C.J. Stroud](https://www.fantasypros.com/nfl/players/cj-stroud.php) | [Evan Engram](https://www.fantasypros.com/nfl/players/evan-engram.php) | [New York Jets](https://www.fantasypros.com/nfl/players/new-york-jets-defense.php) | [Jake Elliott](https://www.fantasypros.com/nfl/players/jake-elliott.php)
- | [Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php) | [Garrett Wilson](https://www.fantasypros.com/nfl/players/garrett-wilson.php) | [Anthony Richardson](https://www.fantasypros.com/nfl/players/anthony-richardson.php) | [George Kittle](https://www.fantasypros.com/nfl/players/george-kittle.php) | [Buffalo Bills](https://www.fantasypros.com/nfl/players/buffalo-defense.php) | [Tyler Bass](https://www.fantasypros.com/nfl/players/tyler-bass.php)
- | [Kyren Williams](https://www.fantasypros.com/nfl/players/kyren-williams.php) | [A.J. Brown](https://www.fantasypros.com/nfl/players/aj-brown.php) | [Dak Prescott](https://www.fantasypros.com/nfl/players/dak-prescott.php) | [Dalton Kincaid](https://www.fantasypros.com/nfl/players/dalton-kincaid.php) | [Miami Dolphins](https://www.fantasypros.com/nfl/players/miami-defense.php) | [Jake Moody](https://www.fantasypros.com/nfl/players/jake-moody.php)
- | [Travis Etienne Jr.](https://www.fantasypros.com/nfl/players/travis-etienne.php) | [Puka Nacua](https://www.fantasypros.com/nfl/players/puka-nacua.php) | [Joe Burrow](https://www.fantasypros.com/nfl/players/joe-burrow.php) | [David Njoku](https://www.fantasypros.com/nfl/players/david-njoku.php) | [Philadelphia Eagles](https://www.fantasypros.com/nfl/players/philadelphia-defense.php) | [Younghoe Koo](https://www.fantasypros.com/nfl/players/younghoe-koo.php)
- | [Rachaad White](https://www.fantasypros.com/nfl/players/rachaad-white.php) | [Davante Adams](https://www.fantasypros.com/nfl/players/davante-adams.php) | [Jordan Love](https://www.fantasypros.com/nfl/players/jordan-love.php) | [Brock Bowers](https://www.fantasypros.com/nfl/players/brock-bowers.php) | [Kansas City Chiefs](https://www.fantasypros.com/nfl/players/kansas-city-defense.php) | [Ka'imi Fairbairn](https://www.fantasypros.com/nfl/players/kaimi-fairbairn.php)
- | [Josh Jacobs](https://www.fantasypros.com/nfl/players/josh-jacobs.php) | [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) | [Kyler Murray](https://www.fantasypros.com/nfl/players/kyler-murray.php) | [Kyle Pitts](https://www.fantasypros.com/nfl/players/kyle-pitts.php) | [New Orleans Saints](https://www.fantasypros.com/nfl/players/new-orleans-defense.php) | [Evan McPherson](https://www.fantasypros.com/nfl/players/evan-mcpherson.php)
+ | [Jonathan Taylor](https://www.fantasypros.com/nfl/players/jonathan-taylor.php) | [Amon-Ra St. Brown](https://www.fantasypros.com/nfl/players/amonra-stbrown.php) | [C.J. Stroud](https://www.fantasypros.com/nfl/players/cj-stroud.php) | [Dalton Kincaid](https://www.fantasypros.com/nfl/players/dalton-kincaid.php) | [New York Jets](https://www.fantasypros.com/nfl/players/new-york-jets-defense.php) | [Jake Elliott](https://www.fantasypros.com/nfl/players/jake-elliott.php)
+ | [Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php) | [Garrett Wilson](https://www.fantasypros.com/nfl/players/garrett-wilson.php) | [Anthony Richardson](https://www.fantasypros.com/nfl/players/anthony-richardson.php) | [Evan Engram](https://www.fantasypros.com/nfl/players/evan-engram.php) | [Miami Dolphins](https://www.fantasypros.com/nfl/players/miami-defense.php) | [Tyler Bass](https://www.fantasypros.com/nfl/players/tyler-bass.php)
+ | [Kyren Williams](https://www.fantasypros.com/nfl/players/kyren-williams.php) | [A.J. Brown](https://www.fantasypros.com/nfl/players/aj-brown.php) | [Dak Prescott](https://www.fantasypros.com/nfl/players/dak-prescott.php) | [George Kittle](https://www.fantasypros.com/nfl/players/george-kittle.php) | [Buffalo Bills](https://www.fantasypros.com/nfl/players/buffalo-defense.php) | [Ka'imi Fairbairn](https://www.fantasypros.com/nfl/players/kaimi-fairbairn.php)
+ | [Travis Etienne Jr.](https://www.fantasypros.com/nfl/players/travis-etienne.php) | [Puka Nacua](https://www.fantasypros.com/nfl/players/puka-nacua.php) | [Joe Burrow](https://www.fantasypros.com/nfl/players/joe-burrow.php) | [David Njoku](https://www.fantasypros.com/nfl/players/david-njoku.php) | [Kansas City Chiefs](https://www.fantasypros.com/nfl/players/kansas-city-defense.php) | [Jake Moody](https://www.fantasypros.com/nfl/players/jake-moody.php)
+ | [Josh Jacobs](https://www.fantasypros.com/nfl/players/josh-jacobs.php) | [Davante Adams](https://www.fantasypros.com/nfl/players/davante-adams.php) | [Kyler Murray](https://www.fantasypros.com/nfl/players/kyler-murray.php) | [Kyle Pitts](https://www.fantasypros.com/nfl/players/kyle-pitts.php) | [Philadelphia Eagles](https://www.fantasypros.com/nfl/players/philadelphia-defense.php) | [Younghoe Koo](https://www.fantasypros.com/nfl/players/younghoe-koo.php)
+ | [Rachaad White](https://www.fantasypros.com/nfl/players/rachaad-white.php) | [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php) | [Jordan Love](https://www.fantasypros.com/nfl/players/jordan-love.php) | [Brock Bowers](https://www.fantasypros.com/nfl/players/brock-bowers.php) | [New Orleans Saints](https://www.fantasypros.com/nfl/players/new-orleans-defense.php) | [Evan McPherson](https://www.fantasypros.com/nfl/players/evan-mcpherson.php)
  | [Isiah Pacheco](https://www.fantasypros.com/nfl/players/isiah-pacheco.php) | [Brandon Aiyuk](https://www.fantasypros.com/nfl/players/brandon-aiyuk.php) | [Brock Purdy](https://www.fantasypros.com/nfl/players/brock-purdy.php) | [Dallas Goedert](https://www.fantasypros.com/nfl/players/dallas-goedert.php) | [Pittsburgh Steelers](https://www.fantasypros.com/nfl/players/pittsburgh-defense.php) | [Cameron Dicker](https://www.fantasypros.com/nfl/players/cameron-dicker.php)
- | [De'Von Achane](https://www.fantasypros.com/nfl/players/devon-achane.php) | [Michael Pittman Jr.](https://www.fantasypros.com/nfl/players/michael-pittman.php) | [Justin Herbert](https://www.fantasypros.com/nfl/players/justin-herbert.php) | [Jake Ferguson](https://www.fantasypros.com/nfl/players/jake-ferguson.php) | [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) | [Dustin Hopkins](https://www.fantasypros.com/nfl/players/dustin-hopkins.php)
- | [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) | [DJ Moore](https://www.fantasypros.com/nfl/players/dj-moore-wr.php) | [Tua Tagovailoa](https://www.fantasypros.com/nfl/players/tua-tagovailoa.php) | [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) | [Chicago Bears](https://www.fantasypros.com/nfl/players/chicago-defense.php) | [Matt Gay](https://www.fantasypros.com/nfl/players/matt-gay.php)
- | [Derrick Henry](https://www.fantasypros.com/nfl/players/derrick-henry.php) | [Nico Collins](https://www.fantasypros.com/nfl/players/nico-collins.php) | [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php) | [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) | [Houston Texans](https://www.fantasypros.com/nfl/players/houston-defense.php) | [Jason Myers](https://www.fantasypros.com/nfl/players/jason-myers.php)
- | [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) | [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) | [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) | [Pat Freiermuth](https://www.fantasypros.com/nfl/players/pat-freiermuth.php) | [Denver Broncos](https://www.fantasypros.com/nfl/players/denver-defense.php) | [Cairo Santos](https://www.fantasypros.com/nfl/players/cairo-santos.php)
- | [Alvin Kamara](https://www.fantasypros.com/nfl/players/alvin-kamara.php) | [Deebo Samuel](https://www.fantasypros.com/nfl/players/deebo-samuel.php) | [Jared Goff](https://www.fantasypros.com/nfl/players/jared-goff.php) | [Dalton Schultz](https://www.fantasypros.com/nfl/players/dalton-schultz.php) | [New England Patriots](https://www.fantasypros.com/nfl/players/new-england-defense.php) | [Daniel Carlson](https://www.fantasypros.com/nfl/players/daniel-carlson.php)
- | [Joe Mixon](https://www.fantasypros.com/nfl/players/joe-mixon.php) | [Mike Evans](https://www.fantasypros.com/nfl/players/mike-evans.php) | [Matthew Stafford](https://www.fantasypros.com/nfl/players/matthew-stafford.php) | [Michael Mayer](https://www.fantasypros.com/nfl/players/michael-mayer.php) | [Cincinnati Bengals](https://www.fantasypros.com/nfl/players/cincinnati-defense.php) | [Blake Grupe](https://www.fantasypros.com/nfl/players/blake-grupe.php)
- | [Aaron Jones](https://www.fantasypros.com/nfl/players/aaron-jones.php) | [Jaylen Waddle](https://www.fantasypros.com/nfl/players/jaylen-waddle.php) | [Caleb Williams](https://www.fantasypros.com/nfl/players/caleb-williams.php) | [Luke Musgrave](https://www.fantasypros.com/nfl/players/luke-musgrave.php) | [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) | [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php)
- | [Rhamondre Stevenson](https://www.fantasypros.com/nfl/players/rhamondre-stevenson.php) | [Rashee Rice](https://www.fantasypros.com/nfl/players/rashee-rice.php) | [Deshaun Watson](https://www.fantasypros.com/nfl/players/deshaun-watson.php) | [Darren Waller](https://www.fantasypros.com/nfl/players/darren-waller.php) | [Jacksonville Jaguars](https://www.fantasypros.com/nfl/players/jacksonville-defense.php) | [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php)
- | [David Montgomery](https://www.fantasypros.com/nfl/players/david-montgomery.php) | [Stefon Diggs](https://www.fantasypros.com/nfl/players/stefon-diggs.php) | [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) | [Tucker Kraft](https://www.fantasypros.com/nfl/players/tucker-kraft.php) | [Detroit Lions](https://www.fantasypros.com/nfl/players/detroit-defense.php) | [Greg Zuerlein](https://www.fantasypros.com/nfl/players/greg-zuerlein.php)
- | [James Conner](https://www.fantasypros.com/nfl/players/james-conner.php) | [Keenan Allen](https://www.fantasypros.com/nfl/players/keenan-allen.php) | [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) | [Juwan Johnson](https://www.fantasypros.com/nfl/players/juwan-johnson.php) | [Las Vegas Raiders](https://www.fantasypros.com/nfl/players/las-vegas-defense.php) | [Greg Joseph](https://www.fantasypros.com/nfl/players/greg-joseph.php)
- | [Tony Pollard](https://www.fantasypros.com/nfl/players/tony-pollard.php) | [DK Metcalf](https://www.fantasypros.com/nfl/players/dk-metcalf.php) | [Jayden Daniels](https://www.fantasypros.com/nfl/players/jayden-daniels.php) | [Chigoziem Okonkwo](https://www.fantasypros.com/nfl/players/chigoziem-okonkwo.php) | [Green Bay Packers](https://www.fantasypros.com/nfl/players/green-bay-defense.php) | [Chris Boswell](https://www.fantasypros.com/nfl/players/chris-boswell.php)
- | [D'Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php) | [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) | [Geno Smith](https://www.fantasypros.com/nfl/players/geno-smith.php) | [Hunter Henry](https://www.fantasypros.com/nfl/players/hunter-henry.php) | [Los Angeles Rams](https://www.fantasypros.com/nfl/players/los-angeles-rams-defense.php) | [Graham Gano](https://www.fantasypros.com/nfl/players/graham-gano.php)
- | [Javonte Williams](https://www.fantasypros.com/nfl/players/javonte-williams.php) | [Cooper Kupp](https://www.fantasypros.com/nfl/players/cooper-kupp.php) | [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) | [Cade Otton](https://www.fantasypros.com/nfl/players/cade-otton.php) | [Tampa Bay Buccaneers](https://www.fantasypros.com/nfl/players/tampa-bay-defense.php) | [Michael Badgley](https://www.fantasypros.com/nfl/players/michael-badgley.php)
- | [Najee Harris](https://www.fantasypros.com/nfl/players/najee-harris-rb.php) | [Marvin Harrison Jr.](https://www.fantasypros.com/nfl/players/marvin-harrison-jr.php) | [Daniel Jones](https://www.fantasypros.com/nfl/players/daniel-jones.php) | [Gerald Everett](https://www.fantasypros.com/nfl/players/gerald-everett.php) | [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) | -
- | [Nick Chubb](https://www.fantasypros.com/nfl/players/nick-chubb.php) | [Amari Cooper](https://www.fantasypros.com/nfl/players/amari-cooper.php) | [Will Levis](https://www.fantasypros.com/nfl/players/will-levis.php) | [Noah Fant](https://www.fantasypros.com/nfl/players/noah-fant.php) | [Seattle Seahawks](https://www.fantasypros.com/nfl/players/seattle-defense.php) | -
- | [Tyjae Spears](https://www.fantasypros.com/nfl/players/tyjae-spears.php) | [Tank Dell](https://www.fantasypros.com/nfl/players/nathaniel-dell.php) | [Justin Fields](https://www.fantasypros.com/nfl/players/justin-fields.php) | [Tyler Conklin](https://www.fantasypros.com/nfl/players/tyler-conklin.php) | [Atlanta Falcons](https://www.fantasypros.com/nfl/players/atlanta-defense.php) | -
- | [Jaylen Warren](https://www.fantasypros.com/nfl/players/jaylen-warren.php) | [Zay Flowers](https://www.fantasypros.com/nfl/players/zay-flowers.php) | [Russell Wilson](https://www.fantasypros.com/nfl/players/russell-wilson.php) | [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) | - | -
- | [Austin Ekeler](https://www.fantasypros.com/nfl/players/austin-ekeler.php) | [Tee Higgins](https://www.fantasypros.com/nfl/players/tee-higgins.php) | [Drake Maye](https://www.fantasypros.com/nfl/players/drake-maye.php) | [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) | - | -
- | [Zamir White](https://www.fantasypros.com/nfl/players/zamir-white.php) | [Christian Kirk](https://www.fantasypros.com/nfl/players/christian-kirk.php) | [Bryce Young](https://www.fantasypros.com/nfl/players/bryce-young.php) | [Tyler Higbee](https://www.fantasypros.com/nfl/players/tyler-higbee.php) | - | -
+ | [De'Von Achane](https://www.fantasypros.com/nfl/players/devon-achane.php) | [Michael Pittman Jr.](https://www.fantasypros.com/nfl/players/michael-pittman.php) | [Tua Tagovailoa](https://www.fantasypros.com/nfl/players/tua-tagovailoa.php) | [Jake Ferguson](https://www.fantasypros.com/nfl/players/jake-ferguson.php) | [Minnesota Vikings](https://www.fantasypros.com/nfl/players/minnesota-defense.php) | [Dustin Hopkins](https://www.fantasypros.com/nfl/players/dustin-hopkins.php)
+ | [Derrick Henry](https://www.fantasypros.com/nfl/players/derrick-henry.php) | [DJ Moore](https://www.fantasypros.com/nfl/players/dj-moore-wr.php) | [Justin Herbert](https://www.fantasypros.com/nfl/players/justin-herbert.php) | [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) | [Chicago Bears](https://www.fantasypros.com/nfl/players/chicago-defense.php) | [Matt Gay](https://www.fantasypros.com/nfl/players/matt-gay.php)
+ | [James Cook](https://www.fantasypros.com/nfl/players/james-cook.php) | [Drake London](https://www.fantasypros.com/nfl/players/drake-london.php) | [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php) | [Cole Kmet](https://www.fantasypros.com/nfl/players/cole-kmet.php) | [Houston Texans](https://www.fantasypros.com/nfl/players/houston-defense.php) | [Jason Myers](https://www.fantasypros.com/nfl/players/jason-myers.php)
+ | [Alvin Kamara](https://www.fantasypros.com/nfl/players/alvin-kamara.php) | [Deebo Samuel](https://www.fantasypros.com/nfl/players/deebo-samuel.php) | [Jared Goff](https://www.fantasypros.com/nfl/players/jared-goff.php) | [Pat Freiermuth](https://www.fantasypros.com/nfl/players/pat-freiermuth.php) | [Denver Broncos](https://www.fantasypros.com/nfl/players/denver-defense.php) | [Cairo Santos](https://www.fantasypros.com/nfl/players/cairo-santos.php)
+ | [Joe Mixon](https://www.fantasypros.com/nfl/players/joe-mixon.php) | [Mike Evans](https://www.fantasypros.com/nfl/players/mike-evans.php) | [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php) | [Dalton Schultz](https://www.fantasypros.com/nfl/players/dalton-schultz.php) | [Indianapolis Colts](https://www.fantasypros.com/nfl/players/indianapolis-defense.php) | [Daniel Carlson](https://www.fantasypros.com/nfl/players/daniel-carlson.php)
+ | [Kenneth Walker III](https://www.fantasypros.com/nfl/players/kenneth-walker-rb.php) | [Nico Collins](https://www.fantasypros.com/nfl/players/nico-collins.php) | [Caleb Williams](https://www.fantasypros.com/nfl/players/caleb-williams.php) | [Michael Mayer](https://www.fantasypros.com/nfl/players/michael-mayer.php) | [New England Patriots](https://www.fantasypros.com/nfl/players/new-england-defense.php) | [Blake Grupe](https://www.fantasypros.com/nfl/players/blake-grupe.php)
+ | [Aaron Jones](https://www.fantasypros.com/nfl/players/aaron-jones.php) | [Jaylen Waddle](https://www.fantasypros.com/nfl/players/jaylen-waddle.php) | [Matthew Stafford](https://www.fantasypros.com/nfl/players/matthew-stafford.php) | [Luke Musgrave](https://www.fantasypros.com/nfl/players/luke-musgrave.php) | [Cincinnati Bengals](https://www.fantasypros.com/nfl/players/cincinnati-defense.php) | [Wil Lutz](https://www.fantasypros.com/nfl/players/wil-lutz.php)
+ | [Rhamondre Stevenson](https://www.fantasypros.com/nfl/players/rhamondre-stevenson.php) | [Stefon Diggs](https://www.fantasypros.com/nfl/players/stefon-diggs.php) | [Jayden Daniels](https://www.fantasypros.com/nfl/players/jayden-daniels.php) | [Darren Waller](https://www.fantasypros.com/nfl/players/darren-waller.php) | [Jacksonville Jaguars](https://www.fantasypros.com/nfl/players/jacksonville-defense.php) | [Brandon McManus](https://www.fantasypros.com/nfl/players/brandon-mcmanus.php)
+ | [James Conner](https://www.fantasypros.com/nfl/players/james-conner.php) | [Rashee Rice](https://www.fantasypros.com/nfl/players/rashee-rice.php) | [Deshaun Watson](https://www.fantasypros.com/nfl/players/deshaun-watson.php) | [Juwan Johnson](https://www.fantasypros.com/nfl/players/juwan-johnson.php) | [Detroit Lions](https://www.fantasypros.com/nfl/players/detroit-defense.php) | [Greg Zuerlein](https://www.fantasypros.com/nfl/players/greg-zuerlein.php)
+ | [David Montgomery](https://www.fantasypros.com/nfl/players/david-montgomery.php) | [Marvin Harrison Jr.](https://www.fantasypros.com/nfl/players/marvin-harrison-jr.php) | [Aaron Rodgers](https://www.fantasypros.com/nfl/players/aaron-rodgers.php) | [Tucker Kraft](https://www.fantasypros.com/nfl/players/tucker-kraft.php) | [Las Vegas Raiders](https://www.fantasypros.com/nfl/players/las-vegas-defense.php) | [Greg Joseph](https://www.fantasypros.com/nfl/players/greg-joseph.php)
+ | [Tony Pollard](https://www.fantasypros.com/nfl/players/tony-pollard.php) | [DK Metcalf](https://www.fantasypros.com/nfl/players/dk-metcalf.php) | [Baker Mayfield](https://www.fantasypros.com/nfl/players/baker-mayfield.php) | [Chigoziem Okonkwo](https://www.fantasypros.com/nfl/players/chigoziem-okonkwo.php) | [Green Bay Packers](https://www.fantasypros.com/nfl/players/green-bay-defense.php) | -
+ | [D'Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php) | [Keenan Allen](https://www.fantasypros.com/nfl/players/keenan-allen.php) | [Geno Smith](https://www.fantasypros.com/nfl/players/geno-smith.php) | [Hunter Henry](https://www.fantasypros.com/nfl/players/hunter-henry.php) | [Atlanta Falcons](https://www.fantasypros.com/nfl/players/atlanta-defense.php) | -
+ | [Javonte Williams](https://www.fantasypros.com/nfl/players/javonte-williams.php) | [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) | [Derek Carr](https://www.fantasypros.com/nfl/players/derek-carr.php) | [Cade Otton](https://www.fantasypros.com/nfl/players/cade-otton.php) | [Tampa Bay Buccaneers](https://www.fantasypros.com/nfl/players/tampa-bay-defense.php) | -
+ | [Najee Harris](https://www.fantasypros.com/nfl/players/najee-harris-rb.php) | [Cooper Kupp](https://www.fantasypros.com/nfl/players/cooper-kupp.php) | [Will Levis](https://www.fantasypros.com/nfl/players/will-levis.php) | [Gerald Everett](https://www.fantasypros.com/nfl/players/gerald-everett.php) | [Carolina Panthers](https://www.fantasypros.com/nfl/players/carolina-defense.php) | -
+ | [Jaylen Warren](https://www.fantasypros.com/nfl/players/jaylen-warren.php) | [Amari Cooper](https://www.fantasypros.com/nfl/players/amari-cooper.php) | [Daniel Jones](https://www.fantasypros.com/nfl/players/daniel-jones.php) | [Noah Fant](https://www.fantasypros.com/nfl/players/noah-fant.php) | [Seattle Seahawks](https://www.fantasypros.com/nfl/players/seattle-defense.php) | -
+ | [Nick Chubb](https://www.fantasypros.com/nfl/players/nick-chubb.php) | [Zay Flowers](https://www.fantasypros.com/nfl/players/zay-flowers.php) | [Drake Maye](https://www.fantasypros.com/nfl/players/drake-maye.php) | [Tyler Conklin](https://www.fantasypros.com/nfl/players/tyler-conklin.php) | [Los Angeles Rams](https://www.fantasypros.com/nfl/players/los-angeles-rams-defense.php) | -
+ | [Tyjae Spears](https://www.fantasypros.com/nfl/players/tyjae-spears.php) | [Tank Dell](https://www.fantasypros.com/nfl/players/nathaniel-dell.php) | [Russell Wilson](https://www.fantasypros.com/nfl/players/russell-wilson.php) | [Taysom Hill](https://www.fantasypros.com/nfl/players/taysom-hill.php) | - | -
+ | [Austin Ekeler](https://www.fantasypros.com/nfl/players/austin-ekeler.php) | [Christian Kirk](https://www.fantasypros.com/nfl/players/christian-kirk.php) | [Justin Fields](https://www.fantasypros.com/nfl/players/justin-fields.php) | [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) | - | -
+ | [Zamir White](https://www.fantasypros.com/nfl/players/zamir-white.php) | [Tee Higgins](https://www.fantasypros.com/nfl/players/tee-higgins.php) | [Bryce Young](https://www.fantasypros.com/nfl/players/bryce-young.php) | [Tyler Higbee](https://www.fantasypros.com/nfl/players/tyler-higbee.php) | - | -
  | [Brian Robinson Jr.](https://www.fantasypros.com/nfl/players/brian-robinson-jr.php) | [George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php) | [J.J. McCarthy](https://www.fantasypros.com/nfl/players/jj-mccarthy.php) | [Ja'Tavion Sanders](https://www.fantasypros.com/nfl/players/jatavion-sanders.php) | - | -
- | [Raheem Mostert](https://www.fantasypros.com/nfl/players/raheem-mostert.php) | [Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php) | [Michael Penix Jr.](https://www.fantasypros.com/nfl/players/michael-penix-jr.php) | [Dawson Knox](https://www.fantasypros.com/nfl/players/dawson-knox.php) | - | -
- | [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php) | [Calvin Ridley](https://www.fantasypros.com/nfl/players/calvin-ridley.php) | [Bo Nix](https://www.fantasypros.com/nfl/players/bo-nix.php) | [Mike Gesicki](https://www.fantasypros.com/nfl/players/mike-gesicki.php) | - | -
- | [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php) | [Chris Godwin](https://www.fantasypros.com/nfl/players/chris-godwin.php) | [Aidan O'Connell](https://www.fantasypros.com/nfl/players/aidan-oconnell.php) | [Logan Thomas](https://www.fantasypros.com/nfl/players/logan-thomas.php) | - | -
- | [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) | [Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php) | [Kenny Pickett](https://www.fantasypros.com/nfl/players/kenny-pickett.php) | [Greg Dulcich](https://www.fantasypros.com/nfl/players/greg-dulcich.php) | - | -
- | [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) | [Jaxon Smith-Njigba](https://www.fantasypros.com/nfl/players/jaxon-smith-njigba.php) | [Sam Darnold](https://www.fantasypros.com/nfl/players/sam-darnold.php) | [Jelani Woods](https://www.fantasypros.com/nfl/players/jelani-woods.php) | - | -
- | [Chase Brown](https://www.fantasypros.com/nfl/players/chase-brown.php) | [Jordan Addison](https://www.fantasypros.com/nfl/players/jordan-addison.php) | [Gardner Minshew II](https://www.fantasypros.com/nfl/players/gardner-minshew.php) | [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) | - | -
- | [Roschon Johnson](https://www.fantasypros.com/nfl/players/roschon-johnson.php) | [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) | [Sam Howell](https://www.fantasypros.com/nfl/players/sam-howell.php) | [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) | - | -
- | [Jerome Ford](https://www.fantasypros.com/nfl/players/jerome-ford.php) | [Jayden Reed](https://www.fantasypros.com/nfl/players/jayden-reed.php) | [Jacoby Brissett](https://www.fantasypros.com/nfl/players/jacoby-brissett.php) | - | - | -
- | [Gus Edwards](https://www.fantasypros.com/nfl/players/gus-edwards.php) | [Rome Odunze](https://www.fantasypros.com/nfl/players/rome-odunze.php) | - | - | - | -
- | [Antonio Gibson](https://www.fantasypros.com/nfl/players/antonio-gibson.php) | [Marquise Brown](https://www.fantasypros.com/nfl/players/marquise-brown.php) | - | - | - | -
+ | [Raheem Mostert](https://www.fantasypros.com/nfl/players/raheem-mostert.php) | [Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php) | [Michael Penix Jr.](https://www.fantasypros.com/nfl/players/michael-penix-jr.php) | [Mike Gesicki](https://www.fantasypros.com/nfl/players/mike-gesicki.php) | - | -
+ | [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php) | [Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php) | [Bo Nix](https://www.fantasypros.com/nfl/players/bo-nix.php) | [Dawson Knox](https://www.fantasypros.com/nfl/players/dawson-knox.php) | - | -
+ | [Zack Moss](https://www.fantasypros.com/nfl/players/zack-moss.php) | [Calvin Ridley](https://www.fantasypros.com/nfl/players/calvin-ridley.php) | [Sam Darnold](https://www.fantasypros.com/nfl/players/sam-darnold.php) | [Logan Thomas](https://www.fantasypros.com/nfl/players/logan-thomas.php) | - | -
+ | [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php) | [Chris Godwin](https://www.fantasypros.com/nfl/players/chris-godwin.php) | [Aidan O'Connell](https://www.fantasypros.com/nfl/players/aidan-oconnell.php) | [Jelani Woods](https://www.fantasypros.com/nfl/players/jelani-woods.php) | - | -
+ | [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php) | [DeAndre Hopkins](https://www.fantasypros.com/nfl/players/deandre-hopkins.php) | [Kenny Pickett](https://www.fantasypros.com/nfl/players/kenny-pickett.php) | [Greg Dulcich](https://www.fantasypros.com/nfl/players/greg-dulcich.php) | - | -
+ | [Chase Brown](https://www.fantasypros.com/nfl/players/chase-brown.php) | [Jaxon Smith-Njigba](https://www.fantasypros.com/nfl/players/jaxon-smith-njigba.php) | [Gardner Minshew II](https://www.fantasypros.com/nfl/players/gardner-minshew.php) | [Jonnu Smith](https://www.fantasypros.com/nfl/players/jonnu-smith.php) | - | -
+ | [Gus Edwards](https://www.fantasypros.com/nfl/players/gus-edwards.php) | [Jordan Addison](https://www.fantasypros.com/nfl/players/jordan-addison.php) | [Jacoby Brissett](https://www.fantasypros.com/nfl/players/jacoby-brissett.php) | [Zach Ertz](https://www.fantasypros.com/nfl/players/zach-ertz.php) | - | -
+ | [Roschon Johnson](https://www.fantasypros.com/nfl/players/roschon-johnson.php) | [Rome Odunze](https://www.fantasypros.com/nfl/players/rome-odunze.php) | [Sam Howell](https://www.fantasypros.com/nfl/players/sam-howell.php) | [Tanner Hudson](https://www.fantasypros.com/nfl/players/tanner-hudson.php) | - | -
+ | [Antonio Gibson](https://www.fantasypros.com/nfl/players/antonio-gibson.php) | [Jayden Reed](https://www.fantasypros.com/nfl/players/jayden-reed.php) | - | - | - | -
+ | [Jerome Ford](https://www.fantasypros.com/nfl/players/jerome-ford.php) | [Marquise Brown](https://www.fantasypros.com/nfl/players/marquise-brown.php) | - | - | - | -
  | [Khalil Herbert](https://www.fantasypros.com/nfl/players/khalil-herbert.php) | [Diontae Johnson](https://www.fantasypros.com/nfl/players/diontae-johnson.php) | - | - | - | -
  | [Ty Chandler](https://www.fantasypros.com/nfl/players/ty-chandler.php) | [Tyler Lockett](https://www.fantasypros.com/nfl/players/tyler-lockett.php) | - | - | - | -
  | [Kendre Miller](https://www.fantasypros.com/nfl/players/kendre-miller.php) | [Courtland Sutton](https://www.fantasypros.com/nfl/players/courtland-sutton.php) | - | - | - | -
- | [Tyler Allgeier](https://www.fantasypros.com/nfl/players/tyler-allgeier.php) | [Christian Watson](https://www.fantasypros.com/nfl/players/christian-watson.php) | - | - | - | -
+ | [Trey Benson](https://www.fantasypros.com/nfl/players/trey-benson.php) | [Christian Watson](https://www.fantasypros.com/nfl/players/christian-watson.php) | - | - | - | -
  | [Blake Corum](https://www.fantasypros.com/nfl/players/blake-corum.php) | [Mike Williams](https://www.fantasypros.com/nfl/players/mike-williams-wr.php) | - | - | - | -
- | [Trey Benson](https://www.fantasypros.com/nfl/players/trey-benson.php) | [Josh Downs](https://www.fantasypros.com/nfl/players/josh-downs.php) | - | - | - | -
- | [AJ Dillon](https://www.fantasypros.com/nfl/players/aj-dillon.php) | [Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php) | - | - | - | -
- | [Ezekiel Elliott](https://www.fantasypros.com/nfl/players/ezekiel-elliott.php) | [Romeo Doubs](https://www.fantasypros.com/nfl/players/romeo-doubs.php) | - | - | - | -
- | [Jaleel McLaughlin](https://www.fantasypros.com/nfl/players/jaleel-mclaughlin.php) | [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) | - | - | - | -
- | [Miles Sanders](https://www.fantasypros.com/nfl/players/miles-sanders.php) | [Adam Thielen](https://www.fantasypros.com/nfl/players/adam-thielen.php) | - | - | - | -
- | [Dameon Pierce](https://www.fantasypros.com/nfl/players/dameon-pierce.php) | [Jerry Jeudy](https://www.fantasypros.com/nfl/players/jerry-jeudy.php) | - | - | - | -
- | [J.K. Dobbins](https://www.fantasypros.com/nfl/players/jk-dobbins.php) | [Gabe Davis](https://www.fantasypros.com/nfl/players/gabriel-davis.php) | - | - | - | -
- | [Kenneth Gainwell](https://www.fantasypros.com/nfl/players/kenneth-gainwell.php) | [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) | - | - | - | -
- | [Keaton Mitchell](https://www.fantasypros.com/nfl/players/keaton-mitchell.php) | [Brandin Cooks](https://www.fantasypros.com/nfl/players/brandin-cooks.php) | - | - | - | -
- | [Alexander Mattison](https://www.fantasypros.com/nfl/players/alexander-mattison.php) | [Joshua Palmer](https://www.fantasypros.com/nfl/players/josh-palmer.php) | - | - | - | -
+ | [Tyler Allgeier](https://www.fantasypros.com/nfl/players/tyler-allgeier.php) | [Josh Downs](https://www.fantasypros.com/nfl/players/josh-downs.php) | - | - | - | -
+ | [Jaleel McLaughlin](https://www.fantasypros.com/nfl/players/jaleel-mclaughlin.php) | [Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php) | - | - | - | -
+ | [Miles Sanders](https://www.fantasypros.com/nfl/players/miles-sanders.php) | [Romeo Doubs](https://www.fantasypros.com/nfl/players/romeo-doubs.php) | - | - | - | -
+ | [Ezekiel Elliott](https://www.fantasypros.com/nfl/players/ezekiel-elliott.php) | [Jameson Williams](https://www.fantasypros.com/nfl/players/jameson-williams.php) | - | - | - | -
+ | [AJ Dillon](https://www.fantasypros.com/nfl/players/aj-dillon.php) | [Jerry Jeudy](https://www.fantasypros.com/nfl/players/jerry-jeudy.php) | - | - | - | -
+ | [Dameon Pierce](https://www.fantasypros.com/nfl/players/dameon-pierce.php) | [Adam Thielen](https://www.fantasypros.com/nfl/players/adam-thielen.php) | - | - | - | -
+ | [Kenneth Gainwell](https://www.fantasypros.com/nfl/players/kenneth-gainwell.php) | [Gabe Davis](https://www.fantasypros.com/nfl/players/gabriel-davis.php) | - | - | - | -
  | [Braelon Allen](https://www.fantasypros.com/nfl/players/braelon-allen.php) | [Curtis Samuel](https://www.fantasypros.com/nfl/players/curtis-samuel.php) | - | - | - | -
+ | [J.K. Dobbins](https://www.fantasypros.com/nfl/players/jk-dobbins.php) | [Jahan Dotson](https://www.fantasypros.com/nfl/players/jahan-dotson.php) | - | - | - | -
+ | [Keaton Mitchell](https://www.fantasypros.com/nfl/players/keaton-mitchell.php) | [Brandin Cooks](https://www.fantasypros.com/nfl/players/brandin-cooks.php) | - | - | - | -
+ | [Jonathon Brooks](https://www.fantasypros.com/nfl/players/jonathon-brooks.php) | [Joshua Palmer](https://www.fantasypros.com/nfl/players/josh-palmer.php) | - | - | - | -
+ | [Alexander Mattison](https://www.fantasypros.com/nfl/players/alexander-mattison.php) | [Elijah Moore](https://www.fantasypros.com/nfl/players/elijah-moore.php) | - | - | - | -
  | [Elijah Mitchell](https://www.fantasypros.com/nfl/players/elijah-mitchell-rb.php) | [Rashid Shaheed](https://www.fantasypros.com/nfl/players/rashid-shaheed.php) | - | - | - | -
- | [Rico Dowdle](https://www.fantasypros.com/nfl/players/rico-dowdle.php) | [Elijah Moore](https://www.fantasypros.com/nfl/players/elijah-moore.php) | - | - | - | -
+ | [Rico Dowdle](https://www.fantasypros.com/nfl/players/rico-dowdle.php) | [Khalil Shakir](https://www.fantasypros.com/nfl/players/khalil-shakir.php) | - | - | - | -
  | [Jaylen Wright](https://www.fantasypros.com/nfl/players/jaylen-wright.php) | [Quentin Johnston](https://www.fantasypros.com/nfl/players/quentin-johnston.php) | - | - | - | -
- | [Jonathon Brooks](https://www.fantasypros.com/nfl/players/jonathon-brooks.php) | [Wan'Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php) | - | - | - | -
- | [Jamaal Williams](https://www.fantasypros.com/nfl/players/jamaal-williams.php) | [Khalil Shakir](https://www.fantasypros.com/nfl/players/khalil-shakir.php) | - | - | - | -
+ | [Jamaal Williams](https://www.fantasypros.com/nfl/players/jamaal-williams.php) | [Wan'Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php) | - | - | - | -
  | [MarShawn Lloyd](https://www.fantasypros.com/nfl/players/marshawn-lloyd.php) | [Marvin Mims Jr.](https://www.fantasypros.com/nfl/players/marvin-mims.php) | - | - | - | -
- | [Justice Hill](https://www.fantasypros.com/nfl/players/justice-hill.php) | [Demario Douglas](https://www.fantasypros.com/nfl/players/demario-douglas.php) | - | - | - | -
+ | [Justice Hill](https://www.fantasypros.com/nfl/players/justice-hill.php) | [Keon Coleman](https://www.fantasypros.com/nfl/players/keon-coleman.php) | - | - | - | -
  | [Clyde Edwards-Helaire](https://www.fantasypros.com/nfl/players/clyde-edwards-helaire.php) | [Zay Jones](https://www.fantasypros.com/nfl/players/zay-jones.php) | - | - | - | -
- | [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) | [Rashod Bateman](https://www.fantasypros.com/nfl/players/rashod-bateman.php) | - | - | - | -
- | [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) | [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) | - | - | - | -
- | [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) | [Keon Coleman](https://www.fantasypros.com/nfl/players/keon-coleman.php) | - | - | - | -
- | [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) | [Darnell Mooney](https://www.fantasypros.com/nfl/players/darnell-mooney.php) | - | - | - | -
+ | [D'Onta Foreman](https://www.fantasypros.com/nfl/players/donta-foreman.php) | [Darnell Mooney](https://www.fantasypros.com/nfl/players/darnell-mooney.php) | - | - | - | -
+ | [Jerick McKinnon](https://www.fantasypros.com/nfl/players/jerick-mckinnon.php) | [Rashod Bateman](https://www.fantasypros.com/nfl/players/rashod-bateman.php) | - | - | - | -
+ | [Michael Carter](https://www.fantasypros.com/nfl/players/michael-carter-rb.php) | [Adonai Mitchell](https://www.fantasypros.com/nfl/players/adonai-mitchell.php) | - | - | - | -
+ | [Jeff Wilson Jr.](https://www.fantasypros.com/nfl/players/jeffery-wilson.php) | [Tyler Boyd](https://www.fantasypros.com/nfl/players/tyler-boyd.php) | - | - | - | -
+ | [Bucky Irving](https://www.fantasypros.com/nfl/players/bucky-irving.php) | [Demario Douglas](https://www.fantasypros.com/nfl/players/demario-douglas.php) | - | - | - | -
+ | [Audric Estime](https://www.fantasypros.com/nfl/players/audric-estime.php) | [Brian Thomas Jr.](https://www.fantasypros.com/nfl/players/brian-thomas-jr.php) | - | - | - | -
  | [Israel Abanikanda](https://www.fantasypros.com/nfl/players/israel-abanikanda.php) | [Michael Wilson](https://www.fantasypros.com/nfl/players/michael-wilson.php) | - | - | - | -
- | [Bucky Irving](https://www.fantasypros.com/nfl/players/bucky-irving.php) | [Jalin Hyatt](https://www.fantasypros.com/nfl/players/jalin-hyatt.php) | - | - | - | -
- | [Samaje Perine](https://www.fantasypros.com/nfl/players/samaje-perine.php) | [Jonathan Mingo](https://www.fantasypros.com/nfl/players/jonathan-mingo.php) | - | - | - | -
- | [Audric Estime](https://www.fantasypros.com/nfl/players/audric-estime.php) | [Adonai Mitchell](https://www.fantasypros.com/nfl/players/adonai-mitchell.php) | - | - | - | -
- | [Kareem Hunt](https://www.fantasypros.com/nfl/players/kareem-hunt.php) | [Dontayvion Wicks](https://www.fantasypros.com/nfl/players/dontayvion-wicks.php) | - | - | - | -
- | [Emari Demercado](https://www.fantasypros.com/nfl/players/emari-demercado.php) | [Brian Thomas Jr.](https://www.fantasypros.com/nfl/players/brian-thomas-jr.php) | - | - | - | -
- | [Evan Hull](https://www.fantasypros.com/nfl/players/evan-hull.php) | [Xavier Worthy](https://www.fantasypros.com/nfl/players/xavier-worthy.php) | - | - | - | -
- | [Tank Bigsby](https://www.fantasypros.com/nfl/players/tank-bigsby.php) | [Darius Slayton](https://www.fantasypros.com/nfl/players/darius-slayton.php) | - | - | - | -
- | [Pierre Strong Jr.](https://www.fantasypros.com/nfl/players/pierre-strong-jr.php) | [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) | - | - | - | -
- | [Dalvin Cook](https://www.fantasypros.com/nfl/players/dalvin-cook.php) | [Ladd McConkey](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php) | - | - | - | -
- | [Ray Davis](https://www.fantasypros.com/nfl/players/ray-davis.php) | [Odell Beckham Jr.](https://www.fantasypros.com/nfl/players/odell-beckham.php) | - | - | - | -
- | [Jordan Mason](https://www.fantasypros.com/nfl/players/jordan-mason.php) | [Troy Franklin](https://www.fantasypros.com/nfl/players/troy-franklin.php) | - | - | - | -
- | [Will Shipley](https://www.fantasypros.com/nfl/players/will-shipley.php) | [Michael Thomas](https://www.fantasypros.com/nfl/players/michael-thomas-wr.php) | - | - | - | -
+ | [Samaje Perine](https://www.fantasypros.com/nfl/players/samaje-perine.php) | [Xavier Worthy](https://www.fantasypros.com/nfl/players/xavier-worthy.php) | - | - | - | -
+ | [Kareem Hunt](https://www.fantasypros.com/nfl/players/kareem-hunt.php) | [Ladd McConkey](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php) | - | - | - | -
+ | [Tank Bigsby](https://www.fantasypros.com/nfl/players/tank-bigsby.php) | [Jalin Hyatt](https://www.fantasypros.com/nfl/players/jalin-hyatt.php) | - | - | - | -
+ | [Emari Demercado](https://www.fantasypros.com/nfl/players/emari-demercado.php) | [Dontayvion Wicks](https://www.fantasypros.com/nfl/players/dontayvion-wicks.php) | - | - | - | -
+ | [Evan Hull](https://www.fantasypros.com/nfl/players/evan-hull.php) | [Jonathan Mingo](https://www.fantasypros.com/nfl/players/jonathan-mingo.php) | - | - | - | -
+ | [Ray Davis](https://www.fantasypros.com/nfl/players/ray-davis.php) | [Treylon Burks](https://www.fantasypros.com/nfl/players/treylon-burks.php) | - | - | - | -
+ | [Pierre Strong Jr.](https://www.fantasypros.com/nfl/players/pierre-strong-jr.php) | [Darius Slayton](https://www.fantasypros.com/nfl/players/darius-slayton.php) | - | - | - | -
+ | [Dalvin Cook](https://www.fantasypros.com/nfl/players/dalvin-cook.php) | [Troy Franklin](https://www.fantasypros.com/nfl/players/troy-franklin.php) | - | - | - | -
+ | [Jordan Mason](https://www.fantasypros.com/nfl/players/jordan-mason.php) | [Ricky Pearsall](https://www.fantasypros.com/nfl/players/ricky-pearsall.php) | - | - | - | -
+ | [Will Shipley](https://www.fantasypros.com/nfl/players/will-shipley.php) | [Odell Beckham Jr.](https://www.fantasypros.com/nfl/players/odell-beckham.php) | - | - | - | -
  | [Deuce Vaughn](https://www.fantasypros.com/nfl/players/deuce-vaughn.php) | [Alec Pierce](https://www.fantasypros.com/nfl/players/alec-pierce.php) | - | - | - | -
- | [Joshua Kelley](https://www.fantasypros.com/nfl/players/joshua-kelley.php) | [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) | - | - | - | -
- | [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) | [Ricky Pearsall](https://www.fantasypros.com/nfl/players/ricky-pearsall.php) | - | - | - | -
- | [Ronnie Rivers](https://www.fantasypros.com/nfl/players/ronnie-rivers.php) | [Ja'Lynn Polk](https://www.fantasypros.com/nfl/players/jalynn-polk.php) | - | - | - | -
- | [D'Ernest Johnson](https://www.fantasypros.com/nfl/players/dernest-johnson.php) | [Xavier Legette](https://www.fantasypros.com/nfl/players/xavier-legette.php) | - | - | - | -
- | [Chris Rodriguez Jr.](https://www.fantasypros.com/nfl/players/chris-rodriguez-jr.php) | [Cedric Tillman](https://www.fantasypros.com/nfl/players/cedric-tillman.php) | - | - | - | -
- | [Isaiah Spiller](https://www.fantasypros.com/nfl/players/isaiah-spiller.php) | [Rondale Moore](https://www.fantasypros.com/nfl/players/rondale-moore.php) | - | - | - | -
- | [Trey Sermon](https://www.fantasypros.com/nfl/players/trey-sermon.php) | [Roman Wilson](https://www.fantasypros.com/nfl/players/roman-wilson.php) | - | - | - | -
- | [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) | [K.J. Osborn](https://www.fantasypros.com/nfl/players/kj-osborn.php) | - | - | - | -
- | [Cam Akers](https://www.fantasypros.com/nfl/players/cam-akers.php) | [Kendrick Bourne](https://www.fantasypros.com/nfl/players/kendrick-bourne.php) | - | - | - | -
- | [Rashaad Penny](https://www.fantasypros.com/nfl/players/rashaad-penny.php) | [Andrei Iosivas](https://www.fantasypros.com/nfl/players/andrei-iosivas.php) | - | - | - | -
- | [Matt Breida](https://www.fantasypros.com/nfl/players/matt-breida.php) | [Michael Gallup](https://www.fantasypros.com/nfl/players/michael-gallup.php) | - | - | - | -
- | [Latavius Murray](https://www.fantasypros.com/nfl/players/latavius-murray.php) | [Devontez Walker](https://www.fantasypros.com/nfl/players/devontez-walker.php) | - | - | - | -
- | [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) | [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) | - | - | - | -
- | [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) | [Demarcus Robinson](https://www.fantasypros.com/nfl/players/demarcus-robinson.php) | - | - | - | -
- | [Eric Gray](https://www.fantasypros.com/nfl/players/eric-gray.php) | [Trey Palmer](https://www.fantasypros.com/nfl/players/trey-palmer.php) | - | - | - | -
- | [Dylan Laube](https://www.fantasypros.com/nfl/players/dylan-laube.php) | [Malachi Corley](https://www.fantasypros.com/nfl/players/malachi-corley.php) | - | - | - | -
- | - | [DeVante Parker](https://www.fantasypros.com/nfl/players/devante-parker.php) | - | - | - | -
- | - | [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) | - | - | - | -
- | - | [Tyler Scott](https://www.fantasypros.com/nfl/players/tyler-scott-wr.php) | - | - | - | -
- | - | [A.T. Perry](https://www.fantasypros.com/nfl/players/at-perry.php) | - | - | - | -
- | - | [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) | - | - | - | -
- | - | [Brenden Rice](https://www.fantasypros.com/nfl/players/brenden-rice.php) | - | - | - | -
- | - | [Jacob Cowing](https://www.fantasypros.com/nfl/players/jacob-cowing.php) | - | - | - | -
+ | [Chase Edmonds](https://www.fantasypros.com/nfl/players/chase-edmonds.php) | [DJ Chark Jr.](https://www.fantasypros.com/nfl/players/dj-chark.php) | - | - | - | -
+ | [Joshua Kelley](https://www.fantasypros.com/nfl/players/joshua-kelley.php) | [Xavier Legette](https://www.fantasypros.com/nfl/players/xavier-legette.php) | - | - | - | -
+ | [D'Ernest Johnson](https://www.fantasypros.com/nfl/players/dernest-johnson.php) | [Ja'Lynn Polk](https://www.fantasypros.com/nfl/players/jalynn-polk.php) | - | - | - | -
+ | [Ronnie Rivers](https://www.fantasypros.com/nfl/players/ronnie-rivers.php) | [Michael Thomas](https://www.fantasypros.com/nfl/players/michael-thomas-wr.php) | - | - | - | -
+ | [Isaiah Spiller](https://www.fantasypros.com/nfl/players/isaiah-spiller.php) | [Roman Wilson](https://www.fantasypros.com/nfl/players/roman-wilson.php) | - | - | - | -
+ | [Cordarrelle Patterson](https://www.fantasypros.com/nfl/players/cordarrelle-patterson.php) | [Rondale Moore](https://www.fantasypros.com/nfl/players/rondale-moore.php) | - | - | - | -
+ | [Trey Sermon](https://www.fantasypros.com/nfl/players/trey-sermon.php) | [Cedric Tillman](https://www.fantasypros.com/nfl/players/cedric-tillman.php) | - | - | - | -
+ | [Chris Rodriguez Jr.](https://www.fantasypros.com/nfl/players/chris-rodriguez-jr.php) | [Devontez Walker](https://www.fantasypros.com/nfl/players/devontez-walker.php) | - | - | - | -
+ | [Rashaad Penny](https://www.fantasypros.com/nfl/players/rashaad-penny.php) | [K.J. Osborn](https://www.fantasypros.com/nfl/players/kj-osborn.php) | - | - | - | -
+ | [Cam Akers](https://www.fantasypros.com/nfl/players/cam-akers.php) | [Andrei Iosivas](https://www.fantasypros.com/nfl/players/andrei-iosivas.php) | - | - | - | -
+ | [Matt Breida](https://www.fantasypros.com/nfl/players/matt-breida.php) | [Kendrick Bourne](https://www.fantasypros.com/nfl/players/kendrick-bourne.php) | - | - | - | -
+ | [Latavius Murray](https://www.fantasypros.com/nfl/players/latavius-murray.php) | [Kadarius Toney](https://www.fantasypros.com/nfl/players/kadarius-toney.php) | - | - | - | -
+ | [Keaontay Ingram](https://www.fantasypros.com/nfl/players/keaontay-ingram.php) | [Michael Gallup](https://www.fantasypros.com/nfl/players/michael-gallup.php) | - | - | - | -
+ | [Salvon Ahmed](https://www.fantasypros.com/nfl/players/salvon-ahmed.php) | [Malachi Corley](https://www.fantasypros.com/nfl/players/malachi-corley.php) | - | - | - | -
+ | [Eric Gray](https://www.fantasypros.com/nfl/players/eric-gray.php) | [Demarcus Robinson](https://www.fantasypros.com/nfl/players/demarcus-robinson.php) | - | - | - | -
+ | [Dylan Laube](https://www.fantasypros.com/nfl/players/dylan-laube.php) | [Trey Palmer](https://www.fantasypros.com/nfl/players/trey-palmer.php) | - | - | - | -
+ | [Kimani Vidal](https://www.fantasypros.com/nfl/players/kimani-vidal.php) | [DeVante Parker](https://www.fantasypros.com/nfl/players/devante-parker.php) | - | - | - | -
+ | [Craig Reynolds](https://www.fantasypros.com/nfl/players/craig-reynolds.php) | [Brenden Rice](https://www.fantasypros.com/nfl/players/brenden-rice.php) | - | - | - | -
  | - | [Jalen McMillan](https://www.fantasypros.com/nfl/players/jalen-mcmillan.php) | - | - | - | -
- | - | [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) | - | - | - | -
+ | - | [A.T. Perry](https://www.fantasypros.com/nfl/players/at-perry.php) | - | - | - | -
+ | - | [Noah Brown](https://www.fantasypros.com/nfl/players/noah-brown.php) | - | - | - | -
+ | - | [Jacob Cowing](https://www.fantasypros.com/nfl/players/jacob-cowing.php) | - | - | - | -
+ | - | [Tyler Scott](https://www.fantasypros.com/nfl/players/tyler-scott-wr.php) | - | - | - | -
+ | - | [Josh Reynolds](https://www.fantasypros.com/nfl/players/josh-reynolds.php) | - | - | - | -
  | - | [Hunter Renfrow](https://www.fantasypros.com/nfl/players/hunter-renfrow.php) | - | - | - | -
+ | - | [Robert Woods](https://www.fantasypros.com/nfl/players/robert-woods.php) | - | - | - | -
  | - | [Marquez Valdes-Scantling](https://www.fantasypros.com/nfl/players/marquez-valdesscantling.php) | - | - | - | -
- | - | [John Metchie III](https://www.fantasypros.com/nfl/players/john-metchie.php) | - | - | - | -
- | - | [Tutu Atwell](https://www.fantasypros.com/nfl/players/tutu-atwell.php) | - | - | - | -
- | - | [JuJu Smith-Schuster](https://www.fantasypros.com/nfl/players/juju-smith-schuster.php) | - | - | - | -
- | - | [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) | - | - | - | -
  | - | [Greg Dortch](https://www.fantasypros.com/nfl/players/greg-dortch.php) | - | - | - | -
- | - | [Skyy Moore](https://www.fantasypros.com/nfl/players/skyy-moore.php) | - | - | - | -
- | - | [Donovan Peoples-Jones](https://www.fantasypros.com/nfl/players/donovan-peoples-jones.php) | - | - | - | -
- | - | [Xavier Hutchinson](https://www.fantasypros.com/nfl/players/xavier-hutchinson.php) | - | - | - | -
+ | - | [Tutu Atwell](https://www.fantasypros.com/nfl/players/tutu-atwell.php) | - | - | - | -
  | - | [Jermaine Burton](https://www.fantasypros.com/nfl/players/jermaine-burton.php) | - | - | - | -
+ | - | [John Metchie III](https://www.fantasypros.com/nfl/players/john-metchie.php) | - | - | - | -
+ | - | [JuJu Smith-Schuster](https://www.fantasypros.com/nfl/players/juju-smith-schuster.php) | - | - | - | -
  | - | [Tre Tucker](https://www.fantasypros.com/nfl/players/tre-tucker.php) | - | - | - | -
  | - | [Javon Baker](https://www.fantasypros.com/nfl/players/javon-baker.php) | - | - | - | -
- | - | [Justin Watson](https://www.fantasypros.com/nfl/players/justin-watson.php) | - | - | - | -
+ | - | [Allen Lazard](https://www.fantasypros.com/nfl/players/allen-lazard.php) | - | - | - | -
+ | - | [Bo Melton](https://www.fantasypros.com/nfl/players/bo-melton.php) | - | - | - | -
+ | - | [Donovan Peoples-Jones](https://www.fantasypros.com/nfl/players/donovan-peoples-jones.php) | - | - | - | -
+ | - | [Malik Washington](https://www.fantasypros.com/nfl/players/malik-washington.php) | - | - | - | -
  | - | [Parker Washington](https://www.fantasypros.com/nfl/players/parker-washington.php) | - | - | - | -
+ | - | [Skyy Moore](https://www.fantasypros.com/nfl/players/skyy-moore.php) | - | - | - | -

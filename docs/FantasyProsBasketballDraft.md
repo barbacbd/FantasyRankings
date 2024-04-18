@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Basketball Draft Rankings
 
-The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 4/11/2024.
+The data contained in this file is the result of scraping fantasy basketball draft ranking information from Fantasy Pros on 4/18/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -477,7 +477,7 @@ All information contained in this file should be utilized with caution as the ra
 465. [Justinian Jessup](https://www.fantasypros.com/nba/players/justinian-jessup.php) SG-GSW
 466. [Justise Winslow](https://www.fantasypros.com/nba/players/justise-winslow.php) PF,SF-FA
 467. [Kendall Brown](https://www.fantasypros.com/nba/players/kendall-brown.php) SF,SG-IND
-468. [Kai Jones](https://www.fantasypros.com/nba/players/kai-jones.php) C,PF-FA
+468. [Kai Jones](https://www.fantasypros.com/nba/players/kai-jones.php) C,PF-LAC
 469. [Keon Johnson](https://www.fantasypros.com/nba/players/keon-johnson.php) PG,SG-PHO
 470. [Kessler Edwards](https://www.fantasypros.com/nba/players/kessler-edwards.php) SF,SG-SAC
 471. [Kevin Knox II](https://www.fantasypros.com/nba/players/kevin-knox.php) SF,PF-FA
