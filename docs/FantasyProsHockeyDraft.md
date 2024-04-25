@@ -1,6 +1,6 @@
 ## Fantasy Pros Fantasy Hockey Draft Rankings
 
-The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 4/18/2024.
+The data contained in this file is the result of scraping fantasy hockey draft ranking information from Fantasy Pros on 4/25/2024.
 
 All information contained in this file should be utilized with caution as the rankings may change at the discretion of Fantasy Pros. Information is only considered valid at the time that the information is scraped.
 
@@ -319,7 +319,7 @@ All information contained in this file should be utilized with caution as the ra
 307. [Frank Vatrano](https://www.fantasypros.com/nhl/adp/frank-vatrano.php) RW-ANA
 308. [Daniel Sprong](https://www.fantasypros.com/nhl/adp/daniel-sprong.php) RW-DET
 309. [Conor Garland](https://www.fantasypros.com/nhl/adp/conor-garland.php) RW-VAN
-310. [Pavel Francouz](https://www.fantasypros.com/nhl/adp/pavel-francouz.php) G-COL
+310. [Pavel](https://www.fantasypros.com/nhl/adp/pavel-francouz.php) G-Francouz
 311. [Jake Allen](https://www.fantasypros.com/nhl/adp/jake-allen.php) G-NJ
 312. [Martin Jones](https://www.fantasypros.com/nhl/adp/martin-jones.php) G-TOR
 
@@ -372,7 +372,7 @@ All information contained in this file should be utilized with caution as the ra
  | [Brock Nelson](https://www.fantasypros.com/nhl/adp/brock-nelson.php) | [Daniel Sprong](https://www.fantasypros.com/nhl/adp/daniel-sprong.php) | [Victor Olofsson](https://www.fantasypros.com/nhl/adp/victor-olofsson.php) | [Adam Larsson](https://www.fantasypros.com/nhl/adp/adam-larsson.php) | [Kaapo Kahkonen](https://www.fantasypros.com/nhl/adp/kaapo-kahkonen.php)
  | [Vincent Trocheck](https://www.fantasypros.com/nhl/adp/vincent-trocheck.php) | [Conor Garland](https://www.fantasypros.com/nhl/adp/conor-garland.php) | [Teuvo Teravainen](https://www.fantasypros.com/nhl/adp/teuvo-teravainen.php) | [K'Andre Miller](https://www.fantasypros.com/nhl/adp/kandre-miller.php) | [Joseph Woll](https://www.fantasypros.com/nhl/adp/joseph-woll.php)
  | [Dawson Mercer](https://www.fantasypros.com/nhl/adp/dawson-mercer.php) | - | [Jonathan Drouin](https://www.fantasypros.com/nhl/adp/jonathan-drouin.php) | [Bowen Byram](https://www.fantasypros.com/nhl/adp/bowen-byram.php) | [Antti Raanta](https://www.fantasypros.com/nhl/adp/antti-raanta.php)
- | [Tomas Hertl](https://www.fantasypros.com/nhl/adp/tomas-hertl.php) | - | [Tomas Tatar](https://www.fantasypros.com/nhl/adp/tomas-tatar.php) | [Sean Durzi](https://www.fantasypros.com/nhl/adp/sean-durzi.php) | [Pavel Francouz](https://www.fantasypros.com/nhl/adp/pavel-francouz.php)
+ | [Tomas Hertl](https://www.fantasypros.com/nhl/adp/tomas-hertl.php) | - | [Tomas Tatar](https://www.fantasypros.com/nhl/adp/tomas-tatar.php) | [Sean Durzi](https://www.fantasypros.com/nhl/adp/sean-durzi.php) | [Pavel](https://www.fantasypros.com/nhl/adp/pavel-francouz.php)
  | [Troy Terry](https://www.fantasypros.com/nhl/adp/troy-terry.php) | - | [Anders Lee](https://www.fantasypros.com/nhl/adp/anders-lee.php) | [MacKenzie Weegar](https://www.fantasypros.com/nhl/adp/mackenzie-weegar.php) | [Jake Allen](https://www.fantasypros.com/nhl/adp/jake-allen.php)
  | [Josh Norris](https://www.fantasypros.com/nhl/adp/josh-norris.php) | - | [Alexis Lafreniere](https://www.fantasypros.com/nhl/adp/alexis-lafreniere.php) | [Filip Hronek](https://www.fantasypros.com/nhl/adp/filip-hronek.php) | [Martin Jones](https://www.fantasypros.com/nhl/adp/martin-jones.php)
  | [Logan Cooley](https://www.fantasypros.com/nhl/adp/logan-cooley.php) | - | [Michael Bunting](https://www.fantasypros.com/nhl/adp/michael-bunting.php) | [John Klingberg](https://www.fantasypros.com/nhl/adp/john-klingberg.php) | -
